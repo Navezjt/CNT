@@ -1,9 +1,9 @@
 {
     // CHILE
-    '24-horas': {
-        'nombre': '24 horas',
-        'yt_id': 'UCTXNz3gjAypWp3EhlIATEJQ',
-        'pais': 'cl'
+    "24-horas": {
+        "nombre": "24 horas",
+        "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
+        "pais": "cl"
     },     
     '24-horas-2': {
         'nombre': '24 Horas 2',
