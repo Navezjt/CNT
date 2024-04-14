@@ -47,696 +47,693 @@ const listaCanalesViejo = {
         'pais': 'cl'
     }, */
 // CHILE
-    '24-horas': {
-        'nombre': '24 horas',
-        'yt_id': 'UCTXNz3gjAypWp3EhlIATEJQ',
-        'pais': 'cl'
-    },     
-    '24-horas-2': {
-        'nombre': '24 Horas 2',
-        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=false&player=585a9076c4b653ae71315e55&custom.ui=%2F317342475%2F24horas&custom.24h_demo=&custom.24h_tipo=EnVivo&custom.24h_seccion=senal-en-vivo&custom.24h_articulo=57d1a22064f5d85712b20dab&custom.24h_tags=',
-        'fuente': 'https://www.24horas.cl/envivo?service=mobile',
-        'pais': 'cl'
-    },
-    '24-horas-3': {
-        'nombre': '24 Horas 3',
-        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=false&player=585a9076c4b653ae71315e55&custom.ui=%2F317342475%2F24horas&custom.24h_demo=&custom.24h_tipo=EnVivo&custom.24h_seccion=senal-en-vivo&custom.24h_articulo=57d1a22064f5d85712b20dab&custom.24h_tags=',
-        'fuente': 'https://www.24horas.cl/envivo/',
-        'pais': 'cl'
-    },
-    '24-horas-4': {
-        'nombre': '24 horas 4',
-        'iframe_url': 'https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io',
-        'fuente': 'https://www.twitch.tv/24horas_tvn',
-        'pais': 'cl'
-    },
-    '24-horas-5': {
-        'nombre': '24 horas 5',
-        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0',
-        'fuente': 'https://www.24horas.cl/envivo/',
-        'pais': 'cl'
-    },
-    '24-horas-6': {
-        'nombre': '24 horas 6',
-        'iframe_url': 'https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=',
-        'fuente': 'https://www.24horas.cl/envivo/',
-        'pais': 'cl'
-    },
-    '24-horas-s2': {
-        'nombre': '24 Horas s2',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8',
-        'fuente': 'https://www.24horas.cl/envivo/',
-        'pais': 'cl'
-    },
-    '24-horas-s2-2': {
-        'nombre': '24 Horas s2 2',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8',
-        'fuente': 'https://www.24horas.cl/envivo/',
-        'pais': 'cl'
-    },
-    'tvn': {
-        'nombre': 'TVN',
-        'yt_id': 'UCaVaCaiG6qRzDiJDuEGKOhQ',
-        'pais': 'cl'
-    },
-    'tvn-2': {
-        'nombre': 'TVN 2',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8',
-        'fuente': 'https://www.24horas.cl/envivo/',
-        'pais': 'cl'
-    },
-    'meganoticias': {
-        'nombre': 'Meganoticias',
-        'yt_id': 'UCkccyEbqhhM3uKOI6Shm-4Q',
-        'pais': 'cl'
-    },
-    'meganoticias-2': {
-        'nombre': 'Meganoticias 2',
-        'iframe_url': 'https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io',
-        'fuente': 'https://www.twitch.tv/meganoticiascl',
-        'pais': 'cl'
-    },
-    'meganoticias-3': {
-        'nombre': 'Meganoticias 3',
-        'iframe_url': 'https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0',
-        'fuente': 'https://www.meganoticias.cl/senal-en-vivo/meganoticias/',
-        'pais': 'cl'
-    },
-    'mega': {
-        'nombre': 'Mega',
-        'm3u8_url': 'https://marine2.miplay.cl/mega/index.m3u8',
-        'fuente': 'https://www.mega.cl/',
-        'pais': 'cl'
-    },
-    'mega-2': {
-        'nombre': 'Mega 2',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8',
-        'fuente': 'https://www.mega.cl/',
-        'pais': 'cl'
-    },
-    't13-N': {
-        'nombre': 'T13-N',
-        'yt_embed': 'gtknytOiY34',
-        'pais': 'cl'
-    },
-    't13': {
-        'nombre': 'T13',
-        'yt_id': 'UCsRnhjcUCR78Q3Ud6OXCTNg',
-        'pais': 'cl'
-    },
-    't13-2': {
-        'nombre': 'T13 2',
-        'iframe_url': 'https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io',
-        'fuente': 'https://www.twitch.tv/t13envivo',
-        'pais': 'cl'
-    },
-    't13-3': {
-        'nombre': 'T13 3',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8',
-        'fuente': 'https://www.t13.cl/',
-        'pais': 'cl'
-    },
-    't13-4': {
-        'nombre': 'T13 4',
-        'm3u8_url': 'https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8',
-        'fuente': 'https://www.t13.cl/',
-        'pais': 'cl'
-    },
-    't13-5': {
-        'nombre': 'T13 5',
-        'iframe_url': 'https://rudo.video/live/t13',
-        'fuente': 'https://www.t13.cl/',
-        'pais': 'cl'
-    },
-    'canal-13-N': {
-        'nombre': 'Canal 13 N',
-        'yt_embed': 'Hv5JNFsfUdI',
-        'pais': 'cl'
-    },
-    'canal-13': {
-        'nombre': 'Canal 13',
-        'yt_id': 'UCd4D3LfXC_9MY2zSv_3gMgw',
-        'pais': 'cl'
-    },
-    'canal-13-2': {
-        'nombre': 'Canal 13 2',
-        'iframe_url': 'https://13313131.tnvas.repl.co/',
-        'fuente': 'https://www.13.cl/en-vivo',
-        'pais': 'cl'
-    },
-    'canal-13-3': {
-        'nombre': 'Canal 13 3',
-        'iframe_url': 'https://ainmcl.github.io/MonitorTV/Monitores/Senal/WEB/Se%C3%B1alCANAL13_IFRAME.html',
-        'fuente': 'https://www.13.cl/en-vivo',
-        'pais': 'cl'
-    },
-    'cnn-cl': {
-        'nombre': 'CNN Chile',
-        'iframe_url': 'http://209.91.213.10:8088/play/a014',
-        'fuente': 'https://www.cnnchile.com/',
-        'pais': 'cl'
-    },
-    'cnn-cl': {
-        'nombre': 'CNN Chile',
-        'yt_id': 'UCpOAcjJNAp0Y0fhznRrXIJQ',
-        'fuente': 'https://www.youtube.com/@cnnchile/streams',
-        'pais': 'cl'
-    },
-    'chv-noticias': {
-        'nombre': 'CHV Noticias',
-        'yt_id': 'UCRsUoZYC1ULUspipMRnMhwg',
-        'pais': 'cl'
-    },
-    'chv-noticias-2': {
-        'nombre': 'CHV Noticias 2',
-        'm3u8_url': 'https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8',
-        'fuente': 'https://pluto.tv/es/live-tv/chilevision-noticias',
-        'pais': 'cl'
-    },
-    'chv-noticias-3': {
-        'nombre': 'CHV Noticias 3',
-        'm3u8_url': 'https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR',
-        'fuente': 'https://www.chvnoticias.cl/senal-online/',
-        'pais': 'cl'
-    },
-    'chv-noticias-4': {
-        'nombre': 'CHV Noticias 4',
-        'iframe_url': 'https://rudo.video/live/chvn',
-        'fuente': 'https://www.chvnoticias.cl/senal-online/',
-        'pais': 'cl'
-    },
-    'chv': {
-        'nombre': 'CHV',
-        'yt_id': 'UC8EdTmyUaFIfZvVttJ9lgIA',
-        'pais': 'cl'
-    },
-    'chv-2': {
-        'nombre': 'CHV 2',
-        'iframe_url': 'https://chvv--hofece7009.repl.co/',    /* RIP https://chvvvvvvvv.temporalservel.repl.co/ */
-        'fuente': 'https://www.chilevision.cl/senal-online',
-        'pais': 'cl'
-    },
-    'chv-4': {
-        'nombre': 'CHV 4',
-        'iframe_url': 'https://www.viendotele.cl/assets-tele/chv.html',
-        'fuente': 'https://www.chilevision.cl/senal-online',
-        'pais': 'cl'
-    },
-    'la-red': {
-        'nombre': 'La Red',
-        'm3u8_url': 'https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8',
-        //https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
-        'fuente': 'https://www.lared.cl/senal-online',
-        'pais': 'cl'
-    },
-    'cooperativa': {
-        'nombre': '📻 Cooperativa',
-        'iframe_url': 'https://rudo.video/live/coopetv?volume=0&mute=1',
-        'fuente': 'http://programas.cooperativa.cl/showalairelibre/',
-        'pais': 'cl'
-    },
-    'bbtv': {
-        'nombre': '📻 Biobio TV',
-        'iframe_url': 'https://rudo.video/live/bbtv?volume=0&mute=1',
-        'fuente': 'https://www.biobiochile.cl/biobiotv/',
-        'pais': 'cl'
-    },
-    'bbtv-2': {
-        'nombre': '📻 Biobio TV 2',
-        'iframe_url': 'https://rudo.video/live/bbtv?autostart=1&volume=0&streamingLabel=home&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMDk4Mzg1L2Jpb2Jpb3R2L2FkX3ZpZGVvJnRmY2Q9MCZucGE9MCZzej02NDB4NDgwJmN1c3RfcGFyYW1zPXRpcG8lM0Rob21lLWJidHYlMjZjYXRlZ29yeS1wcmltYXJ5JTNEcG9ydGFkYS1iYnR2JmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnZwbXV0ZT0wJnZwYT1jbGljayZ2cG9zPXByZXJvbGwiLCJwb3N0IjowLCJtaWQiOnsidGFnIjowfSwib3ZlciI6eyJ0YWciOjB9fQ==',
-        'fuente': 'https://www.biobiochile.cl/biobiotv/',
-        'pais': 'cl'
-    },
-    'adn': {
-        'nombre': '📻 ADN',
-        'iframe_url': 'https://rudo.video/live/adntv?volume=0&mute=1',
-        'fuente': 'http://tv.adnradio.cl/',
-        'pais': 'cl'
-    },
-    'adn-2': {
-        'nombre': '📻 ADN 2',
-        'yt_id': 'UCczkrFICr0xEgDsk51zZojA',
-        'pais': 'cl'
-    },
-     'adn-3': {
-        'nombre': 'Radio ADN',
-        'iframe_url': 'https://rudo.video/live/adntv?volume=0&mute=1',
-        'fuente': 'http://tv.adnradio.cl/',
-        'pais': 'cl',
-        'alt_icon': '<i class="bi bi-boombox"></i>'
-    },
-    'adn-4': {
-        'nombre': 'Radio ADN 2',
-        'yt_id': 'UCczkrFICr0xEgDsk51zZojA',
-        'pais': 'cl',
-        'alt_icon': '<i class="bi bi-boombox"></i>'
-    },
-    'adn-5': {
-        'nombre': '📻 ADN 5',
-        'm3u8_url': 'https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8',
-        'fuente': 'http://tv.adnradio.cl/',
-        'pais': 'cl'
-    },
-    'duna': {
-        'nombre': '📻 Duna',
-        'iframe_url': 'https://rudo.video/live/dunatv?volume=0&mute=1',
-        'fuente': 'https://www.duna.cl/tv/',
-        'pais': 'cl'
-    },
-    'infinita': {
-        'nombre': '📻 Infinita',
-        'iframe_url': 'https://rudo.video/live/infinitatv?volume=0&mute=1',
-        'fuente': 'http://www.infinita.cl/home/',
-        'pais': 'cl'
-    },
-    'universo': {
-        'nombre': '📻 Universo',
-        'iframe_url': 'https://rudo.video/live/universotv?volume=0&mute=1',
-        'fuente': 'https://www.universo.cl/',
-        'pais': 'cl'
-    },
-    'radio-ae': {
-        'nombre': '📻 AE Radio DuocUC',
-        'iframe_url': 'https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2?sound=0',
-        'fuente': 'https://www.aeradio.cl/',
-        'pais': 'cl'
-    },
-    'carolina-tv': {
-        'nombre': '📻 Carolina TV',
-        'iframe_url': 'https://rudo.video/live/carolinatv?volume=0&mute=1',
-        'fuente': 'https://www.carolina.cl/tv/',
-        'pais': 'cl'
-    },
-    'carolina-tv-2': {
-        'nombre': '📻 Carolina TV 2',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8',
-        'fuente': 'https://www.carolina.cl/tv/',
-        'pais': 'cl'
-    },
-    'carolina-tv-3': {
-        'nombre': '📻 Carolina TV 3',
-        'm3u8_url': 'https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8',
-        'fuente': 'https://www.carolina.cl/tv/',
-        'pais': 'cl'
-    },
-    'fm-tiempo': {
-        'nombre': '📻 FM Tiempo',
-        'iframe_url': 'https://rudo.video/live/fmtiempotv?volume=0&mute=1',
-        'fuente': 'https://www.fmtiempo.cl/',
-        'pais': 'cl'
-    },
-    'fm-tiempo-2': {
-        'nombre': '📻 FM Tiempo 2',
-        'm3u8_url': 'https://unlimited10-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8',
-        'fuente': 'https://www.fmtiempo.cl/',
-        'pais': 'cl'
-    },
-    'alegria-tv': {
-        'nombre': '📻 Alegría TV',
-        'm3u8_url': 'https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8',
-        'fuente': 'https://www.alegriafm.cl/',
-        'pais': 'cl'
-    },
-    'alegria-tv-2': {
-        'nombre': '📻 Alegría TV 2',
-        'm3u8_url': 'https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8',
-        'fuente': 'https://www.alegriafm.cl/',
-        'pais': 'cl'
-    },
-    'romantica-tv': {
-        'nombre': '📻 Romántica TV',
-        'iframe_url': 'https://rudo.video/live/romanticatv?volume=0&mute=1',
-        'fuente': 'https://www.romantica.cl/romantica-tv/',
-        'pais': 'cl'
-    },
-    'romantica-tv-2': {
-        'nombre': '📻 Romántica TV 2',
-        'm3u8_url': 'https://unlimited2-cl-isp.dps.live/romanticatv/romanticatv.smil/playlist.m3u8',
-        'fuente': 'https://www.romantica.cl/romantica-tv/',
-        'pais': 'cl'
-    },
-    'radio-genial': {
-        'nombre': '📻 Radio Genial 100.5 FM',
-        'm3u8_url': 'https://v2.tustreaming.cl/genialtv/index.m3u8',
-        'fuente': 'https://radiogenial.cl/',
-        'pais': 'cl'
-    },
-    'mi-radio-es-mas': {
-        'nombre': '📻 Mi Radio es Más',
-        'yt_id': 'UCflUbt1g29kPG-H9SV5QIyw',
-        'pais': 'cl'
-    },
-    'radio-la-clave': {
-        'nombre': '📻 Radio La Clave',
-        'iframe_url': 'https://rudo.video/live/laclavetv?volume=0&mute=1',
-        'fuente': 'https://radiolaclave.cl/',
-        'pais': 'cl'
-    },
-    'radio-folclor-chile': {
-        'nombre': '📻 Radio Folclor de Chile',
-        'yt_id': 'UC0Hl8kJe8Xwv8g63Q4qefQg',
-        'pais': 'cl'
-    },
-    'radio-maria-chile': {
-        'nombre': '📻 Radio María Chile',
-        'yt_id': 'UClMwb2kCYemWyDIZ2dYttKA',
-        'pais': 'cl'
-    },
-    'sembrador': {
-        'nombre': '📻 El Sembrador',
-        'm3u8_url': 'https://5eff35271151c.streamlock.net:1936/8064/8064/playlist.m3u8',
-        'fuente': 'https://www.radioelsembrador.cl/tv/',
-        'pais': 'cl'
-    },
-    'radio-nuble': {
-        'nombre': '📻 Radio Ñuble',
-        'm3u8_url': 'https://live.tvcontrolcp.com:1936/Rnuble/Rnuble/playlist.m3u8',
-        'fuente': 'http://radionuble.cl/linea/',
-        'pais': 'cl'
-    },
-    'alternativa-fm': {
-        'nombre': '📻 Alternativa FM',
-        'm3u8_url': 'https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8',
-        'fuente': 'https://www.alternativafm.cl/p/alternativa-tv.html',
-        'pais': 'cl'
-    },
-    'prensa-presidencia': {
-        'nombre': 'Prensa Presidencia',
-        'iframe_url': 'https://mdstrm.com/live-stream/5dc17f8944795108a2a52a49?autoplay=true&volume=0',
-        'fuente': 'https://prensa.presidencia.cl/streaming.aspx',
-        'pais': 'cl'
-    },
-    'stgo-tv': {
-        'nombre': 'Stgo TV',
-        'iframe_url': 'https://stv.janus.cl/front/embed.html',
-        'fuente': 'https://www.santiagotelevision.cl/',
-        'pais': 'cl'
-    },
-    'tv-mas': {
-        'nombre': 'TV+',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8',
-        'fuente': 'https://www.tvmas.tv/',
-        'pais': 'cl'
-    },
-    'tv-mas-2': {
-        'nombre': 'TV+ 2',
-        'iframe_url': 'https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?autoplay=true&volume=0',
-        'fuente': 'https://www.tvmas.tv/',
-        'pais': 'cl'
-    },
-    'derechofacil-tw': {
-        'nombre': 'DerechoFacil',
-        'iframe_url': 'https://player.twitch.tv/?channel=derechofacil&parent=alplox.github.io',
-        'fuente': 'https://www.twitch.tv/derechofacil',
-        'pais': 'cl'
-    },
-    'voz-sobran': {
-        'nombre': 'La Voz De Los Que Sobran',
-        'yt_id': 'UCEnSee5vPeNAm2EFpb_UaRw',
-        'pais': 'cl'
-    },
-    'copano': {
-        'nombre': 'Nicolas Copano',
-        'yt_id': 'UCVTL17ftpqx3lQ_IaGUNgSg',
-        'pais': 'cl'
-    },
-    'copano-tw': {
-        'nombre': 'Nicolas Copano 2',
-        'iframe_url': 'https://player.twitch.tv/?channel=copano&parent=alplox.github.io',
-        'fuente': 'https://www.twitch.tv/copano',
-        'pais': 'cl'
-    },
-    'puranoticia': {
-        'nombre': 'Puranoticia TV',
-        'm3u8_url': 'https://pnt.janusmedia.tv/hls/pnt.m3u8',
-        'fuente': 'https://puranoticia.pnt.cl/',
-        'pais': 'cl'
-    },
-    'holvoet-tv': {
-        'nombre': 'Holvoet TV',
-        'iframe_url': 'https://rudo.video/live/holvoettv',
-        'fuente': 'https://holvoet.cl/en-vivo/',
-        'pais': 'cl'
-    },
-    'holvoet-tv-2': {
-        'nombre': 'Holvoet TV 2',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8',
-        'fuente': 'https://holvoet.cl/en-vivo/',
-        'pais': 'cl'
-    },
-    'antofagasta-tv': {
-        'nombre': 'Antofagasta TV',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8',
-        'fuente': 'https://www.antofagasta.tv/',
-        'pais': 'cl'
-    },
-    'antofagasta-tv-2': {
-        'nombre': 'Antofagasta TV 2',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8',
-        'fuente': 'https://www.antofagasta.tv/',
-        'pais': 'cl'
-    },
-    'antofagasta-tv-3': {
-        'nombre': 'Antofagasta TV 3',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8',
-        'fuente': 'https://www.antofagasta.tv/',
-        'pais': 'cl'
-    },
-    'arab-tv': {
-        'nombre': 'ARABTV',
-        'm3u8_url': 'https://livefocamundo.com:8081/arabtv/index.m3u8',
-        'fuente': 'https://www.arabtv.cl/',
-        'pais': 'cl'
-    },
-    'arab-tv-2': {
-        'nombre': 'ARABTV 2',
-        'm3u8_url': 'https://livefocamundo.com:8081/arabtv/playlist.m3u8',
-        'fuente': 'https://www.arabtv.cl/',
-        'pais': 'cl'
-    },
-    'arica-tv': {
-        'nombre': 'Arica TV',
-        'iframe_url': 'https://arica.tv/envivo/',
-        'fuente': 'https://arica.tv/envivo/',
-        'pais': 'cl'
-    },
-    'atacama-tv': {
-        'nombre': 'Atacama TV',
-        'm3u8_url': 'https://v2.tustreaming.cl/atacamatv/index.m3u8',
-        //https://v2.tustreaming.cl/atacamatv/embed.html?autoplay=true
-        'fuente': 'http://atacamatelevision.com/',
-        'pais': 'cl'
-    },
-    'atacama-tv-2': {
-        'nombre': 'Atacama TV 2',
-        'm3u8_url': 'https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8',
-        'fuente': 'http://atacamatelevision.com/',
-        'pais': 'cl'
-    },
-    'canal-9': {
-        'nombre': 'Canal 9',
-        'iframe_url': 'https://rudo.video/live/c9?volume=0&mute=1',
-        'fuente': 'https://www.canal9.cl/en-vivo/',
-        'pais': 'cl'
-    },
-    'canal-9-2': {
-        'nombre': 'Canal 9 2',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8',
-        'fuente': 'https://www.canal9.cl/en-vivo/',
-        'pais': 'cl'
-    },
-    'tvu': {
-        'nombre': 'TVU',
-        'iframe_url': 'https://rudo.video/live/tvu?volume=0&mute=1',
-        'fuente': 'https://www.tvu.cl/',
-        'pais': 'cl'
-    },
-    'tvu-2': {
-        'nombre': 'TVU 2',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8',
-        'fuente': 'https://www.tvu.cl/',
-        'pais': 'cl'
-    },
-    'canal-21': {
-        'nombre': 'Canal 21',
-        'iframe_url': 'https://live.grupoz.cl/8b383d0a9cef5560a1bfbbeaf6ad4a38?sound=0',
-        'fuente': 'https://www.canal21tv.cl/wp/en-vivo/',
-        'pais': 'cl'
-    },
-    'canal-21-2': {
-        'nombre': 'Canal 21 2',
-        'm3u8_url': 'https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8',
-        'fuente': 'https://www.canal21tv.cl/wp/en-vivo/',
-        'pais': 'cl'
-    },
-    'nublevision': {
-        'nombre': 'Ñublevision',
-        'm3u8_url': 'https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8',
-        'fuente': 'https://nublevision.cl/',
-        'pais': 'cl'
-    },
-    'nuble-RTV': {
-        'nombre': 'Ñuble RVT',
-        'm3u8_url': 'https://live.tvcontrolcp.com:1936/guzman/guzman/playlist.m3u8',
-        'fuente': 'https://canalrtv.cl/',
-        'pais': 'cl'
-    },
-    'estaciontv': {
-        'nombre': 'Estacióntv',
-        'm3u8_url': 'https://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8',
-        'fuente': 'https://www.estaciontv.cl/site/',
-        'pais': 'cl'
-    },
-    'estaciontv-2': {
-        'nombre': 'Estacióntv 2',
-        'm3u8_url': 'https://pantera1-100gb-cl-movistar.dps.live/estaciontv/estaciontv.smil/playlist.m3u8',
-        'fuente': 'https://www.estaciontv.cl/site/',
-        'pais': 'cl'
-    },
-    'pinguino-tv': {
-        'nombre': 'Pingüino TV',
-        'iframe_url': 'https://elpinguino.com/reproductor/',
-        'fuente': 'https://elpinguino.com/reproductor/',
-        'pais': 'cl'
-    },
-    'pinguino-tv-2': {
-        'nombre': 'Pingüino TV 2',
-        'm3u8_url': 'https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8',
-        'fuente': 'https://elpinguino.com/reproductor/',
-        'pais': 'cl'
-    },
-    'itv-patagonia': {
-        'nombre': 'ITV Patagonia',
-        'iframe_url': 'https://rudo.video/live/itv?volume=0&mute=1',
-        'fuente': 'https://www.itvpatagonia.com/',
-        'pais': 'cl'
-    },
-    'itv-patagonia-2': {
-        'nombre': 'ITV Patagonia 2',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8',
-        'fuente': 'https://www.itvpatagonia.com/',
-        'pais': 'cl'
-    },
-    'ucv': {
-        'nombre': 'UCV TV',
-        'iframe_url': 'https://rudo.video/live/ucvtv2?volume=0&mute=1',
-        'fuente': 'https://pucvmultimedios.cl/senal-online-tv.php',
-        'pais': 'cl'
-    },
-    'ucv-2': {
-        'nombre': 'UCV TV 2',
-        'm3u8_url': 'https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8',
-        'fuente': 'https://pucvmultimedios.cl/senal-online-tv.php',
-        'pais': 'cl'
-    },
-    'uatv': {
-        'nombre': 'UATV',
-        'iframe_url': 'https://rudo.video/live/uatv?volume=0&mute=1',
-        'fuente': 'https://uatv.cl/uatv-en-vivo/',
-        'pais': 'cl'
-    },
-    'vtv': {
-        'nombre': 'VTV',
-        'iframe_url': 'https://rudo.video/live/vtv?volume=0&mute=1',
-        'fuente': 'http://canalvtv.cl/vtv/',
-        'pais': 'cl'
-    },
-    'canal-33': {
-        'nombre': 'Canal 33',
-        'iframe_url': 'https://streaminghd.cl/player.video/index.php?s=eduardo555/eduardo555',
-        'fuente': 'http://www.canal33.cl/online.php',
-        'pais': 'cl'
-    },
-    'contivision': {
-        'nombre': 'Contivision',
-        'iframe_url': 'https://rudo.video/live/contivision?volume=0&mute=1',
-        'fuente': 'http://w.contivision.cl/cvn/envivo.php',
-        'pais': 'cl'
-    },
-    'contivision-2': {
-        'nombre': 'Contivision 2',
-        'm3u8_url': 'https://unlimited1-cl-isp.dps.live/contivision/contivision.smil/playlist.m3u8',
-        'fuente': 'http://w.contivision.cl/cvn/envivo.php',
-        'pais': 'cl'
-    },
-    'osorno-tv': {
-        'nombre': 'Osorno TV',
-        'm3u8_url': 'https://hd.chileservidores.cl:1936/osorno2/live/playlist.m3u8',
-        'fuente': 'https://www.osornotv.cl/envivo.html',
-        'pais': 'cl'
-    },
-    'teleton-tv': {
-        'nombre': 'Teletón TV',
-        'iframe_url': 'https://mdstrm.com/live-stream/5d6d5f05a2f6f407b0147965?autoplay=true&volume=0',
-        'fuente': 'https://teletontv.cl/',
-        'pais': 'cl'
-    },
-    'teleton-tv-2': {
-        'nombre': 'Teletón TV 2',
-        'm3u8_url': 'https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8',
-        'fuente': 'https://teletontv.cl/',
-        'pais': 'cl'
-    },
-    'tv-salud': {
-        'nombre': 'TV Salud',
-        'm3u8_url': 'https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8',
-        'fuente': 'https://tvsalud.cl/',
-        'pais': 'cl'
-    },
-    'tv-telenorte': {
-        'nombre': 'TV Telenorte',
-        'm3u8_url': 'https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8',
-        'fuente': 'https://www.telenorte.cl/',
-        'pais': 'cl'
-    },
-    'tv-rtctelevision': {
-        'nombre': 'TV Rtctelevision',
-        'iframe_url': 'https://stream.skarnetchile.com/live-stream-video-widget/rtciquique',
-        'fuente': 'https://www.rtctelevision.cl/',
-        'pais': 'cl'
-    },
-    'tv-canaltv8': {
-        'nombre': 'TV canaltv8',
-        'm3u8_url': 'https://panel.tvstream.cl:1936/8032/8032/playlist.m3u8',
-        'fuente': 'https://www.canaltv8.cl/',
-        'pais': 'cl'
-    },
-    'tv-temuco': {
-        'nombre': 'TV Temuco',
-        'm3u8_url': 'https://vdo.streaming-chile.com/p/3994/live/temucotelevisionlive.m3u8',
-        'fuente': 'https://temucotelevision.cl/web/',
-        'pais': 'cl'
-    },
-    'tv-canal5': {
-        'nombre': 'TV canal5',
-        'm3u8_url': 'https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8',
-        'fuente': 'https://canal5.cl/wp/',
-        'pais': 'cl'
-    },
-    'tv-vision': {
-        'nombre': 'TV vision',
-        'm3u8_url': 'https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8',
-        'fuente': 'https://visiontv.cl/',
-        'pais': 'cl'
-    },
-    'tv-canal11aysen': {
-        'nombre': 'TV canal11aysen',
-        'iframe_url': 'https://cdn.jwplayer.com/players/2R4TGXTm-InE6g9DY.html',
-        'fuente': 'https://canal11aysen.cl/',
-        'pais': 'cl'
-    },
-    'tv-sur': {
-        'nombre': 'TV SUR',
-        'iframe_url': 'https://rudo.video/live/surtv',
-        'fuente': 'https://www.surtv.cl/',
-        'pais': 'cl'
-    },
-    'tv-canalsurpatagonia': {
-        'nombre': 'TV canalsurpatagonia',
-        'iframe_url': 'https://cdn.jwplayer.com/players/CvGZdlJl-InE6g9DY.html',
-        'fuente': 'https://www.canalsurpatagonia.cl/',
-        'pais': 'cl'
-    },
+    "24-horas": {
+        "nombre": "24 horas",
+        "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
+        "pais": "cl"
+    },
+    "24-horas-2": {
+        "nombre": "24 horas 2",
+        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "24-horas-3": {
+        "nombre": "24 horas 3",
+        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "24-horas-4": {
+        "nombre": "24 horas 4",
+        "iframe_url": "https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/24horas_tvn",
+        "pais": "cl"
+    },
+    "24-horas-5": {
+        "nombre": "24 horas 5",
+        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "24-horas-6": {
+        "nombre": "24 horas 6",
+        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "24-horas-s2": {
+        "nombre": "24 horas s2",
+        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "tvn": {
+        "nombre": "TVN",
+        "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
+        "pais": "cl"
+    },
+    "tvn-2": {
+        "nombre": "TVN 2",
+        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+        "fuente": "https://www.24horas.cl/envivo/",
+        "pais": "cl"
+    },
+    "meganoticias": {
+        "nombre": "Meganoticias",
+        "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
+        "pais": "cl"
+    },
+    "meganoticias-2": {
+        "nombre": "Meganoticias 2",
+        "iframe_url": "https://player.twitch.tv/?channel=meganoticiascl&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/meganoticiascl",
+        "pais": "cl"
+    },
+    "meganoticias-3": {
+        "nombre": "Meganoticias 3",
+        "iframe_url": "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
+        "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+        "pais": "cl"
+    },
+    "meganoticias-4": {
+        "nombre": "Meganoticias 4",
+        "iframe_url": "https://rudo.video/live/mega",
+        "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+        "pais": "cl"
+    },
+    "mega": {
+        "nombre": "Mega",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+        "fuente": "https://www.mega.cl/",
+        "pais": "cl"
+    },
+    "mega-2": {
+        "nombre": "Mega 2",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
+        "fuente": "https://www.mega.cl/",
+        "pais": "cl"
+    },
+    "t13": {
+        "nombre": "T13",
+        "yt_id": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+        "pais": "cl"
+    },
+    "t13-2": {
+        "nombre": "T13 2",
+        "iframe_url": "https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/t13envivo",
+        "pais": "cl"
+    },
+    "t13-3": {
+        "nombre": "T13 3",
+        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+        "fuente": "https://www.t13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "t13-4": {
+        "nombre": "T13 4",
+        "iframe_url": "https://rudo.video/live/t13",
+        "fuente": "https://www.t13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "canal-13": {
+        "nombre": "Canal 13",
+        "iframe_url": "https://rudo.video/live/c13",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "canal-13-2": {
+        "nombre": "Canal 13 2",
+        "m3u8_url": "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "canal-13-3": {
+        "nombre": "Canal 13 3",
+        "m3u8_url": "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/529d29eb-8117-44d3-9e21-cdfd68c3c097:MRN2/master.m3u8",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "canal-13-N": {
+        "nombre": "canal 13 N",
+        "yt_id": "UCd4D3LfXC_9MY2zSv_3gMgw",
+        "fuente": "https://www.13.cl/en-vivo",
+        "pais": "cl"
+    },
+    "cnn-cl": {
+        "nombre": "CNN Chile",
+        "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+        "pais": "cl"
+    },
+    "chv-noticias": {
+        "nombre": "CHV Noticias",
+        "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
+        "pais": "cl"
+    },
+    "chv-noticias-2": {
+        "nombre": "CHV Noticias 2",
+        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+    },
+    "chv-noticias-3": {
+        "nombre": "CHV Noticias 3",
+        "iframe_url": "https://rudo.video/live/chvn",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+    },
+    "chv": {
+        "nombre": "CHV",
+        "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
+        "pais": "cl"
+    },
+    "chv-noticias-4": {
+        "nombre": "CHV Noticias 4",
+        "iframe_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+    },
+    "chv-noticias-5": {
+        "nombre": "CHV Noticias 5",
+        "iframe_url": "https://rudo.video/live/chvn",
+        "fuente": "https://www.chvnoticias.cl/senal-online/",
+        "pais": "cl"
+    },
+    "la-red": {
+        "nombre": "La Red",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8",
+        "fuente": "https://www.lared.cl/senal-online",
+        "pais": "cl"
+    },
+    "la-red-2": {
+        "nombre": "La Red 2",
+        "iframe_url": "https://rudo.video/live/lared",
+        "fuente": "https://www.lared.cl/senal-online",
+        "pais": "cl"
+    },
+    "la-red-3": {
+        "nombre": "La Red 3",
+        "iframe_url": "https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.lared.cl/senal-online",
+        "pais": "cl"
+    },
+    "cooperativa": {
+        "nombre": "Radio Cooperativa",
+        "iframe_url": "https://rudo.video/live/coopetv?volume=0&mute=1",
+        "fuente": "http://programas.cooperativa.cl/showalairelibre/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "bbtv": {
+        "nombre": "Radio Biobio TV",
+        "iframe_url": "https://rudo.video/live/bbtv?volume=0&mute=1",
+        "fuente": "https://www.biobiochile.cl/biobiotv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "bbtv2": {
+        "nombre": "Radio Biobio TV 2",
+        "iframe_url": "https://rudo.video/live/bbtv?autostart=1&volume=0&streamingLabel=home&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMDk4Mzg1L2Jpb2Jpb3R2L2FkX3ZpZGVvJnRmY2Q9MCZucGE9MCZzej02NDB4NDgwJmN1c3RfcGFyYW1zPXRpcG8lM0Rob21lLWJidHYlMjZjYXRlZ29yeS1wcmltYXJ5JTNEcG9ydGFkYS1iYnR2JmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnZwbXV0ZT0wJnZwYT1jbGljayZ2cG9zPXByZXJvbGwiLCJwb3N0IjowLCJtaWQiOnsidGFnIjowfSwib3ZlciI6eyJ0YWciOjB9fQ==",
+        "fuente": "https://www.biobiochile.cl/biobiotv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "adn": {
+        "nombre": "Radio ADN",
+        "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
+        "fuente": "http://tv.adnradio.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "adn-2": {
+        "nombre": "Radio ADN 2",
+        "yt_id": "UCczkrFICr0xEgDsk51zZojA",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "adn-3": {
+        "nombre": "Radio ADN 3",
+        "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
+        "fuente": "http://tv.adnradio.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "duna": {
+        "nombre": "Radio Duna",
+        "iframe_url": "https://rudo.video/live/dunatv?volume=0&mute=1",
+        "fuente": "https://www.duna.cl/tv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "infinita": {
+        "nombre": "Radio Infinita",
+        "iframe_url": "https://mdstrm.com/live-stream/63a066e54ed536087960b550?autoplay=true&player=63af7b6cc5048f0846557764",
+        "fuente": "http://www.infinita.cl/home/",
+        "pais": "cl"
+    },
+    "infinita-2": {
+        "nombre": "Radio Infinita-2",
+        "iframe_url": "https://rudo.video/live/infinitatv?volume=0&mute=1",
+        "fuente": "http://www.infinita.cl/home/",
+        "pais": "cl"
+    },
+    "universo": {
+        "nombre": "Radio Universo",
+        "iframe_url": "https://redirector.dps.live/universo/aac/icecast.audio",
+        "fuente": "https://www.universo.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-ae": {
+        "nombre": "Radio AE Radio DuocUC",
+        "iframe_url": "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2?sound=0",
+        "fuente": "https://www.aeradio.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "carolina-tv": {
+        "nombre": "Radio Carolina TV",
+        "iframe_url": "https://mdstrm.com/live-stream/63a06468117f42713374addd?autoplay=true&player=63af7b6cc5048f0846557764",
+        "fuente": "https://www.carolina.cl/tv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "carolina-tv2": {
+        "nombre": "Radio Carolina TV2",
+        "iframe_url": "https://rudo.video/live/carolinatv?volume=0&mute=1",
+        "fuente": "https://www.carolina.cl/tv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "romantica-tv": {
+        "nombre": "Radio Romántica TV",
+        "iframe_url": "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821?autoplay=true&player=63af7b6cc5048f0846557764",
+        "fuente": "https://www.romantica.cl/romantica-tv/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-genial": {
+        "nombre": "Radio Genial 100.5 FM",
+        "m3u8_url": "https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8",
+        "fuente": "https://radiogenial.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-la-clave": {
+        "nombre": "Radio La Clave",
+        "iframe_url": "https://rudo.video/live/laclavetv?volume=0&mute=1",
+        "fuente": "https://radiolaclave.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-el-conquistador": {
+        "nombre": "Radio El Conquistador FM",
+        "m3u8_url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8",
+        "fuente": "https://www.elconquistadorfm.net/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-el-conquistador-2": {
+        "nombre": "Radio El Conquistador FM 2",
+        "iframe_url": "https://rudo.video/live/elconquistadortv",
+        "fuente": "https://www.elconquistadorfm.net/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-el-conquistador-3": {
+        "nombre": "Radio El Conquistador FM 3",
+        "iframe_url": "https://player.twitch.tv/?channel=elconquistadortv&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/elconquistadortv",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-folclor-chile": {
+        "nombre": "Radio Folclor de Chile",
+        "yt_id": "UC0Hl8kJe8Xwv8g63Q4qefQg",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "sembrador": {
+        "nombre": "Radio El Sembrador",
+        "m3u8_url": "https://tv.streaming-chile.com:1936/elsembrador/elsembrador/playlist.m3u8",
+        "fuente": "https://tv.radioelsembrador.cl/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-nuble": {
+        "nombre": "Radio Ñuble",
+        "m3u8_url": "https://live.tvcontrolcp.com:1936/rnuble/rnuble/playlist.m3u8",
+        "fuente": "https://radionuble.cl/v1/",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "alternativa-fm": {
+        "nombre": "Radio Alternativa FM",
+        "m3u8_url": "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8",
+        "fuente": "https://www.alternativafm.cl/p/alternativa-tv.html",
+        "pais": "cl",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "stgo-tv": {
+        "nombre": "Stgo TV",
+        "m3u8_url": "https://stv4.janus.cl/playlist/stream.m3u8",
+        "fuente": "https://www.santiagotelevision.cl/",
+        "pais": "cl"
+    },
+    "tv-mas": {
+        "nombre": "TV+",
+        "m3u8_url": "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8",
+        "fuente": "https://www.tvmas.tv/",
+        "pais": "cl"
+    },
+    "tv-mas-2": {
+        "nombre": "TV+ 2",
+        "iframe_url": "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?autoplay=true&volume=0",
+        "fuente": "https://www.tvmas.tv/",
+        "pais": "cl"
+    },
+    "voz-sobran": {
+        "nombre": "La Voz De Los Que Sobran",
+        "iframe_url": "https://rudo.video/live/lvdlqs",
+        "fuente": "https://lavozdelosquesobran.cl/",
+        "pais": "cl"
+    },
+    "puranoticia": {
+        "nombre": "Puranoticia TV",
+        "m3u8_url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
+        "fuente": "https://puranoticia.pnt.cl/",
+        "pais": "cl"
+    },
+    "holvoet-tv": {
+        "nombre": "Holvoet TV",
+        "iframe_url": "https://rudo.video/live/holvoettv",
+        "fuente": "https://holvoet.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "holvoet-tv-2": {
+        "nombre": "Holvoet TV 2",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
+        "fuente": "https://holvoet.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "antofagasta-tv": {
+        "nombre": "Antofagasta TV",
+        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8",
+        "fuente": "https://www.antofagasta.tv/",
+        "pais": "cl"
+    },
+    "antofagasta-tv-2": {
+        "nombre": "Antofagasta TV 2",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8",
+        "fuente": "https://www.antofagasta.tv/",
+        "pais": "cl"
+    },
+    "antofagasta-tv-3": {
+        "nombre": "Antofagasta TV 3",
+        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
+        "fuente": "https://www.antofagasta.tv/",
+        "pais": "cl"
+    },
+    "atacama-tv": {
+        "nombre": "Atacama TV",
+        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
+        "fuente": "http://atacamatelevision.com/",
+        "pais": "cl"
+    },
+    "atacama-tv-2": {
+        "nombre": "Atacama TV 2",
+        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8",
+        "fuente": "http://atacamatelevision.com/",
+        "pais": "cl"
+    },
+    "canal-9": {
+        "nombre": "Canal 9",
+        "iframe_url": "https://rudo.video/live/c9?volume=0&mute=1",
+        "fuente": "https://www.canal9.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "canal-9-2": {
+        "nombre": "Canal 9 2",
+        "m3u8_url": "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8",
+        "fuente": "https://www.canal9.cl/en-vivo/",
+        "pais": "cl"
+    },
+    "tvu": {
+        "nombre": "TVU",
+        "iframe_url": "https://rudo.video/live/tvu?volume=0&mute=1",
+        "fuente": "https://www.tvu.cl/",
+        "pais": "cl"
+    },
+    "tvu-2": {
+        "nombre": "TVU 2",
+        "m3u8_url": "https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8",
+        "fuente": "https://www.tvu.cl/",
+        "pais": "cl"
+    },
+    "canal-21": {
+        "nombre": "Canal 21",
+        "m3u8_url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+        "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
+        "pais": "cl"
+    },
+    "canal-21-2": {
+        "nombre": "Canal 21 2",
+        "m3u8_url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+        "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
+        "pais": "cl"
+    },
+    "nublevision": {
+        "nombre": "Ñublevision",
+        "m3u8_url": "https://v1.tustreaming.cl/nubletv/index.m3u8",
+        "fuente": "https://nublevision.cl/",
+        "pais": "cl"
+    },
+    "nuble-RTV": {
+        "nombre": "Ñuble RVT",
+        "m3u8_url": "https://paneltv.online:1936/8050/8050/playlist.m3u8",
+        "fuente": "https://canalrtv.cl/",
+        "pais": "cl"
+    },
+    "pinguino-tv": {
+        "nombre": "Pingüino TV",
+        "iframe_url": "https://elpinguino.com/reproductor/",
+        "fuente": "https://elpinguino.com/reproductor/",
+        "pais": "cl"
+    },
+    "pinguino-tv-2": {
+        "nombre": "Pingüino TV 2",
+        "m3u8_url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
+        "fuente": "https://elpinguino.com/reproductor/",
+        "pais": "cl"
+    },
+    "itv-patagonia": {
+        "nombre": "ITV Patagonia",
+        "iframe_url": "https://rudo.video/live/itv?volume=0&mute=1",
+        "fuente": "https://www.itvpatagonia.com/",
+        "pais": "cl"
+    },
+    "itv-patagonia-2": {
+        "nombre": "ITV Patagonia 2",
+        "m3u8_url": "https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8",
+        "fuente": "https://www.itvpatagonia.com/",
+        "pais": "cl"
+    },
+    "ucv": {
+        "nombre": "UCV TV",
+        "iframe_url": "https://rudo.video/live/ucvtv2?volume=0&mute=1",
+        "fuente": "https://pucvmultimedios.cl/senal-online-tv.php",
+        "pais": "cl"
+    },
+    "uatv": {
+        "nombre": "UATV",
+        "iframe_url": "https://rudo.video/live/uatv?volume=0&mute=1",
+        "fuente": "https://uatv.cl/uatv-en-vivo/",
+        "pais": "cl"
+    },
+    "vtv": {
+        "nombre": "VTV",
+        "iframe_url": "https://rudo.video/live/vtv?volume=0&mute=1",
+        "fuente": "http://canalvtv.cl/vtv/",
+        "pais": "cl"
+    },
+    "canal-33": {
+        "nombre": "Canal 33",
+        "m3u8_url": "https://oracle.streaminghd.cl/eduardo555/eduardo555/playlist.m3u8",
+        "fuente": "http://www.canal33.cl/online.php",
+        "pais": "cl"
+    },
+    "contivision": {
+        "nombre": "Contivision",
+        "iframe_url": "https://rudo.video/live/cm?volume=0&mute=1",
+        "fuente": "http://w.contivision.cl/cvn/envivo.php",
+        "pais": "cl"
+    },
+    "osorno-tv": {
+        "nombre": "Osorno TV",
+        "m3u8_url": "https://panel.tvstream.cl:1936/8036/8036/playlist.m3u8",
+        "fuente": "https://www.osornotv.cl/envivo.html",
+        "pais": "cl"
+    },
+    "tv-salud": {
+        "nombre": "TV Salud",
+        "iframe_url": "https://panel.miplay.cl:8081/tvsalud/embed.html",
+        "fuente": "https://tvsalud.cl/",
+        "pais": "cl"
+    },
+    "fm-tiempo": {
+        "nombre": "FM Tiempo",
+        "iframe_url": "https://rudo.video/live/fmtiempotv?volume=0&mute=1",
+        "fuente": "https://www.fmtiempo.cl/",
+        "pais": "cl"
+    },
+    "romantica-tv": {
+        "nombre": "Romántica TV",
+        "iframe_url": "https://rudo.video/live/romanticatv?volume=0&mute=1",
+        "fuente": "https://www.romantica.cl/romantica-tv/",
+        "pais": "cl"
+    },
+    "radio-genial": {
+        "nombre": "Radio Genial 100.5 FM",
+        "iframe_url": "https://v1.tustreaming.cl:2000/VideoPlayer/genialtv?autoplay=1",
+        "fuente": "https://radiogenial.cl/",
+        "pais": "cl"
+    },
+    "alegria-tv": {
+        "nombre": "alegria tv",
+        "iframe_url": "https://video.compuwebecuador.com/hybrid-stream-video-widget/radioalegriafm",
+        "fuente": "https://radioalegriafm.com/alegria-tv/",
+        "pais": "cl"
+    },
+    "mi-radio-es-mas": {
+        "nombre": "Mi Radio es Más",
+        "yt_id": "UCflUbt1g29kPG-H9SV5QIyw",
+        "fuente": "https://www.youtube.com/@MIRADIO_TV/streams",
+        "pais": "cl"
+    },
+    "mi-radio-es-mas2": {
+        "nombre": "Mi Radio es Más2",
+        "iframe_url": "https://live.grupoz.cl/7228e98d389d9d54ca6d5ab974f2ea15",
+        "fuente": "https://www.miradiols.cl/mi-radio-tv/",
+        "pais": "cl"
+    },
+    "radio-la-clave": {
+        "nombre": "Radio La Clave",
+        "iframe_url": "https://rudo.video/live/laclavetv?volume=0&mute=1",
+        "fuente": "https://radiolaclave.cl/",
+        "pais": "cl"
+    },
+    "radio-folclor-chile": {
+        "nombre": "Radio Folclor de Chile",
+        "yt_id": "UC0Hl8kJe8Xwv8g63Q4qefQg",
+        "fuente": "https://radiolaclave.cl/",
+        "pais": "cl"
+    },
+    "radio-maria-chile": {
+        "nombre": "Radio María Chile",
+        "yt_id": "UClMwb2kCYemWyDIZ2dYttKA",
+        "fuente": "https://radiolaclave.cl/",
+        "pais": "cl"
+    },
+    "prensa-presidencia": {
+        "nombre": "Prensa Presidencia",
+        "iframe_url": "https://mdstrm.com/live-stream/6239f6d008e7ac488826f237?autoplay=false",
+        "fuente": "https://prensa.presidencia.cl/streaming.aspx",
+        "pais": "cl"
+    },
+    "derechofacil-tw": {
+        "nombre": "DerechoFacil",
+        "iframe_url": "https://player.twitch.tv/?channel=derechofacil&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/derechofacil",
+        "pais": "cl"
+    },
+    "copano": {
+        "nombre": "Nicolas Copano",
+        "yt_id": "UCVTL17ftpqx3lQ_IaGUNgSg",
+        "fuente": "https://www.twitch.tv/copano",
+        "pais": "cl"
+    },
+    "copano": {
+        "nombre": "Nicolas Copano",
+        "iframe_url": "https://player.twitch.tv/?channel=copano&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/copano",
+        "pais": "cl"
+    },
+    "arab-tv": {
+        "nombre": "ARAB TV",
+        "m3u8_url": "https://livefocamundo.com:8081/arabtv/index.m3u8",
+        "fuente": "https://www.arabtv.cl/",
+        "pais": "cl"
+    },
+    "arica-tv": {
+        "nombre": "Arica TV",
+        "iframe_url": "https://arica.tv/envivo/",
+        "fuente": "https://arica.tv/envivo/",
+        "pais": "cl"
+    },
+    "estacion-tv": {
+        "nombre": "Estaciontv TV",
+        "iframe_url": "https://arica.tv/envivo/",
+        "fuente": "https://www.estaciontv.cl/site/",
+        "pais": "cl"
+    },
+    "tv-telenorte": {
+        "nombre": "TV Telenorte",
+        "m3u8_url": "https://stream.wifiexpert.cl/telenorte/canal-1/playlist.m3u8",
+        "fuente": "https://www.telenorte.cl/",
+        "pais": "cl"
+    },
+    "tv-rtctelevision": {
+        "nombre": "TV Rtctelevision",
+        "iframe_url": "https://stream.skarnetchile.com/live-stream-video-widget/rtciquique",
+        "fuente": "https://www.rtctelevision.cl/",
+        "pais": "cl"
+    },
+    "tv-canaltv8": {
+        "nombre": "TV canaltv8",
+        "m3u8_url": "https://panel.tvstream.cl:1936/8032/8032/playlist.m3u8",
+        "fuente": "https://www.canaltv8.cl/",
+        "pais": "cl"
+    },
+    "tv-temuco": {
+        "nombre": "TV Temuco",
+        "m3u8_url": "https://vdo.streaming-chile.com/p/3994/live/temucotelevisionlive.m3u8",
+        "fuente": "https://temucotelevision.cl/web/",
+        "pais": "cl"
+    },
+    "tv-canal5": {
+        "nombre": "TV canal5",
+        "m3u8_url": "https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8",
+        "fuente": "https://canal5.cl/wp/",
+        "pais": "cl"
+    },
+    "tv-vision": {
+        "nombre": "TV vision",
+        "m3u8_url": "https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8",
+        "fuente": "https://visiontv.cl/",
+        "pais": "cl"
+    },
+    "tv-canal11aysen": {
+        "nombre": "TV canal11aysen",
+        "iframe_url": "https://cdn.jwplayer.com/players/2R4TGXTm-InE6g9DY.html",
+        "fuente": "https://canal11aysen.cl/",
+        "pais": "cl"
+    },
+    "tv-sur": {
+        "nombre": "TV SUR",
+        "iframe_url": "https://rudo.video/live/surtv",
+        "fuente": "https://www.surtv.cl/",
+        "pais": "cl"
+    },
+    "tv-canalsurpatagonia": {
+        "nombre": "TV canalsurpatagonia",
+        "iframe_url": "https://cdn.jwplayer.com/players/CvGZdlJl-InE6g9DY.html",
+        "fuente": "https://www.canalsurpatagonia.cl/",
+        "pais": "cl"
+    },
+
+    
+ 
     'tv-sensacioncosta': {
         'nombre': 'TV canasensacioncosta',
         'iframe_url': 'https://tv.clientetvstudio.net/hybrid-stream-video-widget/tvcosta2',
