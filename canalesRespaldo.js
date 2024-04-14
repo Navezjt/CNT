@@ -731,104 +731,107 @@ const listaCanalesViejo = {
         "fuente": "https://www.canalsurpatagonia.cl/",
         "pais": "cl"
     },
-
-    
- 
-    'tv-sensacioncosta': {
-        'nombre': 'TV canasensacioncosta',
-        'iframe_url': 'https://tv.clientetvstudio.net/hybrid-stream-video-widget/tvcosta2',
-        'fuente': 'https://sensacioncosta.cl/',
-        'pais': 'cl'
+    "tv-sensacioncosta": {
+        "nombre": "TV canasensacioncosta",
+        "iframe_url": "https://tv.clientetvstudio.net/hybrid-stream-video-widget/tvcosta2",
+        "fuente": "https://sensacioncosta.cl/",
+        "pais": "cl"
     },
-    'tv-milodoncomunicaciones': {
-        'nombre': 'TV milodoncomunicaciones',
-        'iframe_url': 'https://videosenlared.fullstreaming.ar/live-stream-video-widget/ynhpdikj?autoplay=1',
-        'fuente': 'https://milodoncomunicaciones.com/',
-        'pais': 'cl'
+    "tv-milodoncomunicaciones": {
+        "nombre": "tv milodoncomunicaciones",
+        "iframe_url": "https://videosenlared.fullstreaming.ar/live-stream-video-widget/ynhpdikj?autoplay=1",
+        "fuente": "https://milodoncomunicaciones.com/",
+        "pais": "cl"
     },
-    'tv-tne': {
-        'nombre': 'TV tne',
-        'iframe_url': 'https://cdn.jwplayer.com/players/HBcpA9gx-xpHT0aWt.html',
-        'fuente': 'https://www.tnetv.cl/',
-        'pais': 'cl'
+    "tv-tne": {
+        "nombre": "TV tne",
+        "iframe_url": "https://cdn.jwplayer.com/players/HBcpA9gx-xpHT0aWt.html",
+        "fuente": "https://www.tnetv.cl/",
+        "pais": "cl"
     },
-    'tv-sabrosonafm': {
-        'nombre': 'TV sabrosonafm',
-        'iframe_url': 'https://samson.streamerr.co/VideoPlayer/sabrosonavideo?autoplay=1',
-        'fuente': 'https://sabrosonafm.cl/',
-        'pais': 'cl'
+    "tv-sabrosonafm": {
+        "nombre": "tv sabrosonafm",
+        "iframe_url": "https://samson.streamerr.co/VideoPlayer/sabrosonavideo?autoplay=1",
+        "fuente": "https://sabrosonafm.cl/",
+        "pais": "cl"
     },
-    'tv-tvn3': {
-        'nombre': 'TV tvn3',
-        'iframe_url': 'https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?jsapi=true&autoplay=false&player=57f40bb4dc5b9f3075c49cfe&custom.ui=%2F317342475%2Ftvn&custom.tvn_demo=&custom.tvn_tipo=EnVivo&custom.tvn_seccion=senal-en-vivo&custom.tvn_articulo=5653641561b4eba30a7e4929&custom.tvn_tags=',
-        'fuente': 'https://www.tvn.cl/tvn3',
-        'pais': 'cl'
+    "tv-tvn3": {
+        "nombre": "tv tvn3",
+        "iframe_url": "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?jsapi=true&autoplay=false&player=57f40bb4dc5b9f3075c49cfe&custom.ui=%2F317342475%2Ftvn&custom.tvn_demo=&custom.tvn_tipo=EnVivo&custom.tvn_seccion=senal-en-vivo&custom.tvn_articulo=5653641561b4eba30a7e4929&custom.tvn_tags=",
+        "fuente": "https://www.tvn.cl/tvn3",
+        "pais": "cl"
     },
-    'tv-calderavision': {
-        'nombre': 'TV calderavision',
-        'iframe_url': 'https://streaming10.zglobalhost.com:2020/VideoPlayer/frknrusdct?autoplay=1',
-        'fuente': 'https://calderavision.cl/',
-        'pais': 'cl'
+    "tv-calderavision": {
+        "nombre": "TV calderavision",
+        "iframe_url": "https://streaming10.zglobalhost.com:2020/VideoPlayer/frknrusdct?autoplay=1",
+        "fuente": "https://calderavision.cl/",
+        "pais": "cl"
     },
-    'tv-lachilena': {
-        'nombre': 'TV lachilena',
-        'iframe_url': 'https://vdochile.com/hybrid-stream-video-widget/jeubuffn',
-        'fuente': 'https://lachilena.tutv.cl/',
-        'pais': 'cl'
+    "tv-lachilena": {
+        "nombre": "TV lachilena",
+        "iframe_url": "https://vdochile.com/hybrid-stream-video-widget/jeubuffn",
+        "fuente": "https://lachilena.tutv.cl/",
+        "pais": "cl"
     },
-    'tv-terror': {
-        'nombre': 'TV terror',
-        'm3u8_url': 'https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8',
-        'fuente': 'https://latinartv.com/emisoras/terror-tv',
-        'pais': 'cl'
+    "tv-terror": {
+        "nombre": "tv terror",
+        "m3u8_url": "https://tv.streaming-chile.com:1936/8140/8140/playlist.m3u8",
+        "fuente": "https://latinartv.com/emisoras/terror-tv",
+        "pais": "cl"
     },
-    'tv-cine': {
-        'nombre': 'TV CINE+',
-        'm3u8_url': 'https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8',
-        'fuente': 'https://latinartv.com/emisoras/cine',
-        'pais': 'cl'
+    "tv-cine": {
+        "nombre": "tv cine",
+        "m3u8_url": "https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8",
+        "fuente": "https://latinartv.com/emisoras/cine",
+        "pais": "cl"
     },
-    'tv-moni': {
-        'nombre': 'TV moni',
-        'm3u8_url': 'https://stream.skarnetchile.com:3817/live/monitvlive.m3u8',
-        'fuente': 'https://monitv.net/',
-        'pais': 'cl'
+    "tv-moni": {
+        "nombre": "tv moni",
+        "m3u8_url": "https://stream.skarnetchile.com:3817/live/monitvlive.m3u8",
+        "fuente": "https://monitv.net/",
+        "pais": "cl"
     },
-    'tv-lachilena': {
-        'nombre': 'TV lachilena',
-        'iframe_url': 'https://vdochile.com/hybrid-stream-video-widget/jeubuffn',
-        'fuente': 'https://lachilena.tutv.cl/',
-        'pais': 'cl'
+    "tv-lachilena": {
+        "nombre": "tv lachilena",
+        "iframe_url": "https://vdochile.com/hybrid-stream-video-widget/jeubuffn",
+        "fuente": "https://lachilena.tutv.cl/",
+        "pais": "cl"
     },
-    'tv-portalfoxmix': {
-        'nombre': 'TV portalfoxmix',
-        'm3u8_url': 'https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8',
-        'fuente': 'https://www.portalfoxmix.cl/web/',
-        'pais': 'cl'
+    "tv-portalfoxmix": {
+        "nombre": "tv portalfoxmix",
+        "m3u8_url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+        "fuente": "https://www.portalfoxmix.cl/web/",
+        "pais": "cl"
     },
-    'tv-portalfoxmix': {
-        'nombre': 'TV portalfoxmix',
-        'iframe_url': 'https://playerv.logicahost.com.br/video/retroplustv/3/false/false/ZG1sa1pXOHdOaTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/',
-        'fuente': 'https://retroplustv.com/',
-        'pais': 'cl'
+    "tv-portalfoxmix": {
+        "nombre": "tv portalfoxmix",
+        "m3u8_url": "https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8",
+        "fuente": "https://www.portalfoxmix.cl/web/",
+        "pais": "cl"
     },
-    'tv-portalfoxmix': {
-        'nombre': 'TV portalfoxmix',
-        'iframe_url': 'https://playerv.logicahost.com.br/video/retroplussenal2/3/false/false/ZG1sa1pXOHdOaTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/',
-        'fuente': 'https://retroplustv.com/',
-        'pais': 'cl'
+     "tv-portalfoxmix": {
+        "nombre": "tv portalfoxmix",
+        "iframe_url": "https://playerv.logicahost.com.br/video/retroplustv/3/false/false/ZG1sa1pXOHdOaTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/",
+        "fuente": "https://www.portalfoxmix.cl/web/",
+        "pais": "cl"
     },
-    'tv-portalfoxmix': {
-        'nombre': 'TV portalfoxmix',
-        'iframe_url': 'https://playerv.logicahost.com.br/video/retroplussenal3/3/false/false/Wkcxc2ExcFhPSGRPYVRWellqSmtjRmt5Um05aU0wNHdURzFPZG1KVE5XbGpaejA5KzM=/16:9//nao/',
-        'fuente': 'https://retroplustv.com/',
-        'pais': 'cl'
+    "tv-portalfoxmix": {
+        "nombre": "tv portalfoxmix",
+        "iframe_url": "https://playerv.logicahost.com.br/video/retroplussenal2/3/false/false/ZG1sa1pXOHdOaTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/",
+        "fuente": "https://retroplustv.com/",
+        "pais": "cl"
     },
-    'tv-benfertv': {
-        'nombre': 'TV benfertv',
-        'iframe_url': 'https://playerv.voxtvhd.com.br/video/benfertv/3/true/true/VjFod1QxVXlVa2hWYmtaWVYwWmFjbGxzVW5KTlJuQkdZVWRHYVUxWVFrVlViR1IzWVZVeGNWRnFSbGhXZWxaTFZVWkZPVkJUYzNvPSta/16:9/nocover/nao',
-        'fuente': 'https://benfertv.cl/',
-        'pais': 'cl'
+    "tv-portalfoxmix": {
+        "nombre": "tv portalfoxmix",
+        "iframe_url": "https://playerv.logicahost.com.br/video/retroplussenal3/3/false/false/Wkcxc2ExcFhPSGRPYVRWellqSmtjRmt5Um05aU0wNHdURzFPZG1KVE5XbGpaejA5KzM=/16:9//nao/",
+        "fuente": "https://retroplustv.com/",
+        "pais": "cl"
+    },
+    "TV-benfertv": {
+        "nombre": "TV benfertv",
+        "iframe_url": "https://playerv.voxtvhd.com.br/video/benfertv/3/true/true/VjFod1QxVXlVa2hWYmtaWVYwWmFjbGxzVW5KTlJuQkdZVWRHYVUxWVFrVlViR1IzWVZVeGNWRnFSbGhXZWxaTFZVWkZPVkJUYzNvPSta/16:9/nocover/nao",
+        "fuente": "https://benfertv.cl//",
+        "pais": "cl"
     },
 // ARGENTINA
     'tn': {
