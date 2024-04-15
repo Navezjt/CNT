@@ -834,209 +834,317 @@ const listaCanalesViejo = {
         "pais": "cl"
     },
 // ARGENTINA
-    'tn': {
-        'nombre': 'Todonoticias',
-        'yt_id': 'UCj6PcyLvpnIRT_2W_mwa9Aw',
-        'pais': 'ar'
+    "tn": {
+        "nombre": "Todonoticias",
+        "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+        "pais": "ar"
     },
-    'c5n': {
-        'nombre': 'C5N',
-        'yt_id': 'UCFgk2Q2mVO1BklRQhSv6p0w',
-        'pais': 'ar'
+    "c5n": {
+        "nombre": "C5N",
+        "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
+        "pais": "ar"
     },
-    'america-tv': {
-        'nombre': 'América TV',
-        'yt_id': 'UC6NVDkuzY2exMOVFw4i9oHw',
-        'fuente': 'https://www.americatv.com.ar/vivo',
-        'pais': 'ar'
+    "net-tv": {
+        "nombre": "Net TV",
+        "iframe_url": "https://rudo.video/live/nettv?volume=0&mute=1",
+        "fuente": "https://www.canalnet.tv/page/senal-en-vivo",
+        "pais": "ar"
     },
-    'america-tv-1': {
-        'nombre': 'América TV 1',
-        'iframe_url': 'https://flow3.nebunexa.co/cvattgb.html?get=QW1lcmljYVRW&lang=1',
-        'fuente': 'https://television-libre.online/en-vivo/america-tv/',
-        'pais': 'ar'
+    "tv-publica-arg": {
+        "nombre": "Televisión Pública",
+        "yt_id": "UCs231K71Bnu5295_x0MB5Pg",
+        "pais": "ar"
     },
-    'net-tv': {
-        'nombre': 'Net TV',
-        'iframe_url': 'https://rudo.video/live/nettv?volume=0&mute=1',
-        'fuente': 'https://www.canalnet.tv/page/senal-en-vivo',
-        'pais': 'ar'
+    "cronica-tv": {
+        "nombre": "Crónica TV",
+        "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
+        "pais": "ar"
     },
-    'tv-publica-arg': {
-        'nombre': 'Televisión Pública',
-        'yt_id': 'UCs231K71Bnu5295_x0MB5Pg',
-        'fuente': 'https://www.tvpublica.com.ar/',
-        'pais': 'ar'
+    "la-nacion": {
+        "nombre": "LA NACION",
+        "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
+        "pais": "ar"
     },
-    'tv-publica-1': {
-        'nombre': 'Televisión Pública 1',
-        'm3u8_url': 'https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8',
-        'fuente': 'https://www.tvpublica.com.ar/',
-        'pais': 'ar'
+    "canal-26": {
+        "nombre": "Canal 26",
+        "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
+        "pais": "ar"
     },
-    'tv-publica-2': {
-        'nombre': 'Televisión Pública 2',
-        'iframe_url': 'https://television-libre.online/html/fl2/?get=Q2FuYWw3',
-        'fuente': 'https://television-libre.online/en-vivo/tv-publica/',
-        'pais': 'ar'
+    "america-tv": {
+        "nombre": "América TV",
+        "iframe_url": "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false",
+        "fuente": "https://www.americatv.com.ar/vivo",
+        "pais": "ar"
     },
-    'cronica-tv': {
-        'nombre': 'Crónica TV',
-        'yt_id': 'UCT7KFGv6s2a-rh2Jq8ZdM1g',
-        'pais': 'ar'
+    "america-tv": {
+        "nombre": "América TV",
+        "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
+        "fuente": "https://www.americatv.com.ar/vivo",
+        "pais": "ar"
     },
-    'el-siete-tv': {
-        'nombre': 'El Siete TV',
-        'yt_id': 'UC64ZNqX0FQHabP8iIkmnR3A',
-        'fuente': 'https://www.elsietetv.com.ar/',
-        'pais': 'ar'
+    "net-tv": {
+        "nombre": "Net TV",
+        "iframe_url": "https://rudo.video/live/nettv?volume=0&mute=1",
+        "fuente": "https://www.canalnet.tv/page/senal-en-vivo",
+        "pais": "ar"
     },
-    'el-siete-tv-1': {
-        'nombre': 'El Siete TV 1',
-        'iframe_url': 'https://www.youtube.com/embed/Vh8xmLBJtR8',
-        'fuente': 'https://vercanalesonline.com/en-vivo/el-siete-mendoza/',
-        'pais': 'ar'
+    "tv-publica-arg": {
+        "nombre": "Televisión Pública",
+        "yt_id": "UCs231K71Bnu5295_x0MB5Pg",
+        "fuente": "https://www.tvpublica.com.ar/",
+        "pais": "ar"
     },
-    'el-siete-tv-2': {
-        'nombre': 'El Siete TV 2',
-        'iframe_url': 'https://www.youtube.com/watch?v=Vh8xmLBJtR8',
-        'fuente': 'https://www.elsietetv.com.ar/',
-        'pais': 'ar'
+    "tv-publica-arg1": {
+        "nombre": "Televisión Pública1",
+        "m3u8_url": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8",
+        "fuente": "https://www.tvpublica.com.ar/",
+        "pais": "ar"
     },
-    'a24': {
-        'nombre': 'A24',
-        'yt_id': 'UCR9120YBAqMfntqgRTKmkjQ',
-        'fuente': 'https://www.a24.com/vivo',
-        'pais': 'ar'
+    "tv-publica-arg2": {
+        "nombre": "Televisión Pública2",
+        "iframe_url": "https://television-libre.online/html/fl2/?get=Q2FuYWw3",
+        "fuente": "https://television-libre.online/en-vivo/tv-publica/",
+        "pais": "ar"
     },
-    'a24-1': {
-        'nombre': 'a24 1',
-        'iframe_url': 'https://flow.fullbed.rest/cvatt.html?get=QW1lcmljYTI0',
-        'fuente': 'https://vercanalesonline.com/en-vivo/america24/',
-        'pais': 'ar'
+    "cronica-tv": {
+        "nombre": "Crónica TV",
+        "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
+        "fuente": "https://www.cronica.com.ar/cronica-en-vivo/",
+        "pais": "ar"
     },
-    'a24-2': {
-        'nombre': 'a24 2',
-        'iframe_url': 'https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false',
-        'fuente': 'https://www.a24.com/vivo',
-        'pais': 'ar'
+    "cronica-tv1": {
+        "nombre": "Crónica TV1",
+        "iframe_url": "https://vmf.edge-apps.net/embed/live.php?streamname=cronicatv_video1-100044&autoplay=true",
+        "fuente": "https://www.cronica.com.ar/cronica-en-vivo/",
+        "pais": "ar"
     },
-    'la-nacion': {
-        'nombre': 'LA NACION',
-        'yt_id': 'UCba3hpU7EFBSk817y9qZkiA',
-        'pais': 'ar'
+    "el-siete-tv": {
+        "nombre": "El Siete TV",
+        "iframe_url": "UC64ZNqX0FQHabP8iIkmnR3A",
+        "fuente": "https://www.elsietetv.com.ar/",
+        "pais": "ar"
     },
-    'ip-digital0': {
-        'nombre': 'Información Periodistica0',
-        'iframe_url': 'https://cdn.iframe.ly/api/iframe?amp=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlrIa3ImYrhU&key=284d6b492934666274563e3e1a67cadd',
-        'fuente': 'https://ip.digital/vivo',
-        'pais': 'ar'
+    "el-siete-tv1": {
+        "nombre": "El Siete TV1",
+        "iframe_url": "https://www.youtube.com/embed/Vh8xmLBJtR8?autoplay=1&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fwww.elsietetv.com.ar%2F&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fwww.elsietetv.com.ar&widgetid=1",
+        "fuente": "https://www.elsietetv.com.ar/",
+        "pais": "ar"
     },
-    'ip-digital': {
-        'nombre': 'Información Periodistica',
-        'iframe_url': 'https://player.twitch.tv/?channel=ip_noticias&parent=ipnoticias.ar',
-        'fuente': 'https://ip.digital/vivo',
-        'pais': 'ar'
+    "a24": {
+        "nombre": "A24",
+        "yt_id": "UCR9120YBAqMfntqgRTKmkjQ",
+        "fuente": "https://www.a24.com/vivo",
+        "pais": "ar"
     },
-    'ip-digital-2': {
-        'nombre': 'IP Noticias',
-        'yt_id': 'UC1bBjOZieJWHbsFA0LwjjJA',
-        'pais': 'ar'
+    "a24-1": {
+        "nombre": "A24 1",
+        "iframe_url": "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
+        "fuente": "https://www.a24.com/vivo",
+        "pais": "ar"
     },
-    'extra-tv': {
-        'nombre': 'EXTRA TV',
-        'yt_id': 'UCe22LRtJ6sAx3nn2b0SzuRQ',
-        'fuente': 'https://www.canalextra.com.ar/',
-        'pais': 'ar'
+    "la-nacion": {
+        "nombre": "La Nacion",
+        "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
+        "fuente": "https://www.lanacion.com.ar/",
+        "pais": "ar"
     },
-    'cn5-tv': {
-        'nombre': 'CN5 TV',
-        'yt_id': 'UCFgk2Q2mVO1BklRQhSv6p0w',
-        'fuente': 'https://www.c5n.com/',
-        'pais': 'ar'
+    "ip-digital0": {
+        "nombre": "Información Periodistica",
+        "iframe_url": "https://player.twitch.tv/?channel=ip_noticias&parent=ipnoticias.ar",
+        "fuente": "https://ip.digital/vivo",
+        "pais": "ar"
     },
-    'canal22-tv': {
-        'nombre': 'Canal22 TV',
-        'iframe_url': 'https://videocloud.instream.audio:2000/VideoPlayer/canal22?autoplay=1',
-        'fuente': 'https://www.canal22web.com/',
-        'pais': 'ar'
+    "ip-digita-l": {
+        "nombre": "Información Periodistica 1",
+        "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
+        "fuente": "https://ip.digital/vivo",
+        "pais": "ar"
     },
-    'elnueve-tv': {
-        'nombre': 'ElNueve TV',
-        'iframe_url': 'https://player.twitch.tv/js/embed/v1.js',
-        'fuente': 'https://www.canal22web.com/',
-        'pais': 'ar'
+     "extra-tv": {
+        "nombre": "EXTRA TV",
+        "yt_id": "UCe22LRtJ6sAx3nn2b0SzuRQ",
+        "fuente": "https://www.canalextra.com.ar/",
+        "pais": "ar"
     },
-    'Cadena3-tv': {
-        'nombre': 'Cadena3 TV',
-        'yt_id': 'UCNxohbqfDp8YxW_Mji2XMHA',
-        'fuente': 'https://www.cadena3.com/',
-        'pais': 'ar'
+    "cn5": {
+        "nombre": "CN5",
+        "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
+        "fuente": "https://www.c5n.com/",
+        "pais": "ar"
     },
-    'ElDestape-tv': {
-        'nombre': 'ElDestape TV',
-        'iframe_url': 'https://www.youtube.com/embed/3Kr2MivBrlk?autoplay=1&mute=1',
-        'fuente': 'https://www.eldestapeweb.com/',
-        'pais': 'ar'
+     "canal-22": {
+        "nombre": "cana l22",
+        "iframe_url": "https://videocloud.instream.audio:2000/VideoPlayer/canal22?autoplay=1",
+        "fuente": "https://www.canal22web.com/",
+        "pais": "ar"
     },
-    'Radiomitre-tv': {
-        'nombre': 'Radiomitre TV',
-        'yt_id': 'UCYvINPByAdCcpA0sWrF3I_w',
-        'fuente': 'https://www.youtube.com/@Radiomitre',
-        'pais': 'ar'
+    "el-9": {
+        "nombre": "EL 9",
+        "iframe_url": "https://player.twitch.tv/?channel=elnuevevivo&parent=www.elnueve.com.ar",
+        "fuente": "https://www.elnueve.com.ar/en-vivo",
+        "pais": "ar"
     },
-    'canal-26': {
-        'nombre': 'Canal 26',
-        'yt_id': 'UCrpMfcQNog595v5gAS-oUsQ',
-        'fuente': 'https://www.diario26.com/canal26_en_vivo',
-        'pais': 'ar'
+    "el-9-tv": {
+        "nombre": "EL 9 TV",
+        "iframe_url": "https://playerssl.cdnmedia.tv/embed/20ee166d",
+        "fuente": "https://el9nou.cat/el9tv/#google_vignette",
+        "pais": "ar"
+    },
+    "Cadena3-tv": {
+        "nombre": "Cadena3 TV",
+        "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
+        "fuente": "https://www.cadena3.com/",
+        "pais": "ar"
+    },
+    "El-Destape": {
+        "nombre": "El Destape",
+        "iframe_url": "https://www.youtube.com/embed/e94jKJSltu0?autoplay=1&mute=1",
+        "fuente": "https://www.eldestapeweb.com/",
+        "pais": "ar"
+    },
+    "Radiomitre-tv": {
+        "nombre": "Radiomitre Tv",
+        "iframe_url": "UCYvINPByAdCcpA0sWrF3I_w",
+        "fuente": "https://www.youtube.com/@Radiomitre",
+        "pais": "ar"
+    },
+    "canal-26": {
+        "nombre": "Canal 26",
+        "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
+        "fuente": "https://www.diario26.com/canal26_en_vivo",
+        "pais": "ar"
+    },
+    "canal26": {
+        "nombre": "Canal26",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UCrpMfcQNog595v5gAS-oUsQ&enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com",
+        "fuente": "https://www.diario26.com/canal26_en_vivo",
+        "pais": "ar"
     },
 // COLOMBIA
-    'el-tiempo': {
-        'nombre': 'EL TIEMPO',
-        'yt_id': 'UCe5-b0fCK3eQCpwS6MT0aNw',
-        'pais': 'co'
+     "el-tiempo": {
+        "nombre": "EL TIEMPO",
+        "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
+        "pais": "co"
     },
-    'noti-caracol': {
-        'nombre': 'Noticias Caracol',
-        'yt_id': 'UC2Xq2PK-got3Rtz9ZJ32hLQ',
-        'pais': 'co'
+    "noti-caracol": {
+        "nombre": "Noticias Caracol",
+        "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+        "fuente": "https://www.caracoltv.com/senal-vivo",
+        "pais": "co"
     },
-    'red-mas-noticias': {
-        'nombre': 'RED MÁS Noticias',
-        'yt_id': 'UCpcvsK0UAI3MIHsjjj3CgMg',
-        'pais': 'co'
+    "red-mas-noticias": {
+        "nombre": "RED MÁS Noticias",
+        "yt_id": "UCpcvsK0UAI3MIHsjjj3CgMg",
+        "fuente": "https://redmas.com.co/senal-en-vivo/",
+        "pais": "co"
     },
 // PERU
-    'tv-peru': {
-        'nombre': 'TVPerú Noticias',
-        'yt_id': 'UCkZCoc42IipR1ucqJmIehsA',
-        'pais': 'pe'
-    },  
     "tv-peru": {
-        "nombre": "TV Perú",
+        "nombre": "TVPerú Noticias",
+        "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
+        "pais": "pe"
+    },
+    "tv-peru-HD": {
+        "nombre": "Tv Perú HD",
         "iframe_url": "https://iblups.com/e_tvperuHD",
         "fuente": "https://www.tvperu.gob.pe/play",
         "pais": "pe"
     },
-    "tv-peru1": {
-        "nombre": "TVPerú 1",
+    "tv-peru-73": {
+        "nombre": "Tv Perú 73",
         "iframe_url": "https://iblups.com/e_tvperu73",
         "fuente": "https://ntvperu.pe/senal-en-vivo/",
         "pais": "pe"
     },
-    "tv-peru": {
-        "nombre": "TVPerú 2",
+    "tv-peru-72": {
+        "nombre": "Tv Perú 72",
         "iframe_url": "https://iblups.com/e_tvperu72",
         "fuente": "https://ntvperu.pe/senal-en-vivo/",
         "pais": "pe"
     },
-    'nacional-tv': {
-        'nombre': 'Nacional TV',
-        'm3u8_url': 'https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8',
-        'fuente': 'https://ntvperu.pe/senal-en-vivo/',
-        'pais': 'pe'
+    "panamericana-tv": {
+        "nombre": "Panamericana TV",
+        "iframe_url": "https://geo.dailymotion.com/player/x5poh.html?video=x774s7s&autoplay=true&volume=0",
+        "fuente": "https://panamericana.pe/tvenvivo",
+        "pais": "pe"
     },
+    "onda-digital-tv": {
+        "nombre": "Onda Digital TV",
+        "m3u8_url": "https://v4.tustreaming.cl:443/odtvgo/index.m3u8",
+        "fuente": "https://ondadigitaltv.com",
+        "pais": "pe"
+    },
+    "onda-digital-tv-2": {
+        "nombre": "Onda Digital TV 2",
+        "m3u8_url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
+        "fuente": "https://ondadigitaltv.com",
+        "pais": "pe"
+    },
+    "la-republica": {
+        "nombre": "La República",
+        "yt_id": "UC-B7Xv56uNRDkj0vC3QW8Cg",
+        "pais": "pe"
+    },
+    "willax": {
+        "nombre": "Willax",
+        "iframe_url": "https://geo.dailymotion.com/player/x5poh.html?video=x7x4dgx&autoplay=true&volume=0",
+        "fuente": "https://willax.tv/en-vivo/",
+        "pais": "pe"
+    },
+    "latina-noticias": {
+        "nombre": "Latina Noticias",
+        "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
+        "pais": "pe"
+    },
+    "ovacion-tv": {
+        "nombre": "Radio Ovación TV",
+        "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8",
+        "fuente": "https://ovacion.pe/radio",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "san-borja": {
+        "nombre": "Radio San Borja Tv",
+        "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
+        "fuente": "https://radiosanborjatv.com/",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-onda-digital": {
+        "nombre": "Radio Onda Digital",
+        "m3u8_url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
+        "fuente": "https://www.ondadigital.pe/",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-tropical": {
+        "nombre": "Radio Tropical",
+        "m3u8_url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+        "fuente": "https://radiotropical.pe/",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "radio-uno": {
+        "nombre": "Radio Uno",
+        "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "nacional-tv": {
+        "nombre": "Nacional Tv",
+        "iframe_url": "https://iblups.com/e_radionacional",
+        "fuente": "https://www.radionacional.gob.pe/alacarta",
+        "pais": "pe"
+        "alt_icon": "<i class='bi bi-boombox'></i>
+    },
+    "": {
+        "nombre": "",
+        "iframe_url": "",
+        "fuente": "",
+        "pais": "pe"
+        "alt_icon": "<i class='bi bi-boombox'></i>
+    },
+
     'BNBdigital-tv': {
         'nombre': 'BNB Digital TV',
         'm3u8_url': 'https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8',
