@@ -785,7 +785,6 @@
         "fuente": "https://benfertv.cl//",
         "pais": "cl"
     },
-// ARGENTINA
     "tn": {
         "nombre": "Todonoticias",
         "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
@@ -972,7 +971,6 @@
         "fuente": "https://www.diario26.com/canal26_en_vivo",
         "pais": "ar"
     },
-// COLOMBIA
      "el-tiempo": {
         "nombre": "EL TIEMPO",
         "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
@@ -990,7 +988,6 @@
         "fuente": "https://redmas.com.co/senal-en-vivo/",
         "pais": "co"
     },
-// PERU
     "tv-peru": {
         "nombre": "TVPerú Noticias",
         "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
@@ -1236,7 +1233,6 @@
         "fuente": "https://www.cnccajamarca.com/",
         "pais": "pe"
     },
-//VIETNAM
     "thtv": {
         "nombre": "THTV",
         "m3u8_url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
@@ -1423,7 +1419,6 @@
         "fuente": "http://xemtruyenhinh.xyz/kenh-kgtv-kiengiang-tv-truc-tuyen-dia-phuong.html",
         "pais": "vn"
     },
-// VENEZUELA
     "globovision": {
         "nombre": "Globovisión En Vivo",
         "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
@@ -1450,7 +1445,6 @@
         "pais": "ve"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },    
-// MEXICO
     "MILENIO": {
         "nombre": "MILENIO",
         "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
@@ -1564,7 +1558,6 @@
         "pais": "mx"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },        
-// GUATEMALA
     "canal3-guatemala": {
         "nombre": "Canal3 Guatemala",
         "iframe_url": "https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8?DVR",
@@ -1593,7 +1586,6 @@
         "pais": "gt"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },    
-// HONDURAS
     "HCH-En-Vivo": {
         "nombre": "HCH En Vivo",
         "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
@@ -1699,7 +1691,6 @@
         "pais": "hn"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },    
-// ECUADOR   
     "Ecuavisa": {
         "nombre": "Ecuavisa",
         "iframe_url": "https://rudo.video/live/ecuavisa",
@@ -1770,7 +1761,6 @@
         "pais": "ec"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },    
-// ITALIA
     "La7": {
         "nombre": "La7",
         "iframe_url": "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd",
@@ -1953,7 +1943,6 @@
         "pais": "it"
         "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
-// ESPAÑA
     "CNN-Español": {
         "nombre": "CNN Español",
         "iframe_url": "http://45.166.92.22:58001/play/a036/index.m3u8",
@@ -2024,7 +2013,6 @@
         "pais": "es"
         "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
-// BRASIL
     "CNN-Brasil": {
         "nombre": "CNN Brasil",
         "yt_id": "UCvdwhh_fDyWccR42-rReZLw",
@@ -2032,7 +2020,6 @@
         "pais": "br"
         "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
-// TAILANDIA
     "Workpointtv": {
         "nombre": "Workpointtv",
         "iframe_url": "https://geo.dailymotion.com/player/x8wpe.html?video=k28IxkHn9OkzvvqoVob",
@@ -2047,7 +2034,6 @@
         "pais": "th"
         "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
-// INDONESIA
     "ANTV": {
         "nombre": "ANTV",
         "iframe_url": "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false",
@@ -2223,7 +2209,6 @@
         "pais": "id"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-// MALAYSIA
     "Tv1": {
         "nombre": "Tv1",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/1",
@@ -2392,7 +2377,6 @@
         "pais": "my"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-// PHILIPPINES
     "Dzrh": {
         "nombre": "Dzrh",
         "iframe_url": "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3",
@@ -2421,7 +2405,6 @@
         "pais": "ph"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-// CANADÁ
     "Global-News": {
         "nombre": "Global News",
         "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
@@ -2429,18 +2412,12 @@
         "pais": "ca"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-// ESTADOS UNIDOS
     "ABC7": {
         "nombre": "ABC7",
         "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
         "fuente": "",
         "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
-    },
-    'abc7-swfl': {
-        'nombre': 'ABC7 SWFL',
-        'yt_id': 'UCq9e_hCv2jvgck8WowW1NXg',
-        'pais': 'us'
     },
     "ABC7-SWFL": {
         "nombre": "ABC7 SWFL",
@@ -2455,11 +2432,6 @@
         "fuente": "https://abcnews.go.com/Live",
         "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
-    },
-    'agenda-free-tv': {
-        'nombre': 'Agenda-Free TV',
-        'yt_id': 'UCshCsg1YVKli8yBai-wa78w',
-        'pais': 'us'
     },
     "Agenda-Free-TV": {
         "nombre": "Agenda-Free TV",
