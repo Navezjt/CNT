@@ -2454,83 +2454,48 @@ const listaCanalesViejo = {
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // PHILIPPINES
-    'dzrh': {
-        'nombre': 'Dzrh',
-        'iframe_url': 'https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3',
-        'fuente': 'https://www.dzrh.com.ph/',
-        'pais': 'ph'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
+    "Dzrh": {
+        "nombre": "Dzrh",
+        "iframe_url": "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3",
+        "fuente": "https://www.dzrh.com.ph/",
         "pais": "ph"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'ABS-CBNEntertainment': {
-        'nombre': 'ABS CBNEntertainment',
-        'iframe_url': 'https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV',
-        'fuente': 'https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment',
-        'pais': 'ph'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
+    "ABS-CBNEntertainment": {
+        "nombre": "ABS CBNEntertainment",
+        "iframe_url": "https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV",
+        "fuente": "https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment",
         "pais": "ph"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'Kapamilya': {
-        'nombre': 'Kapamilya',
-        'iframe_url': 'https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER',
-        'fuente': 'https://www.youtube.com/@abscbnentertainment',
-        'pais': 'ph'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
+    "Kapamilya": {
+        "nombre": "Kapamilya",
+        "iframe_url": "https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER",
+        "fuente": "https://www.youtube.com/@abscbnentertainment",
         "pais": "ph"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'untv': {
-        'nombre': 'Untv',
-        'iframe_url': 'https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO',
-        'fuente': 'https://www.youtube.com/@UNTVNewsandRescue',
-        'pais': 'ph'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
+    "Untv": {
+        "nombre": "Untv",
+        "iframe_url": "https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO",
+        "fuente": "https://www.youtube.com/@UNTVNewsandRescue",
         "pais": "ph"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // CANADÁ
-    'global-news': {
-        'nombre': 'Global News',
-        'm3u8_url': 'https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8',
-        'fuente': 'https://globalnews.ca/live/national/',
-        'pais': 'ca'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "Global-News": {
+        "nombre": "Global News",
+        "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "fuente": "https://globalnews.ca/live/national/",
+        "pais": "ca"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // ESTADOS UNIDOS
-    'abc7': {
-        'nombre': 'ABC7',
-        'yt_id': 'UCVxBA3Cbu3pm8w8gEIoMEog',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
+    "ABC7": {
+        "nombre": "ABC7",
+        "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
         "fuente": "",
-        "pais": "ph"
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
     'abc7-swfl': {
@@ -2538,24 +2503,18 @@ const listaCanalesViejo = {
         'yt_id': 'UCq9e_hCv2jvgck8WowW1NXg',
         'pais': 'us'
     },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
+    "ABC7-SWFL": {
+        "nombre": "ABC7 SWFL",
+        "yt_id": "UCq9e_hCv2jvgck8WowW1NXg",
         "fuente": "",
-        "pais": "ph"
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'abc-news': {
-        'nombre': 'ABC News',
-        'm3u8_url': 'https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8',
-        'fuente': 'https://abcnews.go.com/Live',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "ABC-News": {
+        "nombre": "ABC News",
+        "iframe_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+        "fuente": "https://abcnews.go.com/Live",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
     'agenda-free-tv': {
@@ -2563,234 +2522,201 @@ const listaCanalesViejo = {
         'yt_id': 'UCshCsg1YVKli8yBai-wa78w',
         'pais': 'us'
     },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
+    "Agenda-Free-TV": {
+        "nombre": "Agenda-Free TV",
+        "yt_id": "UCshCsg1YVKli8yBai-wa78w",
         "fuente": "",
-        "pais": "ph"
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'VOA': {
-        'nombre': 'VOA',
-        'm3u8_url': 'https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8',
-        'fuente': 'https://www.vozdeamerica.com/',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "VOA": {
+        "nombre": "VOA",
+        "m3u8_url": "https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8",
+        "fuente": "https://www.vozdeamerica.com/",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'Ariana-NEWS': {
-        'nombre': 'Ariana NEWS',
-        'm3u8_url': 'https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8',
-        'fuente': 'https://www.ariananews.af/livetv',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "Ariana-NEWS": {
+        "nombre": "Ariana-NEWS",
+        "m3u8_url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8",
+        "fuente": "https://www.ariananews.af/livetv",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'agenda-free-tv-tw': {
-        'nombre': 'Agenda-Free TV 2',
-        'iframe_url': 'https://player.twitch.tv/?channel=agendafreetv&parent=alplox.github.io',
-        'fuente': 'https://www.twitch.tv/agendafreetv',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "agenda-free-tv-tw": {
+        "nombre": "Agenda Free Tv Tw",
+        "iframe_url": "https://player.twitch.tv/?channel=agendafreetv&parent=alplox.github.io",
+        "fuente": "https://www.twitch.tv/agendafreetv",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'bloomberg-us': {
-        'nombre': 'Bloomberg US',
-        'm3u8_url': 'https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8',
-        'fuente': 'https://www.bloomberg.com/',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "Bloomberg-US": {
+        "nombre": "Bloomberg US",
+        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+        "fuente": "https://www.bloomberg.com/",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'bloomberg-europe': {
-        'nombre': 'Bloomberg Europe',
-        'm3u8_url': 'https://www.bloomberg.com/media-manifest/streams/eu.m3u8',
-        'fuente': 'https://www.bloomberg.com/europe',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "Bloomberg-Europe": {
+        "nombre": "Bloomberg Europe",
+        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
+        "fuente": "https://www.bloomberg.com/europe",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'bloomberg-quicktake': {
-        'nombre': 'Bloomberg QuickTake',
-        'm3u8_url': 'https://www.bloomberg.com/media-manifest/streams/qt.m3u8',
-        'fuente': 'https://www.bloomberg.com/',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "Bloomberg-QuickTake": {
+        "nombre": "Bloomberg QuickTake",
+        "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/qt.m3u8",
+        "fuente": "https://www.bloomberg.com/",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'cheddar': {
-        'nombre': 'Cheddar',
-        'm3u8_url': 'https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8',
-        'fuente': 'https://cheddar.com/live',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "Cheddar": {
+        "nombre": "Cheddar",
+        "m3u8_url": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8",
+        "fuente": "https://cheddar.com/live",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'cbsn': {
-        'nombre': 'CBSN',
-        'm3u8_url': 'https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8',
-        'fuente': 'https://www.cbsnews.com/live/',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "CBSN": {
+        "nombre": "CBSN",
+        "m3u8_url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8",
+        "fuente": "https://www.cbsnews.com/live/",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'cnn-us': {
-        'nombre': 'CNN US',
-        'm3u8_url': 'https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8',
-        'fuente': 'https://us.cnn.com',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "CNN-US": {
+        "nombre": "CNN US",
+        "iframe_url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
+        "fuente": "https://us.cnn.com",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'cnbc-eu': {
-        'nombre': 'CNBC EU',
-        'm3u8_url': 'https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8',
-        'fuente': 'https://www.cnbc.com/live-tv/',
-        'pais': 'us'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "ph"
+    "CNBC-EU": {
+        "nombre": "CNBC EU",
+        "iframe_url": "https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8",
+        "fuente": "https://www.cnbc.com/live-tv/",
+        "pais": "us"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'c-span-1': {
-        'nombre': 'C-SPAN 1',
-        'm3u8_url': 'https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8',
-        'fuente': 'https://www.c-span.org/networks/?channel=c-span',
-        'pais': 'us'
+    "C-SPAN-1": {
+        "nombre": "C-SPAN 1",
+        "m3u8_url": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8",
+        "fuente": "https://www.c-span.org/networks/?channel=c-span",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'c-span-2': {
-        'nombre': 'C-SPAN 2',
-        'm3u8_url': 'https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8',
-        'fuente': 'https://www.c-span.org/networks/?channel=c-span',
-        'pais': 'us'
+    "C-SPAN-2": {
+        "nombre": "C-SPAN 2",
+        "m3u8_url": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8",
+        "fuente": "https://www.c-span.org/networks/?channel=c-span",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'c-span-3': {
-        'nombre': 'C-SPAN 3',
-        'm3u8_url': 'https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8',
-        'fuente': 'https://www.c-span.org/networks/?channel=c-span',
-        'pais': 'us'
+    "C-SPAN-3": {
+        "nombre": "C-SPAN 3",
+        "m3u8_url": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8",
+        "fuente": "https://www.c-span.org/networks/?channel=c-span",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'fox-business': {
-        'nombre': 'Fox Business',
-        'yt_id': 'UCCXoCcu9Rp7NPbTzIvogpZg',
-        'pais': 'us'
+    "Fox-Business": {
+        "nombre": "Fox Business",
+        "yt_id": "UCCXoCcu9Rp7NPbTzIvogpZg",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'fox-news-now': {
-        'nombre': 'Fox News Now',
-        'm3u8_url': 'https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8',
-        'fuente': 'https://video.foxnews.com/v/6174103160001',
-        'pais': 'us'
+    "Fox-News-Now": {
+        "nombre": "Fox News Now",
+        "m3u8_url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+        "fuente": "https://video.foxnews.com/v/6174103160001",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'livenow-from-fox': {
-        'nombre': 'LiveNOW from FOX',
-        'yt_id': 'UCJg9wBPyKMNA5sRDnvzmkdg',
-        'pais': 'us'
+    "LiveNOW-from-FOX": {
+        "nombre": "LiveNOW from FOX",
+        "yt_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'newsmax': {
-        'nombre': 'Newsmax',
-        'yt_id': 'UCx6h-dWzJ5NpAlja1YsApdg',
-        'pais': 'us'
+    "Newsmax": {
+        "nombre": "Newsmax",
+        "yt_id": "UCx6h-dWzJ5NpAlja1YsApdg",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'nbcla': {
-        'nombre': 'NBCLA',
-        'yt_id': 'UCSWoppsVL0TLxFQ2qP_DLqQ',
-        'pais': 'us'
-    },   
-    'nbc-news': {
-        'nombre': 'NBC News',
-        'yt_id': 'UCeY0bbntWzzVIaj2z3QigXg',
-        'pais': 'us'
+    "NBCLA": {
+        "nombre": "NBCLA",
+        "yt_id": "UCSWoppsVL0TLxFQ2qP_DLqQ",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'nbc-now-live-event': {
-        'nombre': 'NBC Now (Live Event)',
-        'm3u8_url': 'https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8',
-        'fuente': 'https://www.nbcnews.com/now',
-        'pais': 'us'
+    "NBC-News": {
+        "nombre": "NBC News",
+        "yt_id": "UCeY0bbntWzzVIaj2z3QigXg",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'nbc-now': {
-        'nombre': 'NBC Now',
-        'm3u8_url': 'https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8',
-        'fuente': 'https://www.nbcnews.com/now',
-        'pais': 'us'
+    "nbc-now-live-event": {
+        "nombre": "NBC Now (Live Event)",
+        "m3u8_url": "https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8",
+        "fuente": "https://www.nbcnews.com/now",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'pbs-america': {
-        'nombre': 'PBS America',
-        'm3u8_url': 'https://pbs-samsunguk.amagi.tv/playlist.m3u8',
-        'fuente': 'https://www.pbsamerica.co.uk/',
-        'pais': 'us'
+    "NBC-Now": {
+        "nombre": "NBC Now",
+        "m3u8_url": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8",
+        "fuente": "https://www.nbcnews.com/now",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'record-news': {
-        'nombre': 'Record News',
-        'yt_id': 'UCuiLR4p6wQ3xLEm15pEn1Xw',
-        'pais': 'us'
+    "PBS-America": {
+        "nombre": "PBS America",
+        "m3u8_url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+        "fuente": "https://www.pbsamerica.co.uk/",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'sky-news': {
-        'nombre': 'Sky News',
-        'yt_id': 'UCoMdktPbSTixAyNGwb-UYkQ',
-        'pais': 'us'
+    "Record-News": {
+        "nombre": "Record News",
+        "yt_id": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'telemundo-0': {
-        'nombre': 'Noticias Telemundo',
-        'm3u8_url': 'http://45.166.92.22:58001/play/a00r/index.m3u8',
-        'pais': 'us'
+    "Sky-News": {
+        "nombre": "Sky News",
+        "yt_id": "UCoMdktPbSTixAyNGwb-UYkQ'",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'telemundo': {
-        'nombre': 'Noticias Telemundo',
-        'yt_id': 'UCRwA1NUcUnwsly35ikGhp0A',
-        'pais': 'us'
+    "Telemundo": {
+        "nombre": "Telemundo",
+        "m3u8_url": "http://45.166.92.22:58001/play/a00r/index.m3u8",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'the-sun': {
-        'nombre': 'The Sun',
-        'yt_id': 'UCIzXayRP7-P0ANpq-nD-h5g',
-        'pais': 'us'
+    "Noticias-Telemundo": {
+        "nombre": "Noticias Telemundo",
+        "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
+    },
+    "The-Sun": {
+        "nombre": "The Sun",
+        "yt_id": "UCIzXayRP7-P0ANpq-nD-h5g",
+        "fuente": "",
+        "pais": "us"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // FRANCIA        
     'euronews-esp': {
@@ -2798,16 +2724,37 @@ const listaCanalesViejo = {
         'yt_id': 'UCyoGb3SMlTlB8CLGVH4c8Rw',
         'pais': 'fr'
     },
+    "": {
+        "nombre": "",
+        "iframe_url": "",
+        "fuente": "",
+        "pais": "fr"
+        "alt_icon": "<i class='bi bi-boombox'></i>
+    },
     'euronews-eng': {
         'nombre': 'euronews (English)',
         'yt_id': 'UCSrZ3UV4jOidv8ppoVuvW9Q',
         'pais': 'fr'
+    },
+    "": {
+        "nombre": "",
+        "iframe_url": "",
+        "fuente": "",
+        "pais": "fr"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     'euronews-eng-2': {
         'nombre': 'euronews (English) 2',
         'm3u8_url': 'https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8',
         'fuente': 'https://www.euronews.com/live',
         'pais': 'fr'
+    },
+    "": {
+        "nombre": "",
+        "iframe_url": "",
+        "fuente": "",
+        "pais": "fr"
+        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     'euronews-rus': {
         'nombre': 'euronews Русский',
