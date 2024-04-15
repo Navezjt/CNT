@@ -1142,8 +1142,11 @@ const listaCanalesViejo = {
         "iframe_url": "",
         "fuente": "",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
+    
+    
+
+
 
     'BNBdigital-tv': {
         'nombre': 'BNB Digital TV',
