@@ -1127,7 +1127,7 @@ const listaCanalesViejo = {
     "radio-uno": {
         "nombre": "Radio Uno",
         "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
-        "fuente": "",
+        "fuente": "https://radiouno.pe/",
         "pais": "pe"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
