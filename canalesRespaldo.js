@@ -1138,13 +1138,6 @@ const listaCanalesViejo = {
         "pais": "pe"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-"": {
-        "nombre": "",
-        "iframe_url": "",
-        "fuente": "",
-        "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
-    },
     "BNBdigital-tv": {
         "nombre": "BNB Digital TV",
         "m3u8_url": "https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8",
