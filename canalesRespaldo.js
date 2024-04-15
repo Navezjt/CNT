@@ -1151,13 +1151,6 @@ const listaCanalesViejo = {
         "pais": "pe"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    "uci": {
-        "nombre": "UCI",
-        "iframe_url": "",
-        "fuente": "https://uci.pe/envivo",
-        "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
-    },
     "nativa": {
         "nombre": "Nativa",
         "m3u8_url": "https://ntv.pe/salida/nativa.m3u8",
