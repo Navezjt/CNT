@@ -2522,7 +2522,6 @@ const listaCanalesViejo = {
         "yt_id": "UCSrZ3UV4jOidv8ppoVuvW9Q",
         "fuente": "",
         "pais": "fr"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "euronews-eng-2": {
         "nombre": "euronews (English) 2",
