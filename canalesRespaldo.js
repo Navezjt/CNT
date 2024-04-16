@@ -1101,28 +1101,24 @@ const listaCanalesViejo = {
         "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8",
         "fuente": "https://ovacion.pe/radio",
         "pais": "pe",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "san-borja": {
         "nombre": "Radio San Borja Tv",
         "m3u8_url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
         "fuente": "https://radiosanborjatv.com/",
         "pais": "pe",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-onda-digital": {
         "nombre": "Radio Onda Digital",
         "m3u8_url": "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8",
         "fuente": "https://www.ondadigital.pe/",
         "pais": "pe",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-tropical": {
         "nombre": "Radio Tropical",
         "m3u8_url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
         "fuente": "https://radiotropical.pe/",
         "pais": "pe",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     
     "radio-uno": {
@@ -1130,14 +1126,12 @@ const listaCanalesViejo = {
         "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
         "fuente": "https://radiouno.pe/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "nacional-tv": {
         "nombre": "Nacional Tv",
         "iframe_url": "https://iblups.com/e_radionacional",
         "fuente": "https://www.radionacional.gob.pe/alacarta",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "BNBdigital-tv": {
         "nombre": "BNB Digital TV",
@@ -1150,84 +1144,72 @@ const listaCanalesViejo = {
         "iframe_url": "https://ok.ru/videoembed/5439500131845?nochat=1&autoplay=1",
         "fuente": "https://www.chincha.tv/p/live.html",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "nativa": {
         "nombre": "Nativa",
         "m3u8_url": "https://ntv.pe/salida/nativa.m3u8",
         "fuente": "https://ntv.pe/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "nativa-0": {
         "nombre": "Nativa-0",
         "yt_id": "UCdl1ygFwPa6lUdNYPLjoAGg",
         "fuente": "https://ntv.pe/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "nativa-1": {
         "nombre": "Nativa 1",
         "iframe_url": "https://ntv.pe/vivo.html",
         "fuente": "https://ntv.pe/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "cable-vision-peru": {
         "nombre": "Cable Visión Perú",
         "iframe_url": "",
         "fuente": "https://www.cablevisionperu.pe/?page_id=1938",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "atv": {
         "nombre": "ATV",
         "m3u8_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
         "fuente": "https://www.atv.pe/envivo-atv",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "atv-mas": {
         "nombre": "ATV MAS",
         "m3u8_url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
         "fuente": "https://www.atv.pe/envivo-atvmas",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "atv-sur": {
         "nombre": "ATV SUR",
         "m3u8_url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
         "fuente": "https://www.atv.pe/envivo-atvmas",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "latina-tv": {
         "nombre": "Latina Tv",
         "iframe_url": "https://rudo.video/live/latina",
         "fuente": "https://www.latina.pe/tvenvivo",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Radio-California": {
         "nombre": "Radio California",
         "iframe_url": "https://vdo.grupolimalive.com/live-stream-video-widget/californiatv",
         "fuente": "https://www.radiocalifornia.pe/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Doble-AA": {
         "nombre": "Doble AA",
         "iframe_url": "https://videoserver.tmcreativos.com:2020/VideoPlayer/yvmgbdpqmp",
         "fuente": "https://dobleaamedios.com/tv",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "mas-cumbia": {
         "nombre": "Mas Cumbia",
         "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline",
         "fuente": "https://bestcableperu.com.pe/tv99.html",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "hatun-tv": {
         "nombre": "Hatun Tv",
@@ -1241,21 +1223,18 @@ const listaCanalesViejo = {
         "yt_id": "UCgR0st4ZLABi-LQcWNu3wnQ",
         "fuente": "https://bestcableperu.com.pe/tv99.html",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "santa-rosa": {
         "nombre": "📻 Radio Santa Rosa",
         "yt_id": "UCIGV0oiNkdK2-tnf10DNp2A",
         "fuente": "",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "NOVELAS-tv": {
         "nombre": "NOVELAS Tv",
         "iframe_url": "https://latele-envivo.com/Embed/tbs/op3.php",
         "fuente": "https://tvhd.pe/tnt-novelas-en-vivo/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "NT": {
         "nombre": "NT",
@@ -1269,7 +1248,6 @@ const listaCanalesViejo = {
         "iframe_url": "https:\/\/livestream.perucast.com\/low\/stream.m3u8",
         "fuente": "https://xn--sealperutv-u9a.pe/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "sol-tv": {
         "nombre": "Sol Tv",
@@ -1482,21 +1460,18 @@ const listaCanalesViejo = {
         "m3u8_url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
         "fuente": "http://www.cantinatv.com/",
         "pais": "ve"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "telesur-tv": {
         "nombre": "Telesur Tv",
         "yt_id": "UCbHFKMtqLYkIBRiPHJwxu_w",
         "fuente": "",
         "pais": "ve"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "vpi-tv": {
         "nombre": "Vpi Tv",
         "yt_id": "UCVFiIRuxJ2GmJLUkHmlmj4w",
         "fuente": "",
         "pais": "ve"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
 // MEXICO
     "MILENIO": {
@@ -1504,14 +1479,12 @@ const listaCanalesViejo = {
         "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
         "fuente": "",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "TVP-Mexico": {
         "nombre": "TVP Mexico",
         "m3u8_url": "https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/chunklist_w1799724172_b978000_sleng.m3u8",
         "fuente": "https://tvpacifico.mx/tv-en-linea/mochis",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },  
     "Televisa-Guadalajara": {
         "nombre": "Televisa Guadalajara",
