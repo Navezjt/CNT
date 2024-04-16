@@ -785,7 +785,6 @@
         "fuente": "https://benfertv.cl//",
         "pais": "cl"
     },
-// ARGENTINA
     "tn": {
         "nombre": "Todonoticias",
         "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
@@ -972,7 +971,6 @@
         "fuente": "https://www.diario26.com/canal26_en_vivo",
         "pais": "ar"
     },
-// COLOMBIA
     "el-tiempo": {
         "nombre": "EL TIEMPO",
         "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
@@ -990,7 +988,6 @@
         "fuente": "https://redmas.com.co/senal-en-vivo/",
         "pais": "co"
     },
-// PERU
     "tv-peru": {
         "nombre": "TVPerú Noticias",
         "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
@@ -1222,7 +1219,6 @@
         "fuente": "https://www.cnccajamarca.com/",
         "pais": "pe"
     },
-//VIETNAM
     "thtv": {
         "nombre": "THTV",
         "m3u8_url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
@@ -1409,7 +1405,6 @@
         "fuente": "http://xemtruyenhinh.xyz/kenh-kgtv-kiengiang-tv-truc-tuyen-dia-phuong.html",
         "pais": "vn"
     },
-// VENEZUELA
     "globovision": {
         "nombre": "Globovisión En Vivo",
         "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
@@ -1432,8 +1427,7 @@
         "yt_id": "UCVFiIRuxJ2GmJLUkHmlmj4w",
         "fuente": "",
         "pais": "ve"
-    },    
-// MEXICO
+    },
     "MILENIO": {
         "nombre": "MILENIO",
         "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
@@ -1529,8 +1523,7 @@
         "m3u8_url": "https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8",
         "fuente": "https://www.nmas.com.mx/foro-tv/",
         "pais": "mx"
-    },        
-// GUATEMALA
+    },
     "canal3-guatemala": {
         "nombre": "Canal3 Guatemala",
         "iframe_url": "https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8?DVR",
@@ -1554,8 +1547,7 @@
         "m3u8_url": "https://live.canal27.tv:3633/live/canal27live.m3u8",
         "fuente": "https://www.canal27.org/",
         "pais": "gt"
-    },    
-// HONDURAS
+    },
     "HCH-En-Vivo": {
         "nombre": "HCH En Vivo",
         "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
@@ -1645,8 +1637,7 @@
         "iframe_url": "https://5e85d90130e77.streamlock.net:443/6010/ngrp:6010_all/playlist.m3u8",
         "fuente": "https://ebenezer.hn/envivo",
         "pais": "hn"
-    },    
-// ECUADOR   
+    },
     "Ecuavisa": {
         "nombre": "Ecuavisa",
         "iframe_url": "https://rudo.video/live/ecuavisa",
@@ -1706,8 +1697,7 @@
         "iframe_url": "https://ticsbalancer.ticsecuador.com.ec/TeleSucesos/play.html?name=UIO-HD",
         "fuente": "https://www.telesucesos.net/",
         "pais": "ec"
-    },    
-// ITALIA
+    },
     "La7": {
         "nombre": "La7",
         "iframe_url": "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd",
@@ -1863,8 +1853,7 @@
         "m3u8_url": "https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8",
         "fuente": "https://www.raibz.rai.it/de/index.php",
         "pais": "it"
-    }, 
-// ESPAÑA
+    },
     "CNN-Español": {
         "nombre": "CNN Español",
         "iframe_url": "http://45.166.92.22:58001/play/a036/index.m3u8",
@@ -1924,15 +1913,13 @@
         "iframe_url": "https://playerssl.radioonlinehd.com/tv91/xhunestv/",
         "fuente": "https://senalespana.unes.edu.mx/",
         "pais": "es"
-    }, 
-// BRASIL
+    },
     "CNN-Brasil": {
         "nombre": "CNN Brasil",
         "yt_id": "UCvdwhh_fDyWccR42-rReZLw",
         "fuente": "",
         "pais": "br"
-    }, 
-// TAILANDIA
+    },
     "Workpointtv": {
         "nombre": "Workpointtv",
         "iframe_url": "https://geo.dailymotion.com/player/x8wpe.html?video=k28IxkHn9OkzvvqoVob",
@@ -1944,8 +1931,7 @@
         "iframe_url": "https://player.twitch.tv/?channel=workpointofficial&parent=www.workpointtv.com&referrer=https%3A%2F%2Fwww.workpointtv.com%2Flive-stream-page%2F",
         "fuente": "https://www.workpointtv.com/live-stream-page/",
         "pais": "th"
-    }, 
-// INDONESIA
+    },
     "ANTV": {
         "nombre": "ANTV",
         "iframe_url": "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false",
@@ -2096,7 +2082,6 @@
         "fuente": "https://www.antvklik.com/",
         "pais": "id"
     },
-// MALAYSIA
     "Tv1": {
         "nombre": "Tv1",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/1",
@@ -2241,7 +2226,6 @@
         "fuente": "https://www.livetvmalaysia.online/2018/03/bola.html",
         "pais": "my"
     },
-// PHILIPPINES
     "Dzrh": {
         "nombre": "Dzrh",
         "iframe_url": "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3",
@@ -2266,14 +2250,12 @@
         "fuente": "https://www.youtube.com/@UNTVNewsandRescue",
         "pais": "ph"
     },
-// CANADÁ
     "Global-News": {
         "nombre": "Global News",
         "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
         "fuente": "https://globalnews.ca/live/national/",
         "pais": "ca"
     },
-// ESTADOS UNIDOS
     "ABC7": {
         "nombre": "ABC7",
         "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
@@ -2460,7 +2442,6 @@
         "fuente": "",
         "pais": "us"
     },
-// FRANCIA        
     "euronews-esp": {
         "nombre": "Euronews (Español)",
         "yt_id": "UCyoGb3SMlTlB8CLGVH4c8Rw",
@@ -2521,7 +2502,6 @@
         "fuente": "https://www.tf1info.fr/direct/",
         "pais": "fr"
     },
-// ALEMANIA
     "dw-español": {
         "nombre": "DW Español",
         "m3u8_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8",
@@ -2552,7 +2532,6 @@
         "fuente": "",
         "pais": "de"
     },
-// RUSIA
     "5-канал": {
         "nombre": "5 канал",
         "yt_id": "UCkyrSWEcjZKpIwMxiPfOcgg",
@@ -2733,7 +2712,6 @@
         "fuente": "https://www.livehdtv.net/iz-ru-live-stream-russia/",
         "pais": "ru"
     },
-// UCRANIA
     "24-Канал-онлайн": {
         "nombre": "24 Канал онлайн",
         "yt_id": "UCja992VI_u2e52c9FHQXw5A",
@@ -2770,7 +2748,6 @@
         "fuente": "",
         "pais": "ua"
     },
-// CHINA
     "live-chino": {
         "nombre": "民視直播 FTVN Live 53",
         "yt_id": "UClIfopQZlkkSpM1VgCFLRJA",
