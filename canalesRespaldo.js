@@ -1259,6 +1259,18 @@ const listaCanalesViejo = {
         "fuente": "https://www.cnccajamarca.com/",
         "pais": "pe"
     },
+    "congreso-peru": {
+        "nombre": "🏛️ Congreso República del Perú",
+        "yt_id": "UCsKiP5cZCYh9YhPGrI6GrkQ",
+        "fuente": "https://www.cnccajamarca.com/",
+        "pais": "pe"
+    },
+    "justicia-tv": {
+        "nombre": "🏛️ Justicia TV",
+        "yt_id": "UCwsURxTXqGqijgu98ndod3A",
+        "fuente": "https://www.cnccajamarca.com/",
+        "pais": "pe"
+    },
 //VIETNAM
     "thtv": {
         "nombre": "THTV",
@@ -3865,15 +3877,4 @@ const listaCanalesViejo = {
         'yt_id': 'UC33MG3YdoQ16a8a3wODh6lw',
         'pais': 'cl'
     },
-// PERU
-    'congreso-peru': {
-        'nombre': '🏛️ Congreso República del Perú',
-        'yt_id': 'UCsKiP5cZCYh9YhPGrI6GrkQ',
-        'pais': 'pe'
-    },
-    'justicia-tv': {
-        'nombre': '🏛️ Justicia TV',
-        'yt_id': 'UCwsURxTXqGqijgu98ndod3A',
-        'pais': 'pe'
-    }
 }
