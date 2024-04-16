@@ -47,7 +47,6 @@ const listaCanalesViejo = {
         'pais': 'cl'
     }, */
 // CHILE
-{
     "24-horas": {
         "nombre": "24 horas",
         "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
