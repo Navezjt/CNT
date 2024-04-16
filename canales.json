@@ -1,5 +1,10 @@
 {
-"tn": {
+    "24-horas": {
+        "nombre": "24 horas",
+        "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
+        "pais": "cl"
+    },
+    "tn": {
         "nombre": "Todonoticias",
         "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
         "pais": "ar"
