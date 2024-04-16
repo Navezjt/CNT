@@ -2511,362 +2511,382 @@ const listaCanalesViejo = {
         "pais": "us"
     },
 // FRANCIA        
-    'euronews-esp': {
-        'nombre': 'euronews (Español)',
-        'yt_id': 'UCyoGb3SMlTlB8CLGVH4c8Rw',
-        'pais': 'fr'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
+    "euronews-esp": {
+        "nombre": "Euronews (Español)",
+        "yt_id": "UCyoGb3SMlTlB8CLGVH4c8Rw",
         "fuente": "",
         "pais": "fr"
     },
-    'euronews-eng': {
-        'nombre': 'euronews (English)',
-        'yt_id': 'UCSrZ3UV4jOidv8ppoVuvW9Q',
-        'pais': 'fr'
-    },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
+    "euronews-eng": {
+        "nombre": "euronews (English)",
+        "yt_id": "UCSrZ3UV4jOidv8ppoVuvW9Q",
         "fuente": "",
         "pais": "fr"
         "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'euronews-eng-2': {
-        'nombre': 'euronews (English) 2',
-        'm3u8_url': 'https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8',
-        'fuente': 'https://www.euronews.com/live',
-        'pais': 'fr'
+    "euronews-eng-2": {
+        "nombre": "euronews (English) 2",
+        "m3u8_url": "https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
+        "fuente": "https://www.euronews.com/live",
+        "pais": "fr"
     },
-    "": {
-        "nombre": "",
-        "iframe_url": "",
+    "euronews-rus": {
+        "nombre": "euronews Русский",
+        "yt_id": "UCFzJjgVicCtFxJ5B0P_ei8A",
         "fuente": "",
         "pais": "fr"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
-    'euronews-rus': {
-        'nombre': 'euronews Русский',
-        'yt_id': 'UCFzJjgVicCtFxJ5B0P_ei8A',
-        'pais': 'fr'
+    "euronews-hun": {
+        "nombre": "euronews (magyarul)",
+        "yt_id": "UC4Ct8gIf9f0n4mdyGsFiZRA",
+        "fuente": "",
+        "pais": "fr"
     },
-    'euronews-hun': {
-        'nombre': 'euronews (magyarul)',
-        'yt_id': 'UC4Ct8gIf9f0n4mdyGsFiZRA',
-        'pais': 'fr'
+    "france-24-esp": {
+        "nombre": "FRANCE 24 Español",
+        "yt_id": "UCUdOoVWuWmgo1wByzcsyKDQ",
+        "fuente": "",
+        "pais": "fr"
     },
-    'france-24-esp': {
-        'nombre': 'FRANCE 24 Español',
-        'yt_id': 'UCUdOoVWuWmgo1wByzcsyKDQ',
-        'pais': 'fr'
+    "france-24-eng": {
+        "nombre": "FRANCE 24 English",
+        "yt_id": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+        "fuente": "",
+        "pais": "fr"
     },
-    'france-24-eng': {
-        'nombre': 'FRANCE 24 English',
-        'yt_id': 'UCQfwfsi5VrQ8yKZ-UWmAEFg',
-        'pais': 'fr'
+    "france-24-fra": {
+        "nombre": "FRANCE 24 French",
+        "m3u8_url": "https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8",
+        "fuente": "https://www.france24.com/fr/direct",
+        "pais": "fr"
     },
-    'france-24-fra': {
-        'nombre': 'FRANCE 24 French',
-        'm3u8_url': 'https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8',
-        'fuente': 'https://www.france24.com/fr/direct',
-        'pais': 'fr'
+    "france-info": {
+        "nombre": "franceinfo",
+        "yt_id": "UCO6K_kkdP-lnSCiO3tPx7WA",
+        "fuente": "",
+        "pais": "fr"
     },
-    'france-info': {
-        'nombre': 'franceinfo',
-        'yt_id': 'UCO6K_kkdP-lnSCiO3tPx7WA',
-        'pais': 'fr'
-    },
-    'lci': {
-        'nombre': 'LCI',
-        'm3u8_url': 'https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8',
-        'fuente': 'https://www.tf1info.fr/direct/',
-        'pais': 'fr'
+    "lci": {
+        "nombre": "LCI",
+        "m3u8_url": "https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+        "fuente": "https://www.tf1info.fr/direct/",
+        "pais": "fr"
     },
 // ALEMANIA
-    'dw-español': {
-        'nombre': 'DW Español',
-        'm3u8_url': 'https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8',
-        'pais': 'de'
+    "dw-español": {
+        "nombre": "DW Español",
+        "m3u8_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8",
+        "fuente": "",
+        "pais": "de"
     },
-    'dw-deutsch': {
-        'nombre': 'DW Deutsch',
-        'yt_id': 'UCMIgOXM2JEQ2Pv2d0_PVfcg',
-        'pais': 'de'
+    "dw-deutsch": {
+        "nombre": "DW Deutsch",
+        "yt_id": "UCMIgOXM2JEQ2Pv2d0_PVfcg",
+        "fuente": "",
+        "pais": "de"
     },
-    'dw-news': {
-        'nombre': 'DW News',
-        'yt_id': 'UCknLrEdhRCp1aegoMqRaCZg',
-        'pais': 'de'
+    "dw-news": {
+        "nombre": "DW News",
+        "yt_id": "UCknLrEdhRCp1aegoMqRaCZg",
+        "fuente": "",
+        "pais": "de"
     },
-    'dw-arabic': {
-        'nombre': 'DW عربية',
-        'yt_id': 'UC30ditU5JI16o5NbFsHde_Q',
-        'pais': 'de'
+    "dw-arabic": {
+        "nombre": "DW عربية",
+        "yt_id": "UC30ditU5JI16o5NbFsHde_Q",
+        "fuente": "",
+        "pais": "de"
     },
-    'welt': {
-        'nombre': 'WELT',
-        'yt_id': 'UCZMsvbAhhRblVGXmEXW8TSA',
-        'pais': 'de'
+    "welt": {
+        "nombre": "WELT",
+        "yt_id": "UCZMsvbAhhRblVGXmEXW8TSA",
+        "fuente": "",
+        "pais": "de"
     },
 // RUSIA
-    '5-канал': {
-        'nombre': '5 канал',
-        'yt_id': 'UCkyrSWEcjZKpIwMxiPfOcgg',
-        'pais': 'ru'
+    "5-канал": {
+        "nombre": "5 канал",
+        "yt_id": "UCkyrSWEcjZKpIwMxiPfOcgg",
+        "fuente": "",
+        "pais": "ru"
     },
-    'Москва-24': {
-        'nombre': 'Москва 24',
-        'yt_id': 'UCIme7og-uTpdRXRgm0zzA2A',
-        'pais': 'ru'
+    "Москва-24": {
+        "nombre": "Москва 24",
+        "yt_id": "UCIme7og-uTpdRXRgm0zzA2A",
+        "fuente": "",
+        "pais": "ru"
     },
-    'Россия-24': {
-        'nombre': 'Россия 24',
-        'iframe_url': 'https://ok.ru/videoembed/3574052691599?nochat=1&autoplay=1',
-        'fuente': 'https://xn--b1agj9af.xn--80aswg/video/rossija-24/',
-        'pais': 'ru'
+    "Россия-24": {
+        "nombre": "Россия 24",
+        "iframe_url": "https://ok.ru/videoembed/3574052691599?nochat=1&autoplay=1",
+        "fuente": "https://xn--b1agj9af.xn--80aswg/video/rossija-24/",
+        "pais": "ru"
     },
-    'РБК': {
-        'nombre': 'РБК',
-        'yt_id': 'UCWAK-dRtTEjnQnD96L6UMsQ',
-        'pais': 'ru'
+    "РБК": {
+        "nombre": "РБК",
+        "yt_id": "UCWAK-dRtTEjnQnD96L6UMsQ",
+        "fuente": "",
+        "pais": "ru"
     },
-    'RT-america': {
-        'nombre': 'RT America',
-        'iframe_url': 'https://actualidad.rt.com/live-embed',
-        'pais': 'ru'
+    "RT-america": {
+        "nombre": "RT America",
+        "iframe_url": "https://actualidad.rt.com/live-embed",
+        "fuente": "",
+        "pais": "ru"
     },
-    'RT-arabic': {
-        'nombre': 'RT Arabic',
-        'iframe_url': 'https://rutube.ru/play/embed/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2',
-        'pais': 'ru'
+    "RT-arabic": {
+        "nombre": "RT Arabic",
+        "iframe_url": "https://rutube.ru/play/embed/1bf2ee9dc3e20b4cb5a7ed4833bd7cb2",
+        "fuente": "",
+        "pais": "ru"
     },
-    'RT-español': {
-        'nombre': 'RT en Español',
-        'iframe_url': 'https://actualidad.rt.com/live-embed',
-        'pais': 'ru'
+    "RT-Español": {
+        "nombre": "RT en Español",
+        "iframe_url": "https://actualidad.rt.com/live-embed",
+        "fuente": "",
+        "pais": "ru"
     },
-    'RT-vivo': {
-        'nombre': 'RT en vivo',
-        'iframe_url': 'UCEIhICHOQOonjE6V0SLdrHQ',
-        'pais': 'ru'
+    "RT-vivo": {
+        "nombre": "RT en vivo",
+        "yt_id": "UCEIhICHOQOonjE6V0SLdrHQ",
+        "fuente": "",
+        "pais": "ru"
     },
-    'RT-france': {
-        'nombre': 'RT France',
-        'yt_id': 'UCqEVwTnDzlzKOGYNFemqnYA',
-        'pais': 'ru'
+    "RT-France": {
+        "nombre": "RT France",
+        "yt_id": "UCqEVwTnDzlzKOGYNFemqnYA",
+        "fuente": "",
+        "pais": "ru"
     },
-    'RT-news': {
-        'nombre': 'RT News',
-        'yt_id': 'UCpwvZwUam-URkxB7g4USKpg',
-        'pais': 'ru'
+    "RT-News": {
+        "nombre": "RT News",
+        "yt_id": "UCpwvZwUam-URkxB7g4USKpg",
+        "fuente": "",
+        "pais": "ru"
     },
-    'RT-uk': {
-        'nombre': 'RT UK',
-        'yt_id': 'UC_ab7FFA2ACk2yTHgNan8lQ',
-        'pais': 'ru'
+    "RT-UK": {
+        "nombre": "RT UK",
+        "yt_id": "UC_ab7FFA2ACk2yTHgNan8lQ",
+        "fuente": "",
+        "pais": "ru"
     },
-    'Телеканал-Дождь': {
-        'nombre': 'Телеканал Дождь',
-        'yt_id': 'UCdubelOloxR3wzwJG9x8YqQ',
-        'pais': 'ru'
+    "Телеканал-Дождь": {
+        "nombre": "Телеканал Дождь",
+        "yt_id": "UCdubelOloxR3wzwJG9x8YqQ",
+        "fuente": "",
+        "pais": "ru"
     },
-    'yкраїна-24': {
-        'nombre': 'Україна 24',
-        'yt_id': 'UCMp5Buw-6LpbbV9r9Sl_5yg',
-        'pais': 'ru'
+    "yкраїна-24": {
+        "nombre": "yкраїна24",
+        "yt_id": "UCMp5Buw-6LpbbV9r9Sl_5yg",
+        "fuente": "",
+        "pais": "ru"
     },
-    '1tv': {
-        'nombre': '1TV',
-        'iframe_url': 'https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=aca9762ad9b2e1633c4047c8',
-        'fuente': 'https://www.1tv.ru/live',
-        'pais': 'ru'
+    "1TV": {
+        "nombre": "1TV",
+        "iframe_url": "https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=aca9762ad9b2e1633c4047c8",
+        "fuente": "https://www.1tv.ru/live",
+        "pais": "ru"
     },
-    '24tv': {
-        'nombre': '24TV',
-        'iframe_url': 'https://rutube.ru/play/embed/261339ca4f1396ea0271d07364bd99dd',
-        'fuente': 'https://crimea24.tv/broadcasting/',
-        'pais': 'ru'
+    "24TV": {
+        "nombre": "24TV",
+        "iframe_url": "https://rutube.ru/play/embed/261339ca4f1396ea0271d07364bd99dd",
+        "fuente": "https://crimea24.tv/broadcasting/",
+        "pais": "ru"
     },
-    'Current-Time-TV': {
-        'nombre': 'Current Time TV',
-        'iframe_url': 'https://www.currenttime.tv/embed/player/1/92.html?type=video',
-        'fuente': 'https://www.currenttime.tv/live/video/92',
-        'pais': 'ru'
+    "Current-Time-TV": {
+        "nombre": "Current Time TV",
+        "iframe_url": "https://www.currenttime.tv/embed/player/1/92.html?type=video",
+        "fuente": "https://www.currenttime.tv/live/video/92",
+        "pais": "ru"
     },
-    'm24': {
-        'nombre': 'M24',
-        'iframe_url': 'https://www.m24.ru/tv',
-        'fuente': 'https://www.m24.ru/live',
-        'pais': 'ru'
+    "M24": {
+        "nombre": "M24",
+        "iframe_url": "https://www.m24.ru/tv",
+        "fuente": "https://www.m24.ru/live",
+        "pais": "ru"
     },
-    'ntv': {
-        'nombre': 'NTV',
-        'm3u8_url': 'https://cdn2.ntv.ru/ntv0_hd/tracks-v5a1/rewind-7150.m3u8',
-        'fuente': 'https://www.ntv.ru/air/ntv/',
-        'pais': 'ru'
+    "NTV": {
+        "nombre": "NTV",
+        "m3u8_url": "https://cdn2.ntv.ru/ntv0_hd/tracks-v5a1/rewind-7150.m3u",
+        "fuente": "https://www.ntv.ru/air/ntv/",
+        "pais": "ru"
     },
-    'rbc': {
-        'nombre': 'RBC',
-        'm3u8_url': 'https://online-video.rbc.ru/online/rbctvhd.m3u8',
-        'fuente': 'https://tv.rbc.ru/streams/',
-        'pais': 'ru'
+    "RBC": {
+        "nombre": "RBC",
+        "m3u8_url": "https://online-video.rbc.ru/online/rbctvhd.m3u8",
+        "fuente": "https://tv.rbc.ru/streams/",
+        "pais": "ru"
     },
-    'ren': {
-        'nombre': 'REN',
-        'iframe_url': 'https://player.mediavitrina.ru/rentv/rentv_web/player.html',
-        'fuente': 'https://ren.tv/live',
-        'pais': 'ru'
+    "REN": {
+        "nombre": "REN",
+        "iframe_url": "https://player.mediavitrina.ru/rentv/rentv_web/player.html",
+        "fuente": "https://ren.tv/live",
+        "pais": "ru"
     },
-    'rtv': {
-        'nombre': 'RTV',
-        'm3u8_url': 'https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8',
-        'fuente': 'https://rumble.com/v35waq4-rt-news-livestream-247.html',
-        'pais': 'ru'
+    "RTV-1": {
+        "nombre": "RTV 1",
+        "m3u8_url": "https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8",
+        "fuente": "https://rumble.com/v35waq4-rt-news-livestream-247.html",
+        "pais": "ru"
     },
-    'rtrplaneta': {
-        'nombre': 'RTRPlaneta',
-        'iframe_url': 'https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/',
-        'fuente': 'https://vgtrk.ru/rtrplaneta',
-        'pais': 'ru'
+    "RTRPlaneta": {
+        "nombre": "RTRPlaneta",
+        "iframe_url": "https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/",
+        "fuente": "https://vgtrk.ru/rtrplaneta",
+        "pais": "ru"
     },
-    'POCCNЯ1': {
-        'nombre': 'POCCNЯ1',
-        'iframe_url': 'https://player.smotrim.ru/iframe/live/id/63254/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/',
-        'fuente': 'https://smotrim.ru/live/63254',
-        'pais': 'ru'
+    "POCCNЯ1": {
+        "nombre": "POCCNЯ1",
+        "iframe_url": "https://player.smotrim.ru/iframe/live/id/63254/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/",
+        "fuente": "https://smotrim.ru/live/63254",
+        "pais": "ru"
     },
-    'MIR': {
-        'nombre': 'MIR',
-        'iframe_url': 'https://player.mediavitrina.ru/mir_v2/mir/smotrim_web/player.html',
-        'fuente': 'https://smotrim.ru/channel/253',
-        'pais': 'ru'
+    "MIR": {
+        "nombre": "MIR",
+        "iframe_url": "https://player.mediavitrina.ru/mir_v2/mir/smotrim_web/player.html",
+        "fuente": "https://smotrim.ru/channel/253",
+        "pais": "ru"
     },
-    'TBU': {
-        'nombre': 'TBU',
-        'iframe_url': 'https://www.tvc.ru/channel/onairiframe/',
-        'fuente': 'https://www.tvc.ru/channel/onair',
-        'pais': 'ru'
+    "TBU": {
+        "nombre": "TBU",
+        "iframe_url": "https://www.tvc.ru/channel/onairiframe/",
+        "fuente": "https://www.tvc.ru/channel/onair",
+        "pais": "ru"
     },
-    'tvrain': {
-        'nombre': 'TVRain',
-        'm3u8_url': 'https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8',
-        'fuente': 'https://tvrain.tv/live/',
-        'pais': 'ru'
+    "TVRain": {
+        "nombre": "TVRain",
+        "m3u8_url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8",
+        "fuente": "https://tvrain.tv/live",
+        "pais": "ru"
     },
-    'soyuz': {
-        'nombre': 'Soyuz',
-        'iframe_url': 'https://playercdn.cdnvideo.ru/aloha/players/tvsoyuz_player.html',
-        'fuente': 'https://tv-soyuz.ru/tvprogramma',
-        'pais': 'ru'
+    "Soyuz": {
+        "nombre": "Soyuz",
+        "iframe_url": "https://playercdn.cdnvideo.ru/aloha/players/tvsoyuz_player.html",
+        "fuente": "https://tv-soyuz.ru/tvprogramma",
+        "pais": "ru"
     },
-    'channel-8': {
-        'nombre': 'channel 8',
-        'm3u8_url': 'https://v4.proofix.ru/8tv-europe/index.m3u8',
-        'fuente': 'https://vipotv.com/channel-8/',
-        'pais': 'ru'
+    "channel-8": {
+        "nombre": "channel 8",
+        "m3u8_url": "https://v4.proofix.ru/8tv-europe/index.m3u8",
+        "fuente": "https://vipotv.com/channel-8/",
+        "pais": "ru"
     },
-    'Zvezda': {
-        'nombre': 'Zvezda',
-        'iframe_url': 'https://rutube.ru/play/embed/5ab908fccfac5bb43ef2b1e4182256b0',
-        'fuente': 'https://www.livehdtv.net/zvezda-zvezda-live-stream/',
-        'pais': 'ru'
+    "Zvezda": {
+        "nombre": "Zvezda",
+        "iframe_url": "https://rutube.ru/play/embed/5ab908fccfac5bb43ef2b1e4182256b0",
+        "fuente": "https://www.livehdtv.net/zvezda-zvezda-live-stream/",
+        "pais": "ru"
     },
-    'iz-ru': {
-        'nombre': 'Iz Ru',
-        'iframe_url': 'https://www.livehdtv.net/yayin/?kanal=512&yayin=&guvenlik=$2y$10$fDXytyU.EQfeckWFQQwIfeqf2FyUkYCzCslMPDQQIAtGcTE.pUjLG',
-        'fuente': 'https://www.livehdtv.net/iz-ru-live-stream-russia/',
-        'pais': 'ru'
+    "Iz-Ru": {
+        "nombre": "Iz Ru",
+        "iframe_url": "https://www.livehdtv.net/yayin/?kanal=512&yayin=&guvenlik=$2y$10$fDXytyU.EQfeckWFQQwIfeqf2FyUkYCzCslMPDQQIAtGcTE.pUjLG",
+        "fuente": "https://www.livehdtv.net/iz-ru-live-stream-russia/",
+        "pais": "ru"
     },
 // UCRANIA
-    '24-Канал-онлайн': {
-        'nombre': '24 Канал онлайн',
-        'yt_id': 'UCja992VI_u2e52c9FHQXw5A',
-        'pais': 'ua'
+    "24-Канал-онлайн": {
+        "nombre": "24 Канал онлайн",
+        "yt_id": "UCja992VI_u2e52c9FHQXw5A",
+        "fuente": "",
+        "pais": "ua"
     },
-    '34-телеканал': {
-        'nombre': '34 телеканал',
-        'yt_id': 'UCAxGITqXFNmV7PNCU82D_MA',
-        'pais': 'ua'
+    "34-телеканал": {
+        "nombre": "34 телеканал",
+        "yt_id": "UCAxGITqXFNmV7PNCU82D_MA",
+        "fuente": "",
+        "pais": "ua"
     },
-    'Апостроф-TV': {
-        'nombre': 'Апостроф TV',
-        'yt_id': 'UC0lnIB2qcArjFJPtq79WGZA',
-        'pais': 'ua'
+    "Апостроф-TV": {
+        "nombre": "Апостроф TV",
+        "yt_id": "UC0lnIB2qcArjFJPtq79WGZA",
+        "fuente": "",
+        "pais": "ua"
     },
-    'FREEДОМ': {
-        'nombre': 'UA:FREEДОМ',
-        'yt_id': 'UCVEaAWKfv7fE1c-ZuBs7TKQ',
-        'pais': 'ua'
+    "UA-FREEДОМ": {
+        "nombre": "UA:FREEДОМ",
+        "yt_id": "UCVEaAWKfv7fE1c-ZuBs7TKQ",
+        "fuente": "",
+        "pais": "ua"
     },
-    'PJ-Masks': {
-        'nombre': 'PJ Masks',
-        'yt_id': 'UCY2jUnU118sVkdj2xafiJ0g',
-        'pais': 'ua'
+    "PJ-Masks": {
+        "nombre": "PJ-Masks",
+        "yt_id": "UCY2jUnU118sVkdj2xafiJ0g",
+        "fuente": "",
+        "pais": "ua"
     },
-    'UA-Перший': {
-        'nombre': 'UA:Перший',
-        'yt_id': 'UCPY6gj8G7dqwPxg9KwHrj5Q',
-        'pais': 'ua'
+    "UA-Перший": {
+        "nombre": "UA:Перший",
+        "yt_id": "UCPY6gj8G7dqwPxg9KwHrj5Q",
+        "fuente": "",
+        "pais": "ua"
     },
 // CHINA
-    'live-chino': {
-        'nombre': '民視直播 FTVN Live 53',
-        'yt_id': 'UClIfopQZlkkSpM1VgCFLRJA',
-        'pais': 'cn'
+    "live-chino": {
+        "nombre": "民視直播 FTVN Live 53",
+        "yt_id": "UClIfopQZlkkSpM1VgCFLRJA",
+        "fuente": "",
+        "pais": "cn"
     },
-    'live-chino-2': {
-        'nombre': '三立LIVE新聞',
-        'yt_id': 'UC2TuODJhC03pLgd6MpWP0iw',
-        'pais': 'cn'
+    "live-chino-2": {
+        "nombre": "三立LIVE新聞",
+        "yt_id": "UC2TuODJhC03pLgd6MpWP0iw",
+        "fuente": "",
+        "pais": "cn"
     },
-    'live-chino-3': {
-        'nombre': '三立iNEWS',
-        'yt_id': 'UCoNYj9OFHZn3ACmmeRCPwbA',
-        'pais': 'cn'
+    "live-chino-3": {
+        "nombre": "三立iNEWS",
+        "yt_id": "UCoNYj9OFHZn3ACmmeRCPwbA",
+        "fuente": "",
+        "pais": "cn"
     },
-    'live-chino-4': {
-        'nombre': '中視新聞 HD直播頻道',
-        'yt_id': 'UCmH4q-YjeazayYCVHHkGAMA',
-        'pais': 'cn'
+    "live-chino-4": {
+        "nombre": "中視新聞 HD直播頻道",
+        "yt_id": "UCmH4q-YjeazayYCVHHkGAMA",
+        "fuente": "",
+        "pais": "cn"
     },
-    'live-chino-5': {
-        'nombre': '華視新聞 CH52',
-        'yt_id': 'UCDCJyLpbfgeVE9iZiEam-Kg',
-        'pais': 'cn'
+    "live-chino-5": {
+        "nombre": "華視新聞 CH52",
+        "yt_id": "UCDCJyLpbfgeVE9iZiEam-Kg",
+        "fuente": "",
+        "pais": "cn"
     },
-    'live-chino-6': {
-        'nombre': '中天電視',
-        'yt_id': 'UC5l1Yto5oOIgRXlI4p4VKbw',
-        'pais': 'cn'
+    "live-chino-6": {
+        "nombre": "中天電視",
+        "yt_id": "UC5l1Yto5oOIgRXlI4p4VKbw",
+        "fuente": "",
+        "pais": "cn"
     },
-    'live-chino-7': {
-        'nombre': '寰宇新聞 頻道',
-        'yt_id': 'UC2TuODJhC03pLgd6MpWP0iw',
-        'pais': 'cn'
+    "live-chino-7": {
+        "nombre": "寰宇新聞 頻道",
+        "yt_id": "UC2TuODJhC03pLgd6MpWP0iw",
+        "fuente": "",
+        "pais": "cn"
     },
-    'thvl-8': {
-        'nombre': 'THVL',
-        'm3u8_url': 'http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8',
-        'fuente': 'https://www.thvli.vn/live/thvl1-hd',
-        'pais': 'cn'
+    "THVL-8": {
+        "nombre": "THVL 8",
+        "iframe_url": "http://live.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8",
+        "fuente": "https://www.thvli.vn/live/thvl1-hd",
+        "pais": "cn"
     },
-    'cgtn-Español-8': {
-        'nombre': 'CGTN Español',
-        'yt_id': 'UCd94YCD7yp6d-YZSRYWyeFA',
-        'pais': 'cn'
+    "CGTN-Español": {
+        "nombre": "CGTN Español",
+        "yt_id": "UCd94YCD7yp6d-YZSRYWyeFA",
+        "fuente": "",
+        "pais": "cn"
     },
-    'cgtn-europe-9': {
-        'nombre': 'CGTN Europe',
-        'yt_id': 'UCj0TppyxzQWm9JbMg3CP8Rg',
-        'pais': 'cn'
+    "CGTN-Europe": {
+        "nombre": "CGTN Europe",
+        "yt_id": "UCj0TppyxzQWm9JbMg3CP8Rg",
+        "fuente": "",
+        "pais": "cn"
     },
-    'cgtn-10': {
-        'nombre': 'CGTN',
-        'm3u8_url': 'https://live.cgtn.com/1000/prog_index.m3u8',
-        'fuente': 'https://www.cgtn.com/',
-        'pais': 'cn'
+    "CGTN-10": {
+        "nombre": "CGTN 10",
+        "m3u8_url": "https://live.cgtn.com/1000/prog_index.m3u8",
+        "fuente": "https://www.cgtn.com/",
+        "pais": "cn"
     },
 // HONG KONG
     'HK-apple-daily': {
