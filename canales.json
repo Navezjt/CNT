@@ -489,6 +489,12 @@
         "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
         "pais": "ar"
     },
+    "HISPANTV": {
+        "nombre": "HISPANTV",
+        "m3u8_url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+        "fuente": "https://www.hispantv.com/directo",
+        "pais": "ir"
+    },
     "canal-26": {
         "nombre": "Canal 26",
         "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
