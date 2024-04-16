@@ -47,6 +47,7 @@ const listaCanalesViejo = {
         'pais': 'cl'
     }, */
 // CHILE
+{
     "24-horas": {
         "nombre": "24 horas",
         "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
@@ -1021,7 +1022,7 @@ const listaCanalesViejo = {
         "pais": "ar"
     },
 // COLOMBIA
-     "el-tiempo": {
+    "el-tiempo": {
         "nombre": "EL TIEMPO",
         "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
         "pais": "co"
@@ -1120,7 +1121,6 @@ const listaCanalesViejo = {
         "fuente": "https://radiotropical.pe/",
         "pais": "pe",
     },
-    
     "radio-uno": {
         "nombre": "Radio Uno",
         "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
@@ -1531,7 +1531,7 @@ const listaCanalesViejo = {
         "fuente": "https://live.adn40.mx/",
         "pais": "mx"
     },  
-        "Telemar-Campeche": {
+    "Telemar-Campeche": {
         "nombre": "Telemar Campeche",
         "iframe_url": "https://www.dailymotion.com/embed/video/x80bl3l?autoplay=1",
         "fuente": "https://telemarcampeche.com/transmision-en-vivo/",
