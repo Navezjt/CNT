@@ -1510,8 +1510,7 @@ const listaCanalesViejo = {
     "Televisa-Morelos": {
         "nombre": "Televisa Morelos",
         "yt_id": "UCcC9ykApQrgl4UxbKg2U4zw",
-        'fuente': 'https://www.youtube.com/@televisamorelos',
-        "fuente": "",
+        "fuente": "https://www.youtube.com/@televisamorelos",
         "pais": "mx"
     },    
     "tvmar-puerto-vallarta": {
