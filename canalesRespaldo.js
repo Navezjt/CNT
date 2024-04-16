@@ -1895,7 +1895,6 @@ const listaCanalesViejo = {
         "iframe_url": "https://players.cdn.enetres.net/live/79CE6A0C6AF94F7EB0F93BD0DE2949EF02204",
         "fuente": "https://grp.it/index.php/diretta-tv/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Rai-SüdTirol": {
         "nombre": "Rai SüdTirol",
