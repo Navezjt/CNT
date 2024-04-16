@@ -195,48 +195,41 @@
         "iframe_url": "https://rudo.video/live/coopetv?volume=0&mute=1",
         "fuente": "http://programas.cooperativa.cl/showalairelibre/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "bbtv": {
         "nombre": "Radio Biobio TV",
         "iframe_url": "https://rudo.video/live/bbtv?volume=0&mute=1",
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "bbtv2": {
         "nombre": "Radio Biobio TV 2",
         "iframe_url": "https://rudo.video/live/bbtv?autostart=1&volume=0&streamingLabel=home&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMDk4Mzg1L2Jpb2Jpb3R2L2FkX3ZpZGVvJnRmY2Q9MCZucGE9MCZzej02NDB4NDgwJmN1c3RfcGFyYW1zPXRpcG8lM0Rob21lLWJidHYlMjZjYXRlZ29yeS1wcmltYXJ5JTNEcG9ydGFkYS1iYnR2JmdkZnBfcmVxPTEmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnZwbXV0ZT0wJnZwYT1jbGljayZ2cG9zPXByZXJvbGwiLCJwb3N0IjowLCJtaWQiOnsidGFnIjowfSwib3ZlciI6eyJ0YWciOjB9fQ==",
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "adn": {
         "nombre": "Radio ADN",
         "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "adn-2": {
         "nombre": "Radio ADN 2",
         "yt_id": "UCczkrFICr0xEgDsk51zZojA",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "adn-3": {
         "nombre": "Radio ADN 3",
         "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "duna": {
         "nombre": "Radio Duna",
         "iframe_url": "https://rudo.video/live/dunatv?volume=0&mute=1",
         "fuente": "https://www.duna.cl/tv/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "infinita": {
         "nombre": "Radio Infinita",
@@ -255,97 +248,83 @@
         "iframe_url": "https://redirector.dps.live/universo/aac/icecast.audio",
         "fuente": "https://www.universo.cl/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-ae": {
         "nombre": "Radio AE Radio DuocUC",
         "iframe_url": "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2?sound=0",
         "fuente": "https://www.aeradio.cl/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "carolina-tv": {
         "nombre": "Radio Carolina TV",
         "iframe_url": "https://mdstrm.com/live-stream/63a06468117f42713374addd?autoplay=true&player=63af7b6cc5048f0846557764",
         "fuente": "https://www.carolina.cl/tv/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "carolina-tv2": {
         "nombre": "Radio Carolina TV2",
         "iframe_url": "https://rudo.video/live/carolinatv?volume=0&mute=1",
         "fuente": "https://www.carolina.cl/tv/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "romantica-tv": {
         "nombre": "Radio Romántica TV",
         "iframe_url": "https://mdstrm.com/live-stream/63a0674c1137d408b45d4821?autoplay=true&player=63af7b6cc5048f0846557764",
         "fuente": "https://www.romantica.cl/romantica-tv/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-genial": {
         "nombre": "Radio Genial 100.5 FM",
         "m3u8_url": "https://v1.tustreaming.cl:19360/genialtv/genialtv.m3u8",
         "fuente": "https://radiogenial.cl/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-la-clave": {
         "nombre": "Radio La Clave",
         "iframe_url": "https://rudo.video/live/laclavetv?volume=0&mute=1",
         "fuente": "https://radiolaclave.cl/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-el-conquistador": {
         "nombre": "Radio El Conquistador FM",
         "m3u8_url": "https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/elconquistadortv/elconquistadortv.smil/playlist.m3u8",
         "fuente": "https://www.elconquistadorfm.net/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-el-conquistador-2": {
         "nombre": "Radio El Conquistador FM 2",
         "iframe_url": "https://rudo.video/live/elconquistadortv",
         "fuente": "https://www.elconquistadorfm.net/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-el-conquistador-3": {
         "nombre": "Radio El Conquistador FM 3",
         "iframe_url": "https://player.twitch.tv/?channel=elconquistadortv&parent=alplox.github.io",
         "fuente": "https://www.twitch.tv/elconquistadortv",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-folclor-chile": {
         "nombre": "Radio Folclor de Chile",
         "yt_id": "UC0Hl8kJe8Xwv8g63Q4qefQg",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "sembrador": {
         "nombre": "Radio El Sembrador",
         "m3u8_url": "https://tv.streaming-chile.com:1936/elsembrador/elsembrador/playlist.m3u8",
         "fuente": "https://tv.radioelsembrador.cl/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "radio-nuble": {
         "nombre": "Radio Ñuble",
         "m3u8_url": "https://live.tvcontrolcp.com:1936/rnuble/rnuble/playlist.m3u8",
         "fuente": "https://radionuble.cl/v1/",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "alternativa-fm": {
         "nombre": "Radio Alternativa FM",
         "m3u8_url": "https://5eaccbab48461.streamlock.net:1936/8216/8216/playlist.m3u8",
         "fuente": "https://www.alternativafm.cl/p/alternativa-tv.html",
         "pais": "cl",
-        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "stgo-tv": {
         "nombre": "Stgo TV",
@@ -784,7 +763,7 @@
         "iframe_url": "https://playerv.voxtvhd.com.br/video/benfertv/3/true/true/VjFod1QxVXlVa2hWYmtaWVYwWmFjbGxzVW5KTlJuQkdZVWRHYVUxWVFrVlViR1IzWVZVeGNWRnFSbGhXZWxaTFZVWkZPVkJUYzNvPSta/16:9/nocover/nao",
         "fuente": "https://benfertv.cl//",
         "pais": "cl"
-    }
+    },
     "tn": {
         "nombre": "Todonoticias",
         "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
