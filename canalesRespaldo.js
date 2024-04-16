@@ -1216,7 +1216,6 @@ const listaCanalesViejo = {
         "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv",
         "fuente": "https://bestcableperu.com.pe/tv99.html",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "pbo-radio": {
         "nombre": "Pbo Radio",
@@ -1241,7 +1240,6 @@ const listaCanalesViejo = {
         "iframe_url": "https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVE5USEQvZGFzaF9may9pbmRleC5tcGQ=&k1=Y2MxZGJlNDM1NjRhYzUxYTYwNjQyMTgyOGI5OWQzYWQ=&k2=Mjg3OTc1YTY1ZWIzZjMzN2ExYmRmOWE4ZWVhYmY2MTM=&aut=true&lang=0",
         "fuente": "https://tvhd.pe/tnt-hd-en-vivo/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "señal-peru": {
         "nombre": "📻 Señal Peru",
@@ -1254,7 +1252,6 @@ const listaCanalesViejo = {
         "iframe_url": "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///",
         "fuente": "https://soltvperu.com/en-vivo/",
         "pais": "pe"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "cnc": {
         "nombre": "CNC",
@@ -1491,14 +1488,12 @@ const listaCanalesViejo = {
         "yt_id": "UCRujF_YxVVFmTRWURQH-Cww",
         "fuente": "https://www.youtube.com/@televisaguadalajara",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Canal-10-Durango": {
         "nombre": "Canal 10 Durango",
         "iframe_url": "https://conceptoweb-studio.com/radio/video/canal10durango/",
         "fuente": "https://canal10.com.mx/sitio/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Televisa-Morelos": {
         "nombre": "Televisa Morelos",
@@ -1506,84 +1501,72 @@ const listaCanalesViejo = {
         'fuente': 'https://www.youtube.com/@televisamorelos',
         "fuente": "",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "tvmar-puerto-vallarta": {
         "nombre": "tvmar puerto vallarta",
         "iframe_url": "https://conceptoweb-studio.com/radio/video/tvmarvallarta/",
         "fuente": "https://tvmar.tv/puerto-vallarta",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Canal-ADN-40": {
         "nombre": "Canal-ADN-40",
         "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
         "fuente": "https://www.youtube.com/@ADN40MX",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Canal2-ADN40": {
         "nombre": "Canal2 ADN40",
         "iframe_url": "https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&player=607868647ef7d607f13d0adb&show_title=false&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FADN-40%2FEnvivoConstantPage%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22",
         "fuente": "https://live.adn40.mx/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },  
         "Telemar-Campeche": {
         "nombre": "Telemar Campeche",
         "iframe_url": "https://www.dailymotion.com/embed/video/x80bl3l?autoplay=1",
         "fuente": "https://telemarcampeche.com/transmision-en-vivo/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Tvt-Mexico": {
         "nombre": "Tvt Mexico",
         "iframe_url": "https://conceptoweb-studio.com/radio/video/tabasco/",
         "fuente": "https://tvt.mx/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },     
     "quierotv-Mexico": {
         "nombre": "Quierotv Mexico",
         "iframe_url": "https://www.dailymotion.com/embed/video/x8lng9k?autoplay=0",
         "fuente": "https://quierotv.mx/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },     
     "canal-66": {
         "nombre": "Canal-66",
         "iframe_url": "https://conceptoweb-studio.com/radio/video/canal66/",
         "fuente": "https://canal66.tv/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },     
     "Canal-33-Tijuan": {
         "nombre": "Canal 33 Tijuana",
         "iframe_url": "https://conceptoweb-studio.com/radio/video/canal66/",
         "fuente": "https://canal66.tv/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },     
     "Ryta": {
         "nombre": "Ryta",
         "m3u8_url": "https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8",
         "fuente": "https://ryta.com.mx/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },     
     "Canal-44": {
         "nombre": "Canal 44",
         "iframe_url": "https://conceptoweb-studio.com/radio/video/canal44/",
         "fuente": "https://canal44.com/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },             
     "Foro-Tv": {
         "nombre": "Foro Tv",
         "m3u8_url": "https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index_4.m3u8",
         "fuente": "https://www.nmas.com.mx/foro-tv/",
         "pais": "mx"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },        
 // GUATEMALA
     "canal3-guatemala": {
@@ -1591,28 +1574,24 @@ const listaCanalesViejo = {
         "iframe_url": "https://dy434h3s52eoj.cloudfront.net/Canal3GT/01582b1c46c04a847aa7c4936d1eeba7.sdp/playlist.m3u8?DVR",
         "fuente": "https://www.chapintv.com/envivo-canal-23/",
         "pais": "gt"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Canal7-Guatemala": {
         "nombre": "Canal7 Guatemala",
         "m3u8_url": "https://dy434h3s52eoj.cloudfront.net/Canal7GT/d84b644e13e68dd78dfcb9a0cf0338f1.sdp/Canal7GT/Canal7GT1/chunks.m3u8?DVR",
         "fuente": "https://www.chapintv.com/envivo-canal-23/",
         "pais": "gt"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "TN23-Guatemala": {
         "nombre": "TN23-Guatemala",
         "iframe_url": "",
         "fuente": "https://www.chapintv.com/envivo-canal-23/",
         "pais": "gt"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Canal27-Guatemala": {
         "nombre": "Canal27 Guatemala",
         "m3u8_url": "https://live.canal27.tv:3633/live/canal27live.m3u8",
         "fuente": "https://www.canal27.org/",
         "pais": "gt"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
 // HONDURAS
     "HCH-En-Vivo": {
@@ -1620,105 +1599,90 @@ const listaCanalesViejo = {
         "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
         "fuente": "https://hch.tv/live/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },  
     "Televicentro": {
         "nombre": "Televicentro",
         "iframe_url": "https://mdstrm.com/live-stream/6287fda8ea3b8b397d1ca2ed",
         "fuente": "https://www.televicentro.com/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Tencanal-10": {
         "nombre": "Tencanal 10",
         "m3u8_url": "https://62418d5684c12.streamlock.net/TENHD/TENLive.smil/chunklist_w1421547273_b1248000.m3u8",
         "fuente": "https://tencanal10.tv/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Canal-11": {
         "nombre": "Canal-11",
         "m3u8_url": "https://us-b4-p-e-nq15.cdn.mdstrm.com/live-stream/603d4e1fb042ce07c5c8f911/publish/media_200.m3u8?aid=60356e540f843032743f6852&uid=hM3enSvwRarqiVI8eni3rZaaKqsdsQHq&sid=xgZgfXl2xsSVDUPx6DapICZ3ckQIuORI&pid=6Yoq8FehK3oRwhiOyCf8daAtwOqjsNY9&ref=https%3A%2F%2Fcanal11.hn%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-nq15.cdn.mdstrm.com&ote=1705447408648&ot=NL2DGzXi_IYuXkXHICIybQ&proto=https&pz=us",
         "fuente": "https://canal11.hn/en-vivo/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Unetv": {
         "nombre": "Unetv",
         "m3u8_url": "https://amixtv.live:3395/live/unetvlive.m3u8",
         "fuente": "http://www.unetvhn.com/en-vivo/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "CHtv": {
         "nombre": "CHtv",
         "iframe_url": "https://gavamultimedios.com/CHTV/index.php",
         "fuente": "https://chtv.hn/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Qhubotv": {
         "nombre": "Qhubotv",
         "iframe_url": "https://worldkast.com/newplayer/sitv.html",
         "fuente": "https://qhubotv.com/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "DEPORTES-TELEVICENTRO": {
         "nombre": "DEPORTES TELEVICENTRO",
         "iframe_url": "https://mdstrm.com/live-stream/6287fdc9303e3008289ab711",
         "fuente": "https://www.deportestvc.com/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "ltv-en-vivo": {
         "nombre": "ltv en vivo",
         "iframe_url": "https://panel.fiberstreams.com:8080/VideoPlayer/6022",
         "fuente": "https://www.ltv.hn/ltv-en-vivo/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Teleprogreso": {
         "nombre": "Teleprogreso",
         "iframe_url": "https://tphonduras.net/TPLIVE/",
         "fuente": "https://www.teleprogreso.tv/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Edntv": {
         "nombre": "Edntv",
         "iframe_url": "https://conceptoweb-studio.com/radio/video/edntv/",
         "fuente": "https://www.ltv.hn/ltv-en-vivo/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Qhubo": {
         "nombre": "Qhubo",
         "iframe_url": "https://tvinsur.com/embed/tv/hn/qhubotv.html?v=1",
         "fuente": "https://qhubotv.com/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Justiciatv": {
         "nombre": "Justiciatv",
         "iframe_url": "https://cloud2.streaminglivehd.com:2000/VideoPlayer/justiciatv",
         "fuente": "https://justiciatv.hn/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Enlace": {
         "nombre": "Enlace",
         "iframe_url": "https://componentes.enlace.org/live#/player?enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false",
         "fuente": "https://www.enlace.org/honduras/",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Ebenezer": {
         "nombre": "Ebenezer",
         "iframe_url": "https://5e85d90130e77.streamlock.net:443/6010/ngrp:6010_all/playlist.m3u8",
         "fuente": "https://ebenezer.hn/envivo",
         "pais": "hn"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
 // ECUADOR   
     "Ecuavisa": {
@@ -1726,239 +1690,205 @@ const listaCanalesViejo = {
         "iframe_url": "https://rudo.video/live/ecuavisa",
         "fuente": "https://www.ecuavisa.com/envivo",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Zaracaytv": {
         "nombre": "Zaracaytv",
         "iframe_url": "https://makrodigital.com/makrostreaming/zaracaytv/",
         "fuente": "http://zaracaytv.com/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "ABC": {
         "nombre": "ABC",
         "iframe_url": "https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html",
         "fuente": "https://www.abc.com.py/tv/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Canalunoecuador": {
         "nombre": "Canalunoecuador",
         "iframe_url": "https://www.eltelegrafo.com.ec/medios/stream.php",
         "fuente": "https://canalunoecuador.com/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Ecuadortv7": {
         "nombre": "Ecuadortv7",
         "iframe_url": "https://cp.panelchs.com:2020/VideoPlayer/8122?autoplay=1",
         "fuente": "https://www.ecuadortv.ec/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Manavision": {
         "nombre": "Manavision",
         "m3u8_url": "https://play.once.net.ec/play/Ily2oYdd3E1fi9wK2zORoRovFU9P5xM0g3CNVK2MT0M/m3u8",
         "fuente": "https://www.eldiario.ec/videos-manavision/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Multicanalcatamayo": {
         "nombre": "Multicanalcatamayo",
         "iframe_url": "https://playerhd.eu/tv/multicanal/",
         "fuente": "https://www.multicanalcatamayo.com/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "RTS": {
         "nombre": "RTS",
         "iframe_url": "",
         "fuente": "https://www.rts.com.ec/envivo/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Ecotel": {
         "nombre": "Ecotel",
         "iframe_url": "https://playerhd.eu/tv/ecotel/",
         "fuente": "https://www.ecotel.tv/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
     "Telesucesos": {
         "nombre": "Telesucesos",
         "iframe_url": "https://ticsbalancer.ticsecuador.com.ec/TeleSucesos/play.html?name=UIO-HD",
         "fuente": "https://www.telesucesos.net/",
         "pais": "ec"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },    
 // ITALIA
     "La7": {
         "nombre": "La7",
         "iframe_url": "https://d15umi5iaezxgx.cloudfront.net/LA7/DRM/DASH/Live.mpd",
         "fuente": "https://www.la7.it/dirette-tv",
-        "pais": ""
-        "alt_icon": "<i class='bi bi-boombox'></i>
+        "pais": "it"
     }, 
     "Lombardia": {
         "nombre": "Lombardia",
         "m3u8_url": "https://5db313b643fd8.streamlock.net:443/lmbiatv/lmbiatv/playlist.m3u8",
         "fuente": "https://www.lombardiatv.com/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Televenezia": {
         "nombre": "Televenezia",
         "m3u8_url": "https://59d7d6f47d7fc.streamlock.net/televenezia/televenezia/playlist.m3u8",
         "fuente": "https://www.veneziaradiotv.it/streaming-televenezia/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Rtv38": {
         "nombre": "Rtv38",
         "iframe_url": "https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8",
         "fuente": "https://www.tg38.it/rtv38/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Milano-Pavia-TV": {
         "nombre": "Milano Pavia TV",
         "iframe_url": "https://player.streamshow.it/hosted/telepavia.php?autoplay=true&muted=true&posterimage=",
         "fuente": "https://www.milanopavia.tv/diretta-tv-milanopaviatv",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "TvModa": {
         "nombre": "TvModa",
         "m3u8_url": "https://585b1526dec74509b4bacb3edfffa885.msvdn.net/live/S34780352/RcBUa84Fth0C/playlist.m3u8",
         "fuente": "https://video.milanofinanza.it/tvmoda/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "TvL": {
         "nombre": "TvL",
         "m3u8_url": "https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8",
         "fuente": "https://www.tvl.it/it/diretta-tvl",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Sportvl": {
         "nombre": "Sportvl",
         "m3u8_url": "https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8",
         "fuente": "https://www.tvl.it/it/diretta-sportvl",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Canale3": {
         "nombre": "Canale3",
         "iframe_url": "https://play.xdevel.com/13096/video0s976737-1453",
         "fuente": "https://canale3.tv/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Canale10": {
         "nombre": "Canale10",
         "iframe_url": "https://wz4.newradio.it:8080/VideoPlayer/dyrqkgmjqq?autoplay=1",
         "fuente": "https://canaledieci.it/diretta/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Super": {
         "nombre": "Super",
         "m3u8_url": "https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8",
         "fuente": "https://www.bresciasat.it/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Canaleotto": {
         "nombre": "Canaleotto",
         "iframe_url": "https://player.streamshow.it/hosted/canale8.php?autoplay=false&muted=false&posterimage=https://",
         "fuente": "http://www.canaleotto.it/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Canale-2": {
         "nombre": "Canale 2",
         "m3u8_url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8",
         "fuente": "http://www.canale2tv.it/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "QVC": {
         "nombre": "QVC",
         "iframe_url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/480p1000/480p1000.m3u8",
         "fuente": "https://www.qvc.it/tv/live.html",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Videolina": {
         "nombre": "Videolina",
         "m3u8_url": "https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/videolina/videolina_live/videolina_live/playlist.m3u8",
         "fuente": "https://www.videolina.it/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Telemolise": {
         "nombre": "Telemolise",
         "m3u8_url": "http://185.202.128.1:1935/Telemolise4K/Telemolise4K/playlist.m3u8",
         "fuente": "http://www.telemolise.com/stream.php",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Reitv": {
         "nombre": "Reitv",
         "m3u8_url": "https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8",
         "fuente": "https://www.reitv.it/index2.html",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Telenord": {
         "nombre": "Telenord",
         "m3u8_url": "https://64b16f23efbee.streamlock.net:443/telenord/telenord/playlist.m3u8",
         "fuente": "https://telenord.it/diretta-streaming/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "TG-Norba-24": {
         "nombre": "TG Norba24",
         "iframe_url": "https://play.xdevel.com/13074",
         "fuente": "https://norbaonline.it/live.php?diretta=tgnorba",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Umbriatv": {
         "nombre": "Umbriatv",
         "m3u8_url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8",
         "fuente": "https://www.umbriatv.com/diretta-tv/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Telelaser": {
         "nombre": "Telelaser",
         "m3u8_url": "https://585b674743bbb.streamlock.net:443/9022/9022/playlist.m3u8",
         "fuente": "http://telelaser.tv/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Tvoggisalerno": {
         "nombre": "Tvoggisalerno",
         "iframe_url": "https://platform.wim.tv/embed/?live=cfb54b0e-b5fb-4ed5-9ae0-bec1dc02e596",
         "fuente": "https://www.tvoggisalerno.it/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Rete8": {
         "nombre": "Rete8",
         "iframe_url": "https://zerounocaststreaming.it:2020/VideoPlayer/rete8?autoplay=1",
         "fuente": "https://www.rete8.it/canali-tv/rete8/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Telebelluno": {
         "nombre": "Telebelluno",
         "m3u8_url": "https://live.mariatvcdn.com/telebelluno/a3b80388da9801906adf885282e73bc3.sdp/mono.m3u8",
         "fuente": "https://www.telebelluno.it/streaming/",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "GRP": {
         "nombre": "GRP",
@@ -1972,7 +1902,6 @@ const listaCanalesViejo = {
         "m3u8_url": "https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8",
         "fuente": "https://www.raibz.rai.it/de/index.php",
         "pais": "it"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
 // ESPAÑA
     "CNN-Español": {
@@ -1980,70 +1909,60 @@ const listaCanalesViejo = {
         "iframe_url": "http://45.166.92.22:58001/play/a036/index.m3u8",
         "fuente": "",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "RTVE RADIOFICIAL": {
         "nombre": "RTVE RADIOFICIAL",
         "iframe_url": "https://www.rtve.es/play/videos/directo/ojo-critico-rne-arco-madrid-2024/",
         "fuente": "https://www.rtve.es/play/videos/directo",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "RTVE-LA1-OFICIAL": {
         "nombre": "RTVE LA1 OFICIAL",
         "iframe_url": "https://www.rtve.es/play/videos/directo/la-1/",
         "fuente": "https://www.rtve.es/play/videos/directo/",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "RTVE-LA2-OFICIAL": {
         "nombre": "RTVE LA2 OFICIAL",
         "iframe_url": "https://www.rtve.es/play/videos/directo/la-2/",
         "fuente": "https://www.rtve.es/play/videos/directo/",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "RTVE-OFICIAL": {
         "nombre": "RTVE OFICIAL",
         "iframe_url": "https://www.rtve.es/play/videos/directo/24h/",
         "fuente": "https://www.rtve.es/play/videos/directo/",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "RTVE-En-Vivo": {
         "nombre": "RTVE En Vivo",
         "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
         "fuente": "https://www.rtve.es/play/videos/directo/",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "RTVE-Noticias": {
         "nombre": "RTVE Noticias",
         "iframe_url": "https://www.youtube.com/embed/mzdfGCdNSHQ?si=flc8T9xScgW4tz7h",
         "fuente": "https://www.rtve.es/play/videos/directo/",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "GALICIA": {
         "nombre": "GALICIA",
         "m3u8_url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
         "fuente": "https://www.crtvg.es/portada",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Canalsur": {
         "nombre": "Canalsur",
         "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&rel=0&modestbranding&enablejsapi=1&origin=https%3A%2F%2Fwww.canalsur.es",
         "fuente": "https://www.canalsur.es/tv_directo-1193.html",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Señal-España": {
         "nombre": "Señal España",
         "iframe_url": "https://playerssl.radioonlinehd.com/tv91/xhunestv/",
         "fuente": "https://senalespana.unes.edu.mx/",
         "pais": "es"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
 // BRASIL
     "CNN-Brasil": {
@@ -2051,7 +1970,6 @@ const listaCanalesViejo = {
         "yt_id": "UCvdwhh_fDyWccR42-rReZLw",
         "fuente": "",
         "pais": "br"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
 // TAILANDIA
     "Workpointtv": {
@@ -2059,14 +1977,12 @@ const listaCanalesViejo = {
         "iframe_url": "https://geo.dailymotion.com/player/x8wpe.html?video=k28IxkHn9OkzvvqoVob",
         "fuente": "https://www.workpointtv.com/live-stream-page/",
         "pais": "th"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "Workpointtv-1": {
         "nombre": "Workpointtv 1",
         "iframe_url": "https://player.twitch.tv/?channel=workpointofficial&parent=www.workpointtv.com&referrer=https%3A%2F%2Fwww.workpointtv.com%2Flive-stream-page%2F",
         "fuente": "https://www.workpointtv.com/live-stream-page/",
         "pais": "th"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
 // INDONESIA
     "ANTV": {
@@ -2074,175 +1990,150 @@ const listaCanalesViejo = {
         "iframe_url": "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/782",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     }, 
     "TVOne": {
         "nombre": "TVOne",
         "iframe_url": "https://www.vidio.com/live/783/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/783",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Tawaf-TV": {
         "nombre": "Tawaf TV",
         "iframe_url": "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/12607",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "TRAX": {
         "nombre": "TRAX",
         "iframe_url": "https://www.vidio.com/live/7055/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/7055",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "DAAI-TV": {
         "nombre": "DAAI TV",
         "iframe_url": "https://www.vidio.com/live/6482/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/6482",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Kompas-TV": {
         "nombre": "Kompas TV",
         "iframe_url": "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/6441",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "BTV": {
         "nombre": "BTV",
         "iframe_url": "https://www.vidio.com/live/6165/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/6165",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Metro-TV": {
         "nombre": "Metro TV",
         "iframe_url": "https://www.vidio.com/live/777/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/777",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "TVRI": {
         "nombre": "TVRI",
         "iframe_url": "https://www.vidio.com/live/6441/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/6441",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Trans7": {
         "nombre": "Trans7",
         "iframe_url": "https://www.vidio.com/live/734/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/206",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "TRANS-tv": {
         "nombre": "TRANS Tv",
         "iframe_url": "https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/733",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Ardan-Radio": {
         "nombre": "Ardan Radio",
         "iframe_url": "https://www.vidio.com/live/7184/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/7184",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "TVN": {
         "nombre": "TVN",
         "iframe_url": "https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/6362",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Zee-Bioskop": {
         "nombre": "Zee Bioskop",
         "iframe_url": "https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/6399",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "RANS-TV": {
         "nombre": "RANS TV",
         "iframe_url": "https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/8241",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "AJWA-TV": {
         "nombre": "AJWA-TV",
         "iframe_url": "https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/7464",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "RTV": {
         "nombre": "RTV",
         "iframe_url": "https://www.vidio.com/live/1561/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/5415",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "NETV": {
         "nombre": "NETV",
         "iframe_url": "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/5415",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "JAKTV": {
         "nombre": "JAKTV",
         "iframe_url": "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/5415",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Moji": {
         "nombre": "Moji",
         "iframe_url": "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/206",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "SCTV": {
         "nombre": "SCTV",
         "iframe_url": "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/204-sctv?schedule_id=3249308",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Indosiar": {
         "nombre": "Indosiar",
         "iframe_url": "https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/205-indosiar",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "CNN Chile00": {
         "nombre": "CNN Chile00",
         "iframe_url": "https://www.vidio.com/live/733-trans-tv/embed?autoplay=true&player_only=true&mute=false",
         "fuente": "https://www.vidio.com/live/733-trans-tv?schedule_id=3245518",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "CNN-Cl0": {
         "nombre": "CNN-Cl0",
         "m3u8_url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8",
         "fuente": "https://www.cnnchile.com/",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "ANTV-l": {
         "nombre": "ANTV l",
         "iframe_url": "https://player.twitch.tv/?channel=antv_digimed&parent=alplox.github.io",
         "fuente": "https://www.antvklik.com/",
         "pais": "id"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // MALAYSIA
     "Tv1": {
@@ -2250,168 +2141,144 @@ const listaCanalesViejo = {
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/1",
         "fuente": "https://rtmklik.rtm.gov.my/live/tv1",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Tv2": {
         "nombre": "Tv2",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/2",
         "fuente": "https://rtmklik.rtm.gov.my/live/tv2",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Tv2-live": {
         "nombre": "Tv2 live",
         "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv2/",
         "fuente": "https://www.livetvmalaysia.online/2023/12/tv2-live.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Tv3": {
         "nombre": "Tv3",
         "iframe_url": "https://desireevanessen.blogspot.com/2023/06/tvv3.html",
         "fuente": "https://www.livetvmalaysia.online/2019/04/tv3.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Okey": {
         "nombre": "Okey",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/3",
         "fuente": "https://rtmklik.rtm.gov.my/live/okey",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Okey1": {
         "nombre": "Okey1",
         "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/tv-okey/",
         "fuente": "https://www.livetvmalaysia.online/2018/05/okey.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Beritartm": {
         "nombre": "Beritartm",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/5",
         "fuente": "https://rtmklik.rtm.gov.my/live/beritartm",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Tv6": {
         "nombre": "Tv6",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/6",
         "fuente": "https://rtmklik.rtm.gov.my/live/tv6",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Parliament-Live": {
         "nombre": "Parliament Live",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/7",
         "fuente": "https://www.pmo.gov.my/parliament-live-dewan-rakyat/",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Boraktengahlapar": {
         "nombre": "Boraktengahlapar",
         "iframe_url": "https://rtm-player.glueapi.io/latest/h/13669",
         "fuente": "https://rtmklik.rtm.gov.my/live/boraktengahlapar",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Madani-Urdu-Live": {
         "nombre": "Madani Urdu Live",
         "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow",
         "fuente": "https://www.madanichannel.tv/islam/streaming/watch-live-youtube-madani-channel-urdu.htm",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Bernama-TV-🇲🇾": {
         "nombre": "Bernama TV 🇲🇾",
         "iframe_url": "https://www.youtube.com/embed/-yN2chxbai4?enablejsapi=1&rel=0&showinfo=0&controls=1&html5=1&autoplay=1&mute=1&playsinline=1",
         "fuente": "https://www.youtube.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Astro-AWANI": {
         "nombre": "Astro AWANI",
         "iframe_url": "https://geo.dailymotion.com/player/x7r7w.html?video=x8dbnq6&customConfig[keyvalues]=client_id%3Dnull&actionInfo=false&dmPubtool=new-cdn-ce-v2",
         "fuente": "https://www.astroawani.com/video-terkini",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Tv9": {
         "nombre": "Tv9",
         "iframe_url": "https://desireevanessen.blogspot.com/2023/06/tvv9.html",
         "fuente": "https://www.livetvmalaysia.online/2019/04/tv9.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Sukan": {
         "nombre": "Sukan",
         "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/sukan-rtm/",
         "fuente": "https://www.livetvmalaysia.online/2022/06/sukan.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Berita1": {
         "nombre": "Berita1",
         "iframe_url": "https://zazerconer.github.io/live-tv-malaysia-with-player/channel/rtm/berita-rtm/",
         "fuente": "https://www.livetvmalaysia.online/2022/09/berita.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Ikim": {
         "nombre": "Ikim",
         "iframe_url": "https://tvizer.blogspot.com/2023/08/tv-ikim.html",
         "fuente": "https://www.livetvmalaysia.online/2017/12/tv-ikim.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Bernama-Tv1": {
         "nombre": "Bernama Tv1",
         "iframe_url": "https://desireevanessen.blogspot.com/2023/07/bernama.html",
         "fuente": "https://www.livetvmalaysia.online/2017/12/bernama-tv.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Selangor": {
         "nombre": "Selangor",
         "iframe_url": "https://paddlesportsportal.com/tvs.php",
         "fuente": "https://www.livetvmalaysia.online/2017/12/tv-selangor.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Awani-Tv1": {
         "nombre": "Awani Tv1",
         "iframe_url": "https://tvizer.blogspot.com/2023/08/astro-awani.html",
         "fuente": "https://www.livetvmalaysia.online/2018/12/awani.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Didik-ntv7": {
         "nombre": "Didik ntv7",
         "iframe_url": "https://desireevanessen.blogspot.com/2023/07/didik.html",
         "fuente": "https://www.livetvmalaysia.online/2019/04/ntv7.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Alhijrah": {
         "nombre": "Alhijrah",
         "iframe_url": "https://desireevanessen.blogspot.com/2023/07/alhijrah.html",
         "fuente": "https://www.livetvmalaysia.online/2017/12/tv-alhijrah.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Motogp": {
         "nombre": "Motogp",
         "iframe_url": "https://desireevanessen.blogspot.com/2024/03/gp1.html",
         "fuente": "https://www.livetvmalaysia.online/2018/12/motogp.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Bola": {
         "nombre": "Bola",
         "iframe_url": "https://desireevanessen.blogspot.com/2024/03/foot.htm",
         "fuente": "https://www.livetvmalaysia.online/2018/03/bola.html",
         "pais": "my"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // PHILIPPINES
     "Dzrh": {
@@ -2419,28 +2286,24 @@ const listaCanalesViejo = {
         "iframe_url": "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3",
         "fuente": "https://www.dzrh.com.ph/",
         "pais": "ph"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "ABS-CBNEntertainment": {
         "nombre": "ABS CBNEntertainment",
         "iframe_url": "https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV",
         "fuente": "https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment",
         "pais": "ph"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Kapamilya": {
         "nombre": "Kapamilya",
         "iframe_url": "https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER",
         "fuente": "https://www.youtube.com/@abscbnentertainment",
         "pais": "ph"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Untv": {
         "nombre": "Untv",
         "iframe_url": "https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO",
         "fuente": "https://www.youtube.com/@UNTVNewsandRescue",
         "pais": "ph"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // CANADÁ
     "Global-News": {
@@ -2448,7 +2311,6 @@ const listaCanalesViejo = {
         "m3u8_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
         "fuente": "https://globalnews.ca/live/national/",
         "pais": "ca"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // ESTADOS UNIDOS
     "ABC7": {
@@ -2456,227 +2318,186 @@ const listaCanalesViejo = {
         "yt_id": "UCVxBA3Cbu3pm8w8gEIoMEog",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
-    },
-    'abc7-swfl': {
-        'nombre': 'ABC7 SWFL',
-        'yt_id': 'UCq9e_hCv2jvgck8WowW1NXg',
-        'pais': 'us'
     },
     "ABC7-SWFL": {
         "nombre": "ABC7 SWFL",
         "yt_id": "UCq9e_hCv2jvgck8WowW1NXg",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "ABC-News": {
         "nombre": "ABC News",
         "iframe_url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
         "fuente": "https://abcnews.go.com/Live",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
-    },
-    'agenda-free-tv': {
-        'nombre': 'Agenda-Free TV',
-        'yt_id': 'UCshCsg1YVKli8yBai-wa78w',
-        'pais': 'us'
     },
     "Agenda-Free-TV": {
         "nombre": "Agenda-Free TV",
         "yt_id": "UCshCsg1YVKli8yBai-wa78w",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "VOA": {
         "nombre": "VOA",
         "m3u8_url": "https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/playlist.m3u8",
         "fuente": "https://www.vozdeamerica.com/",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Ariana-NEWS": {
         "nombre": "Ariana-NEWS",
         "m3u8_url": "https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8",
         "fuente": "https://www.ariananews.af/livetv",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "agenda-free-tv-tw": {
         "nombre": "Agenda Free Tv Tw",
         "iframe_url": "https://player.twitch.tv/?channel=agendafreetv&parent=alplox.github.io",
         "fuente": "https://www.twitch.tv/agendafreetv",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Bloomberg-US": {
         "nombre": "Bloomberg US",
         "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
         "fuente": "https://www.bloomberg.com/",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Bloomberg-Europe": {
         "nombre": "Bloomberg Europe",
         "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/eu.m3u8",
         "fuente": "https://www.bloomberg.com/europe",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Bloomberg-QuickTake": {
         "nombre": "Bloomberg QuickTake",
         "m3u8_url": "https://www.bloomberg.com/media-manifest/streams/qt.m3u8",
         "fuente": "https://www.bloomberg.com/",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Cheddar": {
         "nombre": "Cheddar",
         "m3u8_url": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8",
         "fuente": "https://cheddar.com/live",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "CBSN": {
         "nombre": "CBSN",
         "m3u8_url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8",
         "fuente": "https://www.cbsnews.com/live/",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "CNN-US": {
         "nombre": "CNN US",
         "iframe_url": "https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8",
         "fuente": "https://us.cnn.com",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "CNBC-EU": {
         "nombre": "CNBC EU",
         "iframe_url": "https://vidplus.pc.cdn.bitgravity.com/cnbceu-origin/live/playlist.m3u8",
         "fuente": "https://www.cnbc.com/live-tv/",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "C-SPAN-1": {
         "nombre": "C-SPAN 1",
         "m3u8_url": "https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8",
         "fuente": "https://www.c-span.org/networks/?channel=c-span",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "C-SPAN-2": {
         "nombre": "C-SPAN 2",
         "m3u8_url": "https://skystreams-lh.akamaihd.net/i/SkyC2_1@500807/master.m3u8",
         "fuente": "https://www.c-span.org/networks/?channel=c-span",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "C-SPAN-3": {
         "nombre": "C-SPAN 3",
         "m3u8_url": "https://skystreams-lh.akamaihd.net/i/SkyC3_1@500808/master.m3u8",
         "fuente": "https://www.c-span.org/networks/?channel=c-span",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Fox-Business": {
         "nombre": "Fox Business",
         "yt_id": "UCCXoCcu9Rp7NPbTzIvogpZg",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Fox-News-Now": {
         "nombre": "Fox News Now",
         "m3u8_url": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
         "fuente": "https://video.foxnews.com/v/6174103160001",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "LiveNOW-from-FOX": {
         "nombre": "LiveNOW from FOX",
         "yt_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Newsmax": {
         "nombre": "Newsmax",
         "yt_id": "UCx6h-dWzJ5NpAlja1YsApdg",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "NBCLA": {
         "nombre": "NBCLA",
         "yt_id": "UCSWoppsVL0TLxFQ2qP_DLqQ",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "NBC-News": {
         "nombre": "NBC News",
         "yt_id": "UCeY0bbntWzzVIaj2z3QigXg",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "nbc-now-live-event": {
         "nombre": "NBC Now (Live Event)",
         "m3u8_url": "https://nbcnews-lh.akamaihd.net/i/nbc_live13@187394/master.m3u8",
         "fuente": "https://www.nbcnews.com/now",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "NBC-Now": {
         "nombre": "NBC Now",
         "m3u8_url": "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_1_4596000.m3u8",
         "fuente": "https://www.nbcnews.com/now",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "PBS-America": {
         "nombre": "PBS America",
         "m3u8_url": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
         "fuente": "https://www.pbsamerica.co.uk/",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Record-News": {
         "nombre": "Record News",
         "yt_id": "UCuiLR4p6wQ3xLEm15pEn1Xw",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Sky-News": {
         "nombre": "Sky News",
         "yt_id": "UCoMdktPbSTixAyNGwb-UYkQ'",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Telemundo": {
         "nombre": "Telemundo",
         "m3u8_url": "http://45.166.92.22:58001/play/a00r/index.m3u8",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "Noticias-Telemundo": {
         "nombre": "Noticias Telemundo",
         "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     "The-Sun": {
         "nombre": "The Sun",
         "yt_id": "UCIzXayRP7-P0ANpq-nD-h5g",
         "fuente": "",
         "pais": "us"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
 // FRANCIA        
     'euronews-esp': {
@@ -2689,7 +2510,6 @@ const listaCanalesViejo = {
         "iframe_url": "",
         "fuente": "",
         "pais": "fr"
-        "alt_icon": "<i class='bi bi-boombox'></i>
     },
     'euronews-eng': {
         'nombre': 'euronews (English)',
