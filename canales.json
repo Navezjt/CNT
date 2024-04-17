@@ -590,6 +590,12 @@
         "fuente": "https://hanoionline.vn/",
         "pais": "vn"
     },
+    "HÀ-NỘI": {
+        "nombre": "HÀ NỘI",
+        "m3u8_url": "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8",
+        "fuente": "https://hanoionline.vn/",
+        "pais": "vn"
+    },
     "ATV1": {
         "nombre": "ATV1",
         "iframe_url": "http://xemtruyenhinh.xyz/kenh/atv1.php",
