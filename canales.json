@@ -494,14 +494,172 @@
         "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
         "pais": "ar"
     },
+    "america-tv": {
+        "nombre": "América TV",
+        "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
+        "pais": "ar"
+    },
+    "america-tv-1": {
+        "nombre": "América TV 1",
+        "iframe_url": "https://flow3.nebunexa.co/cvattgb.html?get=QW1lcmljYVRW&lang=1",
+        "fuente": "https://television-libre.online/en-vivo/america-tv/",
+        "pais": "ar"
+    },
+    "tv-publica-1": {
+        "nombre": "Televisión Pública 1",
+        "m3u8_url": "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8",
+        "fuente": "",
+        "pais": "ar"
+    },
+    "tv-publica-2": {
+        "nombre": "Televisión Pública 2",
+        "iframe_url": "https://television-libre.online/html/fl2/?get=Q2FuYWw3",
+        "fuente": "https://television-libre.online/en-vivo/tv-publica/",
+        "pais": "ar"
+    },
+    "cronica-tv": {
+        "nombre": "Crónica TV",
+        "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
+        "pais": "ar"
+    },
+    "el-siete-tv": {
+        "nombre": "El Siete TV",
+        "yt_id": "UC64ZNqX0FQHabP8iIkmnR3A",
+        "pais": "ar"
+    },
+    "el-siete-tv-1": {
+        "nombre": "El Siete TV 1",
+        "iframe_url": "https://www.youtube.com/embed/Vh8xmLBJtR8",
+        "fuente": "https://vercanalesonline.com/en-vivo/el-siete-mendoza/",
+        "pais": "ar"
+    },
+    "el-siete-tv-2": {
+        "nombre": "El Siete TV 2",
+        "iframe_url": "https://www.youtube.com/watch?v=Vh8xmLBJtR8",
+        "fuente": "https://www.elsietetv.com.ar/",
+        "pais": "ar"
+    },
+    "a24": {
+        "nombre": "A24",
+        "iframe_url": "UCR9120YBAqMfntqgRTKmkjQ",
+        "pais": "ar"
+    },
+    "a24-1": {
+        "nombre": "A24-1",
+        "iframe_url": "https://flow.fullbed.rest/cvatt.html?get=QW1lcmljYTI0",
+        "fuente": "https://vercanalesonline.com/en-vivo/america24/",
+        "pais": "ar"
+    },
+    "a24-2": {
+        "nombre": "A24-2",
+        "iframe_url": "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
+        "fuente": "https://www.a24.com/vivo",
+        "pais": "ar"
+    },
+    "ip-digital0": {
+        "nombre": "Información Periodistica0",
+        "iframe_url": "https://cdn.iframe.ly/api/iframe?amp=1&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlrIa3ImYrhU&key=284d6b492934666274563e3e1a67cadd",
+        "fuente": "https://ip.digital/vivo",
+        "pais": "ar"
+    },
+    "ip-digital": {
+        "nombre": "Información Periodistica",
+        "iframe_url": "https://player.twitch.tv/?channel=ip_noticias&parent=ipnoticias.ar",
+        "fuente": "https://ip.digital/vivo",
+        "pais": "ar"
+    },
+    "ip-digital-2": {
+        "nombre": "IP Noticias",
+        "yt_id": "UC1bBjOZieJWHbsFA0LwjjJA",
+        "pais": "ar"
+    },
+    "extra-tv": {
+        "nombre": "EXTRA TV",
+        "yt_id": "UCe22LRtJ6sAx3nn2b0SzuRQ",
+        "pais": "ar"
+    },
+    "canal22-tv": {
+        "nombre": "Canal22 TV",
+        "iframe_url": "https://videocloud.instream.audio:2000/VideoPlayer/canal22?autoplay=1",
+        "fuente": "https://www.canal22web.com/",
+        "pais": "ar"
+    },
+    "elnueve-tv": {
+        "nombre": "ElNueve TV",
+        "iframe_url": "https://player.twitch.tv/js/embed/v1.js",
+        "fuente": "https://www.canal22web.com/",
+        "pais": "ar"
+    },
+    "Cadena3-tv": {
+        "nombre": "Cadena3 TV",
+        "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
+        "pais": "ar"
+    },
+    "El-Destape": {
+        "nombre": "El Destape",
+        "iframe_url": "https://www.youtube.com/embed/3Kr2MivBrlk?autoplay=1&mute=1",
+        "fuente": "https://www.eldestapeweb.com/",
+        "pais": "ar"
+    },
+    "Radiomitre-TV": {
+        "nombre": "Radiomitre TV",
+        "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
+        "pais": "ar"
+    },
     "el-tiempo": {
         "nombre": "EL TIEMPO",
         "yt_id": "UCe5-b0fCK3eQCpwS6MT0aNw",
         "pais": "co"
     },
+    "noti-caracol": {
+        "nombre": "Noticias Caracol",
+        "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+        "pais": "co"
+    },
+    "red-mas-noticias": {
+        "nombre": "RED MÁS Noticias",
+        "yt_id": "UCpcvsK0UAI3MIHsjjj3CgMg",
+        "pais": "co"
+    },
     "tv-peru": {
         "nombre": "TVPerú Noticias",
         "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
+        "pais": "pe"
+    },
+    "tv-peru": {
+        "nombre": "TV Perú",
+        "iframe_url": "https://iblups.com/e_tvperuHD",
+        "fuente": "https://www.tvperu.gob.pe/play",
+        "pais": "pe"
+    },
+    "tv-peru1": {
+        "nombre": "TVPerú 1",
+        "iframe_url": "https://iblups.com/e_tvperu73",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
+    "tv-peru": {
+        "nombre": "TVPerú 2",
+        "iframe_url": "https://iblups.com/e_tvperu72",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
+    "Nacional-TV": {
+        "nombre": "Nacional TV",
+        "m3u8_url": "https://stmv.panel.grupolimalive.com/nacionaltv/nacionaltv/playlist.m3u8",
+        "fuente": "https://ntvperu.pe/senal-en-vivo/",
+        "pais": "pe"
+    },
+    "BNBdigital-tv": {
+        "nombre": "BNBdigital Tv",
+        "m3u8_url": "https://vdo.grupolimalive.com:3375/live/bnbdigitallive.m3u8",
+        "fuente": "https://www.bnbdigitaltv.com/",
+        "pais": "pe"
+    },
+    "Chincha-Tv": {
+        "nombre": "Chincha Tv",
+        "iframe_url": "https://ok.ru/videoembed/5439500131845?nochat=1&autoplay=1",
+        "fuente": "https://www.chincha.tv/p/live.html",
         "pais": "pe"
     },
     "panamericana-tv": {
@@ -522,6 +680,53 @@
         "fuente": "https://ondadigitaltv.com",
         "pais": "pe"
     },
+    "UCI": {
+        "nombre": "UCI",
+        "m3u8_url": "https://mediastreamm.com:3449/live/mlecaroslive.m3u8",
+        "fuente": "https://uci.pe/envivo",
+        "pais": "pe"
+    },
+    "Nativa-TV0": {
+        "nombre": "Nativa TV0",
+        "m3u8_url": "https://ntv.pe/salida/nativa.m3u8",
+        "fuente": "https://ntv.pe/",
+        "pais": "pe"
+    },
+    "Nativa-TV": {
+        "nombre": "Nativa TV",
+        "iframe_url": "https://ntv.pe/vivo.html",
+        "fuente": "https://ntv.pe/",
+        "pais": "pe"
+    },
+    "nativa": {
+        "nombre": "Nativa",
+        "yt_id": "UCdl1ygFwPa6lUdNYPLjoAGg",
+        "pais": "pe"
+    },
+    "cable-vision-peru": {
+        "nombre": "Cable Visión Perú",
+        "m3u8_url": "https://videoserver.tmcreativos.com:19360/vnpnoticias/vnpnoticias.m3u8",
+        "fuente": "https://www.cablevisionperu.pe/?page_id=1938",
+        "pais": "pe"
+    },
+    "ATV": {
+        "nombre": "ATV",
+        "m3u8_url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atv",
+        "pais": "pe"
+    },
+    "ATV-Más": {
+        "nombre": "ATV Más",
+        "m3u8_url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atvmas",
+        "pais": "pe"
+    },
+    "ATV-Sur": {
+        "nombre": "ATV Sur",
+        "m3u8_url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.atv.pe/envivo-atvmas",
+        "pais": "pe"
+    },
     "la-republica": {
         "nombre": "La República",
         "yt_id": "UC-B7Xv56uNRDkj0vC3QW8Cg",
@@ -537,6 +742,13 @@
         "nombre": "Latina Noticias",
         "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
         "pais": "pe"
+    },
+    "latina-noticias-TV": {
+        "nombre": "Latina Noticias TV",
+        "iframe_url": "https://rudo.video/live/latina'",
+        "fuente": "https://www.latina.pe/tvenvivo",
+        "pais": "pe",
+        "alt_icon": "<i class='bi bi-boombox'></i>"
     },
     "ovacion-tv": {
         "nombre": "Radio Ovación TV",
@@ -571,6 +783,64 @@
         "yt_id": "UCK0lpuL9PQb3I5CDcu7Y7bA",
         "pais": "pe",
         "alt_icon": "<i class='bi bi-boombox'></i>"
+    },
+    "Radio-California": {
+        "nombre": "Radio-California",
+        "iframe_url": "https://vdo.grupolimalive.com/live-stream-video-widget/californiatv",
+        "fuente": "https://www.radiocalifornia.pe/",
+        "pais": "pe"
+    },
+    "Doble AA": {
+        "nombre": "Doble AA",
+        "iframe_url": "https://videoserver.tmcreativos.com:2020/VideoPlayer/yvmgbdpqmp",
+        "fuente": "https://dobleaamedios.com/tv",
+        "pais": "pe"
+    },
+    "MAS-CUMBIA": {
+        "nombre": "MAS CUMBIA",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=mascumbiatvonline&stream=mascumbiatvonline",
+        "fuente": "https://bestcableperu.com.pe/tv99.html",
+        "pais": "pe"
+    },
+    "hatun-tv": {
+        "nombre": "HATUN TV",
+        "iframe_url": "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv",
+        "fuente": "https://bestcableperu.com.pe/tv99.html",
+        "pais": "pe"
+    },
+    "pbo-radio": {
+        "nombre": "PBO",
+        "yt_id": "UCgR0st4ZLABi-LQcWNu3wnQ",
+        "pais": "pe"
+    },
+    "santa-rosa": {
+        "nombre": "Radio Santa Rosa",
+        "yt_id": "UCIGV0oiNkdK2-tnf10DNp2A",
+        "pais": "pe"
+    },
+    "NT-TV": {
+        "nombre": "NT TV",
+        "iframe_url": "https://clarovideo.deportesporinternet.com/dash2.html?url=aHR0cHM6Ly9wZWxpdmVjaGFubmVsc2Rhc2gtNS5jbGFyb3ZpZGVvLmNvbS9icGstdHYvVE5USEQvZGFzaF9may9pbmRleC5tcGQ=&k1=Y2MxZGJlNDM1NjRhYzUxYTYwNjQyMTgyOGI5OWQzYWQ=&k2=Mjg3OTc1YTY1ZWIzZjMzN2ExYmRmOWE4ZWVhYmY2MTM=&aut=true&lang=0",
+        "fuente": "https://tvhd.pe/tnt-hd-en-vivo/",
+        "pais": "pe"
+    },
+    "señal-peru": {
+        "nombre": "SEÑAL PERU",
+        "iframe_url": "https:\/\/livestream.perucast.com\/low\/stream.m3u8",
+        "fuente": "https://xn--sealperutv-u9a.pe/",
+        "pais": "pe"
+    },
+    "sol-tv": {
+        "nombre": "SOL TV",
+        "iframe_url": "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///",
+        "fuente": "https://soltvperu.com/en-vivo/",
+        "pais": "pe"
+    },
+    "CNC": {
+        "nombre": "CNC",
+        "iframe_url": "https://innovatestream.com/tv/v2/player.php?live=cnctv",
+        "fuente": "https://www.cnccajamarca.com/",
+        "pais": "pe"
     },
     "HISPANTV": {
         "nombre": "HISPANTV",
@@ -767,6 +1037,17 @@
     "globovision": {
         "nombre": "Globovisión En Vivo",
         "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
+        "pais": "ve"
+    },
+    "cantina-tv": {
+        "nombre": "CANTINA TV",
+        "m3u8_url": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
+        "fuente": "http://www.cantinatv.com/",
+        "pais": "ve"
+    },
+    "teleSUR-tv": {
+        "nombre": "TeleSUR Tv",
+        "yt_id": "UCbHFKMtqLYkIBRiPHJwxu_w",
         "pais": "ve"
     },
     "hch-vivo": {
