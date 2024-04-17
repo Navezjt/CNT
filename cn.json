@@ -1070,8 +1070,32 @@
     },
     "elo-m4-sport": {
         "nombre": "ELO M4 SPORT",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv4live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm4_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M4%20Sport&contentid=mtv4live&embedded=0&sourceUrl=https%3A%2F%2Fm4sport.hu%2Felo%2Fmtv4live%2F",
+        "fuente": "https://m4sport.hu/elo/mtv4live/",
+        "pais": "hu"
+    },
+    "elo-m4plus-sport": {
+        "nombre": "ELO M4plus SPORT",
         "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv4plus&noflash=yes&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M4%20Sport%20%2B&contentid=mtv4plus&embedded=0&sourceUrl=https%3A%2F%2Fm4sport.hu%2Felo%2Fmtv4plus%2F",
         "fuente": "https://m4sport.hu/elo/mtv4plus/",
+        "pais": "hu"
+    },
+    "m5-elo": {
+        "nombre": "M5 ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv5live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm5_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M5&contentid=mtv5live&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fm5-elo%2F",
+        "fuente": "https://mediaklikk.hu/m5-elo/",
+        "pais": "hu"
+    },
+    "duna-elo": {
+        "nombre": "DUNA ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=dunalive&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fduna_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=Duna&contentid=dunalive&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fduna-elo%2F",
+        "fuente": "https://mediaklikk.hu/duna-elo/",
+        "pais": "hu"
+    },
+    "duna-world-elo": {
+        "nombre": "DUNA WORLD ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=dunaworldlive&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fdunaworld_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=Duna%20World&contentid=dunaworldlive&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fduna-world-elo%2F",
+        "fuente": "https://mediaklikk.hu/duna-world-elo/",
         "pais": "hu"
     },
     "hch-vivo": {
