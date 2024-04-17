@@ -1034,6 +1034,12 @@
         "fuente": "http://xemtruyenhinh.xyz/kenh-kgtv-kiengiang-tv-truc-tuyen-dia-phuong.html",
         "pais": "vn"
     },
+    "CANAL-12": {
+        "nombre": "CANAL 12",
+        "m3u8_url": "https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8",
+        "fuente": "https://www.canal12.com.sv/envivo/?source=Internal&ref=Signals+Menu",
+        "pais": "sv"
+    },
     "globovision": {
         "nombre": "Globovisión En Vivo",
         "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
@@ -1138,6 +1144,12 @@
         "nombre": "Noticias Telemundo",
         "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
         "pais": "us"
+    },
+    "EWTN": {
+        "nombre": "EWTN",
+        "m3u8_url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
+        "fuente": "https://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "eu"
     },
     "euronews-esp": {
         "nombre": "euronews (Español)",
