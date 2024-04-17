@@ -1056,6 +1056,24 @@
         "yt_id": "UCbHFKMtqLYkIBRiPHJwxu_w",
         "pais": "ve"
     },
+    "elo": {
+        "nombre": "ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv1live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm1_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M1&contentid=mtv1live&embedded=0&sourceUrl=https%3A%2F%2Fhirado.hu%2Felo%2Fm1%2F",
+        "fuente": "https://hirado.hu/elo/m1/",
+        "pais": "hu"
+    },
+    "m2-elo": {
+        "nombre": "M2 ELO",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv2live&noflash=yes&vastpreroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F22652647%2Fm2_preroll%26description_url%3D%26tfcd%3D0%26npa%3D0%26sz%3D640x360%26gdfp_req%3D1%26output%3Dvast%26unviewed_position_start%3D1%26env%3Dvp%26impl%3Ds%26correlator%3D&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M2&contentid=mtv2live&embedded=0&sourceUrl=https%3A%2F%2Fmediaklikk.hu%2Fm2-elo%2F",
+        "fuente": "https://mediaklikk.hu/m2-elo/",
+        "pais": "hu"
+    },
+    "elo-m4-sport": {
+        "nombre": "ELO M4 SPORT",
+        "iframe_url": "https://player.mediaklikk.hu/playernew/player.php?video=mtv4plus&noflash=yes&osfamily=Windows&osversion=10&browsername=Microsoft%20Edge&browserversion=123.0.0.0&title=M4%20Sport%20%2B&contentid=mtv4plus&embedded=0&sourceUrl=https%3A%2F%2Fm4sport.hu%2Felo%2Fmtv4plus%2F",
+        "fuente": "https://m4sport.hu/elo/mtv4plus/",
+        "pais": "hu"
+    },
     "hch-vivo": {
         "nombre": "HCH En Vivo",
         "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
