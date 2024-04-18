@@ -1103,9 +1103,57 @@
         "yt_id": "UCIs6fmAXOI1K2jgkoBdWveg",
         "pais": "hn"
     },
+    "cnn-br": {
+        "nombre": "CNN Br",
+        "iframe_url": "https://www.youtube.com/embed/JYxTYQ1II5I?embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.cnnbrasil.com.br&widgetid=1",
+        "fuente": "https://www.cnnbrasil.com.br/ao-vivo/",
+        "pais": "br"
+    },
     "rtve": {
         "nombre": "RTVE Noticias",
         "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
+        "pais": "es"
+    },
+    "rtve-radioficia": {
+        "nombre": "RTVE RADIOFICIAL",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/ojo-critico-rne-arco-madrid-2024/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "rtve-LA1-oficial": {
+        "nombre": "RTVE LA1 OFICIAL",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/la-1/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "RTVE-LA2-OFICIAL": {
+        "nombre": "RTVE LA2 OFICIAL",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/la-2/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "rtve-oficial": {
+        "nombre": "RTVE OFICIA",
+        "iframe_url": "https://www.rtve.es/play/videos/directo/24h/",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
+    "GALICIA": {
+        "nombre": "GALICIA",
+        "m3u8_url": "https://crtvg-europa.flumotion.cloud/playlist.m3u8",
+        "fuente": "https://www.crtvg.es/portada",
+        "pais": "es"
+    },
+    "Canalsur": {
+        "nombre": "Canalsur",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&rel=0&modestbranding&enablejsapi=1&origin=https%3A%2F%2Fwww.canalsur.es",
+        "fuente": "https://www.canalsur.es/tv_directo-1193.html",
+        "pais": "es"
+    },
+    "señalespaña": {
+        "nombre": "señalespaña",
+        "iframe_url": "https://playerssl.radioonlinehd.com/tv91/xhunestv/",
+        "fuente": "https://senalespana.unes.edu.mx/",
         "pais": "es"
     },
     "global-news": {
