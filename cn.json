@@ -1108,6 +1108,12 @@
         "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
         "pais": "es"
     },
+    "rtver-oficial": {
+        "nombre": "RTVER FICIAL",
+        "iframe_url": "https://www.youtube.com/embed/?enablejsapi=1&rel=0&autoplay=0&playsinline=1&expflag=embeds_enable_muted_autoplay%3Atrue&fs=1",
+        "fuente": "https://www.rtve.es/play/videos/directo/",
+        "pais": "es"
+    },
     "rtve-radioficia": {
         "nombre": "RTVE RADIOFICIAL",
         "iframe_url": "https://www.rtve.es/play/videos/directo/ojo-critico-rne-arco-madrid-2024/",
