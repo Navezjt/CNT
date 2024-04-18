@@ -1108,12 +1108,6 @@
         "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
         "pais": "es"
     },
-    "rtver-oficial": {
-        "nombre": "RTVER FICIAL",
-        "iframe_url": "https://www.youtube.com/embed/?enablejsapi=1&rel=0&autoplay=0&playsinline=1&expflag=embeds_enable_muted_autoplay%3Atrue&fs=1",
-        "fuente": "https://www.rtve.es/play/videos/directo/",
-        "pais": "es"
-    },
     "rtve-radioficia": {
         "nombre": "RTVE RADIOFICIAL",
         "iframe_url": "https://www.rtve.es/play/videos/directo/ojo-critico-rne-arco-madrid-2024/",
@@ -1154,6 +1148,18 @@
         "nombre": "señalespaña",
         "iframe_url": "https://playerssl.radioonlinehd.com/tv91/xhunestv/",
         "fuente": "https://senalespana.unes.edu.mx/",
+        "pais": "es"
+    },
+    "3CAT": {
+        "nombre": "3CAT",
+        "m3u8_url": "https://directes-tv-int.ccma.cat/live-content/canal324-hls/master.m3u8",
+        "fuente": "https://www.ccma.cat/3cat/directes/324/",
+        "pais": "es"
+    },
+    "TV3-CAT": {
+        "nombre": "TV3-CAT",
+        "m3u8_url": "https://directes3-tv-int.ccma.cat/live-content/tvi-hls/master.m3u8",
+        "fuente": "https://www.ccma.cat/3cat/directes/tv3/",
         "pais": "es"
     },
     "cnn-br": {
