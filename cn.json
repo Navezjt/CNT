@@ -842,6 +842,60 @@
         "fuente": "https://www.cnccajamarca.com/",
         "pais": "pe"
     },
+    "Comedy-Movies": {
+        "nombre": "Comedy Movies",
+        "iframe_url": "https://embed.babaktv.com/2023/07/rakuten-tv-comedy-movies-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-comedy-movies-spain/",
+        "pais": "pe"
+    },
+    "Top-Free": {
+        "nombre": "Top Free",
+        "iframe_url": "https://embed.babaktv.com/2023/06/rakuten-tv-top-free-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-top-free-spain/",
+        "pais": "pe"
+    },
+    "Shows": {
+        "nombre": "Shows",
+        "iframe_url": "https://embed.babaktv.com/2023/09/rakuten-family-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-shows-spain/",
+        "pais": "pe"
+    },
+    "Family": {
+        "nombre": "Family",
+        "iframe_url": "https://embed.babaktv.com/2023/09/rakuten-family-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-family-spain/",
+        "pais": "pe"
+    },
+    "Action-Movies": {
+        "nombre": "Action Movies",
+        "iframe_url": "https://embed.babaktv.com/2023/07/rakuten-tv-action-movies-spain-link01.html?m=0",
+        "fuente": "https://babaktv.com/rakuten-tv-action-movies-spain/",
+        "pais": "pe"
+    },
+    "CNT2": {
+        "nombre": "CNT2",
+        "iframe_url": "https://babaktv.com/embed/hbo-2-spanish-link01/",
+        "fuente": "https://babaktv.com/hbo-2-spanish/",
+        "pais": "pe"
+    },
+    "CNT3": {
+        "nombre": "CNT3",
+        "iframe_url": "https://embed.babaktv.com/2023/09/cine-sony-link01.html?m=0",
+        "fuente": "https://babaktv.com/cine-sony/",
+        "pais": "pe"
+    },
+    "xtrema": {
+        "nombre": "Xtrema",
+        "iframe_url": "https://embed.babaktv.com/2023/09/xtrema-cine-hindi-link01.html?m=0",
+        "fuente": "https://babaktv.com/xtrema-cine-hindi/",
+        "pais": "pe"
+    },
+    "mytime": {
+        "nombre": "Mytime",
+        "iframe_url": "https://babaktv.com/embed/mytime-movie-mexico-link01/",
+        "fuente": "https://babaktv.com/mytime-movie-mexico/",
+        "pais": "pe"
+    },
     "HISPANTV": {
         "nombre": "HISPANTV",
         "m3u8_url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
