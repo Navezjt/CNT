@@ -842,6 +842,18 @@
         "fuente": "https://www.cnccajamarca.com/",
         "pais": "pe"
     },
+    "Oriental": {
+        "nombre": "Oriental",
+        "iframe_url": "https://embed.babaktv.com/2023/09/cine-sony-link01.html?m=0",
+        "fuente": "https://otv.pe/",
+        "pais": "pe"
+    },
+    "TVO": {
+        "nombre": "TVO",
+        "iframe_url": "https://conceptoweb-studio.com/radio/video/tvo/",
+        "fuente": "https://tvocanal23.com/tvo-en-vivo/",
+        "pais": "pe"
+    },
     "Comedy-Movies": {
         "nombre": "Comedy Movies",
         "iframe_url": "https://embed.babaktv.com/2023/07/rakuten-tv-comedy-movies-spain-link01.html?m=0",
