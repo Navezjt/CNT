@@ -908,6 +908,36 @@
         "fuente": "https://babaktv.com/mytime-movie-mexico/",
         "pais": "pe"
     },
+    "AO": {
+        "nombre": "AO",
+        "m3u8_url": "https://video05.logicahost.com.br/extremotv/extremotv/playlist.m3u8",
+        "fuente": "http://eotv.live/#aovivo",
+        "pais": "do"
+    },
+    "ORIENTALTV": {
+        "nombre": "ORIENTALTV",
+        "m3u8_url": "https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8?DVR",
+        "fuente": "https://canalesdominicanos.live/tele-oriental-digital/",
+        "pais": "do"
+    },
+    "ONDATV": {
+        "nombre": "ONDATV",
+        "iframe_url": "https://dominicanplayers.com/video-player/280/0/0",
+        "fuente": "https://cableondaoriental.com/onda-tv/",
+        "pais": "do"
+    },
+    "RadioAntenaOriental": {
+        "nombre": "RadioAntenaOriental",
+        "m3u8_url": "https://srv.panelcast.net/tvantenaoriental2021/tvantenaoriental2021/playlist.m3u8",
+        "fuente": "https://radioantenaoriental.com/tv-online/https://cableondaoriental.com/onda-tv/",
+        "pais": "do"
+    },
+    "VOTV": {
+        "nombre": "VOTV",
+        "m3u8_url": "https://ingest2-video.streaming-pro.com/votv/streaming_web/playlist.m3u8",
+        "fuente": "https://votv.cat/votv-en-directe/",
+        "pais": "do"
+    },
     "HISPANTV": {
         "nombre": "HISPANTV",
         "m3u8_url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
