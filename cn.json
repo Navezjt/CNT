@@ -1755,8 +1755,135 @@
     },
     "nhk-world": {
         "nombre": "NHK World",
-        "m3u8_url": "https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8",
+        "iframe_url": "https://www3.nhk.or.jp/nhkworld/common/player/tv/live/embed/embed.html",
         "fuente": "https://www3.nhk.or.jp/nhkworld/en/live/",
+        "pais": "jp"
+    },
+    "qvc": {
+        "nombre": "QVC",
+        "m3u8_url": "https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8",
+        "fuente": "https://tvjapanlive.com/live-tv/",
+        "pais": "jp"
+    },
+    "ANN-NEWS": {
+        "nombre": "ANN NEWS",
+        "iframe_url": "https://www.youtube.com/embed/coYw-eVU0Ks?autoplay=1",
+        "fuente": "https://news.tv-asahi.co.jp/",
+        "pais": "jp"
+    },
+    "CGN": {
+        "nombre": "CGN",
+        "iframe_url": "https://livetv.work/fireplayer/video/9aa42b31882ec039965f3c4923ce901b",
+        "fuente": "https://vipotv.com/cgn-tv-japan/",
+        "pais": "jp"
+    },
+    "CGN-TV": {
+        "nombre": "CGN TV",
+        "m3u8_url": "https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index_2.m3u8",
+        "fuente": "http://www.cgntv.net/onair/home.cgn",
+        "pais": "jp"
+    },
+    "tokyo-mx-1": {
+        "nombre": "Tokyo mx-1",
+        "iframe_url": "https://livetv.work/fireplayer/video/856fc81623da2150ba2210ba1b51d241",
+        "fuente": "https://vipotv.com/tokyo-mx-1/",
+        "pais": "jp"
+    },
+    "TBS-NEWS": {
+        "nombre": "TBS NEWS",
+        "iframe_url": "https://www.youtube.com/embed/ohI356mwBp8?enablejsapi=1",
+        "fuente": "https://newsdig.tbs.co.jp/list/live",
+        "pais": "jp"
+    },
+    "weathernews": {
+        "nombre": "weathernews",
+        "yt_id": "UCNsidkYpIAQ4QaufptQBPHQ",
+        "pais": "jp"
+    },
+    "HTB": {
+        "nombre": "HTB",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSWOnDD1KIriGmyQ7SgNA4A&rel=0&autoplay=1",
+        "fuente": "https://www.htb.co.jp/",
+        "pais": "jp"
+    },
+    "asahi": {
+        "nombre": "Asahi",
+        "yt_id": "UCMKvT0YVLufHMdGLH89J1oA",
+        "pais": "jp"
+    },
+    "STV": {
+        "nombre": "STV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCOZv-6MiXqJdLpmYtR431Ow&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@stv9721/streams",
+        "pais": "jp"
+    },
+    "HBC": {
+        "nombre": "HBC",
+        "yt_id": "UCCTpf5c_9HDo_OSu3aX8uFQ",
+        "pais": "jp"
+    },
+    "SATV": {
+        "nombre": "SATV",
+        "yt_id": "UCvF5vIejmf-H_XSluaBldfg",
+        "fuente": "",
+        "pais": "jp"
+    },
+    "sbsnews": {
+        "nombre": "SBSNEWS",
+        "yt_id": "UCOLVB0iYK8ahQ0mFn-lF-8g",
+        "pais": "jp"
+    },
+    "nagoyatv": {
+        "nombre": "Nagoyatv",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/-C6FE2m7kX8?autoplay=1",
+        "fuente": "https://www.nagoyatv.com/",
+        "pais": "jp"
+    },
+    "MBS": {
+        "nombre": "MBS",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCkKJhKO73xF1pK5h9R82ZGQ&rel=0&autoplay=1",
+        "fuente": "https://www.mbs.jp/",
+        "pais": "jp"
+    },
+    "ABC": {
+        "nombre": "ABC",
+        "yt_id": "UCPW-5qfYGNR8XYrvESrqJKA",
+        "pais": "jp"
+    },
+    "Hiroshima-News-24": {
+        "nombre": "Hiroshima News 24",
+        "iframe_url": "https://www.youtube.com/embed/e2pgLUmaxGs?si=JddRudvsBGBS-o19",
+        "fuente": "https://www.youtube.com/@home-news/streams",
+        "pais": "jp"
+    },
+    "RKB": {
+        "nombre": "RKB",
+        "iframe_url": "https://www.youtube.com/embed/EHe_t9ZjDDA?mute=true&enablejsapi=1&origin=https%3A%2F%2Frkb.jp&widgetid=1",
+        "fuente": "https://rkb.jp/live/",
+        "pais": "jp"
+    },
+    "KBCNEWS1": {
+        "nombre": "KBCNEWS1",
+        "iframe_url": "https://www.youtube.com/embed/j0qAjKS4vLg?enablejsapi=1&autoplay=1&mute=1",
+        "fuente": "https://kbc.co.jp/news/",
+        "pais": "jp"
+    },
+    "Kagoshima-News-24": {
+        "nombre": "Kagoshima News 24",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCqPDZgcJtyPFhJM4qx-PuKg&rel=0&autoplay=1",
+        "fuente": "https://www.kts-tv.co.jp/news/",
+        "pais": "jp"
+    },
+    "Pokémon-Kids-TV": {
+        "nombre": "Pokémon Kids TV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCgbfG5HoczHIkpzxLYH-8Ww&rel=0&autoplay=1",
+        "fuente": "https://www.pokemon.jp/special/Pokemon-KidsTV/",
+        "pais": "jp"
+    },
+    "shopch": {
+        "nombre": "SHOP",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UC_I5Dmudikt3EFo0xMoHO8Q&rel=0&autoplay=1",
+        "fuente": "https://www.shopch.jp/",
         "pais": "jp"
     },
     "trt-world": {
