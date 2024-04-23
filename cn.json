@@ -1850,6 +1850,12 @@
         "yt_id": "UCPW-5qfYGNR8XYrvESrqJKA",
         "pais": "jp"
     },
+    "ABC-1": {
+        "nombre": "ABC 1",
+        "yt_id": "https://www.youtube.com/embed/sTAqx_1Yrww?si=OPSFH0T5I-EeNYVn",
+        "fuente": "https://www.youtube.com/@abc6ch/streams",
+        "pais": "jp"
+    },
     "Hiroshima-News-24": {
         "nombre": "Hiroshima News 24",
         "iframe_url": "https://www.youtube.com/embed/e2pgLUmaxGs?si=JddRudvsBGBS-o19",
