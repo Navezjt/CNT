@@ -1715,7 +1715,14 @@
     },
     "dw-news-Español": {
         "nombre": "DW News Español",
-        "yt_id": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+        "m3u8_url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+        "fuente": "https://www.dw.com/es/actualidad/s-30684",
+        "pais": "de"
+    },
+    "dw-news-Ingles": {
+        "nombre": "DW News Ingles",
+        "m3u8_url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+        "fuente": "https://www.dw.com/en/top-stories/s-9097",
         "pais": "de"
     },
     "dw-news": {
@@ -1731,6 +1738,150 @@
     "welt": {
         "nombre": "WELT",
         "yt_id": "UCZMsvbAhhRblVGXmEXW8TSA",
+        "pais": "de"
+    },
+    "arn1": {
+        "nombre": "ARN1",
+        "m3u8_url": "https://mcdn.daserste.de/daserste/de/master.m3u8?rn=2",
+        "fuente": "https://www.ard.de/",
+        "pais": "de"
+    },
+    "tagesschau": {
+        "nombre": "Tagesschau",
+        "m3u8_url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8?rn=4",
+        "fuente": "https://www.tagesschau.de/multimedia/livestreams/livestream1",
+        "pais": "de"
+    },
+    "HR1": {
+        "nombre": "HR1",
+        "m3u8_url": "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL2hyLmRlL0xpdmVzdHJlYW0tSFI",
+        "pais": "de"
+    },
+    "NDR1": {
+        "nombre": "NDR1",
+        "m3u8_url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL25kci5kZS9MaXZlc3RyZWFtLU5EUi1OaWVkZXJzYWNoc2Vu",
+        "pais": "de"
+    },
+    "SR1": {
+        "nombre": "SR1",
+        "m3u8_url": "https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8?rn=0",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL3NyLW9ubGluZS5kZS8yODQ4NjAvbGl2ZXN0cmVhbQ",
+        "pais": "de"
+    },
+    "WDR1": {
+        "nombre": "WDR1",
+        "m3u8_url": "https://mcdn.wdr.de/wdr/wdrfs/weltweit/master.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL3dkci5kZS9CZWl0cmFnLTNkYTY2NGRlLTE4YzItNDY1MC1hNGZmLTRmNjQxNDcyMDcyYg",
+        "pais": "de"
+    },
+    "alpha-Uni": {
+        "nombre": "alpha Uni",
+        "m3u8_url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL2JyLmRlL0xpdmVzdHJlYW0tQVJELUFscGhh",
+        "pais": "de"
+    },
+    "Tagesschau-Nachrichten": {
+        "nombre": "Tagesschau Nachrichten",
+        "m3u8_url": "https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8?rn=1",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL2Rhc2Vyc3RlLmRlL3RhZ2Vzc2NoYXUvbGl2ZXN0cmVhbQ",
+        "pais": "de"
+    },
+    "Nordsee-ist-Mordsee": {
+        "nombre": "Nordsee ist Mordsee",
+        "m3u8_url": "https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8",
+        "fuente": "https://www.ardmediathek.de/live/Y3JpZDovL25kci5kZS9MaXZlc3RyZWFtLU5EUi1OaWVkZXJzYWNoc2Vu",
+        "pais": "de"
+    },
+    "regio-tv": {
+        "nombre": "Regio Tv",
+        "m3u8_url": "https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.regio-tv.de/livestream-programm/",
+        "pais": "de"
+    },
+    "l-tv": {
+        "nombre": "L Tv",
+        "m3u8_url": "https://live2.telvi.de/hls/l-tv_s1_hd720.m3u8",
+        "fuente": "https://www.l-tv.de/livestream.html",
+        "pais": "de"
+    },
+    "baden": {
+        "nombre": "baden",
+        "m3u8_url": "https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8",
+        "fuente": "https://www.baden-tv.com/programm/baden-tv-wochenprogramm/",
+        "pais": "de"
+    },
+    "baden-sued": {
+        "nombre": "baden sued",
+        "m3u8_url": "https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.baden-tv-sued.com/livestream/",
+        "pais": "de"
+    },
+    "franken-plus": {
+        "nombre": "franken plus",
+        "m3u8_url": "https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8",
+        "fuente": "https://www.franken.plus/",
+        "pais": "de"
+    },
+    "tvaktuell": {
+        "nombre": "Tvaktuell",
+        "m3u8_url": "https://stream02.welocal.stream/stream/fhd-tvaktuell_385673/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.tvaktuell.com/programm/programm/",
+        "pais": "de"
+    },
+    "augsburg": {
+        "nombre": "Augsburg",
+        "m3u8_url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.augsburg.tv/",
+        "pais": "de"
+    },
+    "otv": {
+        "nombre": "otv",
+        "m3u8_url": "https://stream05.welocal.stream/stream/fhd-otv_496277/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.otv.de/",
+        "pais": "de"
+    },
+    "rfo": {
+        "nombre": "Rfo",
+        "m3u8_url": "https://stream01.welocal.stream/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.rfo.de/",
+        "pais": "de"
+    },
+    "niederbayerntv": {
+        "nombre": "niederbayerntv",
+        "m3u8_url": "https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://deggendorf.niederbayerntv.de/programm/wochenprogramm-kabel-2022/",
+        "pais": "de"
+    },
+    "niederbayerntv": {
+        "nombre": "niederbayerntv",
+        "m3u8_url": "https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.niederbayerntv.de/",
+        "pais": "de"
+    },
+    "mittelrhein": {
+        "nombre": "mittelrhein",
+        "m3u8_url": "https://live2.telvi.de/hls/tvm_mid.m3u8",
+        "fuente": "https://www.tv-mittelrhein.de/livestream.html",
+        "pais": "de"
+    },
+    "rheinmaintv": {
+        "nombre": "Rheinmaintv",
+        "iframe_url": "https://www.blitzvideoserver.de/player.html?serverip=213.239.228.140&serverapp=rheinmaintv-live&streamname=livestream",
+        "fuente": "https://www.rheinmaintv.de/",
+        "pais": "de"
+    },
+    "sachsen-fernsehen": {
+        "nombre": "sachsen-fernsehen",
+        "m3u8_url": "https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8",
+        "fuente": "https://www.sachsen-fernsehen.de/sachsen-eins/",
+        "pais": "de"
+    },
+    "rnf": {
+        "nombre": "Rnf",
+        "m3u8_url": "https://stream05.welocal.stream/stream/fhd-rnf_280717/ngrp:stream_all/playlist.m3u8",
+        "fuente": "https://www.rnf.de/",
         "pais": "de"
     },
     "24-Канал-онлайн": {
