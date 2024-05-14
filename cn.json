@@ -2100,6 +2100,210 @@
         "fuente": "https://www.digi24.ro/live/digi24",
         "pais": "ro"
     },
+    "taiwanplustv": {
+        "nombre": "taiwanplustv",
+        "m3u8_url": "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8",
+        "fuente": "https://www.taiwanplus.com/taiwanplustv",
+        "pais": "tw"
+    },
+    "ftv": {
+        "nombre": "ftv",
+        "iframe_url": "https://embed.4gtv.tv/ftv/M-FTV.html?player_mute=on",
+        "fuente": "https://m.ftv.com.tw/",
+        "pais": "tw"
+    },
+    "CTI": {
+        "nombre": "CTI",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/WPfPjbOLNfE?modestbranding=1",
+        "fuente": "https://www.youtube.com/@CtiDeepThroat",
+        "pais": "tw"
+    },
+    "Da-Ai": {
+        "nombre": "Da Ai",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/MIqUplvSRWA?autoplay=0&feature=player_detailpage&modestbranding=1",
+        "fuente": "https://www.youtube.com/@DaAiVideo",
+        "pais": "tw"
+    },
+    "EBC-News": {
+        "nombre": "EBC News",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/LuQ4S-i5zoE?modestbranding=1",
+        "fuente": "https://www.youtube.com/@newsebc",
+        "pais": "tw"
+    },
+    "FTV": {
+        "nombre": "FTV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/ylYJSBUgaMA?autoplay=0&feature=player_detailpage&modestbranding=1",
+        "fuente": "https://www.youtube.com/@FTV_News",
+        "pais": "tw"
+    },
+    "goodtv": {
+        "nombre": "goodtv",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/?list=UUpHgvLfY23_S6jvT8BuZ3kQ",
+        "fuente": "https://www.youtube.com/@goodtv",
+        "pais": "tw"
+    },
+    "NTDTV": {
+        "nombre": "NTDTV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1",
+        "fuente": "https://www.youtube.com/@NTDAPTV",
+        "pais": "tw"
+    },
+    "NTDTV": {
+        "nombre": "NTDTV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1",
+        "fuente": "https://www.youtube.com/@NTDAPTV",
+        "pais": "tw"
+    },
+    "SET-News": {
+        "nombre": "SET News",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/FoBfXvlOR6I?ecver=1&modestbranding=1",
+        "fuente": "https://www.youtube.com/@setnews",
+        "pais": "tw"
+    },
+    "TVBSNEWS01": {
+        "nombre": "TVBSNEWS01",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc?modestbranding=1",
+        "fuente": "https://www.youtube.com/@TVBSNEWS01",
+        "pais": "tw"
+    },
+    "ttv": {
+        "nombre": "ttv",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/xL0ch83RAK8?rel=0&autoplay=1&mute=1",
+        "fuente": "https://www.ttv.com.tw/",
+        "pais": "tw"
+    },
+    "ftv1": {
+        "nombre": "ftv1",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv2": {
+        "nombre": "ftv2",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv3": {
+        "nombre": "ftv3",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv4": {
+        "nombre": "ftv4",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv5": {
+        "nombre": "ftv5",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv6": {
+        "nombre": "ftv6",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "ftv7": {
+        "nombre": "ftv7",
+        "iframe_url": "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off",
+        "fuente": "https://www.ftv.com.tw/index.aspx",
+        "pais": "tw"
+    },
+    "globalnewstw": {
+        "nombre": "globalnewstw",
+        "iframe_url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
+        "fuente": "https://www.youtube.com/@globalnewstw",
+        "pais": "tw"
+    },
+    "SATV-News-24": {
+        "nombre": "SATV News 24",
+        "iframe_url": "https://www.youtube.com/embed/SyvBMGh0AvY?si=sX3rYHIseyRoiDVK&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@satv_news",
+        "pais": "jp"
+    },
+    "nsttv1": {
+        "nombre": "nsttv1",
+        "iframe_url": "https://www.youtube.com/embed/InjWVxkg5tc?si=XxoQoDvv7klj4wD-&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@niigata-news/streams",
+        "pais": "jp"
+    },
+    "nsttv2": {
+        "nombre": "nsttv2",
+        "iframe_url": "https://www.youtube.com/embed/GQ2_qEpzeek?si=Y4cAua_kyR9qETeq&rel=0&autoplay=1",
+        "fuente": "https://news.nsttv.com/",
+        "pais": "jp"
+    },
+    "HBCニュース北海道放送": {
+        "nombre": "HBCニュース 北海道放送",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCCTpf5c_9HDo_OSu3aX8uFQ&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ/streams",
+        "pais": "jp"
+    },
+    "STVニュース北海道": {
+        "nombre": "STVニュース北海道",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCOZv-6MiXqJdLpmYtR431Ow&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/channel/UCOZv-6MiXqJdLpmYtR431Ow",
+        "pais": "jp"
+    },
+    "uhb-news": {
+        "nombre": "Hokkaido News UHB",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCpQs_warGhUzJhBdwLfF34g&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@uhb1980/streams",
+        "pais": "jp"
+    },
+    "htbnews": {
+        "nombre": "htbnews",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCSWOnDD1KIriGmyQ7SgNA4A&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@htbnews",
+        "pais": "jp"
+    },
+    "asahi": {
+        "nombre": "asahi",
+        "iframe_url": "https://www.youtube.com/embed/3WzD_yVFORE?si=q6PnfT60rSDiDVYU?enablejsapi=1",
+        "fuente": "https://www.youtube.com/@asahicom/streams",
+        "pais": "jp"
+    },
+    "Weathernews": {
+        "nombre": "Weathernews",
+        "iframe_url": "https://www.youtube.com/embed/XnKuRcalaN4?si=va7IJYxP41vfq1GG?enablejsapi=1",
+        "fuente": "https://www.youtube.com/@weathernews/streams",
+        "pais": "jp"
+    },
+    "ntv24": {
+        "nombre": "NTV News 24",
+        "m3u8_url": "https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8",
+        "fuente": "https://news.ntv.co.jp/live",
+        "pais": "jp"
+    },
+    "tbs": {
+        "nombre": "tbs",
+        "iframe_url": "https://www.youtube.com/embed/ohI356mwBp8?enablejsapi=1",
+        "fuente": "https://newsdig.tbs.co.jp/list/live",
+        "pais": "jp"
+    },
+    "ANNnewsCH": {
+        "nombre": "ANNnewsCH",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/coYw-eVU0Ks",
+        "fuente": "https://news.tv-asahi.co.jp/",
+        "pais": "jp"
+    },
+    "nhkworld": {
+        "nombre": "nhkworld",
+        "iframe_url": "https://www3.nhk.or.jp/nhkworld/common/player/tv/live/embed/embed.html",
+        "fuente": "https://www3.nhk.or.jp/nhkworld/en/live/",
+        "pais": "jp"
+    },
+    "cgntv": {
+        "nombre": "cgntv",
+        "iframe_url": "http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8",
+        "fuente": "http://japan.cgntv.net/",
+        "pais": "jp"
+    },
     "24-Канал-онлайн": {
         "nombre": "24 Канал онлайн",
         "yt_id": "UCja992VI_u2e52c9FHQXw5A",
