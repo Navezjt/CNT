@@ -1884,6 +1884,222 @@
         "fuente": "https://www.rnf.de/",
         "pais": "de"
     },
+    "rtk4": {
+        "nombre": "RTK4",
+        "iframe_url": "https://video.gjirafa.com/embed/rtk4",
+        "fuente": "https://video.gjirafa.com/rtk4",
+        "pais": "al"
+    },
+    "a2news": {
+        "nombre": "a2news",
+        "iframe_url": "https://www.youtube.com/embed/9pC3OAY-tIU?autoplay=1&mute=1",
+        "fuente": "https://a2news.com/live",
+        "pais": "al"
+    },
+    "rtv21": {
+        "nombre": "RTV21",
+        "iframe_url": "https://video.gjirafa.com/embed/rtv-21-live",
+        "fuente": "https://video.gjirafa.com/rtv-21-live",
+        "pais": "al"
+    },
+    "ktv": {
+        "nombre": "KTV",
+        "iframe_url": "https://video.gjirafa.com/embed/ktv-live",
+        "fuente": "https://video.gjirafa.com/ktv-live",
+        "pais": "al"
+    },
+    "t7": {
+        "nombre": "T7",
+        "iframe_url": "https://video.gjirafa.com/embed/t7-live",
+        "fuente": "https://video.gjirafa.com/t7-live",
+        "pais": "al"
+    },
+    "syrivision": {
+        "nombre": "Syrivision",
+        "iframe_url": "https://video.gjirafa.com/embed/syrivision",
+        "fuente": "https://video.gjirafa.com/syrivision",
+        "pais": "al"
+    },
+    "atv-live-tv": {
+        "nombre": "Atv-Live-tv",
+        "iframe_url": "https://video.gjirafa.com/embed/atv-live-tv",
+        "fuente": "https://video.gjirafa.com/atv-live-tv",
+        "pais": "al"
+    },
+    "rtk3": {
+        "nombre": "RTK3",
+        "iframe_url": "https://video.gjirafa.com/embed/rtk3",
+        "fuente": "https://video.gjirafa.com/rtk3",
+        "pais": "al"
+    },
+    "euronews-albania": {
+        "nombre": "Euronews Albania",
+        "iframe_url": "https://video.gjirafa.com/embed/euronews-albania-live",
+        "fuente": "https://video.gjirafa.com/euronews-albania-live",
+        "pais": "al"
+    },
+    "a2-cnn": {
+        "nombre": "a2-cnn",
+        "iframe_url": "https://video.gjirafa.com/embed/a2-cnn-live",
+        "fuente": "https://video.gjirafa.com/a2-cnn-live",
+        "pais": "al"
+    },
+    "zico-tv": {
+        "nombre": "Zico tv",
+        "iframe_url": "https://video.gjirafa.com/embed/zico-tv-live",
+        "fuente": "https://video.gjirafa.com/zico-tv-live",
+        "pais": "al"
+    },
+    "pro1-tv-2": {
+        "nombre": "pro1-tv-2",
+        "iframe_url": "https://video.gjirafa.com/embed/pro1-tv-2",
+        "fuente": "https://video.gjirafa.com/pro1-tv-2",
+        "pais": "al"
+    },
+    "tv-prizreni": {
+        "nombre": "tv-prizreni",
+        "iframe_url": "https://video.gjirafa.com/embed/tv-prizreni-live",
+        "fuente": "https://video.gjirafa.com/tv-prizreni-live",
+        "pais": "al"
+    },
+    "arta-news": {
+        "nombre": "arta news",
+        "iframe_url": "https://video.gjirafa.com/embed/arta-news",
+        "fuente": "https://video.gjirafa.com/arta-news",
+        "pais": "al"
+    },
+    "rtv-besa-live-2": {
+        "nombre": "rtv besa 2",
+        "iframe_url": "https://video.gjirafa.com/embed/rtv-besa-live-2",
+        "fuente": "https://video.gjirafa.com/rtv-besa-live-2",
+        "pais": "al"
+    },
+    "tv-news": {
+        "nombre": "tv news",
+        "iframe_url": "https://video.gjirafa.com/embed/tv-news-live",
+        "fuente": "https://video.gjirafa.com/tv-news-live",
+        "pais": "al"
+    },
+    "zeri-2": {
+        "nombre": "zeri 2",
+        "iframe_url": "https://video.gjirafa.com/embed/zeri-2",
+        "fuente": "https://video.gjirafa.com/zeri-2",
+        "pais": "al"
+    },
+    "adn-hd-live": {
+        "nombre": "Adnhd live",
+        "iframe_url": "https://video.gjirafa.com/embed/adn-hd-live",
+        "fuente": "https://video.gjirafa.com/adn-hd-live",
+        "pais": "al"
+    },
+    "rtk-1-sat": {
+        "nombre": "Rtk1 sat",
+        "iframe_url": "https://video.gjirafa.com/embed/rtk-1-sat",
+        "fuente": "https://video.gjirafa.com/rtk-1-sat",
+        "pais": "al"
+    },
+    "topnews": {
+        "nombre": "Topnews",
+        "iframe_url": "https://player.twitch.tv/?channel=topmedia_topnews&parent=top-channel.tv",
+        "fuente": "https://top-channel.tv/topnewslive/",
+        "pais": "al"
+    },
+    "abcnews": {
+        "nombre": "Abcnews",
+        "iframe_url": "https://player.twitch.tv/?channel=abcnewsal&parent=abcnews.al",
+        "fuente": "https://abcnews.al/live/",
+        "pais": "al"
+    },
+    "oranews": {
+        "nombre": "Oranews",
+        "iframe_url": "https://www.oranews.tv/livetv2.php",
+        "fuente": "https://www.oranews.tv/",
+        "pais": "al"
+    },
+    "news24": {
+        "nombre": "news24",
+        "iframe_url": "https://www.balkanweb.com/tvplayer/news-24.html?v=5",
+        "fuente": "https://www.news24.al/",
+        "pais": "al"
+    },
+    "rtsh-1": {
+        "nombre": "Rtsh 1",
+        "m3u8_url": "https://tvlive.rtsh.dev/live/rtsh_11mob1/playlist.m3u8",
+        "fuente": "https://tv.rtsh.al/kanalet/rtsh-1",
+        "pais": "al"
+    },
+    "nova24tv": {
+        "nombre": "nova24tv",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UCjYCgkpX1eQCTne99oT63yA",
+        "fuente": "https://nova24tv.si/",
+        "pais": "si"
+    },
+    "nova24tv": {
+        "nombre": "nova24tv1",
+        "iframe_url": "https://www.youtube.com/embed/live_stream?channel=UCOGseusAY1nMkEhpmmz6Mmg",
+        "fuente": "https://nova24tv.si/",
+        "pais": "si"
+    },
+    "rtvslo": {
+        "nombre": "Rtvslo",
+        "m3u8_url": "https://cdn-live.rtvslo.si/hls/live/2099493/slo1_ott/hdntl=exp=1715732298~acl=%2f*~data=hdntl~hmac=e6429ce8c9288c5989b310afdbdf73a34ac7db36416597b1f84708af6ce7e50b/slo1_360p-new.m3u8",
+        "fuente": "https://www.rtvslo.si/tv/vzivo/tvs1",
+        "pais": "si"
+    },
+    "Rtcg": {
+        "nombre": "Rtcg",
+        "iframe_url": "https://cdn4.rtcg.me/",
+        "fuente": "https://rtcg.me/cir/tv/gledaj-tvcg3.html",
+        "pais": "me"
+    },
+    "gledaj-tvcgmne": {
+        "nombre": "Gledaj tvcgmne",
+        "m3u8_url": "https://proxysat.ipradio.rs:1936/rtcg/smil:rtcg.smil/playlist.m3u8",
+        "fuente": "https://rtcg.me/",
+        "pais": "me"
+    },
+    "z1tv": {
+        "nombre": "Z1tv",
+        "iframe_url": "https://iframe.dacast.com/live/c9333166-8b5f-52e8-f7f9-d79aaa828b31/d05ab737-2fd3-8e33-27de-58d48f73eebb",
+        "fuente": "https://www.z1tv.hr/hr/livestream/",
+        "pais": "hr"
+    },
+    "ct24": {
+        "nombre": "CT24",
+        "iframe_url": "https://player.ceskatelevize.cz/?useNewPlaylist=true&videoID=CH_24&sidp=10101491767&autoStart=true&origin=ct24&product=ct-zpravodajstvi&parentUrl=https%3A%2F%2Fct24.ceskatelevize.cz%2F%23live&disableAds=true&borderRadius=false",
+        "fuente": "https://ct24.ceskatelevize.cz/",
+        "pais": "cz"
+    },
+    "pink": {
+        "nombre": "Pink",
+        "m3u8_url": "https://live.rednet.rs/providus/pink1.m3u8",
+        "fuente": "https://www.pink.rs/",
+        "pais": "rs"
+    },
+    "redportalpink": {
+        "nombre": "Redportal Pink",
+        "m3u8_url": "https://live.rednet.rs/providus/redtv_multi_hq/index.m3u8",
+        "fuente": "https://redportal.pink.rs/",
+        "pais": "rs"
+    },
+    "tv21": {
+        "nombre": "TV21",
+        "iframe_url": "https://www.youtube.com/channel/UCOYLBkApnQ7KzOvaD7WyARg/live",
+        "fuente": "https://mk.tv21.tv/live-tv/",
+        "pais": "mk"
+    },
+    "alfaomega": {
+        "nombre": "Alfaomega",
+        "m3u8_url": "https://www.youtube.com/channel/UCOYLBkApnQ7KzOvaD7WyARg/live",
+        "fuente": "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8",
+        "pais": "ro"
+    },
+    "digi24": {
+        "nombre": "Digi24",
+        "m3u8_url": "https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/b4d46cb0-ecc9-4db5-955f-1667f35ee131:SCL/variant/328325f5494203c31438adcc52e30a46/bandwidth/1477770.m3u8",
+        "fuente": "https://www.digi24.ro/live/digi24",
+        "pais": "ro"
+    },
     "24-Канал-онлайн": {
         "nombre": "24 Канал онлайн",
         "yt_id": "UCja992VI_u2e52c9FHQXw5A",
