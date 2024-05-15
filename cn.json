@@ -2282,7 +2282,7 @@
     },
     "elufa-tv": {
         "nombre": "elufa tv",
-        "iframe_url": "https://player.twitch.tv/js/embed/v1.js",
+        "m3u8_url": "https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cs0FAMjreUM9--Qs2zclc745xx_rXVomgLaai8l9yeczJyqoboRG6ua0J27IB7hboEMTglh6G4VbyqAof3GuJJIfRW7DxiQM-2LlQV9m3_yYJYsPbOlj5-S9lWEGoqqwtpmTzECM9TLObBbb5CgiilMzBfQcgMbvI19y5c4FlbBcEqed2lOu6eVoawS2rSl28iXknjO8cR6zAWC8ifqkKA4LXOfmmVWF69kjGS2IH4TQTs0m5gs3lZydeIHuaW7xWHg9iNjU05OOjczO4SQ5R8jjCejOorhMPBzOtQ5W4Lt7HFSiIN_iBGT58mjm137xazkXDiq4I8930iHDtM-bfBqM8UJIWcRDU82gd7QylO9ItZUY90_5CNJl1wvM-WiGPHZGKdwoxjjyjYOUOpZvWzWjbt0qisqojcHpPHZLTIkqw3MWPNhpw9Jc03FVyxgWmcGC8ZunXDrpWNVcWXN-qPGiXSfeoxQ_vkbA2Zy4yMaof4rCwxXeENkmFkRkkckr1LQYlj2-bMHVrc5NPtsLR9IMLzaCz26UAOYG2pVhDVSRFKkwNFnkwjyM5OVQBeNeR3akAiWQwgMh0lk635zGUAzvleCbXDQb7nwjjk7Q2W9EXXHPCbrceF228PJMZLrVwOI3MAmlQoxMc16CHwUNq7QxiJJRjkDsQMLRRCmZ93mfByvbQM6srMEjVX21ocjg9koUOl25tNsIJ4rMfqLGTIWN3qsMdB7mJwEY7oQB_4D-_cqSU0DzYwD9g4H1uoKmKkVT5Yk54h4ntYySwdYFLBSTkDz-cDLAqjPqa8r7eT6ZjTMN6LRrYgMv7MjKDQxu0RYXAmFIp84vvKj6p0wH8_c8ruELGMLlHsKQhu1OP5QUc0SIRXzzxtuscOx_6OADzAUXtqBgGBXvETr-DhtCpM8su8JZxw0FFW9Vq3crMwCI3Qixlzxy66NVnvQ0MhKRGgz0jP3oZ75utuKPiAcgASoJdXMtZWFzdC0xMOwH.m3u8",
         "fuente": "http://www.elufa-tv.net/live.html",
         "pais": "kp"
     },
