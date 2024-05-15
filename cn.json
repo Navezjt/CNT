@@ -2142,8 +2142,8 @@
         "fuente": "https://www.youtube.com/@goodtv",
         "pais": "tw"
     },
-    "NTDTV": {
-        "nombre": "NTDTV",
+    "NTDAPTV": {
+        "nombre": "NTDAPTV",
         "iframe_url": "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1",
         "fuente": "https://www.youtube.com/@NTDAPTV",
         "pais": "tw"
@@ -2219,6 +2219,132 @@
         "iframe_url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
         "fuente": "https://www.youtube.com/@globalnewstw",
         "pais": "tw"
+    },
+    "hakkatv": {
+        "nombre": "hakkatv",
+        "iframe_url": "https://embed.4gtv.tv/hakka/hakkatv.html",
+        "fuente": "https://www.hakkatv.org.tw/live",
+        "pais": "tw"
+    },
+    "ipcf2": {
+        "nombre": "ipcf2",
+        "iframe_url": "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute",
+        "fuente": "https://www.ipcf.org.tw/zh-TW/Vod/Home",
+        "pais": "tw"
+    },
+    "mnews": {
+        "nombre": "mnews",
+        "iframe_url": "https://www.youtube.com/embed/5n0y6b0Q25o?playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.mnews.tw&widgetid=1",
+        "fuente": "https://www.mnews.tw/",
+        "pais": "tw"
+    },
+    "TVBSNEWS01": {
+        "nombre": "TVBSNEWS01",
+        "iframe_url": "https://www.youtube.com/embed/2mCSYvcfhtc?si=zvjzjW3aahPJuTMC&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@TVBSNEWS01",
+        "pais": "tw"
+    },
+    "tvbsnews02": {
+        "nombre": "tvbsnews02",
+        "iframe_url": "https://www.youtube.com/embed/m_dhMSvUCIc?si=KD32L581c5R3G8tn&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@tvbsnews02",
+        "pais": "tw"
+    },
+    "PNNPTS": {
+        "nombre": "PNNPTS",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCexpzYDEnfmAvPSfG4xbcjA&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@PNNPTS",
+        "pais": "tw"
+    },
+    "EBC-Financial-News": {
+        "nombre": "EBC Financial News",
+        "iframe_url": "https://www.youtube.com/embed/LbS-xQ67fos?rel=0&enablejsapi=1&autoplay=1&mute=1&origin=https%3A%2F%2Ffnc.ebc.net.tw",
+        "fuente": "https://fnc.ebc.net.tw/",
+        "pais": "tw"
+    },
+    "Express-Finance-Satellite-TV": {
+        "nombre": "Express Finance TV",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCiqm4JC8lbGqgePjHd3Mahw&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw",
+        "pais": "tw"
+    },
+    "sindatv2": {
+        "nombre": "sindatv2",
+        "iframe_url": "https://www.youtube.com/embed/ciwFpYofb28?autoplay=1",
+        "fuente": "http://www.sindatv.com.tw/?driect=tvshowlive",
+        "pais": "tw"
+    },
+    "SDTV-1": {
+        "nombre": "SDTV 1",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCHycXkewR3NXQE59t3hhlaQ&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/c/SDTV55ch",
+        "pais": "tw"
+    },
+    "elufa-tv": {
+        "nombre": "elufa tv",
+        "iframe_url": "https://www.twitch.tv/chuo_tv",
+        "fuente": "http://www.elufa-tv.net/live.html",
+        "pais": "kp"
+    },
+    "NBS": {
+        "nombre": "NBS",
+        "iframe_url": "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8",
+        "fuente": "https://www.inbs.co.kr/onair.do",
+        "pais": "kr"
+    },
+    "ShopchannelOfficial": {
+        "nombre": "ShopchannelOfficial",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UC_I5Dmudikt3EFo0xMoHO8Q&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@ShopchannelOfficial",
+        "pais": "jp"
+    },
+    "QVCJapan": {
+        "nombre": "QVCJapan",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCmC_c4yFCCrPFRijE3c4Esw&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/user/QVCJapan/streams",
+        "pais": "jp"
+    },
+    "KagoshimaNewsKTS": {
+        "nombre": "KagoshimaNewsKTS",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/live_stream?channel=UCqPDZgcJtyPFhJM4qx-PuKg&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@KagoshimaNewsKTS/streams",
+        "pais": "jp"
+    },
+    "KBCnewsCH": {
+        "nombre": "KBCnewsCH",
+        "iframe_url": "https://www.youtube.com/embed/j0qAjKS4vLg?enablejsapi=1&autoplay=1&mute=1",
+        "fuente": "https://kbc.co.jp/news/",
+        "pais": "jp"
+    },
+    "rkbnews": {
+        "nombre": "rkbnews",
+        "iframe_url": "https://www.youtube.com/embed/EHe_t9ZjDDA?mute=true&enablejsapi=1&origin=https%3A%2F%2Frkb.jp&widgetid=1",
+        "fuente": "https://rkb.jp/live/",
+        "pais": "jp"
+    },
+    "HOME広島ニュース": {
+        "nombre": "HOME広島ニュース",
+        "iframe_url": "https://www.youtube.com/embed/e2pgLUmaxGs?si=75Rr75s2ArcPxqDq&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@home-news",
+        "pais": "jp"
+    },
+    "mbsnews": {
+        "nombre": "mbsnews",
+        "iframe_url": "https://www.youtube.com/embed/3p_gCyndPP4?si=pbRdCQlNL6xhCM8t&rel=0&autoplay=1",
+        "fuente": "https://www.youtube.com/@mbsnews",
+        "pais": "jp"
+    },
+    "NagoyaTVnewsCH": {
+        "nombre": "NagoyaTVnewsCH",
+        "iframe_url": "https://www.youtube-nocookie.com/embed/-C6FE2m7kX8?autoplay=1",
+        "fuente": "https://www.youtube.com/@NagoyaTVnewsCH",
+        "pais": "jp"
+    },
+    "SBSnews6": {
+        "nombre": "SBSnews6",
+        "iframe_url": "https://www.youtube.com/embed/SyNNfue8Hkk?si=QRedL_HQ3uC5N_Gm&autoplay=1",
+        "fuente": "https://www.youtube.com/@SBSnews6",
+        "pais": "jp"
     },
     "SATV-News-24": {
         "nombre": "SATV News 24",
