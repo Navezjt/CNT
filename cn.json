@@ -2282,13 +2282,13 @@
     },
     "elufa-tv": {
         "nombre": "elufa tv",
-        "iframe_url": "https://www.twitch.tv/chuo_tv",
+        "iframe_url": "https://player.twitch.tv/js/embed/v1.js",
         "fuente": "http://www.elufa-tv.net/live.html",
         "pais": "kp"
     },
     "NBS": {
         "nombre": "NBS",
-        "iframe_url": "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8",
+        "m3u8_url": "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8",
         "fuente": "https://www.inbs.co.kr/onair.do",
         "pais": "kr"
     },
