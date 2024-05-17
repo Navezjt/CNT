@@ -2835,8 +2835,7 @@
     },
     "ATV": {
         "nombre": "ATV",
-        "iframe_url": "k",
-        "fuente": "https://www.atv.com.tr/canli-yayin",
+        "yt_id": "UCUVZ7T_kwkxDOGFcDlFI-hg",
         "pais": "tr"
     },
     "KTR": {
@@ -2847,7 +2846,7 @@
     },
     "NOW-TURK": {
         "nombre": "NOW TURK",
-        "iframe_url": "h",
+        "m3u8_url": "http://hw1.jemtv.com/app/FoxTurkey/playlist.m3u8",
         "fuente": "https://www.nowtv.com.tr/",
         "pais": "tr"
     },
@@ -2931,8 +2930,7 @@
     },
     "TV100": {
         "nombre": "TV100",
-        "iframe_url": "h",
-        "fuente": "https://canlitv.com/fox-tv",
+        "yt_id": "UCndsdUW_oPLqpQJY9J8oIRg",
         "pais": "tr"
     },
         "Trt": {
