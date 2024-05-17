@@ -1727,8 +1727,8 @@
     },
     "ABS-CBNEntertainment": {
         "nombre": "ABS CBNEntertainment",
-        "iframe_url": "https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV",
-        "fuente": "https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment",
+        "iframe_url": "https://www.youtube.com/embed/RjTVJjuwHYI?si=_1Ix8iWvJehgoO0e",
+        "fuente": "https://ent.abs-cbn.com/",
         "pais": "ph"
     },
     "Kapamilya": {
@@ -1826,7 +1826,43 @@
         "nombre": "EWTN",
         "m3u8_url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
         "fuente": "https://www.fullradiotv.com/ewtn-television-en-vivo",
-        "pais": "eu"
+        "pais": "us"
+    },
+    "MUSIC": {
+        "nombre": "30A Music USA",
+        "m3u8_url": "https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "V2Beat": {
+        "nombre": "V2Beat TV",
+        "m3u8_url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "ONTVPortugal": {
+        "nombre": "ON TV Portugal",
+        "m3u8_url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "m2oItalia": {
+        "nombre": "m2o Italia",
+        "m3u8_url": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/master.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "NRG91Grecia": {
+        "nombre": "NRG91 Grecia",
+        "m3u8_url": "https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
+    },
+    "SpektraEspaña": {
+        "nombre": "Spektra TV España",
+        "m3u8_url": "https://cloudvideo.servers10.com:8081/8136/index.m3u8",
+        "fuente": "ttps://www.fullradiotv.com/ewtn-television-en-vivo",
+        "pais": "us"
     },
     "euronews-esp": {
         "nombre": "euronews (Español)",
