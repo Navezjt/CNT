@@ -944,6 +944,354 @@
         "fuente": "https://www.hispantv.com/directo",
         "pais": "ir"
     },
+    "hispan-tv-Español": {
+        "nombre": "hispan tv Español",
+        "iframe_url": "https://odysee.com/$/embed/@hispantv:d/live:400?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX",
+        "fuente": "https://www.hispantv.com/",
+        "pais": "ir"
+    },
+    "press-1": {
+        "nombre": "press 1",
+        "m3u8_url": "https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8",
+        "fuente": "https://www.presstv.ir/",
+        "pais": "ir"
+    },
+    "press-2": {
+        "nombre": "press 2",
+        "iframe_url": "https://odysee.com/$/embed/@PressTV:2/Live:206?r=7TovasKcQTBH9z9J19ETKk1CrMRiu5WX",
+        "fuente": "https://www.presstv.ir/",
+        "pais": "ir"
+    },
+    "press-3": {
+        "nombre": "press 3",
+        "iframe_url": "https://rumble.com/embed/v4ldkxb/?pub=14mhhj",
+        "fuente": "https://www.presstv.ir/",
+        "pais": "ir"
+    },
+    "iranintl": {
+        "nombre": "iranintl",
+        "iframe_url": "https://ott.iranintl.com/tv?lang=en#amp=1",
+        "fuente": "https://www.iranintl.com/en",
+        "pais": "ir"
+    },
+    "Shabakeh": {
+        "nombre": "Shabakeh",
+        "iframe_url": "http://www.parsatv.com/embed.php?name=Shabakeh-3&auto=false",
+        "fuente": "https://www.iranintl.com/en",
+        "pais": "ir"
+    },
+    "Shabakeh-3": {
+        "nombre": "Shabakeh 3",
+        "m3u8_url": "https://liveproxy.splus.ir/hls/tv3/tv3_1080/index.m3u8",
+        "fuente": "https://www.parsatv.com/name=Shabakeh-3",
+        "pais": "ir"
+    },
+    "iFilm": {
+        "nombre": "iFilm",
+        "iframe_url": "https://www.parsatv.com/embed.php?name=iFilm-Persian&auto=false",
+        "fuente": "http://www.imvbox.tv/es/ifilm/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-sahand": {
+        "nombre": "irib sahand",
+        "iframe_url": "https://telewebion.com/embed/live/sahand",
+        "fuente": "http://www.imvbox.tv/es/iribsahand/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-baran": {
+        "nombre": "irib baran",
+        "iframe_url": "https://www.parsatv.com/embed.php?name=baran&auto=false",
+        "fuente": "http://www.imvbox.tv/es/iribbaran/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-khorasan-ravazi": {
+        "nombre": "irib khorasan ravazi",
+        "iframe_url": "https://telewebion.com/embed/live/khorasanrazavi",
+        "fuente": "http://www.imvbox.tv/es/iribkhorasanravazi/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-kordestan": {
+        "nombre": "irib kordestan",
+        "iframe_url": "https://ott.iranintl.com/tv?lang=en#amp=1",
+        "fuente": "http://www.imvbox.tv/es/iribkordestan/live-channel/play",
+        "pais": "ir"
+    },
+    "iribazarbayjan": {
+        "nombre": "iribazarbayjan",
+        "iframe_url": "https://telewebion.com/embed/live/azarbayjangharbi",
+        "fuente": "http://www.imvbox.tv/es/iribazarbayjan/live-channel/play",
+        "pais": "ir"
+    },
+    "khorasan-jonoobi": {
+        "nombre": "khorasan-jonoobi",
+        "iframe_url": "https://telewebion.com/embed/live/khavaran",
+        "fuente": "http://www.imvbox.tv/es/khorasan-jonoobi/live-channel/play",
+        "pais": "ir"
+    },
+    "khorasan-shomali": {
+        "nombre": "khorasan-shomali",
+        "m3u8_url": "https://ncdn.telewebion.com/atrak/live/playlist.m3u8",
+        "fuente": "http://www.imvbox.tv/es/khorasan-shomali/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtv2": {
+        "nombre": "iribtv2",
+        "iframe_url": "https://telewebion.com/embed/live/tv2",
+        "fuente": "http://www.imvbox.tv/es/iribtv2/live-channel/play",
+        "pais": "ir"
+    },
+    "irib-tv2": {
+        "nombre": "irib tv2",
+        "iframe_url": "https://sepehrtv.ir/frame/t/tv2",
+        "fuente": "https://tv2.ir/live",
+        "pais": "ir"
+    },
+    "iribtv1": {
+        "nombre": "iribtv1",
+        "iframe_url": "https://telewebion.com/embed/live/tv1",
+        "fuente": "http://www.imvbox.tv/es/iribtv1/live-channel/play",
+        "pais": "ir"
+    },
+    "irinn": {
+        "nombre": "irinn",
+        "m3u8_url": "https://ncdn.telewebion.com/irinn/live/playlist.m3u8",
+        "fuente": "http://www.imvbox.tv/es/irinn/live-channel/play",
+        "pais": "ir"
+    },
+    "varzeshtv": {
+        "nombre": "varzeshtv",
+        "iframe_url": "https://sepehrtv.ir/frame/t/varzesh",
+        "fuente": "https://varzeshtv.ir/live#!",
+        "pais": "ir"
+    },
+    "iribnasim": {
+        "nombre": "iribnasim",
+        "iframe_url": "https://telewebion.com/embed/live/nasim",
+        "fuente": "http://www.imvbox.tv/es/iribnasim/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtv5": {
+        "nombre": "iribtv5",
+        "iframe_url": "https://telewebion.com/embed/live/tehran",
+        "fuente": "http://www.imvbox.tv/es/iribtv5/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtamasha": {
+        "nombre": "iribtamasha",
+        "iframe_url": "https://telewebion.com/embed/live/hdtest",
+        "fuente": "http://www.imvbox.tv/es/iribtamasha/live-channel/play",
+        "pais": "ir"
+    },
+    "iranintl": {
+        "nombre": "iranintl",
+        "iframe_url": "http://www.parsatv.com/embed.php?name=Namayesh&auto=false",
+        "fuente": "http://www.imvbox.tv/es/iribnamayesh/live-channel/play",
+        "pais": "ir"
+    },
+    "iribtv4": {
+        "nombre": "iribtv4",
+        "iframe_url": "https://telewebion.com/embed/live/tv4",
+        "fuente": "http://www.imvbox.tv/es/iribtv4/live-channel/play",
+        "pais": "ir"
+    },
+    "BFZ-TURK": {
+        "nombre": "BFZ TURK",
+        "iframe_url": "https://bfzturk.com/",
+        "fuente": "https://bfzturk.com/",
+        "pais": "tr"
+    },
+    "trt-Haber": {
+        "nombre": "trt Haber",
+        "m3u8_url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
+        "fuente": "https://www.trthaber.com/",
+        "pais": "tr"
+    },
+    "CNNTURK": {
+        "nombre": "CNNTURK",
+        "m3u8_url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+        "fuente": "https://www.cnnturk.com/canli-yayin",
+        "pais": "tr"
+    },
+    "CNNTURK2": {
+        "nombre": "CNNTURK2",
+        "m3u8_url": "https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8",
+        "fuente": "https://www.cnnturk.com/canli-yayin",
+        "pais": "tr"
+    },
+    "NTV": {
+        "nombre": "NTV",
+        "iframe_url": "https://canlitv.center/yayin/ntv-izle-3",
+        "fuente": "https://www.ntv.com.tr/",
+        "pais": "tr"
+    },
+    "NTV2": {
+        "nombre": "NTV2",
+        "iframe_url": "https://canlitv.center/yayin/ntv-yt",
+        "fuente": "https://www.ntv.com.tr/",
+        "pais": "tr"
+    },
+    "startv": {
+        "nombre": "startv",
+        "iframe_url": "https://canlitv.center/yayin/star-tv-izle",
+        "fuente": "https://www.startv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "startv2": {
+        "nombre": "star2",
+        "iframe_url": "https://canlitv.com/player1/index.php?id=99",
+        "fuente": "https://www.startv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "show-tv": {
+        "nombre": "show",
+        "iframe_url": "https://canlitv.center/yayin/show-tv-izle",
+        "fuente": "https://www.ntv.com.tr/",
+        "pais": "tr"
+    },
+    "Tv8": {
+        "nombre": "Tv8",
+        "iframe_url": "https://www.canlitv.day/embed/?id=10924",
+        "fuente": "https://www.tv8.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "360-tv": {
+        "nombre": "360",
+        "iframe_url": "https://www.canlitv.day/embed/?id=15",
+        "fuente": "https://www.tv360.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "360-tv2": {
+        "nombre": "360-tv2",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+        "fuente": "https://www.tv360.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "HaberTURK": {
+        "nombre": "HaberTURK",
+        "m3u8_url": "https://haberturk.ercdn.net/channel01/channel01.m3u8",
+        "fuente": "https://www.haberturk.com/",
+        "pais": "tr"
+    },
+    "ATV": {
+        "nombre": "ATV",
+        "iframe_url": "k",
+        "fuente": "https://www.atv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "KTR": {
+        "nombre": "KTR",
+        "iframe_url": "https://www.youtube.com/embed/2e0DZuMlU8k",
+        "fuente": "https://www.krttv.com.tr/",
+        "pais": "tr"
+    },
+    "NOW-TURK": {
+        "nombre": "NOW TURK",
+        "iframe_url": "h",
+        "fuente": "https://www.nowtv.com.tr/",
+        "pais": "tr"
+    },
+    "Akittv": {
+        "nombre": "Akittv",
+        "m3u8_url": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+        "fuente": "https://www.akittv.com.tr/canli-izle",
+        "pais": "tr"
+    },
+    "Szctv": {
+        "nombre": "Szctv",
+        "iframe_url": "https://www.youtube.com/embed/2i8lfP9oqvk?autoplay=1&enablejsapi=1&playsinline=1",
+        "fuente": "https://www.szctv.com.tr/",
+        "pais": "tr"
+    },
+    "halk-tv": {
+        "nombre": "Halk tv",
+        "iframe_url": "https://www.youtube.com/embed/-HJwrahoMsQ?autoplay=1",
+        "fuente": "https://halktv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "halk-2": {
+        "nombre": "Halk 2",
+        "m3u8_url": "https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3",
+        "fuente": "https://halktv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "kanal-7": {
+        "nombre": "kanal-7",
+        "m3u8_url": "https://kanal7.daioncdn.net/kanal7/kanal7.m3u8?app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3",
+        "fuente": "https://www.kanal7.com/canli-izle",
+        "pais": "tr"
+    },
+    "Beyaz-tv": {
+        "nombre": "Beyaz-tv",
+        "m3u8_url": "https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3",
+        "fuente": "https://m.beyaztv.com.tr/canli-yayin/",
+        "pais": "tr"
+    },
+    "fox-tv": {
+        "nombre": "Fox",
+        "m3u8_url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=mobile_web&st=zCY1RzFZbz487lsfl_3XkQ&e=1715916378",
+        "fuente": "https://www.nowtv.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "fox1": {
+        "nombre": "fox1",
+        "m3u8_url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?ce=3&app=desktop_web&st=zCY1RzFZbz487lsfl_3XkQ&e=1715916378",
+        "fuente": "https://canlitv.com/fox-tv",
+        "pais": "tr"
+    },
+    "tv24": {
+        "nombre": "tv24",
+        "m3u8_url": "https://turkmedya-live.ercdn.net/tv24/tv24.m3u8",
+        "fuente": "https://www.sabah.com.tr/video/canli-yayin/a2tv",
+        "pais": "tr"
+    },
+    "TV8": {
+        "nombre": "TV8",
+        "m3u8_url": "http://stream.tvcdn.net/ulusal/tv8.m3u8",
+        "fuente": "https://www.tv8.com.tr/canli-yayin",
+        "pais": "tr"
+    },
+    "a2": {
+        "nombre": "a2",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/a2.m3u8",
+        "fuente": "https://canlitv.com/fox-tv",
+        "pais": "tr"
+    },
+    "Tele1": {
+        "nombre": "Tele1",
+        "iframe_url": "https://www.youtube.com/embed/XqzbMohV_yY",
+        "fuente": "https://tele1.com.tr/canli-yayin/",
+        "pais": "tr"
+    },
+    "TV8,5": {
+        "nombre": "TV8,5",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/tv8-5.m3u8",
+        "fuente": "https://canlitv.com/fox-tv",
+        "pais": "tr"
+    },
+    "TV100": {
+        "nombre": "TV100",
+        "iframe_url": "h",
+        "fuente": "https://canlitv.com/fox-tv",
+        "pais": "tr"
+    },
+        "Trt": {
+        "nombre": "Trt",
+        "iframe_url": "https://www.tabii.com/tr/watch/live/trt1?trackId=150002",
+        "fuente": "https://www.trt.net.tr/yayin-akisi",
+        "pais": "tr"
+    },
+    "Trt-2": {
+        "nombre": "Trt 2",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/trt-2.m3u8",
+        "fuente": "https://www.trt.net.tr/yayin-akisi",
+        "pais": "tr"
+    },
+    "Teve2": {
+        "nombre": "Teve2",
+        "m3u8_url": "http://stream.tvcdn.net/eglence/teve2.m3u8",
+        "fuente": "https://www.teve2.com.tr/canli-yayin",
+        "pais": "tr"
+    },
     "THTV": {
         "nombre": "THTV",
         "m3u8_url": "https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8",
