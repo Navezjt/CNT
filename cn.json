@@ -2835,7 +2835,8 @@
     },
     "ATV": {
         "nombre": "ATV",
-        "yt_id": "UCUVZ7T_kwkxDOGFcDlFI-hg",
+        "m3u8_url": "https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8",
+        "fuente": "https://www.youtube.com/@atvturkiye",
         "pais": "tr"
     },
     "KTR": {
