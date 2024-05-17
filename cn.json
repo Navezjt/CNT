@@ -2432,7 +2432,7 @@
     },
     "elufa-tv": {
         "nombre": "elufa tv",
-        "m3u8_url": "https://www.twitch.tv/chuo_tv",
+        "iframe_url": "https://player.twitch.tv/?channel=chuo_tv&parent=alplox.github.io",
         "fuente": "http://www.elufa-tv.net/live.html",
         "pais": "kp"
     },
