@@ -2244,6 +2244,18 @@
         "fuente": "https://rtcg.me/",
         "pais": "me"
     },
+    "TV-Herceg-Novi": {
+        "nombre": "TV Herceg Novi",
+        "iframe_url": "https://player.twitch.tv/?channel=tvhercegnovi&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fmontenegro%2Fmontenegro-005.html",
+        "fuente": "https://www.squidtv.net/europe/montenegro/montenegro-005.html",
+        "pais": "me"
+    },
+    "tvteuta": {
+        "nombre": "TVteuta",
+        "iframe_url": "https://video.gjirafa.com/embed/tv-teuta-live?autoplay=true&am=true",
+        "fuente": "http://tvteuta.com/live-tv/",
+        "pais": "me"
+    },
     "z1tv": {
         "nombre": "Z1tv",
         "iframe_url": "https://iframe.dacast.com/live/c9333166-8b5f-52e8-f7f9-d79aaa828b31/d05ab737-2fd3-8e33-27de-58d48f73eebb",
