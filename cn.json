@@ -2246,7 +2246,7 @@
     },
     "TV-Herceg-Novi": {
         "nombre": "Herceg Novi",
-        "iframe_url": "https://player.twitch.tv/?channel=tvhercegnovi&parent=alplox.github.io",
+        "iframe_url": "https://player.twitch.tv?channel=tvhercegnovi&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fmontenegro%2Fmontenegro-005.html",
         "fuente": "https://www.squidtv.net/europe/montenegro/montenegro-005.html",
         "pais": "me"
     },
