@@ -108,6 +108,12 @@
         "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
         "pais": "cl"
     },
+    "cnn-cl-3": {
+        "nombre": "CNN Chile 3",
+        "m3u8_url": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+        "fuente": "https://www.cnnchile.com/",
+        "pais": "cl"
+    },
     "chv-noticias": {
         "nombre": "CHV Noticias",
         "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
@@ -906,6 +912,12 @@
         "nombre": "Mytime",
         "iframe_url": "https://babaktv.com/embed/mytime-movie-mexico-link01/",
         "fuente": "https://babaktv.com/mytime-movie-mexico/",
+        "pais": "pe"
+    },
+    "canalb": {
+        "nombre": "canalb",
+        "iframe_url": "https://www.youtube.com/embed/nOukZI_clUU?hd=1&autoplay=1",
+        "fuente": "https://canalb.pe/live",
         "pais": "pe"
     },
     "AO": {
