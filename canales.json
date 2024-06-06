@@ -2886,11 +2886,10 @@
     },
      "la1": {
         "nombre": "LA1",
-        "logo": "https://logo.png",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
         "señales": {
             "iframe_url": [
                 "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
-				"https://...",
             ],
             "m3u8_url": [
                 "https://ztnr.rtve.es/ztnr/1688877.m3u8"
