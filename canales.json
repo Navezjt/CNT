@@ -2884,6 +2884,24 @@
         "país": "es",
         "categoría": "news"
     },
+    "la1": {
+        "nombre": "La1 noticias",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
+        "señales": {
+            "iframe_url": [
+                "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
+                "https://www.rtve.es/play/videos/directo/canales-lineales/24h/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.rtve.es/noticias",
+        "país": "cl",
+        "categoría": "news"
+    },
     "television-de-galicia": {
         "nombre": "Televisión de Galicia",
         "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
