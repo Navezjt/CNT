@@ -2873,32 +2873,9 @@
         "nombre": "RTVE Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.rtve.es/play/videos/directo/canales-lineales/24h/"
-            ],
-            "m3u8_url": [
-                "https://ztnr.rtve.es/ztnr/1694255.m3u8"
-            ],
+            "iframe_url": [],
+            "m3u8_url": [],
             "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.rtve.es/noticias",
-        "país": "es",
-        "categoría": "news"
-    },
-    "la1": {
-        "nombre": "La1 Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/"
-            ],
-            "m3u8_url": [
-                "https://ztnr.rtve.es/ztnr/1688877.m3u8"
-            ],
-            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
