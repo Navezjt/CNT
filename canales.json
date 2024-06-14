@@ -5551,6 +5551,37 @@
         "país": "rs",
         "categoría": "news"
     },
+    "voa": {
+        "nombre": "VOA",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
+        "señales": {
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=Channel-One-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Iran-International-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Pars-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=VOA-Persian&auto=false",
+                "http://www.parsatv.com/embed.php?name=BBC-Persian&auto=false",
+                "http://www.parsatv.com/embed.php?name=Manoto-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Mihan-TV&auto=false",
+                "https://www.voanews.com/embed/player/1/126.html?type=video",
+                "https://www.voanews.com/embed/player/1/116.html?type=video"
+            ],
+            "m3u8_url": [
+                "https://ch1hls.wns.live/hls/stream.m3u8",
+                "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
+                "https://parshls.wns.live/hls/stream.m3u8",
+                "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8",
+                "https://iptv.mihantv.com/mihantv/playlist.m3u8",
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.voanews.com/",
+        "país": "ir",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
