@@ -5799,7 +5799,7 @@
         "nombre": "Persiana",
         "logo": "https://www.persianagroup.tv/logo-pg-light.png",
         "señales": {
-            "code": [
+            "iframe_src=": [
                 "http://www.parsatv.com/embed.php?name=Persiana-Music&auto=false",
                 "hhttp://www.parsatv.com/embed.php?name=Persiana-Rap&auto=false",
                 "http://www.parsatv.com/embed.php?name=Persiana-Sonnati&auto=false",
