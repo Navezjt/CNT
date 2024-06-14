@@ -5583,6 +5583,32 @@
         "país": "ir",
         "categoría": "news"
     },
+    "Irane": {
+        "nombre": "Irane Farda",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/4f/Iran-e-Farda.svg",
+        "señales": {
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=Irane-Farda&auto=false",
+                "http://www.parsatv.com/embed.php?name=Iran-Aryaee&auto=false",
+                "http://www.parsatv.com/embed.php?name=Novin-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Fareh-Iran-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Didgah-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Israel-Pars-TV&auto=false"
+            ],
+            "m3u8_url": [
+                "https://hls.iranfarda.live/hls/stream.m3u8",
+                "https://hls.farehirantv.live/hls/stream.m3u8",
+                "https://live.pars-israel.com/iptv/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iranefardalive.com/",
+        "país": "ir",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
