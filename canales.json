@@ -5551,7 +5551,6 @@
         "país": "rs",
         "categoría": "news"
     },
-    
     "voa": {
         "nombre": "voa noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
@@ -5655,7 +5654,7 @@
                 "https://hls.yourtime.live/hls/stream.m3u8",
                 "https://hls.pmchd.live/hls/stream.m3u8",
                 "https://mtchls.wns.live/hls/stream.m3u8",
-                "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
+                "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -5714,7 +5713,6 @@
                 "http://www.parsatv.com/embed.php?name=ITN-TV&auto=false"
             ],
             "m3u8_url": [
-                "htt",
                 "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
                 "https://t2hls.wns.live/hls/stream.m3u8",
                 "https://hls.4utv.live/hls/stream.m3u8",
