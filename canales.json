@@ -5847,27 +5847,6 @@
         "país": "ir",
         "categoría": "news"
     },
-    "Best_Cable": {
-        "nombre": "Best Cable",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablehatuntv&stream=bestcablehatuntv",
-                "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcable&stream=bestcable",
-                "https://dattassd.com/player/index.php?puerto=19360&rtmp=bestcablesports&stream=bestcablesports"
-            ],
-            "m3u8_url": [
-                "https://servilive.com:3528/live/conect2tvlive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://bestcableperu.com.pe/tv6.html",
-        "país": "pe",
-        "categoría": "news"
-    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
