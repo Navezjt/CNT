@@ -5609,6 +5609,244 @@
         "país": "ir",
         "categoría": "news"
     },
+    "irtvis": {
+        "nombre": "Iran TV Israel",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Iran_International.svg",
+        "señales": {
+            "iframe_url": [
+                "https://bharadwajpro.github.io/m3u8-player/player/#https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
+                "http://www.parsatv.com/embed.php?name=Iran-TV-Israel&auto=false",
+                "http://www.parsatv.com/embed.php?name=Dorr-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Aryen-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Az-News-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Simaye-Azadi&auto=false"
+            ],
+            "m3u8_url": [
+                "https://streaminglive.co.il:3730/live/raniamranilive.m3u8",
+                "https://aryen.tv/live/tv/playlist.m3u8",
+                "https://edge1.socialsmart.tv/aznews/smil:aznews.smil/playlist.m3u8",
+                "https://simaytv.akamaized.net/hls/live/2043550/simayhls/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.radioran.co.il/en/iran-tv-israel",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "iranintl": {
+        "nombre": "Iranintl noticias",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Iran_International.svg",
+        "señales": {
+            "iframe_url": [
+                "https://ott.iranintl.com/tv?lang=en#amp=1",
+                "http://www.parsatv.com/embed.php?name=Rangin-Kaman-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Kanal-Jadid&auto=false",
+                "http://www.parsatv.com/embed.php?name=Your-Time&auto=false",
+                "http://www.parsatv.com/embed.php?name=PMC&auto=false",
+                "http://www.parsatv.com/embed.php?name=MTC&auto=false",
+                "http://www.parsatv.com/embed.php?name=Radio-Javan-TV&auto=false"
+            ],
+            "m3u8_url": [
+                "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
+                "https://kjhls.wns.live/hls/stream.m3u8",
+                "https://hls.yourtime.live/hls/stream.m3u8",
+                "https://hls.pmchd.live/hls/stream.m3u8",
+                "https://mtchls.wns.live/hls/stream.m3u8",
+                "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.iranintl.com/en",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "tapesh": {
+        "nombre": "Tapesh",
+        "logo": "hhttps://upload.wikimedia.org/wikipedia/en/e/e9/Persianbcompany.JPG",
+        "señales": {
+            "iframe_url": [
+                "https://babaktv.com/embed/tapesh-link01/",
+                "http://www.parsatv.com/embed.php?name=Tapesh&auto=false",
+                "http://www.parsatv.com/embed.php?name=PMC-Royale&auto=false",
+                "http://www.parsatv.com/embed.php?name=Avang-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Caltex-Music&auto=false",
+                "http://www.parsatv.com/embed.php?name=High-Vision&auto=false",
+                "http://www.parsatv.com/embed.php?name=Navahang-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=AFN-Music&auto=false"
+            ],
+            "m3u8_url": [
+                "https://iptv.tapesh.tv/tapesh/playlist.m3u8",
+                "https://stream.rjtv.stream/live/smil:rjtv.smil/playlist.m3u8",
+                "https://hls.avang.live/hls/stream.m3u8",
+                "https://video.caltexmusic.com/hls/caltextv.m3u8",
+                "https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8",
+                "https://hls.navahang.live/hls/stream.m3u8",
+                "https://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://babaktv.com/tapesh-tv/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "khatereh": {
+        "nombre": "khatereh",
+        "logo": "https://www.lyngsat.com/logo/tv/kk/khatereh-tv-de.png",
+        "señales": {
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=Khatereh-TV&auto=false",
+                "https://livepush.io/embed/emkz_F4htvgZdfFg",
+                "http://www.parsatv.com/embed.php?name=Tapesh-Iran&auto=false",
+                "http://www.parsatv.com/embed.php?name=T2-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=4U-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Omid-e-Iran&auto=false",
+                "http://www.parsatv.com/embed.php?name=MBC-Persia&auto=false",
+                "http://www.parsatv.com/embed.php?name=Oxir-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=ITN-TV&auto=false"
+            ],
+            "m3u8_url": [
+                "htt",
+                "https://iptv.tapesh.tv/tapeshiran/playlist.m3u8",
+                "https://t2hls.wns.live/hls/stream.m3u8",
+                "https://hls.4utv.live/hls/stream.m3u8",
+                "https://oitnhls.wns.live/hls/stream.m3u8",
+                "https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8",
+                "https://hls.oxir.live/hls/stream.m3u8",
+                "https://itnhls.wns.live/hls/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://khatereh.online/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "ava": {
+        "nombre": "AVA",
+        "logo": "https://iran-tv.live/uploads/tv_image/sm/ava-family.png",
+        "señales": {
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=ICC-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=GLV-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=SL-1&auto=false",
+                "http://www.parsatv.com/embed.php?name=SL-2&auto=false",
+                "http://www.parsatv.com/embed.php?name=Grand-Cinema&auto=false",
+                "http://www.parsatv.com/embed.php?name=ME2-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Ava-Network&auto=false",
+                "https://avafamily.avatv.live/",
+                "https://avaseries.wns.live/",
+                "http://www.parsatv.com/embed.php?name=Ava-Series&auto=false"
+            ],
+            "m3u8_url": [
+                "https://icchls.wns.live/hls/stream.m3u8",
+                "https://38b3095.online-server.cloud/hls/live.m3u8",
+                "https://slonehls.wns.live/hls/stream.m3u8",
+                "https://sltwohls.wns.live/hls/stream.m3u8",
+                "https://gcinemahls.wns.live/hls/stream.m3u8",
+                "https://me2hls.wns.live/hls/stream.m3u8",
+                "https://familyhls.avatv.live/hls/stream.m3u8",
+                "https://avaserieshls.wns.live/hls/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://avaentertainment.net/sr",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "Javan": {
+        "nombre": "Javan",
+        "logo": "https://payamjavan.com/wp-content/uploads/2021/03/logo-Payam-Javan-1-1.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.streamwebtown.com/iframe/pjtv/index.php",
+                "http://www.parsatv.com/embed.php?name=Maah-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Nama-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Tasvire-Iran&auto=false",
+                "http://www.parsatv.com/embed.php?name=TM-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Bravo-Farsi&auto=false",
+                "http://www.parsatv.com/embed.php?name=Payam-Javan-TV&auto=false"
+            ],
+            "m3u8_url": [
+                "https://hls.maahtv.live/hls/stream.m3u8",
+                "https://namahls.wns.live/hls/stream.m3u8",
+                "https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8",
+                "https://hls.tmtv.live/hls/stream.m3u8",
+                "https://bravoohls.wns.live/hls/stream.m3u8",
+                "https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://payamjavan.com/live/",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "Persiana": {
+        "nombre": "Persiana",
+        "logo": "https://www.persianagroup.tv/logo-pg-light.png",
+        "señales": {
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=Persiana-Music&auto=false",
+                "hhttp://www.parsatv.com/embed.php?name=Persiana-Rap&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Sonnati&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-HD&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-One&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Two&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Comedy&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Junior&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Iranian&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Nostalgia&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Latino&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Science&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Family&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Turkiye&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Sports-TV&auto=false",
+                "http://www.parsatv.com/embed.php?name=Persiana-Cinema&auto=false"
+            ],
+            "m3u8_url": [
+                "https://musichls.persiana.live/hls/stream.m3u8",
+                "https://raphls.persiana.live/hls/stream.m3u8",
+                "https://sonhls.persiana.live/hls/stream.m3u8",
+                "https://euhls.persiana.live/hls/stream.m3u8",
+                "https://onehls.persiana.live/hls/stream.m3u8",
+                "https://twohls.persiana.live/hls/stream.m3u8",
+                "https://korhls.persiana.live/hls/stream.m3u8",
+                "https://comedyhls.persiana.live/hls/stream.m3u8",
+                "https://junhls.persiana.live/hls/stream.m3u8",
+                "https://irhls.persiana.live/hls/stream.m3u8",
+                "https://noshls.persiana.live/hls/stream.m3u8",
+                "https://latinohls.persiana.live/hls/stream.m3u8",
+                "https://scihls.persiana.live/hls/stream.m3u8",
+                "https://familyhls.persiana.live/hls/stream.m3u8",
+                "https://turkhls.persiana.live/hls/stream.m3u8",
+                "https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8",
+                "https://cinehls.persiana.live/hls/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.persianagroup.tv/",
+        "país": "ir",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
