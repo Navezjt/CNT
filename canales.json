@@ -3668,7 +3668,9 @@
         "nombre": "FRANCE 24 Español",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/Y-IlMeCCtIg?hl=es&showinfo=0&color=white&rel=1&enablejsapi=1&origin=https%3A%2F%2Fwww.france24.com&playsinline=0&embed_config=%7B%22primaryThemeColor%22%3A%22%2300a7e3%22%2C%22relatedChannels%22%3A%5B%22UCUdOoVWuWmgo1wByzcsyKDQ%22%5D%2C%22autonavRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&widgetid=1"
+            ],
             "m3u8_url": [],
             "yt_id": "UCUdOoVWuWmgo1wByzcsyKDQ",
             "yt_embed": "",
@@ -3756,7 +3758,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.dw.com/ar",
+        "sitio_oficial": "https://www.dw.com/es",
         "país": "de",
         "categoría": "news"
     },
