@@ -5921,8 +5921,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "canalE": {
-        "nombre": "canal E",
+    "canal-e": {
+        "nombre": "Canal E",
         "logo": "",
         "señales": {
             "iframe_url": [
