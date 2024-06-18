@@ -5921,8 +5921,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "canal E": {
-        "nombre": "Negocios",
+    "canalE": {
+        "nombre": "canal E",
         "logo": "",
         "señales": {
             "iframe_url": [
