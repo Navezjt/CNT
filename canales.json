@@ -3608,7 +3608,9 @@
         "nombre": "euronews (Español)",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/O9mOtdZ-nSk?autoplay=1&mute=1&enablejsapi=1&showinfo=0&embed_config=%7B%22primaryThemeColor%22%3A%22%23005587%22%2C%22autonavRelatedVideos%22%3Atrue%2C%22enableIma%22%3Atrue%2C%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%2C%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F6458%2Fes_euronews_new%2Flive%22%2C%22cust_params%22%3A%22lng%3Des%26page%3Dlive%26aamId%3D03171562441619062914450411337735391577%26gs_cat%3Dgv_safe%252Cgb_safe%252Cgb_safe_from_high%252Cgb_safe_from_high_med%252Cgs_entertain_tv%252Cgs_entertain%252Cgs_busfin%252Cgs_busfin_indus%252Cgs_busfin_indus_media%252Cgs_home%26player_type%3Dpfp%22%7D%7D%7D&origin=https%3A%2F%2Fes.euronews.com&widgetid=1"
+            ],
             "m3u8_url": [],
             "yt_id": "UCyoGb3SMlTlB8CLGVH4c8Rw",
             "yt_embed": "",
