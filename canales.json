@@ -1366,7 +1366,9 @@
         "nombre": "Canal 26",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/RnTmtVFTSf0?enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
+            ],
             "m3u8_url": [],
             "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
             "yt_embed": "",
