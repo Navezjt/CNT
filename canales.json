@@ -5962,6 +5962,29 @@
         "país": "mx",
         "categoría": "news"
     }, 
+    "telemax": {
+        "nombre": "Telemax",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.conceptoweb-studio.com/radio/video/tv4/"
+            ],
+            "m3u8_url": [
+                "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1",
+                "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net:443/tv4/smil:tv4.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net:443/tv43/smil:tv43.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal26.com/telemax",
+        "país": "ar",
+        "categoría": "news"
+    },
     "tv4": {
         "nombre": "TV4",
         "logo": "",
