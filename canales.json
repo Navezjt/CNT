@@ -2876,9 +2876,9 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
         "señales": {
             "iframe_url": [
-                "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
                 "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
-                ""
+                "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
+                "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/"
             ],
             "m3u8_url": [
                 "https://ztnr.rtve.es/ztnr/1694255.m3u8",
