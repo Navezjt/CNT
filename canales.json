@@ -2878,12 +2878,12 @@
             "iframe_url": [
                 "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
                 "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
-                "",
+                ""
             ],
             "m3u8_url": [
                 "https://ztnr.rtve.es/ztnr/1694255.m3u8",
                 "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-                "https://ztnr.rtve.es/ztnr/1688885.m3u8",
+                "https://ztnr.rtve.es/ztnr/1688885.m3u8"
             ],
             "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
             "yt_embed": "",
