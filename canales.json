@@ -6037,23 +6037,6 @@
         "país": "mx",
         "categoría": "news"
     },
-    "Telemundo": {
-        "nombre": "Telemundo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MTM="
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telemundo.com/",
-        "país": "mx",
-        "categoría": "news"
-    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
