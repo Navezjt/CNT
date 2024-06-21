@@ -73,7 +73,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
         "señales": {
             "iframe_url": [
-                "https://rudo.video/live/chvn?autoplay=true&volume=0"
+                "https://rudo.video/live/chvn?autoplay=true&volume=0",
+                "https://television-libre.online/html/clarovideo.html?r=CHVCL"
             ],
             "m3u8_url": [
                 "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR"
@@ -6004,6 +6005,44 @@
                 "https://5f1af61612fb5.streamlock.net:443/tv43/smil:tv43.smil/playlist.m3u8",
                 "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
             ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvcuatro.tv/4-2/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "RCN": {
+        "nombre": "RCN",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MDI=",
+                "https://television-libre.online/html/hls?get=aHR0cHM6Ly9sYXR2LXJjbi14dHJhLTEtbXgudGNsLnd1cmwudHYvcGxheWxpc3QubTN1OA",
+                "https://television-libre.online/html/hls?get=aHR0cHM6Ly9yY250di1yY25tYXMtMS11cy5wbGV4Lnd1cmwudHYvcGxheWxpc3QubTN1OA",
+            ],
+            "m3u8_url": [
+                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalrcn.com/senal-en-vivo/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "Telemundo": {
+        "nombre": "Telemundo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MTM=",
+            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
