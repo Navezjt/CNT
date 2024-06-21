@@ -3362,14 +3362,12 @@
         "nombre": "Noticias Telemundo",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MTM="
-            ],
+            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "txl_092l"
         },
         "sitio_oficial": "https://www.telemundo.com/noticias",
         "país": "us",
