@@ -3361,7 +3361,9 @@
         "nombre": "Noticias Telemundo",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MTM="
+            ],
             "m3u8_url": [],
             "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
             "yt_embed": "",
