@@ -1844,7 +1844,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true"
+                "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true",
+                "https://television-libre.online/en-vivo/caracoltv/"
             ],
             "m3u8_url": [],
             "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
@@ -6040,7 +6041,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MTM=",
+                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MTM="
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -6048,7 +6049,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://tvcuatro.tv/4-2/",
+        "sitio_oficial": "https://www.telemundo.com/",
         "país": "mx",
         "categoría": "news"
     },
