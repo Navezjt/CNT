@@ -1413,7 +1413,10 @@
         "nombre": "Telefe Noticias",
         "logo": "https://graph.facebook.com/telefenoticias/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/live_stream?channel=UChxGASjdNEYHhVKpl667Huw&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0",
+                "https://ssl.cloud.telefe.com/vivo/"
+            ],
             "m3u8_url": [],
             "yt_id": "UChxGASjdNEYHhVKpl667Huw",
             "yt_embed": "",
