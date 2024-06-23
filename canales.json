@@ -1663,6 +1663,7 @@
         "logo": "https://graph.facebook.com/elsietetv/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/Vh8xmLBJtR8?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0",
                 "https://www.youtube.com/embed/Vh8xmLBJtR8?autoplay=1&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fwww.elsietetv.com.ar%2F&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fwww.elsietetv.com.ar&widgetid=1"
             ],
             "m3u8_url": [],
