@@ -1339,7 +1339,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crónica_TV_logotipo_(2016).png",
         "señales": {
             "iframe_url": [
-                "https://vmf.edge-apps.net/embed/live.php?streamname=cronicatv_video1-100044&autoplay=true",
+                "https://vmf.edge-apps.net/embed/live.php?streamname=cronicatv_video1-100044&autoplay=true"
             ],
             "m3u8_url": [],
             "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
