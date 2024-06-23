@@ -1284,7 +1284,9 @@
         "nombre": "C5N",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/2048px-C5N_logo.svg.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/Hy4UCfsE6Yk?embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.c5n.com&widgetid=1"
+            ],
             "m3u8_url": [],
             "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
             "yt_embed": "",
@@ -1321,7 +1323,9 @@
         "nombre": "Televisión Pública",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&autoplay=true"
+            ],
             "m3u8_url": [
                 "https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8"
             ],
