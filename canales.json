@@ -1464,7 +1464,9 @@
         "nombre": "eldoce",
         "logo": "https://graph.facebook.com/eldocetv/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/sFZe_RPnNSo?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&playsinline=true&enablejsapi=1&origin=https%3A%2F%2Feldoce.tv&widgetid=1"
+            ],
             "m3u8_url": [],
             "yt_id": "UCiaePeoCqpU8hBHiNrgkzrA",
             "yt_embed": "sFZe_RPnNSo",
@@ -1660,10 +1662,12 @@
         "nombre": "El Siete TV",
         "logo": "https://graph.facebook.com/elsietetv/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/Vh8xmLBJtR8?autoplay=1&controls=0&disablekb=1&playsinline=1&cc_load_policy=0&cc_lang_pref=auto&widget_referrer=https%3A%2F%2Fwww.elsietetv.com.ar%2F&rel=0&showinfo=0&iv_load_policy=3&modestbranding=1&customControls=true&noCookie=false&enablejsapi=1&origin=https%3A%2F%2Fwww.elsietetv.com.ar&widgetid=1"
+            ],
             "m3u8_url": [],
             "yt_id": "UC64ZNqX0FQHabP8iIkmnR3A",
-            "yt_embed": "",
+            "yt_embed": "Vh8xmLBJtR8",
             "yt_playlist": "",
             "twitch_id": ""
         },
