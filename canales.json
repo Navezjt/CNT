@@ -1338,7 +1338,9 @@
         "nombre": "Crónica TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crónica_TV_logotipo_(2016).png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://vmf.edge-apps.net/embed/live.php?streamname=cronicatv_video1-100044&autoplay=true",
+            ],
             "m3u8_url": [],
             "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
             "yt_embed": "",
@@ -1353,7 +1355,9 @@
         "nombre": "LA NACION",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Nación.svg/2560px-Logo_La_Nación.svg.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/ocFG3yor--M?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
             "m3u8_url": [],
             "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
             "yt_embed": "LY2XEQ_SSXA",
@@ -1434,7 +1438,9 @@
         "nombre": "América TV",
         "logo": "https://graph.facebook.com/AmericaTV/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://vmf.edge-apps.net/embed/live.php?streamname=americahls-100056&autoplay=false"
+            ],
             "m3u8_url": [
                 "https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8"
             ],
