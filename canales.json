@@ -1388,7 +1388,7 @@
             "iframe_url": [
                 "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
                 "https://www.youtube.com/embed/QGpHLgRnrx4?si=4T6uJc9oAXtDtG3S",
-                "https://www.twitch.tv/a24noticias"
+                "https://player.twitch.tv/js/embed/v1.js"
             ],
             "m3u8_url": [],
             "yt_id": "UCR9120YBAqMfntqgRTKmkjQ",
