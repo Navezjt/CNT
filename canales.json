@@ -6080,8 +6080,8 @@
         "país": "mx",
         "categoría": "news"
     },
-    "Dsprt": {
-        "nombre": "Dsprt",
+    "Tvn-2": {
+        "nombre": "Tvn-2",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
@@ -6098,7 +6098,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.canalrcn.com/senal-en-vivo/",
+        "sitio_oficial": "https://www.tvn-2.com/tvmax/",
         "país": "mx",
         "categoría": "news"
     },
