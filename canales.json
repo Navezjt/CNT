@@ -6080,6 +6080,27 @@
         "país": "mx",
         "categoría": "news"
     },
+    "Dsprt": {
+        "nombre": "Dsprt",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://1.deporte-libre.org/en-vivo-online/dsports/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/dsports/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/dsports/embed3.php"
+            ],
+            "m3u8_url": [
+                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalrcn.com/senal-en-vivo/",
+        "país": "mx",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
