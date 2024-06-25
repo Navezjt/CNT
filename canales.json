@@ -6113,6 +6113,31 @@
         "país": "mx",
         "categoría": "news"
     },
+    "gogoplaytv": {
+        "nombre": "Gogoplaytv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/4428538453706",
+                "https://ok.ru/videoembed/7354260725450",
+                "https://ssh101.com/securelive/index.php?id=mixboliviatvhd",
+                "https://ssh101.com/securelive/index.php?id=gogoplaysd",
+                "https://ssh101.com/securelive/index.php?id=gogoplay",
+                "https://ok.ru/videoembed/3881666289207",
+                "https://ok.ru/videoembed/7151290031671"
+            ],
+            "m3u8_url": [
+                "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gogoplaytv.com/",
+        "país": "cl",
+        "categoría": "news"
+    },
     "multi+cine": {
         "nombre": "Multi+cine",
         "logo": "https://scontent.flim31-1.fna.fbcdn.net/v/t39.30808-6/436149820_122097593648276759_4087322816650421197_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=leJBTUVWva4Q7kNvgEa_G1u&_nc_ht=scontent.flim31-1.fna&oh=00_AYBBe8BjkbWkyKHXeUetEdYiY7-mscSizMwM1O07-H7yEQ&oe=66809CDF",
