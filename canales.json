@@ -6294,7 +6294,7 @@
             "iframe_url": [],
             "m3u8_url": [
                 "https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1809454254.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjEgNDoxMjozOSBQTSZoYXNoX3ZhbHVlPVk2SEwrWHlkcTNnYlhYVHc3WWZYSnc9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9",
-                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8",
+                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -6302,6 +6302,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.canalesbolivianosenvivo.com/2018/12/canal-bolivia-tv-7.1-envivo.html",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "cadenaa": {
+        "nombre": "Cadenaa",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/cadenaa/"
+            ],
+            "m3u8_url": [
+                "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cadenaa.tv/",
         "país": "bo",
         "categoría": "news"
     },
