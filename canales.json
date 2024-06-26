@@ -6237,18 +6237,7 @@
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://video.live.com.bo/live-stream-video-widget/megavision",
-                "https://1.deporte-libre.org/en-vivo-online/tudn/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/tudn/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/tudn/embed3.php",
-                "https://1.deporte-libre.org/en-vivo-online/fox-sports-1-usa/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/fox-sports-1-usa/embed2.php",
-                "https://miztv.shop/tele/stream-78.php",
-                "https://1.deporte-libre.org/en-vivo-online/sporttv2/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/sporttv2/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php"
+                "https://video.live.com.bo/live-stream-video-widget/megavision"
             ],
             "m3u8_url": [
                 "https://video.live.com.bo:3999/live/megavisionlive.m3u8"
@@ -6262,33 +6251,39 @@
         "país": "bo",
         "categoría": "news"
     },
-    "Tvm": {
-        "nombre": "Tvn",
+    "Megatvbolivia": {
+        "nombre": "Megatvbolivia",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://video.live.com.bo/live-stream-video-widget/megavision",
-                "https://1.deporte-libre.org/en-vivo-online/tudn/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/tudn/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/tudn/embed3.php",
-                "https://1.deporte-libre.org/en-vivo-online/fox-sports-1-usa/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/fox-sports-1-usa/embed2.php",
-                "https://miztv.shop/tele/stream-78.php",
-                "https://1.deporte-libre.org/en-vivo-online/sporttv2/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/sporttv2/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php"
+                "https://video.live.com.bo/live-stream-video-widget/megavision"
             ],
             "m3u8_url": [
-                "https://video.live.com.bo:3999/live/megavisionlive.m3u8"
+                "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://tvmegavision.com/",
+        "sitio_oficial": "https://megatvbolivia.com/",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "intv": {
+        "nombre": "Intv",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmvideo3.livecastv.com/intv/intv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://in.tv.bo/en-vivo/",
         "país": "bo",
         "categoría": "news"
     },
