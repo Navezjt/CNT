@@ -6232,15 +6232,12 @@
         "país": "bo",
         "categoría": "news"
     },
-    "Tvn-2": {
-        "nombre": "Tvn-2",
+    "Tvmegavision": {
+        "nombre": "Tvmegavision",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/64cbe53b46ee28089166c04f?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=RSqxB518rOsPWyUuHk1an1ELHkrsGGpu8oe1XbqUEmchUbHVPEu61WRbNg34TIlixHb69NqNzYk",
-                "https://1.deporte-libre.org/en-vivo-online/dsports/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/dsports/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/dsports/embed3.php",
+                "https://video.live.com.bo/live-stream-video-widget/megavision",
                 "https://1.deporte-libre.org/en-vivo-online/tudn/embed.php",
                 "https://1.deporte-libre.org/en-vivo-online/tudn/embed2.php",
                 "https://1.deporte-libre.org/en-vivo-online/tudn/embed3.php",
@@ -6254,14 +6251,44 @@
                 "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php"
             ],
             "m3u8_url": [
-                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+                "https://video.live.com.bo:3999/live/megavisionlive.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvn-2.com/tvmax/",
+        "sitio_oficial": "https://tvmegavision.com/",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "Tvm": {
+        "nombre": "Tvn",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://video.live.com.bo/live-stream-video-widget/megavision",
+                "https://1.deporte-libre.org/en-vivo-online/tudn/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/tudn/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/tudn/embed3.php",
+                "https://1.deporte-libre.org/en-vivo-online/fox-sports-1-usa/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/fox-sports-1-usa/embed2.php",
+                "https://miztv.shop/tele/stream-78.php",
+                "https://1.deporte-libre.org/en-vivo-online/sporttv2/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/sporttv2/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/vamos/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/vamos/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php"
+            ],
+            "m3u8_url": [
+                "https://video.live.com.bo:3999/live/megavisionlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvmegavision.com/",
         "país": "bo",
         "categoría": "news"
     },
