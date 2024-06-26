@@ -6293,7 +6293,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1809454254.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjEgNDoxMjozOSBQTSZoYXNoX3ZhbHVlPVk2SEwrWHlkcTNnYlhYVHc3WWZYSnc9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9"
+                "https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w1809454254.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjEgNDoxMjozOSBQTSZoYXNoX3ZhbHVlPVk2SEwrWHlkcTNnYlhYVHc3WWZYSnc9PSZ2YWxpZG1pbnV0ZXM9NTAmaWQ9",
+                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8",
             ],
             "yt_id": "",
             "yt_embed": "",
