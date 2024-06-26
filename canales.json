@@ -21,13 +21,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/tyrUZE9pOK8?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
                 "https://rudo.video/live/mega?autoplay=true&volume=0",
                 "https://mdstrm.com/live-stream/561430ae330428c223687e1e?jsapi=true&loop=false&autoplay=true&volume=0&player=5d5eab33a0f31f0722f36867&access_token=4VdiIOugXPVZuscXMz9loN3r5qlKb2D4Ov9oAyDCduE0gp3e68ME58EBMOHl1HlngWamzlMy3HM&mse=true&ads[map]=&custom.dfp=%2Fmeganoticias.cl%2Fsenal-en-vivo%2Fhome%2F&custom.kv=&custom.desc_url=https%3A%2F%2Fwww.meganoticias.cl%2Fsenal-en-vivo%2Fmeganoticias%2F"
             ],
             "m3u8_url": [],
             "yt_id": "UCkccyEbqhhM3uKOI6Shm-4Q",
-            "yt_embed": "https://www.youtube.com/embed/tyrUZE9pOK8?si=sny0KX_7qBAnH-Wt",
+            "yt_embed": "tyrUZE9pOK8?",
             "yt_playlist": "",
             "twitch_id": "meganoticiascl"
         },
