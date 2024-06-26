@@ -1841,9 +1841,7 @@
         "nombre": "REDE BRASIL OFICIAL",
         "logo": "https://graph.facebook.com/redebrasiloficial/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/_uMuuHk_KkQ?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
+            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UCubxEhRi56_V4_eTzzcFwkA",
             "yt_embed": "",
@@ -4865,7 +4863,9 @@
         "nombre": "Lofi Girl",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/_uMuuHk_KkQ?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
             "m3u8_url": [],
             "yt_id": "UCSJ4gkVC6NrvII8umztf0Ow",
             "yt_embed": "jfKfPfyJRdk",
