@@ -6309,7 +6309,9 @@
         "nombre": "Cadenaa",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/cadenaa/"
+            ],
             "m3u8_url": [
                 "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8"
             ],
