@@ -76,6 +76,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CHV_Noticias_2018.png",
         "señales": {
             "iframe_url": [
+                "https://mdstrm.com/live-stream/665782a26a670c089a823d0b?jsapi=true&autoplay=true&access_token=WWaxThcrRgFdzA5e2sEX4zaNz3Ku8hHkU0ddtb6QpfCxNjnEEoltv1L0iGG8fdx0XXkslbHCO0b&custom.categoria_prontus=senal-online&custom.dfpLanguage=es&custom.dfpCountry=cl&custom.dfpShowName=-&custom.dfpVidId=665782a26a670c089a823d0b&custom.dfpURLEncoded=https%3A%2F%2Fwww.chilevision.cl%2Fnoticias%2Fsenal-online&custom.dfpRandomNumber=201726274&custom.origen=chilevision&custom.iu=%2F1047933%2Fchilevision&custom.app=false&custom.cust_params=sect%253Dlive%2526sub%253Dsenal-online%2526show%253D-%2526videotype%253Dlive%2526cat%253Dlive%2526vidid%253D665782a26a670c089a823d0b%2526site%253Dchilevision%2526app%253Dfalse%2526theme%253Dge&custom.amp=false&custom.appname="
                 "https://rudo.video/live/chvn?autoplay=true&volume=0",
                 "https://television-libre.online/html/clarovideo.html?r=CHVCL"
             ],
