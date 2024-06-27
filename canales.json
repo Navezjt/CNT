@@ -1810,9 +1810,7 @@
         "nombre": "elnueve",
         "logo": "https://www.elnueve.com.ar/_next/image?url=%2Farticles%2Fc9-show-hero.jpg&w=1920&q=75",
         "señales": {
-            "iframe_url": [
-                "https://player.twitch.tv/?channel=elnueve_ok&parent=www.elnueve.com.ar"
-            ],
+            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
