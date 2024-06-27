@@ -6348,6 +6348,21 @@
         "país": "kr",
         "categoría": "music"
     },
+    "kbs-world2": {
+        "nombre": "KBS WORLD2",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "yt_embed": "OxQQsIvJTTU?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@kbsworldtv",
+        "país": "kr",
+        "categoría": "music"
+    },
     "k-pop": {
         "nombre": "K-POP",
         "logo": "",
@@ -6360,6 +6375,51 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@thekpop/videos",
+        "país": "",
+        "categoría": "music"
+    },
+    "the-kpop": {
+        "nombre": "THE KPOP",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCPde4guD9yFBRzkxk2PatoA",
+            "yt_embed": "G3NX_hzCuFM?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@ALLTHEKPOP",
+        "país": "",
+        "categoría": "music"
+    },
+    "kbs-world": {
+        "nombre": "KBS WORLD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC5BMQOsAB8hKUyHu9KI6yig",
+            "yt_embed": "06WkdNfS7cI?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@kbsworldtv",
+        "país": "",
+        "categoría": "music"
+    },
+    "mellow-beat": {
+        "nombre": "MELLO BEAT",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCO1jhQjMhiI0YrHUGHyev7A",
+            "yt_embed": "IUT1qAhMY4w?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@mellowbeatseeker",
         "país": "",
         "categoría": "music"
     },
