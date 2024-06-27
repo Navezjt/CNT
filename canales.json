@@ -6329,8 +6329,8 @@
         "país": "bo",
         "categoría": "news"
     },
-    "kpoptv1": {
-        "nombre": "kpoptv1",
+    "kpoptv-live": {
+        "nombre": "Kpoptv Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
