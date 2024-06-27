@@ -6331,7 +6331,7 @@
     },
     "kpoptv": {
         "nombre": "kpoptv",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
                 "https://kpoptv.live/play/player.php"
