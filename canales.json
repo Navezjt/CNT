@@ -6329,8 +6329,8 @@
         "país": "bo",
         "categoría": "news"
     },
-    "kpoptv": {
-        "nombre": "kpoptv",
+    "kpoptv1": {
+        "nombre": "kpoptv1",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
@@ -6347,6 +6347,25 @@
         "sitio_oficial": "https://kpoptv.live/",
         "país": "kr",
         "categoría": "news"
+    },
+    "kpoptv": {
+        "nombre": "kpoptv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://kpoptv.live/play/player.php"
+            ],
+            "m3u8_url": [
+                "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.live/",
+        "país": "",
+        "categoría": "music"
     },
     "game-master-tv": {
         "nombre": "Game Master TV",
