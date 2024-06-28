@@ -6097,6 +6097,176 @@
         "país": "pe",
         "categoría": "news"
     },
+    "radioa1-fmperu": {
+        "nombre": "Radioa1 Fmperu",
+        "logo": "https://radioa1fmperu.com/wp-content/uploads/2023/08/cropped-Radiofm2-180x180.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tv.portalexpress.es:3333/live/radiotva1live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radioa1fmperu.com/tv/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "unitel-peru": {
+        "nombre": "Unitel Peru",
+        "logo": "https://radioa1fmperu.com/wp-content/uploads/2023/08/cropped-Radiofm2-180x180.webp",
+        "señales": {
+            "iframe_url": [
+                "https://vdo.grupolimalive.com/live-stream-video-widget/unitel"
+            ],
+            "m3u8_url": [
+                "https://vdo.grupolimalive.com:3365/live/unitellive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://unitelperu.pe",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "vea-canal": {
+        "nombre": "Vea Canal",
+        "logo": "https://veacanal.tv/sitio/wp-content/uploads/2017/05/logoveacanal.png",
+        "señales": {
+            "iframe_url": [
+                "https://kick.com/veacanaltv",
+                "https://player.kick.com/highcountryweather",
+                "https://player.kick.com/publicdomainmovies",
+                "https://player.kick.com/kaelzim",
+                "https://player.kick.com/elchiringuitotv",
+                "https://player.kick.com/retrohitstv",
+                "https://player.kick.com/fullmetal-anime",
+                "https://player.kick.com/radiovibrafm",
+                "https://player.kick.com/radioportalescl",
+                "https://player.kick.com/futuratv913",
+                "https://player.kick.com/angauplay",
+                "https://player.kick.com/radio-anglicana",
+                "https://player.kick.com/deportes360py",
+                "https://player.kick.com/pantoja12"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://veacanal.tv/sitio/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "cnc-santa-rosa": {
+        "nombre": "Cnc Santa Rosa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/canal-cnc-santa-rosa",
+                "https://player.kick.com/animeflixlive"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
+        "país": "co",
+        "categoría": "news"
+    },
+    "comotv": {
+        "nombre": "Comotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/comotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "comoproducciones"
+        },
+        "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "vorterix-santarosa": {
+        "nombre": "Vorterix Santarosa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/vorterixsantarosa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "vorterixsantarosa"
+        },
+        "sitio_oficial": "https://kick.com/vorterixsantarosa",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "prensa-tv": {
+        "nombre": "Prensa Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/prensatv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "orfeo_rock_radio_tv"
+        },
+        "sitio_oficial": "https://kick.com/prensatv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "orfeo-rock-radiotv": {
+        "nombre": "orfeo Rock RadioTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/orfeorockradiotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "orfeo_rock_radio_tv"
+        },
+        "sitio_oficial": "https://kick.com/orfeorockradiotv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "huarpe-tv": {
+        "nombre": "Huarpe Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/huarpetv",
+                "https://player.kick.com/elurbanoradio" 
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kick.com/huarpetv",
+        "país": "ar",
+        "categoría": "news"
+    },
     "canal-e": {
         "nombre": "Canal E",
         "logo": "",
