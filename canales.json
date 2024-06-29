@@ -1399,8 +1399,8 @@
         "logo": "https://graph.facebook.com/A24com/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/QGpHLgRnrx4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://vmf.edge-apps.net/embed/live.php?streamname=a24-100056&autoplay=false",
+                "https://www.youtube.com/embed/QGpHLgRnrx4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://player.twitch.tv/?channel=a24noticias&parent=www.a24noticias.com.ar"
             ],
             "m3u8_url": [],
