@@ -6164,6 +6164,23 @@
         "país": "pe",
         "categoría": "news"
     },
+    "Agro-Tv": {
+        "nombre": "Agro Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://agro-tv.ro/tv-live/",
+        "país": "ro",
+        "categoría": "news"
+    },
     "cnc-santa-rosa": {
         "nombre": "Cnc Santa Rosa",
         "logo": "",
@@ -6336,6 +6353,58 @@
         },
         "sitio_oficial": "https://www.youtube.com/@SISEArgentina",
         "país": "ar",
+        "categoría": "news"
+    },
+    
+    "radio-laplata": {
+        "nombre": "Radio Laplata",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=radiolaplata909&height=100%25&muted=true&parent=radiolaplata.com.ar&referrer=https%3A%2F%2Fradiolaplata.com.ar%2F&width=100%25"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCVTD3EbSz7o_u_hrTbUWhVw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiolaplata909"
+        },
+        "sitio_oficial": "https://radiolaplata.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "elrural": {
+        "nombre": "Elrural",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/0eA-D1S7jRE?autoplay=1&mute=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCPumJ2ayrr-JDsA9JDCUDDQ",
+            "yt_embed": "0eA-D1S7jRE?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elrural.com/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "rural": {
+        "nombre": "Rural",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCcmbSgSpK0dQhw3IBaBGo-g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalrural.com.br/ao-vivo/",
+        "país": "br",
         "categoría": "news"
     },
     "canal10": {
