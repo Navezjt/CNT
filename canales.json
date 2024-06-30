@@ -6304,6 +6304,40 @@
         "país": "ar",
         "categoría": "news"
     },
+    "Quiero-Musica-Tv": {
+        "nombre": "Quiero Musica Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/8Mw0YdKN2XY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC_-fqnv3Rp8k9VJ06_aDIHg",
+            "yt_embed": "8Mw0YdKN2XY?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@quieromusicatv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "SISEA-Argentina": {
+        "nombre": "SISEA Argentina",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/Y0nVpVzd3q4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
+            "yt_embed": "Y0nVpVzd3q4?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@SISEArgentina",
+        "país": "ar",
+        "categoría": "news"
+    },
     "canal10": {
         "nombre": "Canal 10",
         "logo": "",
