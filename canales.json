@@ -6164,6 +6164,174 @@
         "país": "pe",
         "categoría": "news"
     },
+    "piuratv": {
+        "nombre": "Piuratv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://live.obslivestream.com/piuratv/embed.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.facebook.com/piuratvcanal/?locale=es_LA",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "piura-plustv": {
+        "nombre": "Piura Plustv",
+        "logo": "https://bradmax.com/static/images/thankyou_endsplash.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s.piuraplustv.com/hls/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.piuraplustv.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "sol-tv": {
+        "nombre": "SOL TRUJILLO",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://playerv.logicahost.com.br/video/soltv/1/true/false/ZG1sa1pXOHdNeTVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9///"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://soltvperu.com/en-vivo/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "cajamarca-tv": {
+        "nombre": "Cajamarcatv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s1.tvdatta.com:3252/live/cajamarcatvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cajamarcatv.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "canal45-tv": {
+        "nombre": "Canal45 Tv",
+        "logo": "https://canal45tv.com/wp-content/uploads/2023/04/cropped-Recurso-19-1-180x180.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal45tv.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "grupoalternativa-mix": {
+        "nombre": "Alternativam Mix",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://eu1.servers10.com:8081/8130/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://grupoalternativamix.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "grupo-tvl": {
+        "nombre": "Grupo Tvl",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?autoplay=true&channel=tvlesp&height=720&muted=false&parent=grupotvl.com&referrer=https%3A%2F%2Fgrupotvl.com%2Fen-vivo%2F&width=1280"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvlesp"
+        },
+        "sitio_oficial": "https://grupotvl.com/en-vivo/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "canal-ipe": {
+        "nombre": "Canal IPE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://iblups.com/e_canalipe"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalipe.tv/streaming",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "radio-nacional": {
+        "nombre": "Radio nacional",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://iblups.com/e_radionacional"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.radionacional.gob.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "andina": {
+        "nombre": "andina",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCZHgA_ORVMB4N6vuOhx8_Cg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://andina.pe",
+        "país": "pe",
+        "categoría": "news"
+    },
     "Agro-Tv": {
         "nombre": "Agro Tv",
         "logo": "",
@@ -6405,6 +6573,24 @@
         },
         "sitio_oficial": "https://www.canalrural.com.br/ao-vivo/",
         "país": "br",
+        "categoría": "news"
+    },
+    "psn": {
+        "nombre": "Psn",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vimeo.com/event/4146302/embed/interaction?muted=1",
+                "https://vimeo.com/event/4400240/embed/interaction?muted=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.psn.si/en-vivo/",
+        "país": "pe",
         "categoría": "news"
     },
     "canal10": {
