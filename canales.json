@@ -3662,6 +3662,27 @@
         "país": "us",
         "categoría": "science"
     },
+    "Bloomberg-TV+": {
+        "nombre": "Bloomberg TV+",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "in",
+                "in"
+            ],
+            "m3u8_url": [
+                "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/43e05dc5-34cf-4765-b71d-a3b7e3dd7ff7:SCL/variant/2669df91676be1a76e52d4de25e4f1a5/bandwidth/2400000.m3u8",
+                "https://live-prod-us-event-primary.akamaized.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-5-ZVZBvS0LHXCz_live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bloomberg.com/live/us",
+        "país": "us",
+        "categoría": "Busines"
+    },
     "euronews-esp": {
         "nombre": "euronews (Español)",
         "logo": "",
