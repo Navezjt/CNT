@@ -6211,12 +6211,11 @@
         "país": "pe",
         "categoría": "news"
     },
-    "Tvn-2": {
-        "nombre": "Tvn-2",
+    "navez-sport-1-1": {
+        "nombre": "navez-dazn-1-1",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/64cbe53b46ee28089166c04f?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=4dTD6WrsxIzv8FcarEK5FsiL0bVTdTyMCjJKd9N91CQtpmdU3J3wzr7f5NwiyeOB9vafBhHxBdC",
                 "https://1.deporte-libre.org/en-vivo-online/dsports/embed2.php",
                 "https://1.deporte-libre.org/en-vivo-online/dsports/embed.php",
                 "https://1.deporte-libre.org/en-vivo-online/dsports/embed3.php",
@@ -6240,7 +6239,74 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tvn-2.com/tvmax/",
+        "sitio_oficial": "https://1.deporte-libre.org/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "navez-sport-1-2": {
+        "nombre": "navez sport-1-2",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://1.deporte-libre.org/en-vivo-online/dazn-1-es/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/dazn-1-es/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/dazn-1-es/embed3.php",
+                "https://1.deporte-libre.org/en-vivo-online/dazn-1-es/embed4.php",
+                "https://1.deporte-libre.org/en-vivo-online/teledeporte/embed2.php",
+                "https://tucanaldeportivo.com/espn-hd.php",
+                "https://1.deporte-libre.org/en-vivo-online/sky-sport-calcio/embed.php",
+                "https://tele-libre.com/en-vivo-online/tve1/embed3.php",
+                "https://tele-libre.com/en-vivo-online/tve1/embed4.php",
+                "https://1.deporte-libre.org/en-vivo-online/sporttv1/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/sporttv1/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/bein-sports-1-fr/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/bein-sports-1-fr/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/supersport-premier-league/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/tudnmx/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/tudnmx/embed2.php",
+                "https://miztv.shop/tele/stream-54.php",
+                "https://fullchannels.online/canales.php?id=azteca-guate",
+                "https://1.deporte-libre.org/en-vivo-online/vamos/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/vamos/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php",
+                "https://1.deporte-libre.org/en-vivo-online/telemundo-usa/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/telemundo-usa/embed3.php",
+                "https://1.deporte-libre.org/en-vivo-online/nbc-universo-usa/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/nbc-universo-usa/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/vtv-plus/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/vtv-plus/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/vtv-plus/embed3.php",
+                "https://1.deporte-libre.org/en-vivo-online/arena-premium/embed.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://1.deporte-libre.org/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "navez-sport-1-2": {
+        "nombre": "navez sport-1-2",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://1.deporte-libre.org/en-vivo-online/fox-deportes/embed.php",
+                "https://1.deporte-libre.org/en-vivo-online/fox-deportes/embed2.php",
+                "https://1.deporte-libre.org/en-vivo-online/fox-deportes/embed3.php",
+                "https://1.deporte-libre.org/en-vivo-online/sky-sport-1-it/embed.php",
+                "https://fullchannels.online/canales-sport.php?id=sky251it",
+                "https://miztv.shop/tele/stream-3.php"  
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://1.deporte-libre.org/",
         "país": "pe",
         "categoría": "news"
     },
