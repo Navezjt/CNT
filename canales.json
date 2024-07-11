@@ -7196,6 +7196,65 @@
             "m3u8_url": [
                 "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
             ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abn.co.kr/index.do",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "arirang-live": {
+        "nombre": "arirang Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://v.kr.kollus.com/s?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHB0IjoyNTU1OTcxMjAwLCJtYyI6eyIwIjp7Im1ja2V5IjoidlpINlNxMFciLCJ0aXRsZSI6IkFyaXJhbmcgVFYiLCJsaXZlIjp7InVybCI6Imh0dHBzOlwvXC9hbWRsaXZlLWNoMDEtY3RuZC1jb20uYWthbWFpemVkLm5ldFwvYXJpcmFuZ18xY2hcL3NtaWw6YXJpcmFuZ18xY2guc21pbFwvcGxheWxpc3QubTN1OCIsInBvc3Rlcl91cmwiOiJodHRwczpcL1wvaW1nLmFyaXJhbmcuY29tXC92MVwvQVVUSF9kNTI0NDljMTZkM2I0YmJjYTE3ZDRmZmZkOWZjNDRhZlwvYXJpcmFuZ1wvc3RhdGljXC9tZWRpYVwvc2NoZWR1bGVfbGl2ZTEuNDc5OTQ2OWEucG5nIn19fX0.LL60rJgqIEknMq036YAEGUJ-4OkJc9oLyq8LRxzD2RM&custom_key=2488d22a619a018210ee7f7d65118ef38c6dad49b8fd0297b84118c26c7272cc&player_version",
+                "https://artv.watch/embed.php?channel=ArirangTV.kr"
+            ],
+            "m3u8_url": [
+                "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.arirang.com/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "BTNTV-live": {
+        "nombre": "BTNTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=BTNTV.kr"
+            ],
+            "m3u8_url": [
+                "https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abn.co.kr/index.do",
+        "país": "kr",
+        "categoría": "news"
+    },
+    
+    "ABN-live": {
+        "nombre": "ABN Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=ABN.kr"
+            ],
+            "m3u8_url": [
+                "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+            ],
             "yt_id": "UCoRXPcv8XK5fAplLbk9PTww",
             "yt_embed": "JVocS7Yftw8?",
             "yt_playlist": "",
@@ -7205,22 +7264,454 @@
         "país": "kr",
         "categoría": "news"
     },
-    "kpoptv-live": {
-        "nombre": "Kpoptv Live",
+    "ChannelA-live": {
+        "nombre": "ChannelA Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
-                "https://kpoptv.live/play/player.php"
+                "https://artv.watch/embed.php?channel=ChannelA.kr"
             ],
             "m3u8_url": [
-                "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
+                "https://channelaid3.ichannela.com/atv3/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJwYXRoIjoiL2F0djMiLCJleHAiOjE3MjA3ODI1MjJ9._ZPQKB1I9sqGaeZ6wIvYs5eTy_ezyFZ0dzwsXxi0piA"
             ],
-            "yt_id": "UCoRXPcv8XK5fAplLbk9PTww",
-            "yt_embed": "JVocS7Yftw8?",
+            "yt_id": "",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://kpoptv.live/",
+        "sitio_oficial": "https://www.ichannela.com/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "CTSTV-live": {
+        "nombre": "CTSTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.cts.tv/videoplayer/zoneplayer_live?type=direct&url=https://cdn.cts.tv/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8&skin=catvod&auto=Y&isLive=Y&fullscreenAllowFullscreen=Y&toggleBtn=Y&fullscreenBtn=Y&disableSeekable=Y&thumbnail=Y&currentTimeText=Y&durationText=Y&volume=Y&progress=Y",
+                "https://artv.watch/embed.php?channel=CTSTV.kr"
+            ],
+            "m3u8_url": [
+                "https://cdn.cts.tv/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cts.tv/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "EBSEnglish-live": {
+        "nombre": "EBSEnglish Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=EBSEnglish.kr"
+            ],
+            "m3u8_url": [
+                "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ebse.co.kr/apps/main/main.do",
+        "país": "kr",
+        "categoría": "news"
+    }, 
+    "EBSPlus2-live": {
+        "nombre": "EBSPlus2 Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=EBSPlus2.kr"
+            ],
+            "m3u8_url": [
+                "https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/KR/EBSPlus2.kr",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "GCN-live": {
+        "nombre": "GCN Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "http://www.gcntv.org/KO/Media/LiveOnair/ifr_Live24Player.asp?live=KO_F01_24H",
+                "https://artv.watch/embed.php?channel=GCN.kr"
+            ],
+            "m3u8_url": [
+                "http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.gcntv.org/KO/Media/LiveOnair/Live24File.asp",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "GSMyShop-live": {
+        "nombre": "GSMyShop Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=GSMyShop.kr"
+            ],
+            "m3u8_url": [
+                "https://gstv-myshop.gsshop.com/myshop_hd/_definst_/myshop_hd.stream/playlist.m3u8",
+                "https://gstv-myshop.gsshop.com/myshop_hd/_definst_/myshop_hd.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gsshop.com/shop/tv/tvProductMain.gs?broadTypCd=DATA",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "Gugbang-live": {
+        "nombre": "Gugbang Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=GugbangTV.kr"
+            ],
+            "m3u8_url": [
+                "http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.dema.mil.kr/web/main.do",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "HyundaiHomeShoppingPlusShop": {
+        "nombre": "HyundaiHomeShoppingPlusShop",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=HyundaiHomeShoppingPlusShop.kr"
+            ],
+            "m3u8_url": [
+                "https://cdnlive.hmall.com/live/ngrp:hmall.stream_pc/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hmall.com/pd/dpl/tvMainR?mainDispSeq=3",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "kbs-live": {
+        "nombre": "kbs Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1720886484&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MjA4ODY0ODR9fX1dfQ__&Signature=JEzhgjh6M0phaVwvyhyNtqnUE2dAC4EPVfiSOcIadSE6OqLzgYBY0hLfdzdWMUOL9vTEGOj1BBGwQqNaHTV7jR6VdK3Z~UN-GJ-awiwZtS1T-dZBYX137lyaw92HFFGa2TLT6Mm~aLdbsEQl9pTNEeth2U8z7szWBN5PsNYskUHVyb3MrHiY-wIKwCjb347iiDKfUGjiwzZBRA0qjjYMZ9AvVt0mBwzROUehhR7Mb51U~wvTlni8LxAVXpdE~IO8fJs9Wem5fw38nksFTgu~4zLD-8dDs8btI9kCXieRQ~3tb6chXYbHT5CzRR3KxnPO22eMAvWQp~IW8AhPg-vqdg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA",
+                "https://kbsnvod.gscdn.kbs.co.kr/playlists/nvod1.m3u8?Expires=1720887261&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudm9kLmdzY2RuLmticy5jby5rci9wbGF5bGlzdHMvbnZvZDEubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMDg4NzI2MX19fV19&Signature=l1wULXWZCSF~1BSHjIaDCxa~wJQp9BQtFIbseb8FDJIowQhcXTwLFSKUiYcbxhul1viz-PF4T9GBVbYc1udx6NVXp9hD0wXiY9dkNRkZwDtA~V66P55U3723RDaw7Iy47i72YtUj-4w-hjpBkgLmJbsnjKnTWOWbsWSOWrSiF5FL1OfP7skzi8UoQXmaH8ArGZlmSqOQvlZkuaizrembHHaNqU2cf3Q9N7epejMRsESqqkO6VdF0kVh3V2HdlEo4tx~EkIyunotz98pVgdwv8U64Hw4rvrZjarhGhypPl8UX8Yita7Pf43aarzPcPGMEJjPqiDKlISkQfTe3Br36Ng__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://drama.kbs.co.kr/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "kbsn-Joy": {
+        "nombre": "kbsn Joy",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCr0adenI5KeQFJkMIGjq5qw",
+            "yt_embed": "Po84TcoVjNo?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.kbsn.co.kr/index",
+        "país": "kr",
+        "categoría": "news"
+    }, 
+    "world.kbs-live": {
+        "nombre": "world.kbs Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://kbs-dokdo.gscdn.kbs.co.kr/myk_SD/kbs/playlist.m3u8?Expires=1720887611&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnMtZG9rZG8uZ3NjZG4ua2JzLmNvLmtyL215a19TRC9rYnMvcGxheWxpc3QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyMDg4NzYxMX19fV19&Signature=FTD9oRnMzj0wJCJdQbphCZzwrsO44DH~JDwea67ythooAtuN-E537vuDkCXPcOBGJwlvAYnlCpUSALayalZbdjyYuCmA57vGiFxnXJTX9ht1O-68ND38KLsvXUGtPVq6P3ag9CtsnRHgMjvOU7T4QpKfafWtn4v4QjUZE1yGR0ZLfcIUgVdv0pbAv5iaFfGvdlpVL7y6F-ZOsBFKnzRr3YWLUNJGkdeWEOKaOdsSUdenT1sggHwe4s4Nkf~Fv1hLHyuDrvvCm9oyiM5I~Rikz3aIUWkqliI30szP3AeTNIZZFRcl-2mHTCYqemKa~X4PlejCMQzAt5UHu3vpI9YQQw__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://world.kbs.co.kr/special/dokdo/english/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "KCTV-live": {
+        "nombre": "KCTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+            ],
+            "m3u8_url": [
+                "http://119.77.96.184:1935/chn05/chn05/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.kctv.co.kr/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "ktv-live": {
+        "nombre": "KTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=KTV.kr"
+            ],
+            "m3u8_url": [
+                "https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/KR/KTV.kr",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "cchannel-live": {
+        "nombre": "cchannel Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC9Ac9DjBEmNqjAYxf8V1HPA",
+            "yt_embed": "LdaKqBNA3l4?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.cchannel.com/main/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "CJOnStylePlus-live": {
+        "nombre": "CJOnStylePlus Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=CJOnStylePlus.kr"
+            ],
+            "m3u8_url": [
+                "https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8",
+                "https://live-ch1.cjonstyle.net/cjmalllive/_definst_/stream2/playlist.m3u8",
+                "https://live-ch3.cjonstyle.net/onstyleplus/_definst_/live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://display.cjonstyle.com/p/homeTab/main?hmtabMenuId=H00005",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "EBS1TV-live": {
+        "nombre": "EBS1TV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=EBS1TV.kr"
+            ],
+            "m3u8_url": [
+                "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+                "https://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8",
+                "https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8",
+                "https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "EdailyTV-live": {
+        "nombre": "EdailyTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/5cFoz90FUMk?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.edaily.co.kr/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "GongyoungHomeShopping": {
+        "nombre": "GongyoungHomeShopping",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.gongyoungshop.kr/vod/gyPlayer.do?type=live&media=streaming&width=560&height=560&parentId=dv-videoPlayerStageHolderIframe&autoStartYn=Y&poster=undefined&debug=0",
+                "https://artv.watch/embed.php?channel=GongyoungHomeShopping.kr"
+            ],
+            "m3u8_url": [
+                "https://etv.publichs.com/live5.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gongyoungshop.kr/main.do",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "GSShop-live": {
+        "nombre": "GSShop Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=GSShop.kr"
+            ],
+            "m3u8_url": [
+                "https://gstv-gsshop.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8",
+                "https://gstv-gsshop.gsshop.com/gsshop_hd/_definst_/gsshop_hd.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gsshop.com/index.gs",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "HomeShopping-live": {
+        "nombre": "HomeShopping Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=HomeShopping.kr"
+            ],
+            "m3u8_url": [
+                "https://s32.qtcdn.co.kr/media/liveM3U8/idx/620759138/enc/1086401669/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hnsmall.com/index.do",
+        "país": "kr",
+        "categoría": "news"
+    }, 
+    "JobplusTV-live": {
+        "nombre": "JobplusTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=JobplusTV.kr"
+            ],
+            "m3u8_url": [
+                "https://live.jobplustv.or.kr/live/wowtvlive1.sdp/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/KR/JobplusTV.kr",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "KMT-live": {
+        "nombre": "KMT Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dai2-playlistserver.aws.syncbak.com/cpl/18253567/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjMwOCwiY2lkIjoxNjc5NywibWlkIjoxODI1MzU2NywibWsiOm51bGwsIm9vbSI6dHJ1ZSwiaXAiOiIxNzkuNi4xNjguNTciLCJ1aXAiOiIxNzkuNi4xNjguNTciLCJkbWEiOjAsInNzaWQiOiJkMGM1MDg2NTRhYzE0NTNjOWUwMmMxNDlhYTBjMWI2OSIsInNuIjoiV2ViIDc1OTg0MWJjMjEgKCBudWxsICkiLCJ1aWQiOm51bGwsImFwc3QiOm51bGwsInNiZXAiOmZhbHNlLCJjc2IiOmZhbHNlLCJtZDUiOiI4OWI5OTc1ZmRlNDI4YjY4YmNlYmRiNzVmOGI5MWFhZSIsImlhdCI6MTcyMDcxODU5MywiZXhwIjoxNzIwNzE4ODkzLCJhdWQiOiJodHRwczovL3BsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbSIsImlzcyI6IlN5bmNiYWsgR3JhcGhRTCBBUEkiLCJzdWIiOiJkb19nQTNiZkkyRHVvb0JYSVU1NkZjNkhUN042c1N5Um1mcHNDYkl2bFdCUGJRb0U0NSJ9.FFOV_9u_61XXZlsSXIEZkzECPqNiblMdJfN9v2Dn7Z4"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.kmvt.com/livestream/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "LotteHomeShopping": {
+        "nombre": "LotteHomeShopping",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=LotteHomeShopping.kr"
+            ],
+            "m3u8_url": [
+                "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+                "https://pchlslivesw.lotteimall.com/live/livestream/chunklist.m3u8",
+                "https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8",
+                "https://pchlslivesw.lotteimall.com/live/livestream/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lotteimall.com/main/viewMain.lotte#disp_no=5223317",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "BBSTV-live": {
+        "nombre": "BBSTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://bbslive.clouducs.com/bbstv-live/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.bbsi.co.kr/HOME/",
         "país": "kr",
         "categoría": "news"
     },
