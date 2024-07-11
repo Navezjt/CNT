@@ -7768,7 +7768,9 @@
         "nombre": "THE KPOP",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=AlltheKPop.kr"
+            ],
             "m3u8_url": [],
             "yt_id": "UCPde4guD9yFBRzkxk2PatoA",
             "yt_embed": "G3NX_hzCuFM?",
