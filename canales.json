@@ -7186,6 +7186,44 @@
         "país": "bo",
         "categoría": "news"
     },
+    "ABN-live": {
+        "nombre": "ABN Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=ABN.kr"
+            ],
+            "m3u8_url": [
+                "https://vod2.abn.co.kr/IPHONE/abn.m3u8"
+            ],
+            "yt_id": "UCoRXPcv8XK5fAplLbk9PTww",
+            "yt_embed": "JVocS7Yftw8?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abn.co.kr/index.do",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "kpoptv-live": {
+        "nombre": "Kpoptv Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://kpoptv.live/play/player.php"
+            ],
+            "m3u8_url": [
+                "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
+            ],
+            "yt_id": "UCoRXPcv8XK5fAplLbk9PTww",
+            "yt_embed": "JVocS7Yftw8?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.live/",
+        "país": "kr",
+        "categoría": "news"
+    },
     "kpoptv-live": {
         "nombre": "Kpoptv Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
