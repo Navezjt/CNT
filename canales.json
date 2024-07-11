@@ -7715,6 +7715,63 @@
         "país": "kr",
         "categoría": "news"
     },
+    "CGNTVSouthKorea-live": {
+        "nombre": "CGNTVSouthKorea Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=CGNTVSouthKorea.kr",
+                ""
+            ],
+            "m3u8_url": [
+                "https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index_2.m3u8",
+                "https://api.wecandeo.com/live/cast.m3u8?k=NyhQhishGs1X1zipHkpYZrK2qZZLNZ5U4XmnN9iplYZwaDyAKHtZymJ9Qieie"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.cgntv.net/onair/home.cgn",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "KoreaEconomyTV-live": {
+        "nombre": "KoreaEconomyTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/NJUjU9ALj4A?autoplay=1&origin=https://www.wowtv.co.kr&enablejsapi=1",
+                "https://artv.watch/embed.php?channel=KoreaEconomyTV.kr"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCF8AeLlUbEpKju6v1H6p8Eg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.wowtv.co.kr",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "MaeilBusinessTV-live": {
+        "nombre": "MaeilBusinessTV Live",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=MaeilBusinessTV.kr",
+                "https://www.youtube.com/embed/s9xL1DpBsfQ"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCnfwIKyFYRuqZzzKBDt6JOA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mbnmoney.mbn.co.kr/",
+        "país": "kr",
+        "categoría": "news"
+    },
     "kpoptv-live": {
         "nombre": "Kpoptv Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
@@ -7738,7 +7795,9 @@
         "nombre": "KBS WORLD2",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=KBSWorld.kr"
+            ],
             "m3u8_url": [],
             "yt_id": "UC5BMQOsAB8hKUyHu9KI6yig",
             "yt_embed": "OxQQsIvJTTU?",
@@ -7761,7 +7820,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@thekpop/videos",
-        "país": "",
+        "país": "kr",
         "categoría": "music"
     },
     "the-kpop": {
@@ -7778,7 +7837,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@ALLTHEKPOP",
-        "país": "",
+        "país": "kr",
         "categoría": "music"
     },
     "kbs-world": {
@@ -7793,7 +7852,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@kbsworldtv",
-        "país": "",
+        "país": "kr",
         "categoría": "music"
     },
     "mellow-beat": {
