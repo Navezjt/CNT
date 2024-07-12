@@ -7868,6 +7868,192 @@
         "país": "",
         "categoría": "music"
     },
+    "alsahraatv-Navez": {
+        "nombre": "alsahraatv Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alsahraatv",
+                "https://www.elahmad.com/tv/youtube.php?id=alsahraatv1",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=alsahraatv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alsahraatv.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "ssc-sport-Navez": {
+        "nombre": "ssc sport Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc3",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc4",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/ssc-sport-live.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "asharq-news-Navez": {
+        "nombre": "asharq news Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
+                "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
+                "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/asharq-news-live.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "iqraa-Navez": {
+        "nombre": "Iqraa Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=iqraa_arabic",
+                "https://www.elahmad.com/tv/live/channel.php?id=iqraa_arabic",
+                "https://www.elahmad.com/tv/radiant.php?id=iqraa_africa",
+                "https://www.elahmad.com/tv/youtube.php?id=iqraa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/iqraa-tv.php",
+        "país": "sa",
+        "categoría": "news"
+    }, 
+    "sbc-Navez": {
+        "nombre": "sbc Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=sbc_tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "saudi1tv-Navez": {
+        "nombre": "saudi1tv Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=saudi_tv",
+                "https://www.elahmad.com/tv/radiant.php?id=saudi_1",
+                "https://www.elahmad.com/tv/youtube.php?id=SaudiChannelOne",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=saudiarabia1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/saudi1tv.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "ekhbariyatv-Navez": {
+        "nombre": "ekhbariyatv Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/watchtv.php?id=saudi_ekhbariya",
+                "http://www.elahmad.com/tv/radiant.php?id=ekhbariyatv",
+                "http://www.elahmad.com/tv/youtube.php?id=SaudiNewsTV",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=saudi_ekhbariya"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCV01ajGl6nt09h40iDoHDNg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/ekhbariyatv.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "art-cinema-Navez": {
+        "nombre": "art cinema Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/mobiletv/glarb.php?id=art_cinema"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "mbc-Navez": {
+        "nombre": "Mbc Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=mbc1_usa",
+                "https://www.elahmad.com/tv/radiant.php?id=mbc3_tv_1",
+                "https://www.elahmad.com/tv/radiant.php?id=mbc4_tv_1",
+                "https://www.elahmad.com/tv/radiant.php?id=mbc5_tv_1",
+                "https://www.elahmad.com/tv/radiant.php?id=mbcdrama_tv_1",
+                "https://www.elahmad.com/tv/radiant.php?id=mbcdrama_usa",
+                "https://www.elahmad.com/tv/radiant.php?id=mbc_drama_plus",
+                "https://www.elahmad.com/tv/mpegts_player.php?id=mbc_max",
+                "https://www.elahmad.com/tv/radiant.php?id=mbcmasr_tv_1",
+                "https://www.elahmad.com/tv/watchtv.php?id=mbc_masr2",
+                "https://www.elahmad.com/tv/radiant.php?id=mbciraq_tv_1",
+                "https://www.elahmad.com/tv/radiant.php?id=mbc_variety",
+                "https://www.elahmad.com/tv/radiant.php?id=mbc_persia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mbc-live.php",
+        "país": "sa",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
