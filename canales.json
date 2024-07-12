@@ -8054,6 +8054,43 @@
         "país": "sa",
         "categoría": "news"
     },
+    "otv-Navez": {
+        "nombre": "Otv Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=otv_lb1",
+                "https://www.elahmad.com/tv/radiant.php?id=otv_lb2",
+                "https://www.elahmad.com/tv/watchtv.php?id=otv_lebanon",
+                "https://www.elahmad.com/tv/mpegts_player.php?id=otv_lebanon"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/otv_lb.php",
+        "país": "lb",
+        "categoría": "news"
+    },
+    "vdl24-Navez": {
+        "nombre": "VDL24 Navez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=vdltv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "lb",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
