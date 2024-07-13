@@ -7866,8 +7866,8 @@
         "categoría": "news"
     },
     "HLQS-DTV": {
-        "nombre": "HLQS DTV",
-        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png"
+        "nombre": "HLQS-DTV",
+        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
                 "https://artv.watch/embed.php?channel=HLQSDTV.kr"
