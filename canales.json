@@ -7796,8 +7796,7 @@
                 "https://chmbc.co.kr/live",
                 "https://artv.watch/embed.php?channel=MBCEvery1.kr",
                 "https://artv.watch/embed.php?channel=HLAJDTV.kr",
-                "https://artv.watch/embed.php?channel=HLAJDTV.kr",
-                "https://artv.watch/es/KR?p=2"
+                "https://artv.watch/embed.php?channel=HLAJDTV.kr"
             ],
             "m3u8_url": [
                 "https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8",
