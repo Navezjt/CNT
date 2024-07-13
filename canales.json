@@ -7864,25 +7864,6 @@
         "país": "kr",
         "categoría": "news"
     },
-    "HLQS-DTV": {
-        "nombre": "HLQS DTV",
-        "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png"
-        "señales": {
-            "iframe_url": [
-                "https://artv.watch/embed.php?channel=HLQSDTV.kr"
-            ],
-            "m3u8_url": [
-                "https://vod.obs.co.kr:444/live/obsstream1/tv.stream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.obs.co.kr/onair/",
-        "país": "kr",
-        "categoría": "news"
-    },
     "OCN-live": {
         "nombre": "OCN Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
