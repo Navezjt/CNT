@@ -4026,10 +4026,10 @@
         "nombre": "W9 Live",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/w9-live-stream-from-france/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://livetvde.net/w9/index.m3u8?token=2e9221f932f2d1624d32c66ab377d8f732394937-548081b47c13b3899827997b52afd740-1720908681-1720897881"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4043,10 +4043,10 @@
         "nombre": "Gulli",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/gulli/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4060,10 +4060,10 @@
         "nombre": "HLN be",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/hln-be/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dpg-eventstreams.akamaized.net/hlnlivesrt-xmr/streamx/hlnlivesrt.m3u8"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4111,11 +4111,10 @@
         "nombre": "DW Español",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/dw-news-english/"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
-                "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8"
+                "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+                "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
             ],
             "yt_id": "UCT4Jg8h03dD0iN3Pb5L0PMA",
             "yt_embed": "",
@@ -4162,10 +4161,10 @@
         "nombre": "Arte Live",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/arte-german/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s6.hopslan.com:443/arte/index.m3u8?token=b77eecda084d91e31af41d4213364b67771946b9-1f8f741c4fbdb2c5b901b2613c64b7d0-1720908370-1720897570"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4179,12 +4178,12 @@
         "nombre": "ARD",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/ard/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s6.hopslan.com:443/ard11/index.m3u8?token=ec09f7b9d790bb92f7a1a2446e046dc77f653f9a-62579e095d4ef974e47a52dd269f44d6-1720908276-1720897476"
             ],
-            "m3u8_url": [],
-            "yt_id": "UCknLrEdhRCp1aegoMqRaCZg",
-            "yt_embed": "https://www.youtube.com/embed/tZT2MCYu6Zw?si=Xg7hxMsqepZz8GW9",
+            "yt_id": "",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -4196,10 +4195,10 @@
         "nombre": "HR Fernsehen",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/hr-fernsehen/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4213,10 +4212,10 @@
         "nombre": "WDR Fernsehen",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/wdr-fernsehen/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4232,9 +4231,10 @@
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/hns12gYNRq0?playsinline=1&enablejsapi=1&origin=https%3A%2F%2F24tv.ua&widgetid=1",
-                "https://www.livehdtv.com/embed/channel-24-ukraine/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8"
+            ],
             "yt_id": "UCja992VI_u2e52c9FHQXw5A",
             "yt_embed": "",
             "yt_playlist": "",
@@ -5021,7 +5021,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://live-hls-web-aje.getaj.net/AJE/03.m3u8"
+                "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+                "https://live-hls-web-aje.getaj.net/AJE/index.m3u8"
             ],
             "yt_id": "UCNye-wNBqNL5ZzHSJj3l8Bg",
             "yt_embed": "",
@@ -5037,7 +5038,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live-hls-web-aja.getaj.net/AJA/index.m3u8"
+            ],
             "yt_id": "UCfiwzLy-8yKzIbsmZTzxDgw",
             "yt_embed": "",
             "yt_playlist": "",
