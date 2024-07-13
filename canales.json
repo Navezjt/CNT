@@ -3212,7 +3212,9 @@
         "nombre": "Global News",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/global-news/"
+            ],
             "m3u8_url": [
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
             ],
@@ -3244,9 +3246,12 @@
         "nombre": "ABC News",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/ch92/"
+            ],
             "m3u8_url": [
-                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad."
             ],
             "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
             "yt_embed": "",
@@ -3276,7 +3281,9 @@
         "nombre": "Bloomberg US",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/bloomberg/"
+            ],
             "m3u8_url": [
                 "https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8"
             ],
@@ -3327,7 +3334,9 @@
         "nombre": "Cheddar",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/cheddar-news/"
+            ],
             "m3u8_url": [
                 "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/2.m3u8"
             ],
@@ -3344,7 +3353,9 @@
         "nombre": "CBSN",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/cbsn/"
+            ],
             "m3u8_url": [
                 "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8"
             ],
@@ -3378,7 +3389,9 @@
         "nombre": "Newsmax",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/newsmax-tv/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCx6h-dWzJ5NpAlja1YsApdg",
             "yt_embed": "",
@@ -3486,7 +3499,9 @@
         "nombre": "CNBC",
         "logo": "https://graph.facebook.com/CNBC/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/ch93/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCvJJ_dzjViJCoLf5uKUTwoA",
             "yt_embed": "",
@@ -3524,6 +3539,182 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.un.org/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "30a-tv": {
+        "nombre": "30A TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/30a-tv/"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/33.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/30a-tv/2/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "fox-business": {
+        "nombre": "Fox Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/fox-business/"
+            ],
+            "m3u8_url": [
+                "https://v1.thetvapp.to/hls/FoxBusiness.m3u8?token=i5rBovXkl2aM2vGwXM1MZQ&expires=1720904894"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/fox-business/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "the-weather-channel": {
+        "nombre": "The Weather Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/the-weather-channel/"
+            ],
+            "m3u8_url": [
+                "https://livetvde.net/weather/index.m3u8?token=4b0243a954e7ee1e290fc751ff620e409e69edf6-954fff1cf958dc9251610cae6f60f5e2-1720897091-1720886291"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/the-weather-channel/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "sky-news": {
+        "nombre": "Sky News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/skynews/"
+            ],
+            "m3u8_url": [
+                "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8",
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/skynews/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "MSNBC": {
+        "nombre": "MSNBC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/ch94/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/ch94/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "fox-news": {
+        "nombre": "Fox News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/fox-news/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/fox-news/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "bbc-news": {
+        "nombre": "BBC News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/bbc-news/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/bbc-news/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "newsnet": {
+        "nombre": "NewsNet",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/newsnet/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/newsnet/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "qvc": {
+        "nombre": "QVC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/qvc/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/qvc/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
         "país": "us",
         "categoría": "general"
     },
