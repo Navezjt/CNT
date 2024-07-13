@@ -6171,6 +6171,61 @@
         "país": "rs",
         "categoría": "news"
     },
+    "russia-1": {
+        "nombre": "Russia-1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/russia-1/",
+                "https://www.livehdtv.com/embed/russia-today/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/russia-1/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "channel-one": {
+        "nombre": "Первый канал",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
+        "señales": {
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/channel-one/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/channel-one/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "vgtrk": {
+        "nombre": "VGTRK RU",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
+        "señales": {
+            "iframe_url": [
+                "https://player.smotrim.ru/iframe/live/id/21/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r24/",
+                "https://player.smotrim.ru/iframe/live/id/19201/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rk/",
+                "https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/",
+                "https://player.smotrim.ru/iframe/live/id/2961/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vgtrk.ru/",
+        "país": "rs",
+        "categoría": "news"
+    },
     "voa": {
         "nombre": "voa noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
