@@ -3850,7 +3850,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://s6.hopslan.com/n24x1/index.m3u8?token=e0bde620a2f1a9e456402ef01ff4a78e091da95f-5457786350ae01dda0893d373520d92d-1720895630-1720884830"
+            ],
             "yt_id": "UCZMsvbAhhRblVGXmEXW8TSA",
             "yt_embed": "",
             "yt_playlist": "",
