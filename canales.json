@@ -4230,7 +4230,10 @@
         "nombre": "24 Канал онлайн",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/hns12gYNRq0?playsinline=1&enablejsapi=1&origin=https%3A%2F%2F24tv.ua&widgetid=1",
+                "https://www.livehdtv.com/embed/channel-24-ukraine/"
+            ],
             "m3u8_url": [],
             "yt_id": "UCja992VI_u2e52c9FHQXw5A",
             "yt_embed": "",
