@@ -3215,7 +3215,7 @@
             "iframe_url": [],
             "m3u8_url": [
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-                https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
+                "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -3565,7 +3565,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "<iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/fox-business/" frameborder="0"  scrolling="no"></iframe>"
+                <iframe width="100%" height="auto" src="https://www.livehdtv.com/embed/fox-business/" frameborder="0"  scrolling="no"></iframe>
             ],
             "m3u8_url": [
                 "https://v1.thetvapp.to/hls/FoxBusiness.m3u8?token=i5rBovXkl2aM2vGwXM1MZQ&expires=1720904894"
