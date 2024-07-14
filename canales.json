@@ -1826,6 +1826,230 @@
         "país": "ar",
         "categoría": "news"
     },
+    "comotv": {
+        "nombre": "Comotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/comotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "comoproducciones"
+        },
+        "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "vorterix-santarosa": {
+        "nombre": "Vorterix Santarosa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/vorterixsantarosa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "vorterixsantarosa"
+        },
+        "sitio_oficial": "https://kick.com/vorterixsantarosa",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "prensa-tv": {
+        "nombre": "Prensa Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/prensatv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "orfeo_rock_radio_tv"
+        },
+        "sitio_oficial": "https://kick.com/prensatv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "orfeo-rock-radiotv": {
+        "nombre": "orfeo Rock RadioTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/orfeorockradiotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "orfeo_rock_radio_tv"
+        },
+        "sitio_oficial": "https://kick.com/orfeorockradiotv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "huarpe-tv": {
+        "nombre": "Huarpe Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/huarpetv",
+                "https://player.kick.com/elurbanoradio" 
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kick.com/huarpetv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-e": {
+        "nombre": "Canal E",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/perfiltv"
+            ],
+            "m3u8_url": [
+                "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.perfil.com/canal-e/vivo",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "telemax": {
+        "nombre": "Telemax",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal26.com/telemax",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Quiero-Musica-Tv": {
+        "nombre": "Quiero Musica Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/8Mw0YdKN2XY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC_-fqnv3Rp8k9VJ06_aDIHg",
+            "yt_embed": "8Mw0YdKN2XY?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@quieromusicatv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "SISEA-Argentina": {
+        "nombre": "SISEA Argentina",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/Y0nVpVzd3q4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
+            "yt_embed": "Y0nVpVzd3q4?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@SISEArgentina",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "radio-laplata": {
+        "nombre": "Radio Laplata",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=radiolaplata909&height=100%25&muted=true&parent=radiolaplata.com.ar&referrer=https%3A%2F%2Fradiolaplata.com.ar%2F&width=100%25"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCVTD3EbSz7o_u_hrTbUWhVw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiolaplata909"
+        },
+        "sitio_oficial": "https://radiolaplata.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "eltrecetv": {
+        "nombre": "Eltrecetv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8"
+            ],
+            "yt_id": "UC0DM_mHV2u6dj8ig51GkQwg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.eltrecetv.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "elrural": {
+        "nombre": "Elrural",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/0eA-D1S7jRE?autoplay=1&mute=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCPumJ2ayrr-JDsA9JDCUDDQ",
+            "yt_embed": "0eA-D1S7jRE?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elrural.com/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "rural": {
+        "nombre": "Rural",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCcmbSgSpK0dQhw3IBaBGo-g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalrural.com.br/ao-vivo/",
+        "país": "br",
+        "categoría": "news"
+    },
     "recordnews": {
         "nombre": "Record News",
         "logo": "https://graph.facebook.com/recordnews/picture?width=800&height=800",
@@ -7422,230 +7646,6 @@
         },
         "sitio_oficial": "https://agro-tv.ro/tv-live/",
         "país": "ro",
-        "categoría": "news"
-    },
-    "comotv": {
-        "nombre": "Comotv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/comotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "comoproducciones"
-        },
-        "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "vorterix-santarosa": {
-        "nombre": "Vorterix Santarosa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/vorterixsantarosa"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "vorterixsantarosa"
-        },
-        "sitio_oficial": "https://kick.com/vorterixsantarosa",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "prensa-tv": {
-        "nombre": "Prensa Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/prensatv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "orfeo_rock_radio_tv"
-        },
-        "sitio_oficial": "https://kick.com/prensatv",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "orfeo-rock-radiotv": {
-        "nombre": "orfeo Rock RadioTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/orfeorockradiotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "orfeo_rock_radio_tv"
-        },
-        "sitio_oficial": "https://kick.com/orfeorockradiotv",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "huarpe-tv": {
-        "nombre": "Huarpe Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/huarpetv",
-                "https://player.kick.com/elurbanoradio" 
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://kick.com/huarpetv",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "canal-e": {
-        "nombre": "Canal E",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/perfiltv"
-            ],
-            "m3u8_url": [
-                "https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.perfil.com/canal-e/vivo",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "telemax": {
-        "nombre": "Telemax",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/13/Telemax_Argentina_%282018%29.png",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8#t=0.1"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal26.com/telemax",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "Quiero-Musica-Tv": {
-        "nombre": "Quiero Musica Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/8Mw0YdKN2XY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC_-fqnv3Rp8k9VJ06_aDIHg",
-            "yt_embed": "8Mw0YdKN2XY?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@quieromusicatv",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "SISEA-Argentina": {
-        "nombre": "SISEA Argentina",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/Y0nVpVzd3q4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC2RkL2eATR1V6H8g4eNfA5Q",
-            "yt_embed": "Y0nVpVzd3q4?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@SISEArgentina",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "radio-laplata": {
-        "nombre": "Radio Laplata",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.twitch.tv/?channel=radiolaplata909&height=100%25&muted=true&parent=radiolaplata.com.ar&referrer=https%3A%2F%2Fradiolaplata.com.ar%2F&width=100%25"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCVTD3EbSz7o_u_hrTbUWhVw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiolaplata909"
-        },
-        "sitio_oficial": "https://radiolaplata.com.ar/",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "eltrecetv": {
-        "nombre": "Eltrecetv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v2a1/mono.m3u8"
-            ],
-            "yt_id": "UC0DM_mHV2u6dj8ig51GkQwg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.eltrecetv.com.ar/",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "elrural": {
-        "nombre": "Elrural",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/0eA-D1S7jRE?autoplay=1&mute=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCPumJ2ayrr-JDsA9JDCUDDQ",
-            "yt_embed": "0eA-D1S7jRE?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elrural.com/",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "rural": {
-        "nombre": "Rural",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8"
-            ],
-            "yt_id": "UCcmbSgSpK0dQhw3IBaBGo-g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canalrural.com.br/ao-vivo/",
-        "país": "br",
         "categoría": "news"
     },
     "": {
