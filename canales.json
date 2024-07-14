@@ -2042,6 +2042,150 @@
         "país": "co",
         "categoría": "radio"
     },
+    "cnc-santa-rosa": {
+        "nombre": "Cnc Santa Rosa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.kick.com/canal-cnc-santa-rosa",
+                "https://player.kick.com/animeflixlive"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
+        "país": "co",
+        "categoría": "news"
+    },
+    "capitaltv": {
+        "nombre": "Capitaltv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=capitaltv-co",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=capitaltv-co"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/capitaltv",
+        "país": "co",
+        "categoría": "news"
+    },
+    "telepacifico": {
+        "nombre": "Telepacifico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=telepacifico",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=telepacifico"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/telepacifico",
+        "país": "co",
+        "categoría": "news"
+    },
+    "atv": {
+        "nombre": "ATV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=atv-co",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=atv-co"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/atv",
+        "país": "co",
+        "categoría": "news"
+    },
+    "canaltro": {
+        "nombre": "Canaltro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/canaltro",
+        "país": "co",
+        "categoría": "news"
+    },
+    "oasistv": {
+        "nombre": "Oasistv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/oasistv",
+        "país": "co",
+        "categoría": "news"
+    },
+    "tvfamilia": {
+        "nombre": "Tvfamilia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/tvfamilia",
+        "país": "co",
+        "categoría": "news"
+    },
+    "tuuniversotv": {
+        "nombre": "Tuuniversotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/tuuniversotv",
+        "país": "co",
+        "categoría": "news"
+    },
     "1000noticias": {
         "nombre": "1000 Noticias",
         "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
@@ -7280,24 +7424,6 @@
         "país": "ro",
         "categoría": "news"
     },
-    "cnc-santa-rosa": {
-        "nombre": "Cnc Santa Rosa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.kick.com/canal-cnc-santa-rosa",
-                "https://player.kick.com/animeflixlive"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://kick.com/canal-cnc-santa-rosa",
-        "país": "co",
-        "categoría": "news"
-    },
     "comotv": {
         "nombre": "Comotv",
         "logo": "",
@@ -7597,132 +7723,6 @@
         },
         "sitio_oficial": "https://tele-libre.com/en-vivo-online/unimas/",
         "país": "mx",
-        "categoría": "news"
-    },
-    "capitaltv": {
-        "nombre": "Capitaltv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=capitaltv-co",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=capitaltv-co"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/capitaltv",
-        "país": "co",
-        "categoría": "news"
-    },
-    "telepacifico": {
-        "nombre": "Telepacifico",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=telepacifico",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=telepacifico"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/telepacifico",
-        "país": "co",
-        "categoría": "news"
-    },
-    "atv": {
-        "nombre": "ATV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=atv-co",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=atv-co"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/atv",
-        "país": "co",
-        "categoría": "news"
-    },
-    "canaltro": {
-        "nombre": "Canaltro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/canaltro",
-        "país": "co",
-        "categoría": "news"
-    },
-    "oasistv": {
-        "nombre": "Oasistv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/oasistv",
-        "país": "co",
-        "categoría": "news"
-    },
-    "tvfamilia": {
-        "nombre": "Tvfamilia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/tvfamilia",
-        "país": "co",
-        "categoría": "news"
-    },
-    "tuuniversotv": {
-        "nombre": "Tuuniversotv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv",
-                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/tuuniversotv",
-        "país": "co",
         "categoría": "news"
     },
     "gogoplaytv": {
