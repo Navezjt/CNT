@@ -2923,6 +2923,197 @@
         "país": "mx",
         "categoría": "camera"
     },
+    "psn": {
+        "nombre": "Psn",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vimeo.com/event/4146302/embed/interaction?muted=1",
+                "https://vimeo.com/event/4400240/embed/interaction?muted=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.psn.si/en-vivo/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "canal10": {
+        "nombre": "Canal 10",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/canal10durango/",
+                "https://canal10.com.mx/sitio/tvonline.html"
+            ],
+            "m3u8_url": [
+                "https://5ca9af4645e15.streamlock.net:443/canal10durango/videocanal10durango/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal10.com.mx/sitio/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tv4": {
+        "nombre": "TV4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.conceptoweb-studio.com/radio/video/tv4/"
+            ],
+            "m3u8_url": [
+                "https://5ca3e84a76d30.streamlock.net/tv42/videotv42_240p/playlist.m3u8",
+                "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net:443/tv4/smil:tv4.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net:443/tv43/smil:tv43.smil/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvcuatro.tv/4-2/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "RCN": {
+        "nombre": "RCN",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.com/en-vivo-online/rcn/embed.php",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-xtra",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-mas",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-mas"
+            ],
+            "m3u8_url": [
+                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalrcn.com/senal-en-vivo/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "azteca-1": {
+        "nombre": "azteca 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=aztecauno"],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/aztecauno",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "azteca-7": {
+        "nombre": "azteca 7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.com/en-vivo-online/azteca-7/embed.php",
+                "https://tele-libre.com/en-vivo-online/azteca-7/embed2.php",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca7"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.com/en-vivo-online/azteca-7/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "univision": {
+        "nombre": "Univision Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=univision"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/univision",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "unimas": {
+        "nombre": "Unimas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php",
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.com/en-vivo-online/unimas/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "azteca-internacional": {
+        "nombre": "Azteca Internacional",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca-int",
+                "https://www.goltvgo.com/canalestv.php?get=aHR0cHM6Ly9hcGktb3R0LWF6dGVjYS1henQub3R0ZXJhLnR2L2xvZ2dpbmdtZWRpYXVybHBhc3N0aHJvdWdoL2EubTN1OD92ZXJzaW9uPTEyLjUmaWQ9NjQ4JmRldmljZV90eXBlPWRlc2t0b3AmcGxhdGZvcm09d2ViJnBhcnRuZXI9aW50ZXJuYWwmbGFuZ3VhZ2U9ZXMmY29ubmVjdGlvbj13aWZpJm1heF9iaXRyYXRlPTEwMDAwJmdldGFkcz1nZXRhZHMmY3VzdG9tX3BhcmFtXzA9JmN1c3RvbV9wYXJhbV8xPWRlc2t0b3AmY3VzdG9tX3BhcmFtXzI9JmN1c3RvbV9wYXJhbV8zPSZjdXN0b21fcGFyYW1fND1pbnRlcm5hbCZjdXN0b21fcGFyYW1fNT13ZWImY3VzdG9tX3BhcmFtXzY9U291dGglMjUyMEFtZXJpY2EmdGltZXN0YW1wPTE2ODA1MDA3NzMmaXA9MTUyLjE3My4yMjEuMjQ2Jm92ZXJyaWRlX2V4cGlyYXRpb249MTUwMCZzaWduPUN3UyUyQnRCSml2TkpXd095MjFnMklERHEzSUc0NzElMkJLQ3Iyc0M5ZlNXekhBJTNE"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/655554f36b26e708c43f5aea.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.goltvgo.com/en-vivo/azteca-internacional/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "canal5": {
+        "nombre": "canal5",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=canal5-mx"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/canal5",
+        "país": "mx",
+        "categoría": "news"
+    },
     "rtve": {
         "nombre": "RTVE Noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
@@ -7331,13 +7522,13 @@
         "país": "br",
         "categoría": "news"
     },
-    "psn": {
-        "nombre": "Psn",
+    "": {
+        "nombre": "",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://vimeo.com/event/4146302/embed/interaction?muted=1",
-                "https://vimeo.com/event/4400240/embed/interaction?muted=1"
+                "",
+                ""
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -7345,72 +7536,193 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.psn.si/en-vivo/",
+        "sitio_oficial": "",
         "país": "mx",
         "categoría": "news"
     },
-    "canal10": {
-        "nombre": "Canal 10",
+    "": {
+        "nombre": "",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://conceptoweb-studio.com/radio/video/canal10durango/",
-                "https://canal10.com.mx/sitio/tvonline.html"
+                "",
+                ""
             ],
-            "m3u8_url": [
-                "https://5ca9af4645e15.streamlock.net:443/canal10durango/videocanal10durango/playlist.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://canal10.com.mx/sitio/",
+        "sitio_oficial": "",
         "país": "mx",
         "categoría": "news"
     },
-    "tv4": {
-        "nombre": "TV4",
+    "espn": {
+        "nombre": "espn",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.conceptoweb-studio.com/radio/video/tv4/"
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn-op2",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn1-ar",
+                "https://tele-libre.com/en-vivo-online/espn/embed.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed2.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed3.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed4.php",
+                "https://tele-libre.com/en-vivo-online/espn/embed5.php"
             ],
-            "m3u8_url": [
-                "https://5ca3e84a76d30.streamlock.net/tv42/videotv42_240p/playlist.m3u8",
-                "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net:443/tv4/smil:tv4.smil/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net:443/tv43/smil:tv43.smil/playlist.m3u8",
-                "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8"
-            ],
-            "yt_id": "",
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://tvcuatro.tv/4-2/",
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/espn",
         "país": "mx",
         "categoría": "news"
     },
-    "RCN": {
-        "nombre": "RCN",
-        "logo": "https://television-libre.online/img/rcn.webp",
+    "unimas": {
+        "nombre": "Unimas",
+        "logo": "",
         "señales": {
             "iframe_url": [
-                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MDI=",
-                "https://television-libre.online/html/hls?get=aHR0cHM6Ly9sYXR2LXJjbi14dHJhLTEtbXgudGNsLnd1cmwudHYvcGxheWxpc3QubTN1OA",
-                "https://television-libre.online/html/hls?get=aHR0cHM6Ly9yY250di1yY25tYXMtMS11cy5wbGV4Lnd1cmwudHYvcGxheWxpc3QubTN1OA"
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php",
+                "https://tele-libre.com/en-vivo-online/unimas/embed.php"
             ],
-            "m3u8_url": [
-                "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
+            "m3u8_url": [],
+            "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele-libre.com/en-vivo-online/unimas/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "capitaltv": {
+        "nombre": "Capitaltv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=capitaltv-co",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=capitaltv-co"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.canalrcn.com/senal-en-vivo/",
-        "país": "mx",
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/capitaltv",
+        "país": "co",
+        "categoría": "news"
+    },
+    "telepacifico": {
+        "nombre": "Telepacifico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=telepacifico",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=telepacifico"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/telepacifico",
+        "país": "co",
+        "categoría": "news"
+    },
+    "atv": {
+        "nombre": "ATV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=atv-co",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=atv-co"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/atv",
+        "país": "co",
+        "categoría": "news"
+    },
+    "canaltro": {
+        "nombre": "Canaltro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=canaltro"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/canaltro",
+        "país": "co",
+        "categoría": "news"
+    },
+    "oasistv": {
+        "nombre": "Oasistv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=oasistv-co"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/oasistv",
+        "país": "co",
+        "categoría": "news"
+    },
+    "tvfamilia": {
+        "nombre": "Tvfamilia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tvfamilia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/tvfamilia",
+        "país": "co",
+        "categoría": "news"
+    },
+    "tuuniversotv": {
+        "nombre": "Tuuniversotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv",
+                "https://www.televisionlibre.co/envivo/player/embed2.php?r=tuuniversotv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/tuuniversotv",
+        "país": "co",
         "categoría": "news"
     },
     "gogoplaytv": {
