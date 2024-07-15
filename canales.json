@@ -4897,6 +4897,23 @@
         "país": "us",
         "categoría": "general"
     },
+    "30a-investment-pitch-news": {
+        "nombre": "30A Investment Pitch",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://www.30a-tv.com/InvPit.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://30a-tv.com/30a/investment-pitch-news/",
+        "país": "us",
+        "categoría": "general"
+    },
     "skynews": {
         "nombre": "Sky News",
         "logo": "",
