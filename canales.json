@@ -5095,7 +5095,9 @@
             "iframe_url": [
                 "https://seenow.tv/api-v1/embed/channel/cnn"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
