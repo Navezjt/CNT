@@ -2785,8 +2785,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "navez-sport-1-1": {
-        "nombre": "navez-dazn-1-1",
+    "sportNavez1": {
+        "nombre": "sportNavez1",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
@@ -2817,8 +2817,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "navez-sport-1-2": {
-        "nombre": "navez sport-1-2",
+    "sportNavez2": {
+        "nombre": "sportNavez2",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
@@ -2862,8 +2862,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "navez-sport-1-2": {
-        "nombre": "navez sport-1-2",
+    "sportNavez3": {
+        "nombre": "sportNavez3",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
@@ -3208,6 +3208,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvhd.pe/a3series-en-vivo/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "RPPNoticias": {
+        "nombre": "RPPNoticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/36EbAg4YluU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;sh"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC5j8-2FT0ZMMBkmK72R4aeA",
+            "yt_embed": "36EbAg4YluU?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@RPPNoticias",
         "país": "pe",
         "categoría": "news"
     },
