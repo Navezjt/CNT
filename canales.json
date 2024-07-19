@@ -2065,18 +2065,105 @@
         "país": "br",
         "categoría": "news"
     },
-    "redebrasiloficial": {
-        "nombre": "REDE BRASIL OFICIAL",
-        "logo": "https://graph.facebook.com/redebrasiloficial/picture?width=800&height=800",
+    "anitv": {
+        "nombre": "anitv.br",
+        "logo": "https://cdn.discordapp.com/attachments/990727404676853810/1099885583427453098/Picsart_23-04-23_23-02-52-253.jpg",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCubxEhRi56_V4_eTzzcFwkA",
+            "m3u8_url": [
+                "https://stream.ichibantv.com:3764/hybrid/play.m3u8"
+            ],
+            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://tv.redebrasiloficial.com.br/",
+        "sitio_oficial": "",
+        "país": "br",
+        "categoría": "news"
+    },
+    "JovemPanNews": {
+        "nombre": "JovemPanNews.br",
+        "logo": "https://media.jovempan.com.br/uploads/2018/07/JPNews-imagem-pagina-e1530887165749.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://raw.githubusercontent.com/listamake/iptvbr/main/ytchannelbr.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
+    "RecordTV": {
+        "nombre": "RecordTV.br",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/listamake/iptvbr/blob/main/home.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
+    "RedeVida": {
+        "nombre": "RedeVida.br",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85e5f6b6aa459a384730e3b520e1e728.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/listamake/iptvbr/blob/main/home.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
+    "RBATV": {
+        "nombre": "RBATV.br",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "br",
+        "categoría": "news"
+    },
+    "RedeTV": {
+        "nombre": "RedeTV.br",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5673cee68ac13e9823b9cb2759fa510f.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
         "país": "br",
         "categoría": "news"
     },
