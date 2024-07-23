@@ -4299,6 +4299,426 @@
         "país": "pe",
         "categoría": "news"
     },
+    "radionoticiastv": {
+        "nombre": "RN TELEVISION",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://videoserver.tmcreativos.com:2020/VideoPlayer/rnyurimaguas?autoplay=1",
+                "https://tvgratisperu.com/pages/peru/re/rntve_op1.php",
+                "https://videoserver.tmcreativos.com:2020/VideoPlayer/rnyurimaguas?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radionoticiastv.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "rtvtotal": {
+        "nombre": "RTV TOTAL YURIMAGUAS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://innovatestream.com/tv/v2/rtv.php",
+                "https://tvgratisperu.com/pages/peru/re/rtvtotalyuri_op1.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rtvtotal.pe/tv-online",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "supercanal": {
+        "nombre": "SUPER CANAL YURIMAGUAS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvgratisperu.com/pages/peru/re/supercanalyuri_op1.php"
+            ],
+            "m3u8_url": [
+                "https://live.obslivestream.com/supercanal/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supercanal.com.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tvstreaming": {
+        "nombre": "TV SISTEMAS CUZCO",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvgratisperu.com/pages/peru/re/tvsistemascuzco_op1.php"
+            ],
+            "m3u8_url": [
+                "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8",
+                "https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8",
+                "https://srv4.zcast.com.br/sistemas2020/sistemas2020/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiotv.net.pe/tvstreaming/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "viaaltomayo": {
+        "nombre": "VIA ALTOMAYO TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://bradmax.com/client/embed-player/6f3681d2b86803cdd0e30ff79e8d2240dcca604c_9989?mediaUrl=https%3A%2F%2Flive.obslivestream.com%2Fviaaltomayomux%2Findex.m3u8&title=VIA%20Alto%20Mayo&duration=0",
+                "https://tvgratisperu.com/pages/peru/re/vialtomayo_op1.php",
+                "https://www.viaaltomayotv.com/player_service/index.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.viaaltomayotv.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "vinilostv": {
+        "nombre": "INILOS TV MOYOBAMBA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvgratisperu.com/pages/peru/re/vinilostv.php"
+            ],
+            "m3u8_url": [
+                "https://live.obslivestream.com/controversiatv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.facebook.com/ControversiaMoyobamba/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "sanjuaneratv": {
+        "nombre": "SANJUANERA TV MOYOBAMBA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvgratisperu.com/pages/peru/re/sanjuaneratv_op1.php",
+                "https://app.ahxpro.com/audio/sanjuanera/"
+            ],
+            "m3u8_url": [
+                "https://live.obslivestream.com/sanjuanera/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://sanjuaneratv.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "nqperu": {
+        "nombre": "NQ TELEVISION",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://bradm.ax/build/202403/22/7f3ef98516bf62a2f18d05db9e0b2b9099705a66/index.html?mediaUrl=https%3A%2F%2Flive.obslivestream.com%2Fnq%2Findex.m3u8",
+                "https://tvgratisperu.com/pages/peru/re/nqtv_op1.php",
+                "https://app.ahxpro.com/audio/nqradio/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://nqperu.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "radioselvatv": {
+        "nombre": "RSELVA TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https:\/\/radio.obslivestream.com\/hls\/radio_selva\/live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radioselvatv.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "mas1tv": {
+        "nombre": "MAS 1 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvgratisperu.com/pages/peru/re/mas1tv_op1.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvgratisperu.com/pages/peru/mas1tv.php",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "uraniotv": {
+        "nombre": "URANIOTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvgratisperu.com/pages/peru/re/uraniotv_op1.php"
+            ],
+            "m3u8_url": [
+                "https://live.obslivestream.com/uraniotv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://uraniotv.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "mytvcanal19": {
+        "nombre": "Mytvcanal19",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vdo.voxhdnet.com/live-stream-video-widget/mytvcanal19"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mytvcanal19.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "cnccajamarca": {
+        "nombre": "Cnc Cajamarca",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://innovatestream.com/tv/v2/player.php?live=cnctv",
+                "https://panel.innovatestream.pe:10840/stream",
+                "https://innovatestream.pe/players/server119v7/?RADIO=&titulo=si&port=10840&server=120&back=000000&control=FFFAF9&text=FFFFFF&overcontrol=FFFFFF&fa=&tw=&wa="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cnccajamarca.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "wtv": {
+        "nombre": "wtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://mediacp.us:8081/wtvhn/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hispanatv.com/c/1/wtv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "cnrnoticias": {
+        "nombre": "Cnr noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?autoplay=true&channel=cnr_73&height=100%25&muted=true&parent=www.cnrnoticias.tv&playsinline=true&referrer=https%3A%2F%2Fwww.cnrnoticias.tv%2F&video=&width=100%25"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cnrnoticias.tv/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "farode-santidad": {
+        "nombre": "Faro Santidad",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://miiglesiaonline.com/embed/live/ch/102/chat/false/theme/dark"
+            ],
+            "m3u8_url": [
+                "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://farodesantidad.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "TVHuarmey": {
+        "nombre": "TVHuarmey",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=tvhuarmey&parent=www.coolstreaming.us&theme=dark"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telejahs.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tropical-tv": {
+        "nombre": "Tropical Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://symphonier.com/reproductor.php?canal=9082"
+            ],
+            "m3u8_url": [
+                "https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://symphonier.com/tv/tropical-tv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "telecoloryurimaguas": {
+        "nombre": "telecoloryurimaguas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://symphonier.com/reproductor.php?canal=9070"
+            ],
+            "m3u8_url": [
+                "https://live.obslivestream.com/telecolormux/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telecolortv.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "radiotropical": {
+        "nombre": "radiotropical",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://videoserver.tmcreativos.com:2020/VideoPlayer/raditropical?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiotropical.pe/television/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "matices-tv": {
+        "nombre": "Matices Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vdo.grupolimalive.com/live-stream-video-widget/maticestv",
+                "https://symphonier.com/reproductor.php?canal=9022"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://aldiaconmatices.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "oktelevisionhd": {
+        "nombre": "Oktelevisionhd",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vdo.grupolimalive.com:3005/live/oktvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://oktelevisionhd.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "like-tv": {
+        "nombre": "Like Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://symphonier.com/reproductor.php?canal=9020"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://symphonier.com/tv/like-tv",
+        "país": "pe",
+        "categoría": "news"
+    },
     "telemetro13": {
         "nombre": "Telemetro Reporta",
         "logo": "https://graph.facebook.com/TReporta/picture?width=800&height=800",
