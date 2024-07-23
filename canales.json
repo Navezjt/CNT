@@ -4202,26 +4202,6 @@
         "país": "pe",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "",
-                ""
-            ],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "pe",
-        "categoría": "news"
-    },
     "planetatv": {
         "nombre": "Planeta tv",
         "logo": "",
@@ -4297,6 +4277,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.facebook.com/QUASSARTELEVISION/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "regionteve": {
+        "nombre": "REGION TV CALLAO",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://reproplay.com/callaotv/",
+                "https://tvgratisperu.com/pages/peru/re/regiontvcallao_op1.php",
+                "https://reproplay.com/callaotv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://regionteve.com/tv-en-vivo/",
         "país": "pe",
         "categoría": "news"
     },
