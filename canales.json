@@ -11817,6 +11817,141 @@
         "país": "ae",
         "categoría": "news"
     },
+    "belarus-1": {
+        "nombre": "belarus 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8",
+                "https://edge59.dc.beltelecom.by/ngtrk/smil:belarus5int.smil/playlist.m3u8",
+                "https://edge56.dc.beltelecom.by/ctv/_definst_/ctv.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvr.by/eng/televidenie/belarus-1/",
+        "país": "by",
+        "categoría": "news"
+    },
+    "belmuz-tv": {
+        "nombre": "BELMUZ TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://178.124.179.122:8088/BelMuzTV/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://belmuztv.by/",
+        "país": "by",
+        "categoría": "news"
+    },
+    "ont": {
+        "nombre": "Ont",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=ONT.by"
+            ],
+            "m3u8_url": [
+                "https://edge51.dc.beltelecom.by/ont/_definst_/ont/playlist.m3u8",
+                "https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ont.by/",
+        "país": "by",
+        "categoría": "news"
+    },
+    "1mus": {
+        "nombre": "1MUS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://hz1.teleport.cc/HD.html",
+                "http://hz1.teleport.cc/SD.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://1mus.com/",
+        "país": "by",
+        "categoría": "news"
+    },
+    "STV": {
+        "nombre": "STV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=STV.by"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        
+        "sitio_oficial": "https://artv.watch/es/BY/STV.by",
+        "país": "by",
+        "categoría": "news"
+    },
+    "tnv-planeta": {
+        "nombre": "tnv planeta",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+                "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+                "https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8",
+                "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8",
+                "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        
+        "sitio_oficial": "https://tnv.ru/",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "tyumen-time": {
+        "nombre": "Tyumen Time",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://playercdn.cdnvideo.ru/aloha/players/auto_player1.html?clid=2472o5vjvo&plid=46a4a6c3-2563-45ea-ae32-009e9235d933"
+            ],
+            "m3u8_url": [
+                "https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        
+        "sitio_oficial": "https://tyumen-time.ru/",
+        "país": "ru",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
