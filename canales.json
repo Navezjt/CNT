@@ -3913,7 +3913,7 @@
         "categoría": "news"
     },
     "frecuenciamusicaltv": {
-        "nombre": "FRECUENCIA MUSICAL TV EN VIVO",
+        "nombre": "FRECUENCIA MUSICAL",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -5686,7 +5686,7 @@
         "categoría": "general"
     },
     "globovision": {
-        "nombre": "Globovisión En Vivo",
+        "nombre": "Globovisión",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -5859,7 +5859,7 @@
         "categoría": "Culture"
     },
     "hch-vivo": {
-        "nombre": "HCH En Vivo",
+        "nombre": "HCH",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -9506,7 +9506,7 @@
         "categoría": "music"
     },
     "best-of-mix": {
-        "nombre": "Best of Mix - Radios en Vivo",
+        "nombre": "Best of Mix",
         "logo": "",
         "señales": {
             "iframe_url": [],
