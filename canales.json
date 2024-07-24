@@ -4738,12 +4738,12 @@
         "país": "pe",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
+    "inkatropical": {
+        "nombre": "inkatropical",
         "logo": "",
         "señales": {
             "iframe_url": [
-                ""
+                "https://playerv.streamingvip.click/video/inkatropical/2/false/false/c3Rtdi5zdHJlYW1pbmd2aXAuY2xpY2srMQ==/16:9/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -4751,7 +4751,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://inkatropical.pe/",
         "país": "pe",
         "categoría": "news"
     },
