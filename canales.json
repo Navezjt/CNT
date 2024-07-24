@@ -13034,7 +13034,6 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        
         "sitio_oficial": "https://artv.watch/es/BY/STV.by",
         "país": "by",
         "categoría": "news"
@@ -13056,7 +13055,6 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        
         "sitio_oficial": "https://tnv.ru/",
         "país": "ru",
         "categoría": "news"
@@ -13076,9 +13074,439 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        
         "sitio_oficial": "https://tyumen-time.ru/",
         "país": "ru",
+        "categoría": "news"
+    },
+    "taiwanplustv": {
+        "nombre": "taiwanplustv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_1/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.taiwanplus.com/taiwanplustv",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "ftv": {
+        "nombre": "ftv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.4gtv.tv/ftv/M-FTV.html?player_mute=on"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://m.ftv.com.tw/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "CTI": {
+        "nombre": "CTI",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/WPfPjbOLNfE?modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@CtiDeepThroat",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "Da-Ai": {
+        "nombre": "Da Ai",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/MIqUplvSRWA?autoplay=0&feature=player_detailpage&modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@DaAiVideo",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "EBC-News": {
+        "nombre": "EBC News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/LuQ4S-i5zoE?modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@newsebc",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "FTV": {
+        "nombre": "FTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/ylYJSBUgaMA?autoplay=0&feature=player_detailpage&modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@FTV_News",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "goodtv": {
+        "nombre": "goodtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/?list=UUpHgvLfY23_S6jvT8BuZ3kQ"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@goodtv",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "NTDAPTV": {
+        "nombre": "NTDAPTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/WIhgU_mc05A?modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@NTDAPTV",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "SET-News": {
+        "nombre": "SET News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/FoBfXvlOR6I?ecver=1&modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@setnews",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "TVBSNEWS01": {
+        "nombre": "TVBSNEWS01",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc?modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TVBSNEWS01",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "ttv": {
+        "nombre": "TTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/xL0ch83RAK8?rel=0&autoplay=1&mute=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ttv.com.tw/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "ftv1": {
+        "nombre": "FTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.4gtv.tv/ftv/FTV.html?player_autoplay=on&player_mute=off",
+                "https://embed.4gtv.tv/ftv/FMTV.html?player_autoplay=on&player_mute=off",
+                "https://embed.4gtv.tv/ftv/FTTV.html?player_autoplay=on&player_mute=off",
+                "https://embed.4gtv.tv/ftv/FTVNews.html?player_autoplay=on&player_mute=off",
+                "https://embed.4gtv.tv/ftv/FTVDrama.html?player_autoplay=on&player_mute=off",
+                "https://embed.4gtv.tv/ftv/FTVVariety.html?player_autoplay=on&player_mute=off",
+                "https://embed.4gtv.tv/ftv/FTVTravel.html?player_autoplay=on&player_mute=off"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ftv.com.tw/index.aspx",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "globalnewstw": {
+        "nombre": "globalnewstw",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@globalnewstw",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "hakkatv": {
+        "nombre": "Hakkatv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.4gtv.tv/hakka/hakkatv.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hakkatv.org.tw/live",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "ipcf2": {
+        "nombre": "Ipcf2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ipcf.org.tw/zh-TW/Vod/Home",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "mnews": {
+        "nombre": "mnews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/5n0y6b0Q25o?playsinline=1&enablejsapi=1&origin=https%3A%2F%2Fwww.mnews.tw&widgetid=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mnews.tw/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "TVBSNEWS01": {
+        "nombre": "TVBSNEWS01",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/2mCSYvcfhtc?si=zvjzjW3aahPJuTMC&rel=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TVBSNEWS01",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "TVBSNEWS02": {
+        "nombre": "TVBSNEWS02",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/m_dhMSvUCIc?si=KD32L581c5R3G8tn&rel=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@tvbsnews02",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "PNNPTS": {
+        "nombre": "PNNPTS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCexpzYDEnfmAvPSfG4xbcjA&rel=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@PNNPTS",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "EBC-Financial-News": {
+        "nombre": "EBC Financial News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/LbS-xQ67fos?rel=0&enablejsapi=1&autoplay=1&mute=1&origin=https%3A%2F%2Ffnc.ebc.net.tw"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://fnc.ebc.net.tw/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "Express-Finance-Satellite-TV": {
+        "nombre": "Express Finance Satellite TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCiqm4JC8lbGqgePjHd3Mahw&rel=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCiqm4JC8lbGqgePjHd3Mahw",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "sindatv2": {
+        "nombre": "Sindatv2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/ciwFpYofb28?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.sindatv.com.tw/?driect=tvshowlive",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "SDTV-1": {
+        "nombre": "SDTV 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCHycXkewR3NXQE59t3hhlaQ&rel=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/c/SDTV55ch",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "elufa-tv": {
+        "nombre": "Elufa Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=chuo_tv&parent=alplox.github.io"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elufa-tv.net/live.html",
+        "país": "kp",
+        "categoría": "news"
+    },
+    "NBS": {
+        "nombre": "NBS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.inbs.co.kr/onair.do",
+        "país": "kr",
         "categoría": "news"
     },
     "game-master-tv": {
