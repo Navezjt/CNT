@@ -5468,6 +5468,74 @@
         "país": "pe",
         "categoría": "news"
     },
+    "dzrh": {
+        "nombre": "Dzrh",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.dzrh.com.ph/",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "ABS-CBNEntertainment": {
+        "nombre": "ABS-CBNEntertainment",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "Kapamilya": {
+        "nombre": "Kapamilya",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@abscbnentertainment",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "Untv1": {
+        "nombre": "Untv1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@UNTVNewsandRescue",
+        "país": "ph",
+        "categoría": "news"
+    },
     "INC-Radio-DZEM-954": {
         "nombre": "INC Radio DZEM 954",
         "logo": "",
@@ -5706,23 +5774,6 @@
         },
         "sitio_oficial": "https://www.teleradiopace.tv/",
         "país": "ph",
-        "categoría": "news"
-    },
-    "senato": {
-        "nombre": "Senato",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/loiN1npW2MM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCbanqpWVQ0l4v_aPUV-j9JQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.senato.it/home",
-        "país": "it",
         "categoría": "news"
     },
     "despierta-con-cdn": {
@@ -6665,74 +6716,6 @@
         },
         "sitio_oficial": "https://www.livetvmalaysia.online/2018/03/bola.html",
         "país": "my",
-        "categoría": "news"
-    },
-    "dzrh": {
-        "nombre": "Dzrh",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.dzrh.com.ph/",
-        "país": "ph",
-        "categoría": "news"
-    },
-    "ABS-CBNEntertainment": {
-        "nombre": "ABS-CBNEntertainment",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment",
-        "país": "ph",
-        "categoría": "news"
-    },
-    "Kapamilya": {
-        "nombre": "Kapamilya",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@abscbnentertainment",
-        "país": "ph",
-        "categoría": "news"
-    },
-    "Untv1": {
-        "nombre": "Untv1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@UNTVNewsandRescue",
-        "país": "ph",
         "categoría": "news"
     },
     "telemetro13": {
@@ -9948,6 +9931,23 @@
         },
         "sitio_oficial": "https://www.aljazeera.com/live/",
         "país": "qa",
+        "categoría": "news"
+    },
+    "senato": {
+        "nombre": "Senato",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/loiN1npW2MM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCbanqpWVQ0l4v_aPUV-j9JQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.senato.it/home",
+        "país": "it",
         "categoría": "news"
     },
     "vatican-news": {
