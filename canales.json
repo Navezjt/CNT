@@ -8129,10 +8129,19 @@
         "nombre": "Noticias Telemundo",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://www.telemundo.com/sigma.html?stream=NOTICIAS_AHORA&mvpdHash=&mpid=&timestamp=1721921686964&usPrivacy=1---&autoplay=true&mutedAutoplay=true&token_Widevine=9ba6f217d836886f231a8ef20c2e420bd449e9f7a76560b40ed06196fc7e9f3f&token_Fairplay=380d25ee1b5f332f03d1c5069318f206df7a133f83dad7fc095e16a3bd07e2f3&token_PlayReady=581e67f441d839973469e4ee5c6270d057122d29ed5d32f221f783240b7ec83a&initialWidth=633&childId=core-video&parentTitle=Noticias%20Telemundo%20AHORA%3A%20Noticias%20en%20espa%C3%B1ol%2024%2F7&parentUrl=https%3A%2F%2Fwww.telemundo.com%2Fnoticias%2Fnoticias-telemundo-ahora",
+                "https://www.telemundo.com/sigma.html?stream=NOTICIAS_AHORA&mvpdHash=&mpid=&timestamp=1721919402501&usPrivacy=1---&autoplay=true&mutedAutoplay=true&token_Widevine=78c9a5c83a707c99b2b5b56bc912bc6d43a48dd8a426d425e55a6f30fc44c1e8&token_Fairplay=4bcc8d78d8bf2b71a9a957733343d90fa84a348060bef9098fa509ee56d68fd2&token_PlayReady=aa813bc68251f52817cf52d6ddbb54cf031906212dd30766e08553f0abb9254c&initialWidth=929&childId=core-video&parentTitle=Noticias%20Telemundo%20AHORA%3A%20Noticias%20en%20espa%C3%B1ol%2024%2F7&parentUrl=https%3A%2F%2Fwww.telemundo.com%2Fnoticias%2Fnoticias-telemundo-ahora",
+                "https://www.youtube.com/embed/RwWqZDxgRjw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [
+                "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8",
+                "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8",
+                "https://nbculocallive.akamaized.net/hls/live/2037088/houston/stream1/master.m3u8",
+                "https://telemundolive.akamaized.net/hls/live/2093200/NEWS104/master_main104.m3u8"
+            ],
             "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
-            "yt_embed": "",
+            "yt_embed": "RwWqZDxgRjw?",
             "yt_playlist": "",
             "twitch_id": "txl_092l"
         },
