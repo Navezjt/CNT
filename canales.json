@@ -13151,11 +13151,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/LuQ4S-i5zoE?modestbranding=1"
+                "https://www.youtube-nocookie.com/embed/SL-uEh8hhTM?autoplay=0&feature=player_detailpage&modestbranding=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
+            "yt_id": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "yt_embed": "V1p33hqPrUk?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -13231,20 +13231,20 @@
         "país": "tw",
         "categoría": "news"
     },
-    "TVBSNEWS01": {
-        "nombre": "TVBSNEWS01",
+    "TVBSNEWS": {
+        "nombre": "TVBSNEWS",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/m_dhMSvUCIc?modestbranding=1"
+                "https://www.youtube.com/embed/m_dhMSvUCIc?enablejsapi=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
+            "yt_id": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "yt_embed": "MrDcwYF8aRk?",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.youtube.com/@TVBSNEWS01",
+        "sitio_oficial": "https://news.tvbs.com.tw/live/news4live/34664",
         "país": "tw",
         "categoría": "news"
     },
@@ -13253,11 +13253,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube-nocookie.com/embed/xL0ch83RAK8?rel=0&autoplay=1&mute=1"
+                "https://www.youtube.com/embed/XmWhoHbkYyU?fs=1&hl=zh_TW&rel=0&autoplay=1&showinfo=1&autohide=1&html5=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
+            "yt_id": "UCWkLmxOW1ifqJonW_B3xjtg",
+            "yt_embed": "XmWhoHbkYyU?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -13293,11 +13293,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live"
+                "https://www.youtube.com/embed/w87VGpgd90U?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/NhZXUwlY2dU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
+            "yt_id": "UCp2f7tGJGN6R9Muxipem8Nw",
+            "yt_embed": "6IquAgfvYmc?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -13329,7 +13330,9 @@
             "iframe_url": [
                 "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13356,8 +13359,8 @@
         "país": "tw",
         "categoría": "news"
     },
-    "TVBSNEWS01": {
-        "nombre": "TVBSNEWS01",
+    "TVBS-NEWS": {
+        "nombre": "TVBS NEWS",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -13381,7 +13384,7 @@
                 "https://www.youtube.com/embed/m_dhMSvUCIc?si=KD32L581c5R3G8tn&rel=0&autoplay=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCL0_NxCvkcXwZHpvqgMZY-A",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -13398,7 +13401,7 @@
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=UCexpzYDEnfmAvPSfG4xbcjA&rel=0&autoplay=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCexpzYDEnfmAvPSfG4xbcjA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -13415,7 +13418,7 @@
                 "https://www.youtube.com/embed/LbS-xQ67fos?rel=0&enablejsapi=1&autoplay=1&mute=1&origin=https%3A%2F%2Ffnc.ebc.net.tw"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCuzqko_GKcj9922M1gUo__w",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -13446,10 +13449,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/ciwFpYofb28?autoplay=1"
+                "https://www.youtube.com/embed/rcLJRZi_jUQ?autoplay=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCZIvbuuP-xGgMG-_0tLLadg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
