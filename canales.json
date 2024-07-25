@@ -7543,6 +7543,23 @@
         "país": "mx",
         "categoría": "news"
     },
+    "televisaChihuahua": {
+        "nombre": "Televisa Chihuahua",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/@televisachihuahua/live"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCjfxDe7In59Jbfw2HmIh_Vg",
+            "yt_embed": "53UC-83qadg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@televisachihuahua",
+        "país": "mx",
+        "categoría": "news"
+    },
     "gogoplaytv": {
         "nombre": "Gogoplaytv",
         "logo": "",
