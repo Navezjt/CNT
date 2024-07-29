@@ -3266,12 +3266,13 @@
         "país": "pe",
         "categoría": "news"
     },
-    "America": {
-        "nombre": "America",
+    "Americatv": {
+        "nombre": "America TV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://betzta.com/canales.php?stream=america"
+                "https://betzta.com/canales.php?stream=america",
+                "https://player.twitch.tv/?channel=americatv_envivo&parent=americatv_envivo"
             ],
             "m3u8_url": [],
             "yt_id": "",
