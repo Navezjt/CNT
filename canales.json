@@ -7218,7 +7218,7 @@
         },
         "sitio_oficial": "https://www.telesurtv.net/",
         "país": "ve",
-        "categoría": "musica"
+        "categoría": "news"
     },
     "VPITV-tv": {
         "nombre": "VPITV",
@@ -7236,7 +7236,7 @@
         },
         "sitio_oficial": "https://www.youtube.com/@VPITVENVIVO/streams",
         "país": "ve",
-        "categoría": "musica"
+        "categoría": "news"
     },
     "meridiano-tv": {
         "nombre": "Meridiano",
@@ -7253,7 +7253,7 @@
         },
         "sitio_oficial": "https://meridiano.net/meridianotv",
         "país": "ve",
-        "categoría": "musica"
+        "categoría": "news"
     },
     "evtv-tv": {
         "nombre": "Evtv Online",
@@ -7270,7 +7270,194 @@
         },
         "sitio_oficial": "https://evtv.online/",
         "país": "ve",
+        "categoría": "news"
+    },
+    "valetv-tv": {
+        "nombre": "Valetv Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.streamingconnect.com/cliente/player2.php?id=110&numero=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://valetv.info/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "canal-i": {
+        "nombre": "Canal I",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://snippet.univtec.com/player.html?data-insight=eyJndWlkIjoiODAwNDc1ZjItMGMzOS00NWVhLTg4NGItMzZiYjM0ZDcyNTIwIiwidHlwZSI6ImNoYW5uZWxzIiwiYWNjb3VudElkIjoiNjY5MThmYjcyYmRkYmY3NGFiNGRiNjg3IiwiY2xpZW50IjoiY2FuYWxpIiwiYXBpIjoiaHR0cHM6Ly9pbnNpZ2h0LWFwaS1mcmFua2x5LnVuaXZ0ZWMuY29tLyJ9"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal-i.com/",
+        "país": "ve",
         "categoría": "musica"
+    },
+    "tves-tv": {
+        "nombre": "Tves Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.opencaster.com/tves-100-100"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://es.livetvcentral.com/tv/tves",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "canal11delzulia-TV": {
+        "nombre": "Canal11delzulia TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://globalstreaming.com.ve/reproductor/video.php?p=3&s=canalzulia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal11delzulia.com/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "promar-tv": {
+        "nombre": "Promar TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vcp.myplaytv.com/promar/promar/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.promar.tv/senal-en-vivo-2/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "vepaco-tv": {
+        "nombre": "Vepaco TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.streamingconnect.com/cliente/player2.php?id=88&numero=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vepaco.tv/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "vale-tv": {
+        "nombre": "Vale TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.lorini.net/valetv/player/index.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lorini.net/valetv/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "trv-tv": {
+        "nombre": "TRV TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vcp3.myplaytv.com/trv/trv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://trv.net.ve/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "trt-tv": {
+        "nombre": "TRT TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://trttv.gr/web-tv/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "tvo-tv": {
+        "nombre": "TVO TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://klive.kaltura.com/env/cluster-1-d.live.nvp1/live/hls/p/1719221/e/1_t5h46v64/tl/main/st/0/t/Zi4Mmu1lffd0fJkGBunwZw/index-s32.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvo-online.ch/live",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "tvrbzh-tv": {
+        "nombre": "TVR bzh",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvr.bzh/direct",
+        "país": "ve",
+        "categoría": "news"
     },
     "hch-vivo": {
         "nombre": "HCH",
