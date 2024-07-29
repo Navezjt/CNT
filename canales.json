@@ -6896,12 +6896,12 @@
         "nombre": "Globovisión",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://vcp5.myplaytv.com/globovision/globovision/playlist.m3u8"
+            "iframe_url": [
+                "https://www.youtube.com/embed/PfclYKwWWX0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
             ],
+            "m3u8_url": [],
             "yt_id": "UCfJtBtmhnIyfUB6RqXeImMw",
-            "yt_embed": "",
+            "yt_embed": "PfclYKwWWX0?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -6928,10 +6928,12 @@
         "nombre": "Imesat News TV",
         "logo": "https://graph.facebook.com/meteovenezuela/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/Uavzs6_1_ww?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+            ],
             "m3u8_url": [],
             "yt_id": "UC1gcFVHhxnbdVqZ8gRziDkg",
-            "yt_embed": "",
+            "yt_embed": "rGMD22Qb5qQ?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -7079,6 +7081,194 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.cantinatv.com/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "vtv-ve": {
+        "nombre": "VTV Venezuela",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vtv.gob.ve/en-vivo/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "venevisionplay-tv": {
+        "nombre": "venevisionplay",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://snippet.univtec.com/player-mobile.html?stream=https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8&live=true&autoplay=true&volume=1&vast=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTY0MHg0ODAmaXU9LzQzNDU5MjcxLDIyNzE3NjA3MDU4L2xvYy1kZXNrdG9wL3ZlbmV2aXNpb25wbGF5L3dlYi9saXZlJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZhZF9ydWxlPTAmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZ1cmw9aHR0cHM6Ly93d3cudmVuZXZpc2lvbnBsYXkuY29tJmRlc2NyaXB0aW9uX3VybD17e0VOQ09ERURfVVJMfX0mdnBvcz1wcmVyb2xsJnRmY2Q9MCZucGE9MCZvcmQ9e3tDQUNIRUJVU1RFUn19JmNvcnJlbGF0b3I9e3tDQUNIRUJVU1RFUn19&client=venevision&label=Venevision%20Internacional&guid=6a22d48f-7753-4da3-9b9e-8e7a7ac1cc8b&uuid=90d7f237-555e-4334-a316-f7157d965aab&maincategory=Live&pip=true&ip=179.6.168.249&lat=-12.0432&lon=-77.0282&channel_name=Venevision%20Internacional&data-skin=aviva_epg&api=https://insight-api-shared.univtec.com/&encoded_url=https%3A%2F%2Fwww.venevisionplay.com%2Fshow%2F645aa2b938ccad00127e26b5%2F647f4653a7faa00012afb2b2&schain=1.0,1!exchange1.com,1234,1,,,!exchange2.com,abcd,1,,,"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.venevisionplay.com/show/645aa2b938ccad00127e26b5/647f4653a7faa00012afb2b2",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "alegre-tv-rd": {
+        "nombre": "Alegre tv rd",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2852&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/alegre-tv-rd"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/alegre-tv-rd",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "televen-tv": {
+        "nombre": "Televen",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://app.televen.com/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "telecolor-tv": {
+        "nombre": "Telecolor",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cloud.livescast.com:2020/VideoPlayer/telecolor?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telecolor.com/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "VIVE-tv": {
+        "nombre": " Miraflores TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://odysee.com/$/embed/@vive:f/tv:d7?r=3XmaR891PN5A3fGL5HifGR1HVsP4yR4i&autoplay=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://miraflorestv.com.ve/en-vivo/vive-tv/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "teletuya-tv": {
+        "nombre": "Teletuya",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhuur.html?video=k1Rx6Ji9YbPLoRAIFiC"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://teletuya.net/en-vivo/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "telesur-tv": {
+        "nombre": "Telesurtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mblive.telesur.ultrabase.net/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telesurtv.net/",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "VPITV-tv": {
+        "nombre": "VPITV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/M6OdkCf6Yfs?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://ott3.streann.com/streaming/player.html?U2FsdGVkX19Y1LKAfsKTbMpxmIDS3cmY7F1eXb/MUPQShzF7OmNZ3LfeSuvZvT4MFQngiCSizN1LpYn6bnVIQSnuur3ao0kfP11pV0bQwjtmSKGnrzFaqvPy6rI3DvH4lCfP4l7ur8Lu2t9sVbmnxpCdcUXyL0hJLaBmXQFjvetQ6NCSjDua9z22QZch32mVNey5LLY3uKnEReCUh9n4+0o0oWeA4sQnAJ5FPLlHZ9Kbn45OsJ5mKeX+G3UDJJRAcQ9XUma5m0BiTzjt30a9/DtW82FX7KVqCvcj7ZT8p3ojBBXqPcWyEweDsBAnbjsvWWzX5u9fUtTVMWkFdiQq7Q=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@VPITVENVIVO/streams",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "meridiano-tv": {
+        "nombre": "Meridiano",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xmjd7.html?video=x8irn8c#amp=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://meridiano.net/meridianotv",
+        "país": "ve",
+        "categoría": "musica"
+    },
+    "evtv-tv": {
+        "nombre": "Evtv Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott.streann.com/s-secure/player.html?U2FsdGVkX19gmuN1aEWBPfOfC6QbClRnDdkPNJTKZGUqU6BaEBLHqSZr1tJZBsCiIeUSk1py9TmvHWkqorif34JQZNhMxXThwRl2dQiF8dGwfsqLnxzpWy4OpqQJbn0dXm0tEaou5KkCr4OcyUeITHKUtz3mQgy8HZIqBUWOsW+lu1vRSln2nMYlbJyGRxe2KYZD+D4N66hO9ed8bN21IkRDMjHOyno1OM8tCsHYetOaw6CTjpdUooGh50gVNE3BTL2/NoOxqs7JzcZW+BlRyhzafV5vECkECvzE4MmYPw1cTguTHrt6OEa/a3gCerhhPKEi1pc+m+rRLyofrx5Yfw=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://evtv.online/",
         "país": "ve",
         "categoría": "musica"
     },
