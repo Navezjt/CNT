@@ -6975,10 +6975,12 @@
         "nombre": "Venezuela News Radio",
         "logo": "https://graph.facebook.com/agenciaVenezuelaNews/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://customer-6usl3cynfiimbl78.cloudflarestream.com/00d86ee9f866c69da0cfc961bd3c9c8c/iframe"
+            ],
             "m3u8_url": [],
             "yt_id": "UCV1P8lGXINAFEK_SGnvQtQw",
-            "yt_embed": "",
+            "yt_embed": "43iLR1O7QhA?",
             "yt_playlist": "",
             "twitch_id": ""
         },
