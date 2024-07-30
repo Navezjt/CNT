@@ -2637,6 +2637,23 @@
         "país": "co",
         "categoría": "news"
     },
+    "canal-uno-1-hd": {
+        "nombre": "Canal Uno 1 HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.chatytvgratis.net/unocol01.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.chatytvgratishd.me/streaming-canal-uno-1-hd-colombia-vivo-directo-internet/",
+        "país": "co",
+        "categoría": "news"
+    },
     "citytv-hd": {
         "nombre": "Citytv-HD",
         "logo": "",
