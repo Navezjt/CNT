@@ -2101,6 +2101,23 @@
         "país": "ar",
         "categoría": "news"
     },
+    "celttv": {
+        "nombre": "Celttv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://190.103.192.6:8080/hls/mystreamkey.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.celttv.com.ar/index.php/tv-vivo-hd/",
+        "país": "ar",
+        "categoría": "news"
+    },
     "rural": {
         "nombre": "Rural",
         "logo": "",
@@ -2579,6 +2596,93 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.hispanochannel.tv/el-pais-tv/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "cable-noticias": {
+        "nombre": "Cable Noticias",
+        "logo": "https://cnwebsite.blob.core.windows.net/files/2021/05/logo_cablenoticias.png",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.jwplayer.com/players/sLIxiRUk-MQcdGLwG.html"
+            ],
+            "m3u8_url": [
+                "https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cablenoticias.tv/portada-cablenoticias-2/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "canalrcn-hd": {
+        "nombre": "Canalrcn-HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.chatytvgratishd.me/canal.php?id=rcn"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.chatytvgratishd.me/canalrcn-hd-colombia-en-vivo/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "citytv-hd": {
+        "nombre": "Citytv-HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/fzyvVBzAeBI?autoplay=1&mute=1&enablejsapi=1&origin=https%3A%2F%2Fcitytv.eltiempo.com"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://citytv.eltiempo.com/en-vivo",
+        "país": "co",
+        "categoría": "news"
+    },
+    "redmas-hd": {
+        "nombre": "Redmas-HD",
+        "logo": "https://redmas.com.co/__export/1676481006000/sites/redmas/arte/apps/facebook_1200x630.png_1589854477.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://redmas.com.co/senal-en-vivo/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "canalinstitucional-hd": {
+        "nombre": "Canalinstitucional-HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://media.rtvc.gov.co/kalturartvc/indexCI.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalinstitucional.tv/envivo",
         "país": "co",
         "categoría": "news"
     },
@@ -7607,7 +7711,9 @@
         "nombre": "TelediarioMx",
         "logo": "https://graph.facebook.com/TelediarioMx/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/5f2d9d6ff17144074bd8a284?jsapi=true&autoplay=true&mse=true"
+            ],
             "m3u8_url": [],
             "yt_id": "UCKuAmo9OGf8kw2jrPWCpHdA",
             "yt_embed": "",
@@ -7716,7 +7822,9 @@
         "nombre": "MILENIO",
         "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/4I8W6KUCzSY?autoplay=1&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.milenio.com&widgetid=1"
+            ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
             ],
