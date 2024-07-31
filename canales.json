@@ -7441,9 +7441,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1",
                 "https://app.televen.com/player/tv?channelId=20000841&categoryId=0&channelNumber=1"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?bpkio_serviceid=8d9766a69b764fefae1d45b89dc1e565&hdnts=data%3Dip%3D179.6.168.177%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F*~exp%3D1722477372~hmac%3D85f8544569a7a755480b10746bc58a01bfce67dcba2f6739a4c1b2e2190b0ae6&AV_CATEGORY=IAB1-7&AVC_TIME=17-56-12&AV_CONTENT_TYPE=LIVE&AV_UPAL=STPLX_UPAL&AV_CCPA=1YYY&AVC_DATE=2024-07-31&AV_TITLE=Televen+HD&AV_SECURED=1&AV_CHANNEL_NAME=Televen+HD&AV_DNT=0&AVC_INVIEWPERC=100&AV_DTRACK=1&AV_URL=https%3A%2F%2Fapp.televen.com%2Fplayer%2Ftv%3FchannelId%3D20000841%26categoryId%3D0%26channelNumber%3D1&AV_VIDEOID=20000841&AV_VIDEOURL=https%3A%2F%2Fapp.televen.com%2Fplayer%2Ftv%3FchannelId%3D20000841%26categoryId%3D0%26channelNumber%3D1&AV_SITE_CATEGORY=IAB1-7&AV_LANGUAGE=Sp&AVC_INVIEW=1"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
