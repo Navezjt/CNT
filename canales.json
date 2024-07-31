@@ -7526,10 +7526,13 @@
         "logo": "https://graph.facebook.com/vpitv/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/M6OdkCf6Yfs?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/channel/UCVFiIRuxJ2GmJLUkHmlmj4w/live?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/_yk88sV1yYM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://ott3.streann.com/streaming/player.html?U2FsdGVkX19Y1LKAfsKTbMpxmIDS3cmY7F1eXb/MUPQShzF7OmNZ3LfeSuvZvT4MFQngiCSizN1LpYn6bnVIQSnuur3ao0kfP11pV0bQwjtmSKGnrzFaqvPy6rI3DvH4lCfP4l7ur8Lu2t9sVbmnxpCdcUXyL0hJLaBmXQFjvetQ6NCSjDua9z22QZch32mVNey5LLY3uKnEReCUh9n4+0o0oWeA4sQnAJ5FPLlHZ9Kbn45OsJ5mKeX+G3UDJJRAcQ9XUma5m0BiTzjt30a9/DtW82FX7KVqCvcj7ZT8p3ojBBXqPcWyEweDsBAnbjsvWWzX5u9fUtTVMWkFdiQq7Q=="
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://edge.streann.com/vpi1/vpi1/playlist.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3OS42LjE2OC4xNzciLCJleHAiOjE3MjI0NzgyMzIsInJpZCI6IjVkMjNiMWNlMmNkY2U2MWRhZTAyOWY5YyIsImtleSI6ImtleTEiLCJjaWQiOiI1ZDIzZDU4ODJjZGNlNjFkYWUwMjlmZDgifQ.vsX15xG1TVjcqGhxPf2ljqXm1a2Z-oInMVHD6Tr0GNg"
+            ],
             "yt_id": "UCVFiIRuxJ2GmJLUkHmlmj4w",
             "yt_embed": "",
             "yt_playlist": "",
