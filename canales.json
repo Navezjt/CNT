@@ -5697,20 +5697,107 @@
         "país": "pe",
         "categoría": "news"
     },
-    "claro-sports-peru": {
-        "nombre": "Claro Sports",
+    "gol-peru": {
+        "nombre": "Gol PERU",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/HOxJF0Xkbn4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://tucanaldeportivo.org/golperu.php"
             ],
             "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/golperu-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "odisea-peru": {
+        "nombre": "ODISEA PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.goltvgo.com/odisea.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/07/odisea-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "bein-sport-xtra": {
+        "nombre": "Bein Sportxtra PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://fullchannels.online/canales.php?id=bein-op3"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/05/bein-sport-xtra-n-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "shumac-tv-peru": {
+        "nombre": "Shumac PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vdo.grupolimalive.com:3399/stream/play.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/shumac-tv-peru-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "loreto-tv": {
+        "nombre": "Loreto TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.painelcast.com/loretolive/loretolive/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/loreto-tv-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "gol-peru": {
+        "nombre": "Gol PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cabletvhd.xyz/repro/?r=Ly9jYWJsZXR2aGQueHl6L2hsc19qd3AuaHRtbD9nZXQ9THk5aGJXY3dNREE1TUMxaWJIVmxZVzUwYldWa2FXRXRibUYwZFhKbGRHbHRaUzF6WVcxemRXNW5abkl0ZVdGclltWXVZVzFoWjJrdWRIWXZjR3hoZVd4cGMzUXZZVzFuTURBd09UQXRZbXgxWldGdWRHMWxaR2xoTFc1aGRIVnlaWFJwYldVdGMyRnRjM1Z1WjJaeUwzQnNZWGxzYVhOMExtMHpkVGc9"
+            ],
+            "m3u8_url": [
+                "https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8"
+            ],
             "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
             "yt_embed": "HOxJF0Xkbn4?",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.youtube.com/@clarosports",
+        "sitio_oficial": "https://www.tvgratishd.com/2024/06/gigavision-tv-en-vivo.html",
         "país": "pe",
         "categoría": "news"
     },
