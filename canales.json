@@ -5701,10 +5701,12 @@
         "nombre": "Claro Sports",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/HOxJF0Xkbn4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
             "m3u8_url": [],
             "yt_id": "UCqfCJBfrFSO4tZM1LNZTBFQ",
-            "yt_embed": "",
+            "yt_embed": "HOxJF0Xkbn4?",
             "yt_playlist": "",
             "twitch_id": ""
         },
