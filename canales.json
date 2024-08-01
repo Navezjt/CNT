@@ -63,7 +63,9 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8"
+            ],
             "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
             "yt_embed": "",
             "yt_playlist": "",
@@ -497,7 +499,9 @@
         "nombre": "TVN",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?jsapi=true&player=57f40bb4dc5b9f3075c49cfe&custom.ui=%2F317342475%2Ftvn&custom.tvn_demo=&custom.tvn_tipo=EnVivo&custom.tvn_seccion=senal-en-vivo&custom.tvn_articulo=5653641561b4eba30a7e4929&custom.tvn_tags="
+            ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8"
             ],
@@ -1333,6 +1337,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.facebook.com/profile.php?id=61558302777919",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "canal-pais": {
+        "nombre": "Canal Pais",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://v4.tustreaming.cl/canalpais/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvonlinechile.cl/canal/canal-pais",
         "país": "cl",
         "categoría": "news"
     },
