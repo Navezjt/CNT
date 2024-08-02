@@ -14692,6 +14692,21 @@
         "país": "",
         "categoría": "music"
     },
+    "alhurra-Navez": {
+        "nombre": "Alhurra",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCyscVWiJELkATSuU-RF2NLg",
+            "yt_embed": "OKzd_EmEE2s?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alhurra.com/",
+        "país": "iq",
+        "categoría": "news"
+    },
     "alsahraatv-Navez": {
         "nombre": "alsahraatv Navez",
         "logo": "",
@@ -14741,13 +14756,14 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/f6VpkfV7m4Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://www.elahmad.com/tv/radiant.php?id=asharq_tv",
                 "https://www.elahmad.com/tv/radiant.php?id=asharq_business",
                 "https://www.youtube.com/embed/live_stream?channel=UCRJUVYt9gjg8MnlGacySUdg&autoplay=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
+            "yt_id": "UCRJUVYt9gjg8MnlGacySUdg",
+            "yt_embed": "f6VpkfV7m4Y?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -14774,7 +14790,7 @@
         "sitio_oficial": "https://www.elahmad.com/tv/iqraa-tv.php",
         "país": "sa",
         "categoría": "news"
-    }, 
+    },
     "sbc-Navez": {
         "nombre": "sbc Navez",
         "logo": "",
