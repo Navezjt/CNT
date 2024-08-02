@@ -2742,6 +2742,269 @@
         "país": "co",
         "categoría": "news"
     },
+    "KAN-11": {
+        "nombre": "KAN 11",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.kan.org.il/page.aspx?landingPageId=1009"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://wwitv.com/tv_channels/b6996-https://wwitv.com/tv_channels/b6996-KAN-11-TV-Israel.htm-TV-Israel.htm",
+        "país": "il",
+        "categoría": "news"
+    },
+    "channel-13": {
+        "nombre": "channel 13",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://babaktv.com/embed/reshet-13-link01/",
+                "https://babaktv.com/embed/reshet-13-link02/",
+                "https://babaktv.com/embed/reshet-13-link03/"
+            ],
+            "m3u8_url": [
+                "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8",
+                "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8",
+                "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://13tv.co.il/live/",
+        "país": "il",
+        "categoría": "news"
+    },
+    "channel-12": {
+        "nombre": "channel 12",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mako.co.il/AjaxPage?jspName=embedHTML5video.jsp&galleryChannelId=7c5076a9b8757810VgnVCM100000700a10acRCRD&videoChannelId=d1d6f5dfc8517810VgnVCM100000700a10acRCRD&vcmid=1e2258089b67f510VgnVCM2000002a0c10acRCRD"
+            ],
+            "m3u8_url": [
+                "https://mako-streaming.akamaized.net/direct/hls/live/2033791/k12/index.m3u8?hdnea=st%3D1722629947%7Eexp%3D1722630847%7Eacl%3D%2F*%7Ehmac%3D3b3fe849c60731de999625c844d78a17a371c959fa46369d5cd1b3b22e96a4bd"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livehdtv.com/channel-12-live-stream-from-isreal/",
+        "país": "il",
+        "categoría": "news"
+    },
+    "Now-14": {
+        "nombre": "Now 14",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCKEImtWikw9usC1pl_9m1nQ&modestbranding=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://wwitv.com/tv_channels/b7402-Now-14.htm",
+        "país": "il",
+        "categoría": "news"
+    },
+    "pars-tv": {
+        "nombre": "Pars tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.parsatv.com/embed.php?name=Israel-Pars-TV",
+                "https://babaktv.com/embed/israel-pars-tv-link03/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://babaktv.com/israel-pars-tv/",
+        "país": "il",
+        "categoría": "news"
+    },
+    "makan-hd": {
+        "nombre": "Makan HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.babaktv.com/2023/09/makan-33-link01.html?m=0",
+                "https://embed.babaktv.com/2023/09/makan-33-link02.html?m=0",
+                "https://embed.babaktv.com/2023/09/makan-33-link03.html?m=0"
+            ],
+            "m3u8_url": [
+                "https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_4k/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.makan.org.il/makan-live_page/",
+        "país": "il",
+        "categoría": "news"
+    },
+    "i24news": {
+        "nombre": "i24news",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=i24ar",
+                "https://www.elahmad.com/tv/watchtv.php?id=i24news_ar",
+                "https://www.elahmad.com/tv/watchtv.php?id=i24news_ar",
+                "https://www.elahmad.com/tv/watchtv.php?id=i24news_fr"
+            ],
+            "m3u8_url": [
+                "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8",
+                "https://bcovlive-a.akamaihd.net/6e3dd61ac4c34d6f8fb9698b565b9f50/eu-central-1/5377161796001/556d51d2f08440b3a4b6442b43008aa0/playlist-all_ssaiM.m3u8",
+                "https://bcovlive-a.akamaihd.net/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/playlist.m3u8?__nn__=5476555825001&hdnea=st=1722630600~exp=1722634200~acl=/d89ede8094c741b7924120b27764153c/eu-central-1/5377161796001/*~hmac=dbfe95001cc7cbd9c7f85a127706ec89fb4eeb3962afff6879e98fcca380c239",
+                "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8?__nn__=5476555825001&hdnea=st=1722632400~exp=1722636000~acl=/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/*~hmac=9b4d6bcb7fd129d1de8b45386919957ee13f090ec0aaecca17000a560c47408b"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.i24news.tv/en",
+        "país": "il",
+        "categoría": "news"
+    },
+    "newtv-hd": {
+        "nombre": "newtv HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/watchtv.php?id=aljadeed",
+                "http://www.elahmad.com/tv/watchtv.php?id=aljadeed_new",
+                "http://www.elahmad.com/tv/radiant.php?id=aljadeed1",
+                "http://www.elahmad.com/tv/radiant.php?id=aljadeed2",
+                "http://www.elahmad.com/tv/teledunet.php?id=aljadeed",
+                "http://www.elahmad.com/tv/mpegts_player.php?id=aljadeed"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/newtv.php",
+        "país": "lb",
+        "categoría": "news"
+    },
+    "mtvlebanon-hd": {
+        "nombre": "mtvlebanon",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/watchtv.php?id=mtv_lebanon",
+                "http://www.elahmad.com/tv/radiant.php?id=mtv_1",
+                "https://media.mtv.com.lb/live/mtv",
+                "http://www.elahmad.com/tv/watchtv.php?id=mtvlebanon",
+                "http://www.elahmad.com/tv/mpegts_player.php?id=mtv_lebanon"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/mtvlebanon.htm",
+        "país": "lb",
+        "categoría": "news"
+    },
+    "lbc": {
+        "nombre": "lbc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=lbc_1",
+                "http://www.elahmad.com/tv/watchtv.php?id=lbc",
+                "http://www.elahmad.com/tv/radiant.php?id=lbci_drama",
+                "http://www.elahmad.com/tv/mpegts_player.php?id=lbc",
+                "http://www.elahmad.com/tv/radiant.php?id=lb2",
+                "http://www.elahmad.com/tv/watchtv.php?id=rotana_lbc"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/lbc.php",
+        "país": "lb",
+        "categoría": "news"
+    },
+    "OTV": {
+        "nombre": "OTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=otv_lb1",
+                "http://www.elahmad.com/tv/radiant.php?id=otv_lb2",
+                "http://www.elahmad.com/tv/watchtv.php?id=otv_lebanon",
+                "http://www.elahmad.com/tv/mpegts_player.php?id=otv_lebanon"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/otv_lb.php",
+        "país": "lb",
+        "categoría": "news"
+    },
+    "VDL24": {
+        "nombre": "VDL24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=vdltv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=vdltv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://fomny-tv.com/Video-5/Lebanon/VLD-24/VLD-24.php",
+        "país": "lb",
+        "categoría": "news"
+    },
+    "nbn-lebanon": {
+        "nombre": "nbn lebanon",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=nbn",
+                "https://www.elahmad.com/tv/radiant.php?id=nbn1",
+                "https://www.elahmad.com/tv/watchtv.php?id=nbn",
+                "https://www.elahmad.com/tv/mpegts_player.php?id=nbn"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/nbn-lebanon.php",
+        "país": "lb",
+        "categoría": "news"
+    },
     "1000noticias": {
         "nombre": "1000 Noticias",
         "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
