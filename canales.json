@@ -7974,7 +7974,7 @@
         "país": "vn",
         "categoría": "news"
     },
-    "drt2-tv": {
+    "drt2": {
         "nombre": "DRT2",
         "logo": "",
         "señales": {
@@ -7991,7 +7991,7 @@
         "país": "vn",
         "categoría": "news"
     },
-    "dn1-tv": {
+    "dn1": {
         "nombre": "DN1",
         "logo": "",
         "señales": {
@@ -8008,7 +8008,7 @@
         "país": "vn",
         "categoría": "news"
     },
-    "dn2-tv": {
+    "dn2": {
         "nombre": "DN2",
         "logo": "",
         "señales": {
@@ -8021,11 +8021,11 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh/dongnai2.php",
+        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-dn2-dong-nai-tv-2-truc-tuyen-dia-phuong.html",
         "país": "vn",
         "categoría": "news"
     },
-    "dn3-tv": {
+    "dn3": {
         "nombre": "DN3",
         "logo": "",
         "señales": {
