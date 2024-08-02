@@ -14707,6 +14707,66 @@
         "país": "iq",
         "categoría": "news"
     },
+    "alqaheranews-Navez": {
+        "nombre": "AlQaheraNews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCcu3RolEOalAMef4Lt3uZLg",
+            "yt_embed": "ySGKh5o7-TU?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@alqaheranewslivestream",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "AlHadath": {
+        "nombre": "AlHadath",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCrj5BGAhtWxDfqbza9T9hqA",
+            "yt_embed": "et0bSUddkn4?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@AlHadath",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "inewschannel1": {
+        "nombre": "Inewschannel1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCvRlogyJIZuK7BUPbo7GiPA",
+            "yt_embed": "n4G5akz4tiw?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@inewschannel1",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "BelqeesTV": {
+        "nombre": "BelqeesTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCxA_zZwALQMmVMSZyLKC-Nw",
+            "yt_embed": "YDIcwHOkaqI?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@BelqeesTV",
+        "país": "iq",
+        "categoría": "news"
+    },
     "alsahraatv-Navez": {
         "nombre": "alsahraatv Navez",
         "logo": "",
