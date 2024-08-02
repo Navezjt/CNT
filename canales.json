@@ -1634,6 +1634,21 @@
         "país": "ar",
         "categoría": "news"
     },
+    "dnewsok": {
+        "nombre": "DNews",
+        "logo": "https://graph.facebook.com/dnewsok/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC4dWvSKVWJ36tJyhjDQCCaQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
+        "país": "ar",
+        "categoría": "news"
+    },
     "radiomitre": {
         "nombre": "Radio Mitre",
         "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
@@ -2137,21 +2152,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://www.celttv.com.ar/index.php/tv-vivo-hd/",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "dnewsok": {
-        "nombre": "DNews",
-        "logo": "https://graph.facebook.com/dnewsok/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC4dWvSKVWJ36tJyhjDQCCaQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
         "país": "ar",
         "categoría": "news"
     },
