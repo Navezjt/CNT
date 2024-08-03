@@ -7953,21 +7953,6 @@
         "país": "ve",
         "categoría": "news"
     },
-    "evtv-tv": {
-        "nombre": "Evtv Online",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCshe7-1A5MN_ArHsG_3V41g",
-            "yt_embed": "6Fw-LPbi188?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://evtv.online/",
-        "país": "ve",
-        "categoría": "news"
-    },
     "valetv-tv": {
         "nombre": "Valetv Online",
         "logo": "",
