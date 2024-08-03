@@ -7801,7 +7801,9 @@
             "iframe_url": [
                 "https://snippet.univtec.com/player-mobile.html?stream=https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8&live=true&autoplay=true&volume=1&vast=aHR0cHM6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2xpdmUvYWRzP3N6PTY0MHg0ODAmaXU9LzQzNDU5MjcxLDIyNzE3NjA3MDU4L2xvYy1kZXNrdG9wL3ZlbmV2aXNpb25wbGF5L3dlYi9saXZlJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZhZF9ydWxlPTAmb3V0cHV0PXZhc3QmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSZ1cmw9aHR0cHM6Ly93d3cudmVuZXZpc2lvbnBsYXkuY29tJmRlc2NyaXB0aW9uX3VybD17e0VOQ09ERURfVVJMfX0mdnBvcz1wcmVyb2xsJnRmY2Q9MCZucGE9MCZvcmQ9e3tDQUNIRUJVU1RFUn19JmNvcnJlbGF0b3I9e3tDQUNIRUJVU1RFUn19&client=venevision&label=Venevision%20Internacional&guid=6a22d48f-7753-4da3-9b9e-8e7a7ac1cc8b&uuid=90d7f237-555e-4334-a316-f7157d965aab&maincategory=Live&pip=true&ip=179.6.168.249&lat=-12.0432&lon=-77.0282&channel_name=Venevision%20Internacional&data-skin=aviva_epg&api="
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
