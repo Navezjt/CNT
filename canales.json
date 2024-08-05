@@ -4,7 +4,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/YJtUDi_JOUw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/wALLwCjrg3A?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
                 "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0"
             ],
             "m3u8_url": [],
@@ -1363,11 +1363,10 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/cb12KmMMDJA?controls=0&modestbranding=1&rel=0&showinfo=0&loop=0&fs=0&hl=es&playsinline=true&enablejsapi=1&origin=https%3A%2F%2Ftn.com.ar&widgetid=1",
                 "https://api.vodgc.net/player/v2/embed/playerId/HKA9Y71614802794/contentId/1363280"
             ],
-            "m3u8_url": [
-                "https://live-01-01-tn.vodgc.net/TN24_2/index_TN24_2_1080.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
             "yt_embed": "",
             "yt_playlist": "",
@@ -1474,7 +1473,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/RnTmtVFTSf0?enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
+                "https://www.youtube.com/embed/rY6a3fuaQ5Q?enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
             ],
             "m3u8_url": [],
             "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
@@ -3005,7 +3004,7 @@
         "país": "lb",
         "categoría": "news"
     },
-    "1000noticias": {
+    "1000-noticias": {
         "nombre": "1000 Noticias",
         "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
         "señales": {
@@ -3018,6 +3017,369 @@
         },
         "sitio_oficial": "https://1000noticias.com.py/",
         "país": "py",
+        "categoría": "news"
+    },
+    "npy-noticias": {
+        "nombre": "NPY Noticias",
+        "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/tvaccion/npy"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://npy.com.py/en-vivo/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "paraguaytv-noticias": {
+        "nombre": "Paraguaytv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=paraguaytvhd&parent=www.paraguaytv.gov.py&referrer=https%3A%2F%2Fwww.paraguaytv.gov.py%2F"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "paraguaytvhd"
+        },
+        "sitio_oficial": "https://www.paraguaytv.gov.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "abc-noticias": {
+        "nombre": "abc Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.jwplayer.com/players/0qRytEJD-bL2g5Vmx.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abc.com.py/tv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "telefuturo-noticias": {
+        "nombre": "Telefuturo Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/tvaccion/telefuturo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telefuturo.com.py/envivo",
+        "país": "py",
+        "categoría": "news"
+    },
+    "gen-noticias": {
+        "nombre": "GEN Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://gentv.desdepylabs.com/External/gentv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gen.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "trece-noticias": {
+        "nombre": "Trece Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/trecetv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://trece.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "snt-noticias": {
+        "nombre": "Snt Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://a3.115tv.site/cvatt.html?get=U05UX0M0&start=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "sntparaguay"
+        },
+        "sitio_oficial": "https://www.snt.com.py/envivo/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "latele": {
+        "nombre": "Latele",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/tvaccion/latele"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.latele.com.py/en-vivo",
+        "país": "py",
+        "categoría": "news"
+    },
+    "unicanal": {
+        "nombre": "Unicanal",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/unicanal"
+            ],
+            "m3u8_url": [
+                "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?k=d307fdae0a52c533f4fb00ba26db435852b535b8c7ba6d684d46be15b31145b1&exp=1722896137"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://unicanal.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "4DmasNoticiasTV": {
+        "nombre": "4DmasNoticiasTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/video/4dmasnoticiastv",
+                "https://artv.watch/embed.php?channel=4DmasNoticiasTV.py"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/PY/4DmasNoticiasTV.py",
+        "país": "py",
+        "categoría": "news"
+    },
+    "uniontv": {
+        "nombre": "Uniontv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.desdepylabs.com/External/video/800tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://uniontv.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "americatv-noticias": {
+        "nombre": "Americatv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vimeo.com/event/4155545/embed/interaction"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.americatv.com.py/ver-vivo/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "BrunoMasiTV": {
+        "nombre": "BrunoMasiTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=BrunoMasiTV.py"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/PY/BrunoMasiTV.py",
+        "país": "py",
+        "categoría": "news"
+    },
+    "CaritasTV": {
+        "nombre": "CaritasTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=CaritasTV.py"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/PY/CaritasTV.py",
+        "país": "py",
+        "categoría": "news"
+    },
+    "farra": {
+        "nombre": "Farra",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.farra.com.py/live/farra.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://farra.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "GOTV": {
+        "nombre": "GOTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=GOTV.py"
+            ],
+            "m3u8_url": [
+                "https://tigocloud.desdeparaguay.net/gotv/gotv/playlist.m3u8?k=2a1c4966a5142ed425a0c1fe647a97f78c02701e24926674a68a187ad20650d0&exp=1613672632"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://goradio.com.py/gotv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "LIMTV": {
+        "nombre": "LIMTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=LIMTV.py"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/PY/LIMTV.py",
+        "país": "py",
+        "categoría": "news"
+    },
+    "mega-tv": {
+        "nombre": "Mega TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott.streann.com/s-secure/player.html?U2FsdGVkX1/KO2AkFOkBetSjABugMjIIILidyPB0F2ftx8KaO+pGpLJxPU6MN1E3ujF06E2SVtW+/4QdAn2FZDeMLMtSQL5bFzzZv4ApE3MIZLNhqdTv3ZRxEtJ9+zFYQ4EeTRG20MX4fUE7+hTEbbvRGTtjTztQDiPA7KK9w0/byoyNdp+l/nVyTZCpU12SiR4tVtIpIzU8HvduG/ZWJkifnrX/y66oK9qNW/9oWFjk8yPCLXKefEM6IX9SXs8bOxHSSUjqsCj7HRzLKI26TMsq3daiCRTBQX5evmHm/xLaMdbUF/xuooiQb95x5pSkjlV+sqnhwh58tOKWTO1HQYpUhtAaz8/nf47tCuEQr6lN9o0+sw/TTUWVU92tamNgjpamZN9WDsWy360keT+xCQ==",
+                "https://artv.watch/embed.php?channel=MegaTV.py"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://megacadena.com.py/mega-tv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "MiTV": {
+        "nombre": "MiTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=MiTV.py"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/PY/MiTV.py",
+        "país": "py",
+        "categoría": "news"
+    },
+    "nanduti-tv": {
+        "nombre": "Nanduti-tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?autoplay=true&channel=nanduti1020&controls=true&height=100%25&muted=false&parent=nanduti.com.py&playsinline=true&referrer=https%3A%2F%2Fnanduti.com.py%2Fnanduti-tv&video=&width=100%25"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "nanduti1020"
+        },
+        "sitio_oficial": "https://nanduti.com.py/nanduti-tv",
+        "país": "py",
+        "categoría": "news"
+    },
+    "colorvision-noticias": {
+        "nombre": "Colorvision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x7gy059"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://colorvision.com.do/en-vivo/",
+        "país": "do",
         "categoría": "news"
     },
     "tv-peru": {
