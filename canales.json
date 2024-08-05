@@ -3109,7 +3109,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.desdepylabs.com/External/trecetv"
+                "https://www.desdepylabs.com/External/trecetv",
+                "https://artv.watch/embed.php?channel=Trece.py"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -3160,7 +3161,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.desdepylabs.com/External/unicanal"
+                "https://www.desdepylabs.com/External/unicanal",
+                "https://artv.watch/embed.php?channel=Unicanal.py"
             ],
             "m3u8_url": [
                 "https://rds3gen.desdeparaguay.net/unicanal/unicanal_alta/playlist.m3u8?k=d307fdae0a52c533f4fb00ba26db435852b535b8c7ba6d684d46be15b31145b1&exp=1722896137"
@@ -3197,7 +3199,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.desdepylabs.com/External/video/800tv"
+                "https://www.desdepylabs.com/External/video/800tv",
+                "https://artv.watch/embed.php?channel=UnionTV.py"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -3362,6 +3365,97 @@
             "twitch_id": "nanduti1020"
         },
         "sitio_oficial": "https://nanduti.com.py/nanduti-tv",
+        "país": "py",
+        "categoría": "news"
+    },
+    "nexthdpy-noticias": {
+        "nombre": "nexthdpy",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=NextHD.py"
+            ],
+            "m3u8_url": [
+                "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://nexthdpy.blogspot.com/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "OviedoTV-noticias": {
+        "nombre": "OviedoTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=OviedoTV.py"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/es/PY/OviedoTV.py",
+        "país": "py",
+        "categoría": "news"
+    },
+    "republicafmtv-noticias": {
+        "nombre": "Republicafmtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=RepublicaTV.py",
+                "https://www-republicafmtv-com-py.filesusr.com/html/0365c0_67ee5259d812b1c4a9573ff7d7668993.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.republicafmtv.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "VenusMedia": {
+        "nombre": "VenusMedia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=VenusMedia.py",
+                "https://desdeparaguay.com/external/?venusmedia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.venus.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "UniRadioTV": {
+        "nombre": "UniRadioTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=UniRadioTV.py"
+            ],
+            "m3u8_url": [
+                "https://59ce1298bfb98.streamlock.net:443/uniradiotv/uniradiotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.uniradiopy.com/",
         "país": "py",
         "categoría": "news"
     },
