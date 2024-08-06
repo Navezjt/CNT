@@ -6479,7 +6479,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.goltvgo.com/odisea.html"
+                "https://www.tvgratishd.com/2024/07/odisea-en-vivo.html"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -6558,6 +6558,28 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvgratishd.com/2024/06/gigavision-tv-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "grupo-atv": {
+        "nombre": "GRUPO ATV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://betzta.com/canales.php?stream=movistar",
+                "https://betzta.com/canales.php?stream=atv"
+            ],
+            "m3u8_url": [
+                "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
+                "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvmas.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22899f0546-7931-4b1c-aa65-998f285569bb%22",
+                "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvsur.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22b2b556a3-7342-4627-87d7-64efeb128e38%22"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://agro-tv.ro/tv-live/",
         "país": "pe",
         "categoría": "news"
     },
@@ -13863,28 +13885,6 @@
         },
         "sitio_oficial": "https://www.persianagroup.tv/",
         "país": "ir",
-        "categoría": "news"
-    },
-    "grupo-atv": {
-        "nombre": "GRUPO ATV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://betzta.com/canales.php?stream=movistar",
-                "https://betzta.com/canales.php?stream=atv"
-            ],
-            "m3u8_url": [
-                "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atv.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22790da48c-d3f4-4c47-90ac-67c496669979%22",
-                "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvmas.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22899f0546-7931-4b1c-aa65-998f285569bb%22",
-                "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-pe-atv-atvsur.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22b2b556a3-7342-4627-87d7-64efeb128e38%22"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://agro-tv.ro/tv-live/",
-        "país": "ro",
         "categoría": "news"
     },
     "Agro-Tv": {
