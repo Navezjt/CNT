@@ -3483,7 +3483,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://iblups.com/e_tvperu73"
+                "https://iblups.com/e_tvperu73",
+                "https://iblups.com/e_tvperuHD",
+                "https://iblups.com/e_tvperu72"
             ],
             "m3u8_url": [
                 "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
