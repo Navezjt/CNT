@@ -1,25 +1,25 @@
 {
     "24-horas": {
-        "nombre": "24 horas",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
+        "nombre": "",
+        "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/wALLwCjrg3A?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0"
+                "",
+                ""
             ],
             "m3u8_url": [],
-            "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
+            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "24horas_tvn"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.24horas.cl/envivo/",
+        "sitio_oficial": "",
         "país": "cl",
         "categoría": "news"
     },
     "meganoticias": {
-        "nombre": "Meganoticias",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png",
+        "nombre": "",
+        "logo": "",
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/PP8LoJKxf_w?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
