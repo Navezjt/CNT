@@ -6491,6 +6491,23 @@
         "país": "pe",
         "categoría": "news"
     },
+    "win-sport-mas-peru": {
+        "nombre": "Win Sport Mas PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://fullchannels.online/canales.php?id=winsports-op3"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/win-sport-mas-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
     "bein-sport-xtra": {
         "nombre": "Bein Sportxtra PERU",
         "logo": "",
@@ -6505,6 +6522,109 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvgratishd.com/2024/05/bein-sport-xtra-n-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "espn-4": {
+        "nombre": "Espn 4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=espn4-op2",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=espn4-op2"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/espn-4-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "itv-deportes": {
+        "nombre": "Itv Deportes",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/itv-deportes.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "deportv": {
+        "nombre": "Deportv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global2.php?stream=dsports"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/deportv-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "zona-tudn": {
+        "nombre": "Zona Tudn",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d3uyzgka2wjb00.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/99d92231-6c3f-4169-bd66-3d431f797489/4.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/zona-tudn-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "liga1maxpe": {
+        "nombre": "Liga1max PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tucanaldeportivo.org/liga1maxpe.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/liga-1-max-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "espn-premiun": {
+        "nombre": "Espn Premiun PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tucanaldeportivo.org/espnpremium.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/espn-premiun-en-vivo.html",
         "país": "pe",
         "categoría": "news"
     },
