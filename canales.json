@@ -6491,6 +6491,128 @@
         "país": "pe",
         "categoría": "news"
     },
+    "novelisima-peru": {
+        "nombre": "novelisima PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8",
+                "https://dai.google.com/linear/hls/pa/event/sFuxwI37R9KMTs-KywMcBg/stream/688d0752-79a0-4488-9c7d-db7e900fdb4d:SCL/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/novelisima-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "telemundo-peru": {
+        "nombre": "Telemundo PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/telemundo-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tnt-novelas-peru": {
+        "nombre": "tnt novelas PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://clarovideo.rawases.com/?url=Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKFRCU19IRCkvbWFuaWZlc3QubXBkIA==&k1=ZjkwYTQwNjZhYjk4MWQ5ZmVmMWQxMGI4NzY3MjU0ODE=&k2=YWEzNzVjMmZiNThjY2Y5NjI5MzFhNGFkNWQyYWM2NDA="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/tnt-novelas-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "las-estrellas-peru": {
+        "nombre": "Las Estrellas PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tutlehd4.com//pro3.php?a=387"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/las-estrellas-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tl-novelas-peru": {
+        "nombre": "tl novelas PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=tlnovelas",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=tlnovelas"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/tl-novelas-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "pasiones-peru": {
+        "nombre": "Pasiones PERU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tele-libre.com/en-vivo-online/pasiones/embed.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/pasiones-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "sony-canal-novelas-peru": {
+        "nombre": "sony canal novelas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/4c9e2b5b-843e-4c64-8a9d-306a688e0cef/5.m3u8",
+                "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgratishd.com/2024/04/sony-canal-novelas-en-vivo.html",
+        "país": "pe",
+        "categoría": "news"
+    },
     "win-sport-mas-peru": {
         "nombre": "Win Sport Mas PERU",
         "logo": "",
