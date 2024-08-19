@@ -11588,6 +11588,97 @@
         "país": "us",
         "categoría": "news"
     },
+    "3abnplus-usa": {
+        "nombre": "3abnplus",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://3abnplus.tv/programs/live-pxsqo62adkg?categoryId=48342",
+        "país": "us",
+        "categoría": "news"
+    },
+    "6abc-usa": {
+        "nombre": "6abc Usa",
+        "logo": "https://cdn.abcotvs.com/dip/images/14517651_031224-wpvi-action-news-2024-generic-img.png",
+        "señales": {
+            "iframe_url": [
+                "https://6abc.com/watch/live/"
+            ],
+            "m3u8_url": [
+                "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946",
+                "https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVILive2.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946",
+                "https://content-asae1-up-1.uplynk.com/channel/f0a689e1c8c541629fd4d026da9eaedd/b.m3u8?ad._v=2&ad.preroll=1&ad.fill_slate=1&ad.ametr=1&ad.vid=otv-11316946&pbs=ab8fd2a4880a492b8b019662993ed5c5"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://6abc.com/watch/live/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "whdh-usa": {
+        "nombre": "WHDH Usa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/4744899807001/ff584400-afee-40a0-8571-efa61f51d3a4/10s/master.m3u8?fastly_token=NjZjNDA5NDlfOTE2MmI5ZTc4NDFlMjJkZjI1OWNmZjMzNDk1OGNmYjg3NWM4M2FhYjYyZTMyZThkYjhmZWMxZGM4NmFjODllZg%3D%3D"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://whdh.com/on-air-live-stream/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "-usa": {
+        "nombre": " Usa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://citytvbctorontolive.akamaized.net/6e45476909fa4180818b7599b2ab18b0/us-west-2/1632712407/playlist_wv.m3u8",
+                "https://citytvbctorontolive.akamaized.net/6e45476909fa4180818b7599b2ab18b0/us-west-2/1632712407/profile_2/chunklist_wv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.citytv.com/livestream/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "azfamily-usa": {
+        "nombre": "azfamily",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=6f0a23b5651c4ba6b4c1275e61183940",
+                "https://d27wx7ytq78mow.cloudfront.net/offair/ktvk-adpadding-v4-0-296/media_b1_0057.ts"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://television-planet.tv/es/canales-tv/united-states/page/3/",
+        "país": "us",
+        "categoría": "news"
+    },
     "euronews-esp": {
         "nombre": "euronews (Español)",
         "logo": "",
