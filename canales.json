@@ -2333,6 +2333,40 @@
         "país": "eg",
         "categoría": "news"
     },
+    "huda-tv": {
+        "nombre": "HUDA Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://huda.tv/live-streaming/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "mekameleen-tv": {
+        "nombre": "Mekameleen Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mekameleen.tv/",
+        "país": "eg",
+        "categoría": "news"
+    },
     "global": {
         "nombre": "global",
         "logo": "",
