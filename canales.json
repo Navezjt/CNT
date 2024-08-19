@@ -2156,6 +2156,183 @@
         "país": "ar",
         "categoría": "news"
     },
+    "bakutv": {
+        "nombre": "Bakutv",
+        "logo": "/assets/frontend/img/hd-logo.png",
+        "señales": {
+            "iframe_url": [
+                "https://baku.tv/az/live/embed"
+            ],
+            "m3u8_url": [
+                "//rtmp.baku.tv/streams/bakutv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://baku.tv/",
+        "país": "az",
+        "categoría": "news"
+    },
+    "gunaz": {
+        "nombre": "Gunaz",
+        "logo": "/assets/frontend/img/hd-logo.png",
+        "señales": {
+            "iframe_url": [
+                "https://yodaplayer.yodacdn.net/gunaztv/index.php"
+            ],
+            "m3u8_url": [
+                "https://str1.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=8855b7fde6325c21ac78c5015d10b5dd416c7568-d13b4b3865066e03ee844af244b1cee4-1724093503-1724082703"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://gunaz.tv/az/live-tv",
+        "país": "az",
+        "categoría": "news"
+    },
+    "okku-tv": {
+        "nombre": "Okku Tv",
+        "logo": "/assets/frontend/img/hd-logo.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.canlitv.day/embed/?id=13385"
+            ],
+            "m3u8_url": [
+                "https://yayin1.canlitv.fun/canlitv/okkutv.stream/playlist.m3u8?hash=5e8a1418e07748b5651f5590f6483414"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canlitv.com/okku-tv",
+        "país": "az",
+        "categoría": "news"
+    },
+    "esmas-tv": {
+        "nombre": "Esmas Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.canlitv.day/embed/?id=13409"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canlitv.com/esma-tv-azerbaycan?ulke=az",
+        "país": "az",
+        "categoría": "news"
+    },
+    "ant-tv": {
+        "nombre": "Ant Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.canlitv.day/embed/?id=13206"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canlitv.com/ant-tv?ulke=az",
+        "país": "az",
+        "categoría": "news"
+    },
+    "alhayat-tv": {
+        "nombre": "Alhayat Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8",
+                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/media-unbi0c38t_b2128000_65589.ts"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alhayat.tv/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://smccdn.com/aghapy.tv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lyngsat.com/tvchannels/eg/Aghapy-TV.html",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "wedo-tv": {
+        "nombre": "Wedo Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv.m3u8?app_bundle=&app_name=wedotv&app_store_url=https%3A%2F%2Fwedotv.com&url=https%3A%2F%2Fwedotv.com&gdpr=1&channel_name=Motorvision+TV+English&content_custom_1_param=Motorvision+TV+English"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://wedotv.com/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "alkaherawalnas-2": {
+        "nombre": "alkaherawalnas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/ZRj6QBopxfo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "القاهرة_والناس",
+            "yt_embed": "bwQhWhtipNs?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.alkaherawalnas.com/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "maspero-tv": {
+        "nombre": "Maspero Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.maspero.eg/stream",
+        "país": "eg",
+        "categoría": "news"
+    },
     "global": {
         "nombre": "global",
         "logo": "",
@@ -2307,6 +2484,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "",
+        "país": "br",
+        "categoría": "news"
+    },
+    "topmixtv": {
+        "nombre": "Topmixtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://logicahost.com.br/topmix.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://topmixtv.com.br/?fbclid=IwY2xjawErXJZleHRuA2FlbQIxMAABHeEoqxXZqDQENrtwUIGIjGeeOAPkPjnw-gWNkQOk82F_MQTCUJJ9S8RSLQ_aem_rI23zc_7LKlv9pN0i8xCmg",
         "país": "br",
         "categoría": "news"
     },
