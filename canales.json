@@ -44,6 +44,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/09/Logotipo_de_Teletrece.svg",
         "señales": {
             "iframe_url": [
+                "https://rudo.video/live/t13?autostart=1&volume=0&tag=eyJwcmUiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvYWRzP2l1PS8xMTIzNzIyMDcvdDEzLmNsL2VuLnZpdm8vcHJlcm9sbCZkZXNjcmlwdGlvbl91cmw9aHR0cHMlM0ElMkYlMkZ3d3cudDEzLmNsJTJGZW4tdml2byZlbnY9dnAmaW1wbD1zJmNvcnJlbGF0b3I9JnRmY2Q9MCZucGE9MCZnZGZwX3JlcT0xJm91dHB1dD12YXN0JnN6PTY1NngzNjgmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsInBvc3QiOjAsIm1pZCI6eyJ0YWciOjB9LCJvdmVyIjp7InRhZyI6MH19",
                 "https://rudo.video/live/t13?autoplay=true&volume=0"
             ],
             "m3u8_url": [
