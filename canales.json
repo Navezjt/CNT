@@ -11225,9 +11225,11 @@
         "nombre": "Fox Business",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.livehdtv.com/embed/fox-business/"
+            ],
             "m3u8_url": [
-                "https://v1.thetvapp.to/hls/FoxBusiness.m3u8?token=i5rBovXkl2aM2vGwXM1MZQ&expires=1720904894"
+                "https://stream.livenewspro.com:1936/foxbusiness/foxbusiness//playlist.m3u8?secendtime=1724171807&sechash=MpVsVDqWBfdZ-UjnBq_eHxxqCcdvwHsB7pOKEIhPSE8=&secstarttime=1724096807"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -11246,7 +11248,7 @@
                 "https://www.livehdtv.com/embed/the-weather-channel/"
             ],
             "m3u8_url": [
-                "https://livetvde.net/weather/index.m3u8?token=4b0243a954e7ee1e290fc751ff620e409e69edf6-954fff1cf958dc9251610cae6f60f5e2-1720897091-1720886291"
+                "https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -11254,6 +11256,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.livehdtv.com/the-weather-channel/",
+        "país": "us",
+        "categoría": "general"
+    },
+    "wfaa-channel": {
+        "nombre": "WFAA Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://media.wfaa.com/embeds/video/1661278/iframe"
+            ],
+            "m3u8_url": [
+                "https://video.tegnaone.com/wfaa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA-Production/live/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.wfaa.com/liveweatherchannel",
         "país": "us",
         "categoría": "general"
     },
@@ -11281,7 +11302,10 @@
             "iframe_url": [
                 "https://www.livehdtv.com/embed/ch94/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+                "https://livenewsplayer.com:1936/msnbcsd/msnbcsd//playlist.m3u8?dvr&secendtime=1724107575&sechash=VaY7GD83-FoHO8Kj-4Ziuaw8cvyaS_qLUOVbmT1aQTM=&secstarttime=1724096775"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
