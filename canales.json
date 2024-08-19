@@ -6847,12 +6847,12 @@
         "país": "pe",
         "categoría": "news"
     },
-    "-": {
-        "nombre": "",
+    "Topmix-tv": {
+        "nombre": "Topmix TV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                ""
+                "https://player.logicahost.com.br/player.php?player=6/"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -6860,8 +6860,25 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
-        "país": "ph",
+        "sitio_oficial": "https://laucadigital.blogspot.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Radio-NavezMIXS": {
+        "nombre": "Radio NavezMIXS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://sites.google.com/view/radio-navez-mixs/home?authuser=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://sites.google.com/view/radio-navez-mixs/home?authuser=0",
+        "país": "pe",
         "categoría": "news"
     },
     "dzrh": {
