@@ -1360,8 +1360,8 @@
         "país": "cl",
         "categoría": "news"
     },
-    "todonoticias": {
-        "nombre": "Todonoticias",
+    "todo-noticias": {
+        "nombre": "Todo noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg",
         "señales": {
             "iframe_url": [
@@ -1458,7 +1458,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Nación.svg/2560px-Logo_La_Nación.svg.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/ocFG3yor--M?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.youtube.com/embed/G5pHuBCqgrs?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
@@ -1506,7 +1506,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "telefenoticias": {
+    "telefe-noticias": {
         "nombre": "Telefe Noticias",
         "logo": "https://graph.facebook.com/telefenoticias/picture?width=800&height=800",
         "señales": {
@@ -1524,7 +1524,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "cadena3": {
+    "cadena-3": {
         "nombre": "Cadena 3 Argentina",
         "logo": "https://graph.facebook.com/Cadena3Argentina/picture?width=800&height=800",
         "señales": {
@@ -1558,8 +1558,8 @@
         "país": "ar",
         "categoría": "news"
     },
-    "eldoce": {
-        "nombre": "eldoce",
+    "el-doce": {
+        "nombre": "El Doce",
         "logo": "https://graph.facebook.com/eldocetv/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
@@ -1575,7 +1575,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "ellitoralargentina": {
+    "el-litoralargentina": {
         "nombre": "El Litoral",
         "logo": "https://graph.facebook.com/ellitoralcom/picture?width=800&height=800",
         "señales": {
@@ -1590,7 +1590,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "ipnoticiasenvivo": {
+    "ip-noticiasenvivo": {
         "nombre": "IP Noticias",
         "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
         "señales": {
@@ -1605,7 +1605,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "nurparatodos": {
+    "nur-para-todos": {
         "nombre": "Nur Para Todos",
         "logo": "",
         "señales": {
@@ -1620,7 +1620,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "eldestapetv": {
+    "el-destape": {
         "nombre": "El Destape",
         "logo": "https://graph.facebook.com/ElDestapeWeb/picture?width=800&height=800",
         "señales": {
@@ -1635,7 +1635,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "dnewsok": {
+    "dnews-ok": {
         "nombre": "DNews",
         "logo": "https://graph.facebook.com/dnewsok/picture?width=800&height=800",
         "señales": {
@@ -1650,7 +1650,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "radiomitre": {
+    "radio-mitre": {
         "nombre": "Radio Mitre",
         "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
         "señales": {
@@ -1665,7 +1665,7 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "radiodelaazotea": {
+    "radio-de-la-azotea": {
         "nombre": "Radio De la Azotea",
         "logo": "https://graph.facebook.com/de.laazotea/picture?width=800&height=800",
         "señales": {
@@ -1682,7 +1682,7 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "radionihuil": {
+    "radio-nihuil": {
         "nombre": "Radio Nihuil",
         "logo": "https://graph.facebook.com/radionihuil/picture?width=800&height=800",
         "señales": {
@@ -1699,8 +1699,8 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "popradio1015": {
-        "nombre": "Pop Radio 101.5",
+    "pop-radio-101-5": {
+        "nombre": "Pop Radio 101 5",
         "logo": "https://graph.facebook.com/Popradio1015/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
@@ -1735,7 +1735,7 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "urbanaplayfm": {
+    "urbana-play-fm": {
         "nombre": "Urbana Play 104.3 FM",
         "logo": "https://graph.facebook.com/UrbanaPlayFm/picture?width=800&height=800",
         "señales": {
@@ -1771,7 +1771,7 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "elsietemendoza": {
+    "el-siete-mendoza": {
         "nombre": "El Siete TV",
         "logo": "https://graph.facebook.com/elsietetv/picture?width=800&height=800",
         "señales": {
@@ -1789,7 +1789,7 @@
         "país": "ar",
         "categoría": "general"
     },
-    "extratvvivo": {
+    "extra-tv-vivo": {
         "nombre": "EXTRA TV VIVO",
         "logo": "https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s900-c-k-c0x00ffffff-no-rj",
         "señales": {
@@ -1804,7 +1804,7 @@
         "país": "ar",
         "categoría": "general"
     },
-    "breakpointmp": {
+    "break-pointmp": {
         "nombre": "BREAK POINT",
         "logo": "",
         "señales": {
@@ -1819,7 +1819,7 @@
         "país": "ar",
         "categoría": "general"
     },
-    "extratv": {
+    "extra-tv": {
         "nombre": "Extratv",
         "logo": "https://yt3.googleusercontent.com/1x137ostiNGYbXe5sP-LYMun9ghpr_uz54WATZM7rVeBBrDV-8DQV0Hy8Fv8kbWeX_BIY48Vbng=s900-c-k-c0x00ffffff-no-rj",
         "señales": {
@@ -1836,7 +1836,7 @@
         "país": "ar",
         "categoría": "general"
     },
-    "ushuaialive": {
+    "ushuaia-live": {
         "nombre": "Ushuaia Live",
         "logo": "",
         "señales": {
@@ -1881,8 +1881,8 @@
         "país": "ar",
         "categoría": "camera"
     },
-    "radioone1037": {
-        "nombre": "Radio One 103.7",
+    "radio-one-103-7": {
+        "nombre": "Radio One 103 7",
         "logo": "https://graph.facebook.com/radioone1037/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
@@ -1900,7 +1900,7 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "carburandotv": {
+    "carburando-tv": {
         "nombre": "Carburando",
         "logo": "https://graph.facebook.com/CarburandoOficial/picture?width=800&height=800",
         "señales": {
@@ -1915,8 +1915,8 @@
         "país": "ar",
         "categoría": "auto"
     },
-    "elnueve": {
-        "nombre": "elnueve",
+    "el-nueve": {
+        "nombre": "El nueve",
         "logo": "https://www.elnueve.com.ar/_next/image?url=%2Farticles%2Fc9-show-hero.jpg&w=1920&q=75",
         "señales": {
             "iframe_url": [
@@ -1932,7 +1932,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "comotv": {
+    "como-tv": {
         "nombre": "Comotv",
         "logo": "",
         "señales": {
@@ -2105,8 +2105,8 @@
         "país": "ar",
         "categoría": "news"
     },
-    "eltrecetv": {
-        "nombre": "Eltrecetv",
+    "el-trece-tv": {
+        "nombre": "El trece Tv",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -2122,8 +2122,8 @@
         "país": "ar",
         "categoría": "news"
     },
-    "elrural": {
-        "nombre": "Elrural",
+    "el-rural": {
+        "nombre": "El Rural",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2139,7 +2139,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "celttv": {
+    "celt-tv": {
         "nombre": "Celttv",
         "logo": "",
         "señales": {
@@ -2153,6 +2153,287 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://www.celttv.com.ar/index.php/tv-vivo-hd/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-10-de-cordoba": {
+        "nombre": "Canal 10 de Córdoba",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/FD0UNaMmXV4?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCUzonpa3XKurQVycdMY70XQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/canal-10-de-cordoba/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-c-cordoba": {
+        "nombre": "Canal C Córdoba",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=ccanal&parent=www.5900.tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "ccanal"
+        },
+        "sitio_oficial": "https://www.5900.tv/canal-c-cordoba/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "ciudadtv": {
+        "nombre": "Ciudad Televisión Resistencia, Chaco",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=ciudadtv&parent=www.5900.tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "ciudadtv"
+        },
+        "sitio_oficial": "https://www.5900.tv/ciudadtv/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "elonce": {
+        "nombre": "ElOnce",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/A8H5du8JXI0?controls=1&showinfo=0&autoplay=1&enablejsapi=1widgetid=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCWzsoIEZLGLinhYrm66VD4Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://elonce.com/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-10-mar-del-plata": {
+        "nombre": "Canal 10 Mar del Plata",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/TYXDbwdjy64?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCUM1n1Cb_cbnYTY45GvtyJw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/canal-10-mar-del-plata/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "tv-venado-tuerto": {
+        "nombre": "TV Venado Tuerto",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://videocloud.instream.audio:2000/VideoPlayer/vertv?autoplay=1",
+                "https://videoplayer.instream.audio/vertv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.quierovertv.com/en-vivo/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "latina-tv": {
+        "nombre": "Latina TVAR",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/latinatv.html"
+            ],
+            "m3u8_url": [
+                "https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8#t=0.1"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/latina-tv/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "terramiatv": {
+        "nombre": "Terra Mía TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/terra.html"
+            ],
+            "m3u8_url": [
+                "https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8#t=0.1"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/terramiatv/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "diti-tv": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/diti.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/diti-tv/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "salsa-gorda-tv": {
+        "nombre": "Salsa Gorda TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=qMUAZEy"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/salsa-gorda-tv/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "tru-marcos-juarez": {
+        "nombre": "TRU Marcos Juárez",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=trutecnica&parent=www.5900.tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "trutecnica"
+        },
+        "sitio_oficial": "https://www.5900.tv/tru-marcos-juarez/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "teledigital-pascanas": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=rbolondi&parent=www.5900.tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "rbolondi"
+        },
+        "sitio_oficial": "https://www.5900.tv/teledigital-pascanas/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-de-la-ciudad": {
+        "nombre": "Canal de la Ciudad",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/MUn_CT0rrfs?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCOV_Vx1baZJY9Tfvgm-UI3w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/canal-de-la-ciudad-buenos-aires-en-vivo/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-20": {
+        "nombre": "Canal 20 Villa María",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=canalveintevillamaria&parent=www.canal20villamaria.com.ar"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canalveintevillamaria"
+        },
+        "sitio_oficial": "https://www.canal20villamaria.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "uniteve": {
+        "nombre": "Uniteve Villa María",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://solumedia.com.ar/video/uniteve/"
+            ],
+            "m3u8_url": [
+                "https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/uniteve/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "somos-villa-maria": {
+        "nombre": "Somos Villa María",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/somos.html"
+            ],
+            "m3u8_url": [
+                "https://stream.arcast.net:4443/villamaria/villamaria/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/somos-villa-maria/",
         "país": "ar",
         "categoría": "news"
     },
@@ -17030,6 +17311,25 @@
         },
         "sitio_oficial": "https://www.inbs.co.kr/onair.do",
         "país": "kr",
+        "categoría": "news"
+    },
+    "ucl-uruguay": {
+        "nombre": "UCL",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/ucl.html"
+            ],
+            "m3u8_url": [
+                "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/ucl-uruguay/",
+        "país": "uy",
         "categoría": "news"
     },
     "game-master-tv": {
