@@ -2368,7 +2368,7 @@
         "categoría": "news"
     },
     "global": {
-        "nombre": "global",
+        "nombre": "Global",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2387,6 +2387,132 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/strikeinthehouse/1/blob/main/lista2.M3U",
+        "país": "br",
+        "categoría": "news"
+    },
+    "rede-brasil-de-televisao": {
+        "nombre": "Rede Brasil de Televisão",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.logicahost.com.br/player.php?player=2"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/rede-brasil-de-televisao/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "record-news": {
+        "nombre": "Record News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8",
+                "https://edge-aws.aovivotv.xyz/hls/s:51.158.172.111/recordnews_620807a1_7e2474ca64e509e66940d07084c239d65301abaa/playlist.m3u8?sk=def50200c195cd489e51cb2f999faca6f2dff59e4814ccf7a2eb6318c9d9bd203c477e91da06d855eeda1488b238f4f6546e98127ef985ba8f7e34e31841a5ae9b806664f8d8ddbfab8f18d625d04fea0094cf2951fc988702428d616a601acd6cd8c36aa06da43630a4e81c06130372816490d8717d59dc974568cddb80eb1cf2a121767bf35e4263361d309fa734b81f5a423e2484a02d7cbbdd569a341045a92a0bcc4d16874414aa0a5bb61d911b67a2b9f4fcf9ff8eef2f00655eb4f6331de41c0d0fedfdb259b1739c0ddf51d818044ac746b832ae8f75c607602b4dd40650d6a80ea6547e847caf466bb1275ed932edea1650263c2b0c65e8cb9e052dfa45a19dde47e9c3bb5f5a1e49cf38feeeeef6dcd3788c090368a2c85d9dac73351b61bc3b0c7f9f8343698f2257ddd338edead4f842ae20bbd3786e8c86f1e170a2555c3984d119df6a3073c3debdca13eed664e0de8e"
+            ],
+            "yt_id": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/record-news",
+        "país": "br",
+        "categoría": "news"
+    },
+    "carioca-tv": {
+        "nombre": "Carioca TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/cariocaok.html"
+            ],
+            "m3u8_url": [
+                "https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/carioca-tv/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-cultura-brasil": {
+        "nombre": "TV Cultura",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/tvcultura.html"
+            ],
+            "m3u8_url": [
+                "https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/tv-cultura-brasil/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-aratu": {
+        "nombre": "TV Aratu",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/aratu.html"
+            ],
+            "m3u8_url": [
+                "https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/tv-aratu/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "rftv-AO": {
+        "nombre": "RFTV AO",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8"
+            ],
+            "yt_id": "UC9n34_IrC-Bgt3DIlfdC8pQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.rftv.com.br/ao-vivo/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "ndtv-florianopolis": {
+        "nombre": "NDTV Florianopolis",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/gTh4EacmyIA?ecver=2&enablejsapi=1&modestbranding=1&rel=0&showinfo=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCZWIbJQKWlzqjWYcx_xVuhg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ndmais.com.br/nd-play/ndtv-florianopolis/",
         "país": "br",
         "categoría": "news"
     },
@@ -10099,7 +10225,7 @@
         "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/4I8W6KUCzSY?autoplay=1&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.milenio.com&widgetid=1"
+                "https://www.youtube.com/embed/WapK0zFOa00?autoplay=1&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.milenio.com&widgetid=1"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
@@ -10134,7 +10260,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8"
+                "https://channel07dai-notusa.akamaized.net/linear/hls/pa/event/-upN13W-TT6fUrHnL3XddQ/stream/d27dba52-79cd-43cf-bd29-27fc959e897a:SCL/variant/229a33be64dd9fbfdb51d210081ea8c1/bandwidth/1215023.m3u8?hdntl=exp=1724426238~acl=*~id=16d6239d-8331-467b-9798-9f5598529c0c~data=hdntl~hmac=4f3b15fd464f596560d8e6f0f83a5a5f40476c6bfd2dd387ccf7c3b61a4690b0&",
+                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/465f3534-34bd-4df9-8d4a-2210dd1a5a54:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1724426873~acl=*~id=b0f284db-5ecc-49c5-bb05-13208dfeda73~data=hdntl~hmac=db45b1042dbedef70e9b02b187cda4e9dd42088f21d031a3167b0477c0a39e09&"
             ],
             "yt_id": "UCUsm-fannqOY02PNN67C0KA",
             "yt_embed": "",
@@ -10157,6 +10284,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://live.adn40.mx/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tv-mar-puerto-vallarta": {
+        "nombre": "tv mar puerto vallarta",
+        "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://5900.tv/webcam/tvmar.html"
+            ],
+            "m3u8_url": [
+                "https://5ca3e84a76d30.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8"
+            ],
+            "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.5900.tv/tv-mar-puerto-vallarta-mexico/",
         "país": "mx",
         "categoría": "news"
     },
