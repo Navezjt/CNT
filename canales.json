@@ -16988,13 +16988,16 @@
             "iframe_url": [
                 "https://www.youtube-nocookie.com/embed/?list=UUpHgvLfY23_S6jvT8BuZ3kQ"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
+            "m3u8_url": [
+                "https://live.streamingfast.net/osmflivech2.m3u8",
+                "https://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-3.m3u8"
+            ],
+            "yt_id": "UCpHgvLfY23_S6jvT8BuZ3kQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.youtube.com/@goodtv",
+        "sitio_oficial": "www.goodtv.tv/tv-channel?ch=1",
         "país": "tw",
         "categoría": "news"
     },
@@ -17276,6 +17279,147 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/c/SDTV55ch",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "wxtv": {
+        "nombre": "WXTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://go.hoptv.tw/ch/wxtv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://wxtv.com.tw/public/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "ipcf": {
+        "nombre": "IPCF",
+        "logo": "https://ipcf.ginnet.cloud/upload/live/202204/poster_16499327508065.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://ipcf.ginnet.cloud/player/test/live/12?autoplay&mute"
+            ],
+            "m3u8_url": [
+                "https://streamipcf2.akamaized.net/live/_definst_/smil:live.smil/playlist.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ipcf.org.tw/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "lifetv": {
+        "nombre": "Lifetv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.lifetv.org.tw/a_date/live.htm",
+                "http://www.hoptv.tw:8080//ch/lifetvr//live/live.asp?link=http%3A%2F%2F211%2E73%2E19%2E201%3A80%2Flive%2FAB167E56%2D808C%2D81D4%2D6471%2D76DC400D5192%3Ffmt%3Dx264%5F1200K%5Fts%26cpid%3Dadmin%26size%3D1920X1080&LT=2019%2F06%2F10+17%3A01&BG=&W=100&h=100"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.lifetv.org.tw/a_date/live.htm",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "hwazan": {
+        "nombre": "Hwazan",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/ypmrwYeLAaQ?si=ARQh_7SzIEyiqkVZ"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC0D4u31or8aGenc86eMB6wA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hwazan.org/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "buddha-compassion-tv-station": {
+        "nombre": "Buddha Compassion TV Station",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-ott2b2.cdn.hinet.net/ott2b2-live/bts/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ottlive.hinet.net/webapp/bts/live",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "uchanneltv": {
+        "nombre": "Uchanneltv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://c.streamhoster.com/embed/media/WksBy6/IRBKmbjFsDA/K0xz4KschTb_5"
+            ],
+            "m3u8_url": [
+                "https://2-fss-2.streamhoster.com/pl_118/200734-1199190-1/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.uchanneltv.us/live-streaming.html",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "chengteTV": {
+        "nombre": "chengteTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/e07SVhiFm9U"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCEaOL55dVM5xg-oX-Gs0DlQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.chengte.org.tw/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
         "país": "tw",
         "categoría": "news"
     },
