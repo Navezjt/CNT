@@ -1383,7 +1383,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/2048px-C5N_logo.svg.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/Hy4UCfsE6Yk?embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.c5n.com&widgetid=1"
+                "https://www.youtube.com/embed/NdQSOItOQ5Y?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCFgk2Q2mVO1BklRQhSv6p0w",
@@ -1441,7 +1441,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crónica_TV_logotipo_(2016).png",
         "señales": {
             "iframe_url": [
-                "https://vmf.edge-apps.net/embed/live.php?streamname=cronicatv_video1-100044&autoplay=true"
+                "https://www.youtube.com/embed/avly0uwZzOE?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
@@ -1475,7 +1475,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/rY6a3fuaQ5Q?enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
+                "https://www.youtube.com/embed/MS0QdZ5zvn8?enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
             ],
             "m3u8_url": [],
             "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
