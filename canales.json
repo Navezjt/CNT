@@ -11093,6 +11093,96 @@
         "país": "es",
         "categoría": "news"
     },
+    "cuatro": {
+        "nombre": "Cuatro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_SD.smil/chunklist_b628000_vo.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/cuatro/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "condado-vision": {
+        "nombre": "condado vision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mitele.uno/player/?url=5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/condado-vision/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "es",
+        "categoría": "news"
+    },
+    "hechos-ecuador": {
+        "nombre": "hechos ecuador",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php"
+            ],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "4dmas": {
+        "nombre": "4dmas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=admasnoticias"
+            ],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/4dmas/",
+        "país": "es",
+        "categoría": "news"
+    },
     "ecuavisa": {
         "nombre": "Ecuavisa",
         "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
