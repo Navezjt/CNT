@@ -11127,12 +11127,12 @@
         "país": "es",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
+    "canal-sur": {
+        "nombre": "canal sur",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "",
+                "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&autoplay=1",
                 ""
             ],
             "m3u8_url": [],
@@ -11141,7 +11141,133 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.mitele.uno/canal-sur/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "la-7-murcia": {
+        "nombre": "la 7 murcia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8",
+                "https://www.mitele.uno/player/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/la-7-murcia/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-4-4": {
+        "nombre": "canal 4-4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=limited35.todostreaming.es/live/mitjans-livestream.m3u8",
+                "https://www.mitele.uno/player/?url=limited35.todostreaming.es/live/mitjans-livestream.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-4-4/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-10-emporda": {
+        "nombre": "canal 10 emporda",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=ventdelnord.tv:8080/escala/directe.m3u8",
+                "https://www.mitele.uno/player/?url=ventdelnord.tv:8080/escala/directe.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-10-emporda/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "9-la-loma-tv": {
+        "nombre": "9 la loma tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=directo.9laloma.tv/live/720.m3u8",
+                "https://www.mitele.uno/player/?url=directo.9laloma.tv/live/720.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/9-la-loma-tv/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-4-mancha-centro": {
+        "nombre": "canal 4 mancha centro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+                "https://www.mitele.uno/player/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-4-mancha-centro/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-4-tenerife": {
+        "nombre": "canal 4 tenerife",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8",
+                "https://www.mitele.uno/player/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-4-tenerife/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-3-24": {
+        "nombre": "canal 3-24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mitele.uno/player/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8",
+                "https://app.enlatele.tv/player-es/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-3-24/",
         "país": "es",
         "categoría": "news"
     },
@@ -11150,18 +11276,17 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php"
-            ],
-            "m3u8_url": [
+                "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php",
                 "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
-        "país": "es",
+        "país": "ec",
         "categoría": "news"
     },
     "4dmas": {
@@ -11169,18 +11294,17 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.enlatele.tv/player/embed.php?r=admasnoticias"
-            ],
-            "m3u8_url": [
+                "https://www.enlatele.tv/player/embed.php?r=admasnoticias",
                 "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvphotocall.online/en-vivo/4dmas/",
-        "país": "es",
+        "país": "ec",
         "categoría": "news"
     },
     "ecuavisa": {
