@@ -16988,14 +16988,31 @@
         "país": "sa",
         "categoría": "news"
     }
+    "Navez-24": {
+        "nombre": "Navez 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/24.php",
+        "país": "sa",
+        "categoría": "news"
+    }
     "SkyNews_ar": {
         "nombre": "SkyNews Ar",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "http://azrotv.com/pyr/?id=https://stream.skynewsarabia.com/hls/sna.m3u8"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.skynewsarabia.com/hls/sna.m3u8"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
