@@ -16988,8 +16988,8 @@
         "país": "sa",
         "categoría": "news"
     }
-    "24tv": {
-        "nombre": "24",
+    "tv-24": {
+        "nombre": "Tv 24",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -17022,8 +17022,8 @@
         "país": "sa",
         "categoría": "news"
     },
-    "/Abudhabi-S4": {
-        "nombre": "/Abudhabi S4",
+    "Abudhabi-S4": {
+        "nombre": "Abudhabi S4",
         "logo": "",
         "señales": {
             "iframe_url": [
