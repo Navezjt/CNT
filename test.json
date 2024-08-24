@@ -16044,6 +16044,390 @@
         "país": "kr",
         "categoría": "news"
     },
+    
+    "Navez-24": {
+        "nombre": "Navez 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/24.php",
+        "país": "sa",
+        "categoría": "news"
+    }
+    "Sky-Newsar": {
+        "nombre": "SkyNews Ar",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.skynewsarabia.com/hls/sna.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/news/ch/SkyNews_ar.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "Abudhabi-S4": {
+        "nombre": "Abudhabi S4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/tara-back.php?id=https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+                "http://azrotv.com/pyr/?id=https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8.tara"
+            ],
+            "m3u8_url": [
+                "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/Abudhabi-S4.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "mtv": {
+        "nombre": "MTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://media.mtv.com.lb/live/mtv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch3/mtv.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "al-iraquia-s": {
+        "nombre": "al iraquia s",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=al-iraqia-sport",
+                "http://azrotv.com/m3u8/online/?ch=Aliraquia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/al-iraquia-s.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "almanar": {
+        "nombre": "almanar",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://manar.live/iptv/index.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch3/almanar.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "arriadiah-tv-maroc": {
+        "nombre": "arriadiah tv maroc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=TNT-ARRYADIA-HD"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/arriadiah-tv-maroc.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "trace": {
+        "nombre": "TRACE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=http://filex.tv:8080/live/paramjeetsingh/002818/296228.sts",
+                "http://azrotv.com/pyr/?id=https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8",
+                "http://azrotv.com/pyr/?id=https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/trace.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "Al-iraqia": {
+        "nombre": "Al Iraqia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/online/?ch=Aliraquia",
+                "http://azrotv.com/m3u8/san-ts/?id=al-iraqia-sport",
+                "http://azrotv.com/players/?id=http://sansat.net:88//0CteMresihDS4dm/giKDy2HsDXKOii4/115229.ts"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/Al-iraqia.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "almayadeen": {
+        "nombre": "almayadeen",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch3/almayadeen.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "Kuwait1": {
+        "nombre": "Kuwait1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/local/gnk4/?ch=604",
+                "http://azrotv.com/pyr/?id=https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/Kuwait1.php",
+        "país": "kw",
+        "categoría": "news"
+    },
+    "Kuwait2": {
+        "nombre": "Kuwait2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist_b1500000_t64NzIwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/Kuwait2.php",
+        "país": "kw",
+        "categoría": "news"
+    },
+    "KuwaitS": {
+        "nombre": "KuwaitS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/KuwaitS.php",
+        "país": "kw",
+        "categoría": "news"
+    },
+    "KuwaitPlus": {
+        "nombre": "KuwaitPlus",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/KuwaitPlus.php",
+        "país": "kw",
+        "categoría": "news"
+    },
+    "KuwaitSPlus": {
+        "nombre": "KuwaitSPlus",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b900000_t64MzYwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/KuwaitSPlus.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "Kuwaitithraa": {
+        "nombre": "Kuwaitithraa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtethta.cdn.mangomolo.com/eth/smil:eth.stream.smil/chunklist_b550000_t64MzYwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/Kuwaitithraa.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "KuwaitAlarabi": {
+        "nombre": "KuwaitAlarabi",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtktvata.cdn.mangomolo.com/ktva/smil:ktva.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/KuwaitAlarabi.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "kuwaitdrama": {
+        "nombre": "kuwaitdrama",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtkbta.cdn.mangomolo.com/kb/smil:kb.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/kuwaitdrama.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "atfal-kuwait": {
+        "nombre": "atfal kuwait",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/atfal_kuwait.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "KuwaitAlmajilss": {
+        "nombre": "KuwaitAlmajilss",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtalmta.cdn.mangomolo.com/alm/smil:alm.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/KuwaitAlmajilss.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "al-qurain": {
+        "nombre": "al-qurain",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://kwtktvaqta.cdn.mangomolo.com/ktvaq/smil:ktvaq.stream.smil/chunklist_b350000_t64MjQwcA==.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/al-qurain.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "Fonoonphp": {
+        "nombre": "Fonoonphp",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/9.sts"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/Fonoonphp.php",
+        "país": "sa",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
