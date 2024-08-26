@@ -17378,6 +17378,144 @@
         "país": "kw",
         "categoría": "news"
     },
+    "yemen-tv": {
+        "nombre": "yemen tv",
+        "logo": "http://www.elahmad.com/tv/images/yemen-tv.jpg",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/yemen-tv.php",
+                "http://www.elahmad.com/tv/watch.php?id=yementv",
+                "http://www.elahmad.com/tv/gin.php?id=yemen_tv",
+                "https://player.twitch.tv/?channel=yementv&parent=yementv.tv",
+                "http://www.elahmad.com/tv/arabic-tv-online.php?id=yemen"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/yemen-tv.php",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "almasirah": {
+        "nombre": "almasirah",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=almasirah_tv",
+                "http://www.elahmad.com/tv/watch.php?id=almasirah_tv"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/pyr/?id=https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist_dvr.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/almasirah.php",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "belqees-tv": {
+        "nombre": "belqees-tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=belqees_tv",
+                "http://www.elahmad.com/tv/live/live_stream.php?id=belqees_tv",
+                "https://www.youtube.com/embed/YDIcwHOkaqI/?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=http%3A%2F%2Fwww.elahmad.com&widget_referrer=http%3A%2F%2Fwww.elahmad.com%2Ftv%2Fbelqees-tv.php&enablejsapi=1&widgetid=1",
+                "https://www.youtube.com/embed/YDIcwHOkaqI"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxA_zZwALQMmVMSZyLKC-Nw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/belqees-tv.php",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "yemen_today.": {
+        "nombre": "yemen today",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=yementoday"
+            ],
+            "m3u8_url": [
+                "https://video.yementdy.tv/hls/yementoday_src.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/arabic-live-channels.php",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "suhail-tv": {
+        "nombre": "suhail tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=suhail",
+                "http://www.elahmad.com/tv/cloudflare.php?id=suhail"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/suhail-tv.php",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "alsaeedah": {
+        "nombre": "alsaeedah",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=alsaeedahtv",
+                "http://www.elahmad.com/tv/live/vimeo.php?id=alsaeedahtv",
+                "https://vimeo.com/event/3358274/embed",
+                "https://vimeo.com/event/3427253/embed"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/alsaeedah.php",
+        "país": "ye",
+        "categoría": "news"
+    },
+    "almasirahtv": {
+        "nombre": "almasirahtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.elahmad.com/tv/radiant.php?id=almasirah_tv",
+                "http://www.elahmad.com/tv/watch.php?id=almasirah_tv"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/pyr/?id=https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist_dvr.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elahmad.com/tv/almasirahtv.php",
+        "país": "ye",
+        "categoría": "news"
+    },
     "otv-Navez": {
         "nombre": "Otv Navez",
         "logo": "",
