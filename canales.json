@@ -6915,20 +6915,18 @@
         "país": "pe",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
+    "ventanillatv": {
+        "nombre": "ventanillatv",
         "logo": "",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
+            "m3u8_url": [],
+            "yt_id": "UCqpdD4rn4GIYsARnYFwcV2w",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://ventanillatv.pe/",
         "país": "pe",
         "categoría": "news"
     },
