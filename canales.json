@@ -16739,9 +16739,12 @@
     },
     "ssc-sport-Navez": {
         "nombre": "ssc sport Navez",
-        "logo": "",
+        "logo": "http://www.elahmad.com/tv/images/og_video.png",
         "señales": {
             "iframe_url": [
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
                 "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
                 "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
                 "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
