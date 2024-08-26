@@ -16847,6 +16847,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/mn4DlkkqfAo?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.alekhbariya.net&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3",
+                "https://www.elahmad.com/tv/watchtv.php?id=saudi_ekhbariya",
                 "http://www.elahmad.com/tv/watchtv.php?id=saudi_ekhbariya",
                 "http://www.elahmad.com/tv/radiant.php?id=ekhbariyatv",
                 "http://www.elahmad.com/tv/youtube.php?id=SaudiNewsTV",
@@ -16875,7 +16877,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "http://www.elahmad.com/tv/arabic-live-channels.php",
         "país": "sa",
         "categoría": "news"
     },
@@ -17254,7 +17256,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/KuwaitSPlus.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "Kuwaitithraa": {
@@ -17271,7 +17273,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/Kuwaitithraa.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "KuwaitAlarabi": {
@@ -17288,7 +17290,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/KuwaitAlarabi.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "kuwaitdrama": {
@@ -17305,7 +17307,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/kuwaitdrama.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "atfal-kuwait": {
@@ -17322,7 +17324,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/atfal_kuwait.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "KuwaitAlmajilss": {
@@ -17339,7 +17341,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/KuwaitAlmajilss.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "al-qurain": {
@@ -17356,7 +17358,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/al-qurain.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "Fonoonphp": {
@@ -17373,7 +17375,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/Fonoonphp.php",
-        "país": "sa",
+        "país": "kw",
         "categoría": "news"
     },
     "otv-Navez": {
