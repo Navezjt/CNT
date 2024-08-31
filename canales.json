@@ -3057,6 +3057,66 @@
         "país": "br",
         "categoría": "news"
     },
+    "uol": {
+        "nombre": "UOL",
+        "logo": "https://graph.facebook.com/UOL/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCVFbXI6Gu8U2f9Gjtxw4A-Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.uol.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-forum": {
+        "nombre": "TV Fórum",
+        "logo": "https://graph.facebook.com/forumrevista/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC3sMBA3BdnsKSVI0WB9yVWQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://revistaforum.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-247": {
+        "nombre": "TV 247",
+        "logo": "https://graph.facebook.com/brasil247/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCRuy5PigeeBuecKnwqhM4yg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.brasil247.com/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "bradoradio": {
+        "nombre": "BRADO",
+        "logo": "https://graph.facebook.com/bradoradio/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCBtpKi29d2LQTYJWTKPHAvg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bradojornal.com/",
+        "país": "br",
+        "categoría": "radio"
+    },
     "multimedios-costa-rica": {
         "nombre": "Multimedios Costa Rica",
         "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
@@ -3514,6 +3574,36 @@
         "sitio_oficial": "https://www.canalinstitucional.tv/envivo",
         "país": "co",
         "categoría": "news"
+    },
+    "el-espectador": {
+        "nombre": "",
+        "logo": "https://graph.facebook.com/elespectadorcom/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCFYdMS-M4mRdbxPuErz1CVw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elespectador.com/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "pulzo": {
+        "nombre": "Pulzo",
+        "logo": "https://graph.facebook.com/PULZO.COLOMBIA/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCEOTRMgfd7uXZD6goFTQP6A",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.pulzo.com/",
+        "país": "co",
+        "categoría": "general"
     },
     "KAN-11": {
         "nombre": "KAN 11",
@@ -7632,6 +7722,36 @@
         "país": "pe",
         "categoría": "news"
     },
+    "diario-el-comercio": {
+        "nombre": "Diario El Comercio Videos",
+        "logo": "https://graph.facebook.com/elcomercio.pe/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCLtGUPjKLqa3zgdmhKCZONg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://elcomercio.pe",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "n60-noticias": {
+        "nombre": "N60 Noticias",
+        "logo": "https://graph.facebook.com/n60noticias/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCa5H2yRYfOlUH4c22uY5JsQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://n60.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
     "dzrh": {
         "nombre": "Dzrh",
         "logo": "",
@@ -9037,6 +9157,21 @@
         "país": "pa",
         "categoría": "general"
     },
+    "circulo-tv": {
+        "nombre": "Círculo TV",
+        "logo": "https://graph.facebook.com/elcirculotv1/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCDPbA7nEEmzhRb5NnItyKag",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "circulotv"
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/",
+        "país": "pa",
+        "categoría": "news"
+    },
     "globovision": {
         "nombre": "Globovisión",
         "logo": "",
@@ -9075,8 +9210,15 @@
         "nombre": "TeleSUR",
         "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
         "señales": {
-            "iframe_url": ["https://mblive.telesur.ultrabase.net/", "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0"],
-            "m3u8_url": ["https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"],
+            "iframe_url": [
+                "https://mblive.telesur.ultrabase.net/", 
+                "https://geo.dailymotion.com/player/x5poh.html?video=x82ug5r&autoplay=true&volume=0"
+            ],
+            "m3u8_url": [
+                "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", 
+                "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8", 
+                "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
+            ],
             "yt_id": "UCh57chOa8G811mvbqHBqxlw",
             "yt_embed": "",
             "yt_playlist": "",
@@ -9090,8 +9232,14 @@
             "nombre": "TeleSUR English",
             "logo": "https://graph.facebook.com/telesurenglish/picture?width=800&height=800",
             "señales": {
-                "iframe_url": ["https://mbliveec.telesur.ultrabase.net/"],
-                "m3u8_url": ["https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8", "https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8", "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8"],
+                "iframe_url": [
+                    "https://mbliveec.telesur.ultrabase.net/"
+                ],
+                "m3u8_url": [
+                    "https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8", 
+                    "https://cdnenmain.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8", 
+                    "https://cdnenmain.telesur.ultrabase.net/mblivev3/360p/playlist.m3u8"
+                ],
                 "yt_id": "UCmuTmpLY35O3csvhyA6vrkg",
                 "yt_embed": "",
                 "yt_playlist": "",
@@ -9105,8 +9253,14 @@
         "nombre": "teleSURtv",
         "logo": "https://graph.facebook.com/teleSUR/picture?width=800&height=800",
         "señales": {
-            "iframe_url": ["https://mblive.telesur.ultrabase.net/"],
-            "m3u8_url": ["https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8", "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"],
+            "iframe_url": [
+                "https://mblive.telesur.ultrabase.net/"
+            ],
+            "m3u8_url": [
+                "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8", 
+                "https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8", 
+                "https://cdnesmain.telesur.ultrabase.net/mbliveMain/360p/playlist.m3u8"
+            ],
             "yt_id": "UCj55An2-k4Ww8nmHQFWti5Q",
             "yt_embed": "",
             "yt_playlist": "",
@@ -9120,7 +9274,9 @@
         "nombre": "Venezolana de Televisión",
         "logo": "https://graph.facebook.com/VTVtuCanal/picture?width=800&height=800",
         "señales": {
-            "iframe_url": ["https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0"],
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/x5poh.html?video=k1yNOrgCd2jz9hBaDXQ&autoplay=true&volume=0"
+            ],
             "m3u8_url": [],
             "yt_id": "UC_cL7HTt3R9Esk-Tj0XoC9Q",
             "yt_embed": "",
@@ -9136,7 +9292,9 @@
         "logo": "https://graph.facebook.com/ntn24/picture?width=800&height=800",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": ["https://www.dailymotion.com/cdn/live/video/x7w4okl.m3u8?sec=7cCFdxKBXqwoMliGhU_szyFPdXxlSGE7tiDH8bx2dZFAZoTbhJx8IZ_F5cI03Igo&dmTs=444588&dmV1st=6fbbf4da-5d33-4953-9d22-c7d9f432f366"],
+            "m3u8_url": [
+                "https://www.dailymotion.com/cdn/live/video/x7w4okl.m3u8?sec=7cCFdxKBXqwoMliGhU_szyFPdXxlSGE7tiDH8bx2dZFAZoTbhJx8IZ_F5cI03Igo&dmTs=444588&dmV1st=6fbbf4da-5d33-4953-9d22-c7d9f432f366"
+            ],
             "yt_id": "UCEJs1fTF3KszRJGxJY14VrA",
             "yt_embed": "",
             "yt_playlist": "",
