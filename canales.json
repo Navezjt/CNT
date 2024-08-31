@@ -3605,6 +3605,128 @@
         "país": "co",
         "categoría": "general"
     },
+    "despierta-con-cdn": {
+        "nombre": "despierta con cdn",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalesdominicanos.live/despierta-con-cdn",
+        "país": "do",
+        "categoría": "news"
+    },
+    "orbit-tv": {
+        "nombre": "Orbit Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://dominicanplayers.com/video-player/335/0/0"
+            ],
+            "m3u8_url": [
+                "https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8",
+                "https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://orbittv.net/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "antena-21": {
+        "nombre": "Antena 21",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://alba-do-antena7-c21.stream.mediatiquestream.com/original.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://orientaltv.com.do/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "telemicro-canal-5hd": {
+        "nombre": "telemicro-canal-5hd",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
+            ],
+            "m3u8_url": [
+                "http://51.81.93.239:8084/hls/tmicro.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "orientaltv": {
+        "nombre": "Orientaltv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.essastream.com/live-stream-video/-widget/orientaltv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://orientaltv.com.do/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "colorvision-noticias": {
+        "nombre": "Colorvision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x7gy059"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://colorvision.com.do/en-vivo/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "una-nueva-mañana": {
+        "nombre": "Una Nueva Mañana",
+        "logo": "https://graph.facebook.com/unanuevamananaa/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCcL-6daOBkp8E_sCJLxCXLg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://unanuevamanana.com/",
+        "país": "do",
+        "categoría": "general"
+    },
     "KAN-11": {
         "nombre": "KAN 11",
         "logo": "",
@@ -4323,23 +4445,6 @@
         },
         "sitio_oficial": "https://www.uniradiopy.com/",
         "país": "py",
-        "categoría": "news"
-    },
-    "colorvision-noticias": {
-        "nombre": "Colorvision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.dailymotion.com/embed/video/x7gy059"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://colorvision.com.do/en-vivo/",
-        "país": "do",
         "categoría": "news"
     },
     "tv-peru": {
@@ -8060,96 +8165,6 @@
         "país": "ph",
         "categoría": "news"
     },
-    "despierta-con-cdn": {
-        "nombre": "despierta con cdn",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalesdominicanos.live/despierta-con-cdn",
-        "país": "do",
-        "categoría": "news"
-    },
-    "orbit-tv": {
-        "nombre": "Orbit Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://dominicanplayers.com/video-player/335/0/0"
-            ],
-            "m3u8_url": [
-                "https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8",
-                "https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://orbittv.net/",
-        "país": "do",
-        "categoría": "news"
-    },
-    "antena-21": {
-        "nombre": "Antena 21",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://alba-do-antena7-c21.stream.mediatiquestream.com/original.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://orientaltv.com.do/",
-        "país": "do",
-        "categoría": "news"
-    },
-    "telemicro-canal-5hd": {
-        "nombre": "telemicro-canal-5hd",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
-            ],
-            "m3u8_url": [
-                "http://51.81.93.239:8084/hls/tmicro.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
-        "país": "do",
-        "categoría": "news"
-    },
-    "orientaltv": {
-        "nombre": "Orientaltv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cdn.essastream.com/live-stream-video/-widget/orientaltv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://orientaltv.com.do/",
-        "país": "do",
-        "categoría": "news"
-    },
     "ANTV": {
         "nombre": "ANTV",
         "logo": "",
@@ -9318,6 +9333,21 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://televen.com/",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "la-iguana-tv": {
+        "nombre": "La Iguana TV",
+        "logo": "https://graph.facebook.com/iguana.tv/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "laiguanatv"
+        },
+        "sitio_oficial": "https://www.laiguana.tv/envivo/",
         "país": "ve",
         "categoría": "news"
     },
@@ -11237,6 +11267,21 @@
         "país": "mx",
         "categoría": "news"
     },
+    "aristegui-noticias": {
+        "nombre": "Aristegui Noticias",
+        "logo": "https://graph.facebook.com/AristeguiOnline/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCafNntv_qTQB26AvbEQNHPw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.aristeguinoticias.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
     "rtve": {
         "nombre": "RTVE Noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
@@ -11537,6 +11582,21 @@
         "país": "es",
         "categoría": "news"
     },
+    "cnnee": {
+        "nombre": "CNN en Español",
+        "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cnnespanol.cnn.com/",
+        "país": "es",
+        "categoría": "news"
+    },
     "hechos-ecuador": {
         "nombre": "hechos ecuador",
         "logo": "",
@@ -11757,6 +11817,21 @@
         "sitio_oficial": "https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA",
         "país": "ec",
         "categoría": "radio"
+    },
+    "café-la-posta": {
+        "nombre": "Café la Posta",
+        "logo": "https://graph.facebook.com/LaPostaEc/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCLCCMz3exOqYc59IN0VOLlA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.laposta.ec/",
+        "país": "ec",
+        "categoría": "news"
     },
     "tcsnoticias8899": {
         "nombre": "TCS Noticias",
@@ -12618,6 +12693,21 @@
         "país": "us",
         "categoría": "news"
     },
+    "associated-press": {
+        "nombre": "Associated Press",
+        "logo": "https://graph.facebook.com/APNews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC52X5wxOL_s5yw0dQk7NtgA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.apnews.com/",
+        "país": "us",
+        "categoría": "news"
+    },
     "euronews-esp": {
         "nombre": "euronews (Español)",
         "logo": "",
@@ -13104,7 +13194,7 @@
     },
     "ctstw": {
         "nombre": "華視新聞 CH52",
-        "logo": "",
+        "logo": "https://graph.facebook.com/TBSCTS/picture?width=800&height=800",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
@@ -13882,6 +13972,46 @@
         "sitio_oficial": "https://ndtv.in/",
         "país": "in",
         "categoría": "general"
+    },
+    "cnn-news18": {
+        "nombre": "CNN-News18",
+        "logo": "https://graph.facebook.com/cnnnews18/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
+            ],
+            "yt_id": "UCef1-8eOpJgud7szVPlZQAQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.news18.com/livetv/",
+        "país": "in",
+        "categoría": "news"
+    },
+    "wion": {
+        "nombre": "WION",
+        "logo": "https://graph.facebook.com/WIONews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+                "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
+                "https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8",
+                "https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8",
+                "https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8",
+                "https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8",
+                "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8"
+            ],
+            "yt_id": "UC_gUM8rL-Lrg6O3adPW9K1g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.wionews.com/live-tv",
+        "país": "in",
+        "categoría": "news"
     },
     "banglavisionlive": {
         "nombre": "BanglaVision LIVE",
