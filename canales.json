@@ -1579,7 +1579,7 @@
             ],
             "m3u8_url": [],
             "yt_id": "UCba3hpU7EFBSk817y9qZkiA",
-            "yt_embed": "LY2XEQ_SSXA",
+            "yt_embed": "G5pHuBCqgrs",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -1692,7 +1692,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "el-litoralargentina": {
+    "el-litoral-argentina": {
         "nombre": "El Litoral",
         "logo": "https://graph.facebook.com/ellitoralcom/picture?width=800&height=800",
         "señales": {
@@ -1707,7 +1707,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "ip-noticiasenvivo": {
+    "ip-noticias-en-vivo": {
         "nombre": "IP Noticias",
         "logo": "https://graph.facebook.com/CAMBIARAQUI/picture?width=800&height=800",
         "señales": {
@@ -1766,6 +1766,23 @@
         "sitio_oficial": "https://www.youtube.com/channel/UC4dWvSKVWJ36tJyhjDQCCaQ",
         "país": "ar",
         "categoría": "news"
+    },
+    "cadena3": {
+        "nombre": "Cadena 3 Argentina",
+        "logo": "https://graph.facebook.com/radiomitre/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/I7ht2P-udy0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCYvINPByAdCcpA0sWrF3I_w",
+            "yt_embed": "m8aGZaAYld8?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiomitre.cienradios.com/",
+        "país": "ar",
+        "categoría": "radio"
     },
     "radio-mitre": {
         "nombre": "Radio Mitre",
@@ -1835,7 +1852,7 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "radio10am": {
+    "radio-10-am": {
         "nombre": "Radio10",
         "logo": "https://graph.facebook.com/radio10/picture?width=800&height=800",
         "señales": {
@@ -1871,8 +1888,8 @@
         "país": "ar",
         "categoría": "radio"
     },
-    "fmvale975": {
-        "nombre": "FMVale975",
+    "fm-vale-975": {
+        "nombre": "FM Vale 975",
         "logo": "https://graph.facebook.com/fmvale/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
@@ -2307,7 +2324,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "ciudadtv": {
+    "ciudad-tv": {
         "nombre": "Ciudad Televisión Resistencia, Chaco",
         "logo": "",
         "señales": {
@@ -2324,8 +2341,8 @@
         "país": "ar",
         "categoría": "news"
     },
-    "elonce": {
-        "nombre": "ElOnce",
+    "el-once": {
+        "nombre": "El Once",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2395,7 +2412,7 @@
         "país": "ar",
         "categoría": "news"
     },
-    "terramiatv": {
+    "terra-mia-tv": {
         "nombre": "Terra Mía TV",
         "logo": "",
         "señales": {
@@ -2663,8 +2680,8 @@
         "país": "eg",
         "categoría": "news"
     },
-    "-tv": {
-        "nombre": " Tv",
+    "aghapy-tv": {
+        "nombre": "Aghapy Tv",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -2980,7 +2997,7 @@
         "país": "br",
         "categoría": "news"
     },
-    "RecordTV": {
+    "Record-TV": {
         "nombre": "RecordTV.br",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo6dS7v8jCNeqDrxEBVDvSbW1IQLg8yUPvEw&usqp=CAU",
         "señales": {
@@ -3506,8 +3523,8 @@
         "país": "co",
         "categoría": "news"
     },
-    "canalinstitucional-hd": {
-        "nombre": "Canalinstitucional-HD",
+    "canal-institucional-hd": {
+        "nombre": "Canal institucional-HD",
         "logo": "",
         "señales": {
             "iframe_url": [
