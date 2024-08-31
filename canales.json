@@ -65,7 +65,9 @@
         "nombre": "CNN Chile",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Logo_cnnchile.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://rudo.video/live/cnn?autoplay=true&volume=0"
+            ],
             "m3u8_url": [
                 "https://jireh-2-hls-video-cl-vtr.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8",
                 "https://redirector.rudo.video/hls-video/lvcl5/cnn/cnn.smil/playlist.m3u8?DVR"
@@ -76,6 +78,21 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.cnnchile.com/page/en-vivo/",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "el-mostrador": {
+        "nombre": "El Mostrador",
+        "logo": "https://graph.facebook.com/elmostrador/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCAOZvFm0xSBcom35r6-mcEA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elmostrador.cl/",
         "país": "cl",
         "categoría": "news"
     },
@@ -559,7 +576,9 @@
         "nombre": "Chilevisión",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/87/Emblema_de_Chilevisi%C3%B3n.svg",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://tvonlinechile.cl/senal-chv"
+            ],
             "m3u8_url": [],
             "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
             "yt_embed": "",
@@ -1035,6 +1054,65 @@
         "país": "cl",
         "categoría": "general"
     },
+    "canal-2-san-antonio": {
+        "nombre": "Canal 2 San Antonio",
+        "logo": "https://graph.facebook.com/canal2tvsanantonio/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/canal2"
+            ],
+            "m3u8_url": [
+                "https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8",
+                "https://pantera1-100gb-cl-movistar.dps.live/canal2/canal2.smil/playlist.m3u8",
+                "https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8?nimblesessionid=667309296"
+            ],
+            "yt_id": "UC5fAKnDU5IVlR854N2jBzaw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cablenoticias.cl/san-antonio-en-vivo",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "canal-2-quellon": {
+        "nombre": "Canal 2 Quellón",
+        "logo": "https://graph.facebook.com/canal2quellon/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://unlimited2-cl-isp.dps.live/tvquellon/tvquellon.smil/tvquellon/livestream1/chunks.m3u8",
+                "https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8",
+                "https://redirector.dps.live/hls/tvquellon/playlist.m3u8",
+                "https://www.viendotele.cl/assets-tele/player-arcatel.php?stream=canal-2-quellon"
+            ],
+            "yt_id": "UCDYU8ZanzAQ2zXiwyNMt4sg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal2quellon.cl/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "iquique-tv": {
+        "nombre": "Iquique TV",
+        "logo": "https://graph.facebook.com/iquiquetvhd/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8",
+                "https://www.viendotele.cl/assets-tele/player-arcatel.php?stream=iquique-tv"
+            ],
+            "yt_id": "UC1Uqq-BMRc_nkF1xDYR7xKQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iquiquetv.cl/senal-online/",
+        "país": "cl",
+        "categoría": "general"
+    },
     "megadeportescl": {
         "nombre": "MegaDeportes",
         "logo": "https://graph.facebook.com/MegaDeportesCL/picture?width=800&height=800",
@@ -1083,6 +1161,27 @@
         "sitio_oficial": "https://tvsalud.cl/",
         "país": "cl",
         "categoría": "lifestyle"
+    },
+    "canal-pais": {
+        "nombre": "Canal País",
+        "logo": "https://graph.facebook.com/CanalPais/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www-canalpais-com.filesusr.com/html/bf5a30_76a4523477e61a1d7a3e27ed66fde74a.html",
+                "https://cdn.jwplayer.com/players/GfXjIodi-Q8RuSUtM.html"
+            ],
+            "m3u8_url": [
+                "https://v4.tustreaming.cl/canalpais/index.m3u8",
+                "https://v4.tustreaming.cl/canalpais/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalpais.com/en-vivo",
+        "país": "cl",
+        "categoría": "Business"
     },
     "tv-educa-cl": {
         "nombre": "TV Educa Chile",
@@ -1278,7 +1377,7 @@
     },
     "portal-foxmix-chile": {
         "nombre": "Portal Foxmix Chile",
-        "logo": "",
+        "logo": "https://graph.facebook.com/portalfoxmix/picture?width=800&height=800",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
@@ -1289,9 +1388,9 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.hispanochannel.tv/portal-foxmix-chile/",
+        "sitio_oficial": "https://www.portalfoxmix.cl/tv/",
         "país": "cl",
-        "categoría": "news"
+        "categoría": "music"
     },
     "gogoplaytv": {
         "nombre": "Gogoplaytv",
@@ -1344,57 +1443,6 @@
         "país": "cl",
         "categoría": "news"
     },
-    "canal-pais": {
-        "nombre": "Canal Pais",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://v4.tustreaming.cl/canalpais/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvonlinechile.cl/canal/canal-pais",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "Canal-2-San-Atonio": {
-        "nombre": "Canal 2 San Atonio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://unlimited1-us.dps.live/canal2/canal2.smil/canal2/livestream1/chunks.m3u8?nimblesessionid=667309296"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.viendotele.cl/?utm_source=pslabs&utm_medium=click&utm_campaign=tele.html",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "canal-2-quellon": {
-        "nombre": "Canal 2 Quellon",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.viendotele.cl/assets-tele/player-arcatel.php?stream=canal-2-quellon"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.viendotele.cl/?utm_source=pslabs&utm_medium=click&utm_campaign=tele.html",
-        "país": "cl",
-        "categoría": "news"
-    },
     "terror-tv": {
         "nombre": "TERROR TV",
         "logo": "",
@@ -1426,23 +1474,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "iquique-tv": {
-        "nombre": "Iquique TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.viendotele.cl/assets-tele/player-arcatel.php?stream=iquique-tv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.viendotele.cl/?utm_source=pslabs&utm_medium=click&utm_campaign=tele.html",
         "país": "cl",
         "categoría": "news"
     },
