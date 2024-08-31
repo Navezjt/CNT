@@ -1392,31 +1392,6 @@
         "país": "cl",
         "categoría": "music"
     },
-    "gogoplaytv": {
-        "nombre": "Gogoplaytv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ok.ru/videoembed/4428538453706",
-                "https://ok.ru/videoembed/7354260725450",
-                "https://ssh101.com/securelive/index.php?id=mixboliviatvhd",
-                "https://ssh101.com/securelive/index.php?id=gogoplaysd",
-                "https://ssh101.com/securelive/index.php?id=gogoplay",
-                "https://ok.ru/videoembed/3881666289207",
-                "https://ok.ru/videoembed/7151290031671"
-            ],
-            "m3u8_url": [
-                "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gogoplaytv.com/",
-        "país": "cl",
-        "categoría": "news"
-    },
     "multi+cine": {
         "nombre": "Multi+cine",
         "logo": "https://scontent.flim31-1.fna.fbcdn.net/v/t39.30808-6/436149820_122097593648276759_4087322816650421197_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=leJBTUVWva4Q7kNvgEa_G1u&_nc_ht=scontent.flim31-1.fna&oh=00_AYBBe8BjkbWkyKHXeUetEdYiY7-mscSizMwM1O07-H7yEQ&oe=66809CDF",
@@ -15344,13 +15319,14 @@
         "país": "ro",
         "categoría": "news"
     },
-    "reduno": {
-        "nombre": "Reduno",
+    "red-uno": {
+        "nombre": "Red uno",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
                 "https://www.dailymotion.com/embed/video/x91tbcm?syndication=278713",
-                "https://www.dailymotion.com/embed/video/x8ra7t7"
+                "https://www.dailymotion.com/embed/video/x8ra7t7",
+                "https://geo.dailymotion.com/player/x5poh.html?video=x91tbcm&autoplay=true&volume=0"
             ],
             "m3u8_url": [
                 "https://live-c.cf.dmcdn.net/sec2(TJOGpTnvZ2wN0STUqj8QtJdUM3rUcmlZpOZhNJGUXE8NCN1La_JLKH78Zvv00PShsh2vhe6nK1SXSvwAauJsLmi4eP1uTKdHlrLZWh9DvV8)/dm/3/x91tbcm/d/live-720.m3u8",
@@ -15403,6 +15379,31 @@
         "sitio_oficial": "https://tvmegavision.com/",
         "país": "bo",
         "categoría": "news"
+    },
+    "gogoplaytv": {
+        "nombre": "Gogoplaytv",
+        "logo": "https://graph.facebook.com/migogoplay/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://ssh101.com/securelive/index.php?id=mixboliviatvhd",
+                "https://ssh101.com/securelive/index.php?id=gogoplaysd",
+                "https://ssh101.com/securelive/index.php?id=gogoplay",
+                "https://ok.ru/videoembed/3881666289207",
+                "https://ok.ru/videoembed/7151290031671",
+                "https://ok.ru/videoembed/4428538453706",
+                "https://ok.ru/videoembed/7354260725450"
+            ],
+            "m3u8_url": [
+                "https://glb.bozztv.com/glb/ssh101/gogoplay/index.m3u8"
+            ],
+            "yt_id": "UC3r9EG2f85nh9BaqmDU20VA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "gogoplaytve"
+        },
+        "sitio_oficial": "https://www.gogoplaytv.com/",
+        "país": "bo",
+        "categoría": "entertainment"
     },
     "Megatvbolivia": {
         "nombre": "Megatvbolivia",
