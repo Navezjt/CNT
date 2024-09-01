@@ -3134,6 +3134,138 @@
         "país": "cr",
         "categoría": "news"
     },
+    "TV-Nosara": {
+        "nombre": "TV Nosara",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.costaricayplayas.com/p/hbo-2.html"
+            ],
+            "m3u8_url": [
+                "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://costaricayplayas.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "canal-Retro": {
+        "nombre": "canal Retro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.costaricayplayas.com/p/video-tour-channel.html"
+            ],
+            "m3u8_url": [
+                "https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2053077816.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://costaricayplayas.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "voice-over-radio-tv": {
+        "nombre": "voice over radio tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/voice-over-radio-tv.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "nicoya-tv": {
+        "nombre": "nicoya tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/@costaricayplayas6791/featured?sub_confirmation=1"
+            ],
+            "m3u8_url": [
+                "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/nicoya-tv.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "88-stereo": {
+        "nombre": "88 stereo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8",
+                "https://59ef525c24caa.streamlock.net/CableLatino/88stereo/chunklist_w592847741.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.88stereo.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "partidos-de-la-seleccion": {
+        "nombre": "CANAL 3 KMK TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "cc"
+            ],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/partidos-de-la-seleccion.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "santa-cruz-tv": {
+        "nombre": "SANTA CRUZ TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "ccc"
+            ],
+            "m3u8_url": [
+                "https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/santa-cruz-tv.html",
+        "país": "cr",
+        "categoría": "news"
+    },
     "el-tiempo": {
         "nombre": "EL TIEMPO",
         "logo": "",
@@ -18721,138 +18853,6 @@
         },
         "sitio_oficial": "https://www.5900.tv/ucl-uruguay/",
         "país": "uy",
-        "categoría": "news"
-    },
-    "TV-Nosara": {
-        "nombre": "TV Nosara",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.costaricayplayas.com/p/hbo-2.html"
-            ],
-            "m3u8_url": [
-                "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://costaricayplayas.com/",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "canal-Retro": {
-        "nombre": "canal Retro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.costaricayplayas.com/p/video-tour-channel.html"
-            ],
-            "m3u8_url": [
-                "https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2053077816.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://costaricayplayas.com/",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "voice-over-radio-tv": {
-        "nombre": "voice over radio tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                ""
-            ],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/voice-over-radio-tv.html",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "nicoya-tv": {
-        "nombre": "nicoya tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/@costaricayplayas6791/featured?sub_confirmation=1"
-            ],
-            "m3u8_url": [
-                "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/nicoya-tv.html",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "88-stereo": {
-        "nombre": "88 stereo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://tv.play-latino.com:27701/Live/Streaming/155/88stereo/88stereo.m3u8",
-                "https://59ef525c24caa.streamlock.net/CableLatino/88stereo/chunklist_w592847741.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.88stereo.com/",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "partidos-de-la-seleccion": {
-        "nombre": "CANAL 3 KMK TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "cc"
-            ],
-            "m3u8_url": [
-                "https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/partidos-de-la-seleccion.html",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "santa-cruz-tv": {
-        "nombre": "SANTA CRUZ TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "ccc"
-            ],
-            "m3u8_url": [
-                "https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.costaricayplayas.com/p/santa-cruz-tv.html",
-        "país": "cr",
         "categoría": "news"
     },
     "game-master-tv": {
