@@ -16653,8 +16653,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/videoembed/1061877194420?autoplay=1&nochat=1",
-                ""
+                "https://ok.ru/videoembed/1061877194420?autoplay=1&nochat=1"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -16671,8 +16670,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ok.ru/videoembed/7910926524143?autoplay=1&nochat=1",
-                ""
+                "https://ok.ru/videoembed/7910926524143?autoplay=1&nochat=1"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -16718,7 +16716,564 @@
         "país": "rs",
         "categoría": "news"
     },
-    "-1": {
+    "belgorod-24": {
+        "nombre": "belgorod 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+            ],
+            "m3u8_url": [
+                "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/belgorod-24/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "krik-tv": {
+        "nombre": "krik tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/krik-tv/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "niki-tv": {
+        "nombre": "niki-tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://serv25.vintera.tv/1pnk/nikitv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/niki-tv/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "tv-kvarc": {
+        "nombre": "tv kvarc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video.quartztelecom.ru:18080/hls/9536913/c8de8fe65f169bd00a80/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvpodolsk.ru/index.php",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "tivikom-ulan-ude": {
+        "nombre": "tivikom ulan ude",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://stream.trafjam.ru/tvcom/studio/embed.html?ago=43200"
+            ],
+            "m3u8_url": [
+                "https://stream.trafjam.ru/tvcom/studio/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/tivikom-ulan-ude/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "aris-24": {
+        "nombre": "aris 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rutube.ru/pl/?pl_id&pl_type&pl_video=9b482361d6c845f7d70eafc98356d8bf"
+            ],
+            "m3u8_url": [
+                "https://serv25.vintera.tv/test/aris/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://aris-tv.ru/o-kompanii/telekanal-aris-24.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "telekanal-78": {
+        "nombre": "telekanal 78",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/351615524467?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/telekanal-78/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "teledom": {
+        "nombre": "teledom",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www-teledom-tv.filesusr.com/html/cca25c_ad36c3f77d1e3ee6d13717b65c8eeedb.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/teledom/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "kanal-16-sarov": {
+        "nombre": "kanal 16 sarov",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://serv25.vintera.tv/test/k16/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/kanal-16-sarov/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "tv-guberniya-voronezh": {
+        "nombre": "tv guberniya voronezh",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/tv-guberniya-voronezh/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "ort-orenburg": {
+        "nombre": "ort orenburg",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rutube.ru/play/embed/02fb6df9e349e16a606530b25905a1f5"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/ort-orenburg/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "volga-24": {
+        "nombre": "volga 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8",
+                "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.volga-tv.ru/live/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "yakutiya-24": {
+        "nombre": "yakutiya 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://playercdn.cdnvideo.ru/aloha/players/auto_player1.html?clid=zlaufqcpos&plid=020e7aab-a7d5-4a88-9d43-1bb006fb4619"
+            ],
+            "m3u8_url": [
+                "https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://yk24.ru/live2/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "vsya-ufa": {
+        "nombre": "allufa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vk.com/video_ext.php?oid=-23300507&id=456258211&hd=2&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://allufa.ru/live/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "nika-tv2": {
+        "nombre": "nika tv2",
+        "logo": "https://nikatv.ru/public/img/online-efir3.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8",
+                "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.m3u8?hls_proxy_host=eccfed78b7e7483ac1ac4de244dd07cd"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/nika-tv/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "novyj-vek": {
+        "nombre": "novyj-vek",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/playlist.m3u8",
+                "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvtambov.ru/novyj-vek-online/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "katun-24": {
+        "nombre": "katun 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1",
+                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://katun24.ru/k24",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "5-tv": {
+        "nombre": "5 tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://serv30.vintera.tv:443/restream/5ch/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustvlive.com/main/5-tv.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "domashniy": {
+        "nombre": "Domashniy",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "https://serv30.vintera.tv:443/provider/domashnij/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustvlive.com/main/domashniy.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "otr-online": {
+        "nombre": "Otr Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rutube.ru/play/embed/faa934385b83f9e8a92f5484defae5fa/",
+                "https://rutube.ru/play/embed/faa934385b83f9e8a92f5484defae5fa/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustv.live/main/otr-online.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "rbc": {
+        "nombre": "RBC 2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/301694721777?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://online-video.rbc.ru/spb/3/chunklist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDM6MDMgUE0maGFzaF92YWx1ZT1KdU1SUFBxU1k3OUdvVXF5M0M4V2xRPT0mdmFsaWRtaW51dGVzPTE0NDA="
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustv.live/main/rbc-online.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "spas-online": {
+        "nombre": "spas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDY6NTAgUE0maGFzaF92YWx1ZT14Y2luWDAxUWUwSXAyczQvSEtRdHBnPT0mdmFsaWRtaW51dGVzPTE0NDA="
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustv.live/main/spas-online.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "karusel": {
+        "nombre": "karusel2",
+        "logo": "/images/bg_tv/bg_tv_karusel.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://kremlin.media/channel/karusel_o/"
+            ],
+            "m3u8_url": [
+                "https://player.smotrim.ru/iframe/stream/live_id/61126?e=.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMTA6NDQ6MjcgUE0maGFzaF92YWx1ZT00cjNWMmQ0V3BNWlNXVFB4YUZzV2RRPT0mdmFsaWRtaW51dGVzPTE0NDA="
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustvlive.com/main/karusel.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "muz-tv": {
+        "nombre": "muz tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/2500581596714?autoplay=1&nochat=1",
+                "https://ok.ru/videoembed/2500581596714?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustv.live/main/muz-tv-online.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "": {
         "nombre": "",
         "logo": "",
         "señales": {
