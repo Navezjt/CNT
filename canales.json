@@ -19820,6 +19820,114 @@
         "país": "uy",
         "categoría": "news"
     },
+    "megavision-univtec": {
+        "nombre": "Megavision Univtec",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://mgv-channel19.univtec.com/hls/live/2093190/MGV_CHANNEL19/0/streamPlaylist.m3u8",
+                "https://mgv-channel21.univtec.com/hls/live/2093191/MGV_CHANNEL21/0/streamPlaylist.m3u8",
+                "https://mgv-fuego.akamaized.net/hls/live/2039834/MGV_FUEGO/0/streamPlaylist.m3u8",
+                "https://mgv-corazon.akamaized.net/hls/live/2039835/MGV_CORAZON/0/streamPlaylist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://megavision.univtec.com/#!/",
+        "país": "sv",
+        "categoría": "news"
+    },
+    "tvo-en-vivo": {
+        "nombre": "Tvo Canal 23",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/tvo/"
+            ],
+            "m3u8_url": [
+                "https://5fc584f3f19c9.streamlock.net/tvo/videotvo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMzo1OTozMyBQTSZoYXNoX3ZhbHVlPW50R1EvTHhFYjJ3NzdQUzZZZ0lSVmc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvocanal23.com/tvo-en-vivo/",
+        "país": "sv",
+        "categoría": "news"
+    },
+    "alaskas-news-source": {
+        "nombre": "alaskas news source",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=650ef482b28b43de8ae4bc7855e43c2b",
+                "https://dai2-playlistserver.aws.syncbak.com/cpl/13736728/dai2v5/1/7b2264657669636554797065223a382c22616b616d61694d7670644b6579223a6e756c6c7d/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjIwMTYwNDAxIn0.eyJkZXZpY2VUeXBlIjo4LCJzaWQiOjMxOSwiY2lkIjoxMjI1MCwibWlkIjoxMzczNjcyOCwibWsiOm51bGwsIm9vbSI6ZmFsc2UsImlwIjoiMTc5LjYuMTY4LjExMyIsInVpcCI6IjE3OS42LjE2OC4xMTMiLCJkbWEiOjAsInNzaWQiOiJkYzAzODlhYTZjNjM0ZDlkYTBiOWY2ZGM1N2FjMjA2NiIsInNuIjoiV2ViIGUzYThlYjdmNzkgKCBudWxsICkiLCJ1aWQiOm51bGwsImFwc3QiOm51bGwsInNiZXAiOmZhbHNlLCJjc2IiOmZhbHNlLCJtZDUiOiI0YzA2OGZiMjI3YWU0ZDY5MDg3MzIwNjgxYmUxZGRmNCIsImlhdCI6MTcyNTI5NjkyMCwiZXhwIjoxNzI1Mjk3MjIwLCJhdWQiOiJodHRwczovL3BsYXlsaXN0c2VydmVyLmF3cy5zeW5jYmFrLmNvbSIsImlzcyI6IlN5bmNiYWsgR3JhcGhRTCBBUEkiLCJzdWIiOiJFeXV6YXhfZDJ4Tm1JMzBNZ1hNLW9feXBkOVhWQXFIRUlJWVJmZi13R0pucWE3ekhwSiJ9.XRHMCALcEHAHotxG2IotApS2ZX42D9Z_mn53pID4ZGY"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alaskasnewssource.com/livestream/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "web-center-fairbanks": {
+        "nombre": "web center fairbanks",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=bb8ccf65956f473cb90bc31f645663a3"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.webcenterfairbanks.com/livestream/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "wow-mx": {
+        "nombre": "wow mx",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-ak.vimeocdn.com/exp=1725300953~acl=%2F3496771a-93b4-48b2-a7aa-c062a41808e0_fmp4%2F%2A~hmac=6dcd078614e7414b5d214c62e64ea60fa389578b32209c2ad2ac861b496a8874/3496771a-93b4-48b2-a7aa-c062a41808e0_fmp4/chunklist_b1800000_cmaf_v.m3u8?_HLS_skip=YES"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.wowmx.tv/",
+        "país": "sv",
+        "categoría": "news"
+    },
+    "wow-el-salvador": {
+        "nombre": "wow el salvador",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.wowelsalvador.com/",
+        "país": "sv",
+        "categoría": "news"
+    },
     "game-master-tv": {
         "nombre": "Game Master TV",
         "logo": "",
