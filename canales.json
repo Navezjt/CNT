@@ -16376,6 +16376,369 @@
         "país": "rs",
         "categoría": "news"
     },
+    "vkt-1": {
+        "nombre": "VKT (Russia)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://cdn-01.bonus-tv.ru/Kaleidoskop_edge/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.freeintertv.com/view/id-3369/1-1-0-1",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "Nevermoarr-1": {
+        "nombre": "Nevermoarr",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://live.vkplay.ru/app/embed/nevermoarr",
+                "https://live.vkplay.ru/app/embed/chadimm",
+                "https://live.vkplay.ru/app/embed/kostmurz",
+                "https://live.vkplay.ru/app/embed/galdenteam",
+                "https://live.vkplay.ru/app/embed/symkun",
+                "https://live.vkplay.ru/app/embed/gargan24"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.vkplay.ru/category/3c6b4b27-75f2-49c4-b967-f15aa88e2038",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "ntv-1": {
+        "nombre": "ntv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.ntv.ru/ntv0_foreign/tracks-v1a1/mono.m3u8",
+                "https://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8",
+                "https://cdn.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8",
+                "https://cdn.ntv.ru/ntv0_foreign/index.m3u8?filter.tracks=v2v1a1l1t1"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ntv.ru/air/ntv/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "htv-1": {
+        "nombre": "HTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ntv.ru/air/ntvseries",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "vmeste-rf-1": {
+        "nombre": "vmeste rf",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vk.com/video_ext.php?oid=-49303888&id=456250868&hash=a0dc299c7c880b7e&hd=2"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vmeste-rf.tv/live/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "-1": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "M24-1": {
+        "nombre": "M24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.m24.ru/tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.m24.ru/live",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "Rbc-1": {
+        "nombre": "Rbc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://e5-online-video.rbc.ru/online2/rbctvhd_1080p/index.m3u8?e=e5&t=rx9bpN"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.rbc.ru/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "tvzvezda-1": {
+        "nombre": "tvzvezda",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+            ],
+            "m3u8_url": [
+                "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvzvezda.ru/video",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "rtrplaneta-1": {
+        "nombre": "rtr planeta",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vgtrk.ru/rtrplaneta",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "Россия-1": {
+        "nombre": "Россия 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.smotrim.ru/iframe/live/id/63254/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://smotrim.ru/live/63254",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "russia24-1": {
+        "nombre": "Russia 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.smotrim.ru/iframe/live/id/21/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r24/"
+            ],
+            "m3u8_url": [
+                "https://streaming.goodstream.cyou/live/30.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vgtrk.ru/russia24",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "Настоящее-Время": {
+        "nombre": "Настоящее Время",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.currenttime.tv/embed/player/1/92.html?type=video"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.currenttime.tv/live/video/92",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "1tv-1": {
+        "nombre": "1tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/8104126389806?autoplay=1&nochat=1",
+                "https://static.1tv.ru/eump/embeds/interactive.html?__paranja=yes&embed=..%2Fembeds%2F1tv_live.html&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200",
+                "https://static.1tv.ru/eump/embeds/1tv_live.html?__paranja=yes&start=auto&muted=no&titleEnabled=yes&interactive=yes&embed_id=8239fbcc4fb7066f17024200"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.1tv.ru/live",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "kultura-channel-1": {
+        "nombre": "kultura channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://s1.kremlin.media/newchannel/kultura/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustv.live/main/kultura-channel.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "TV3-1": {
+        "nombre": "TV3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/1061877194420?autoplay=1&nochat=1",
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustv.live/main/tv3-online.html#google_vignette",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "rentv-1": {
+        "nombre": "rentv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/7910926524143?autoplay=1&nochat=1",
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustvlive.com/main/rentv.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "TVC-1": {
+        "nombre": "TVC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgOTozMzoxNiBQTSZoYXNoX3ZhbHVlPW9ialRBUG1vOHBGenFMdGJCK2FVZ2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MA=="
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rustv.live/main/tvc-online.html",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "sochi-24": {
+        "nombre": "sochi 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://serv30.vintera.tv/sochi/sochi24_tv/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vits.tv/en/tv-online/sochi-24/",
+        "país": "rs",
+        "categoría": "news"
+    },
+    "-1": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "",
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "rs",
+        "categoría": "news"
+    },
     "voa": {
         "nombre": "voa noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
