@@ -3445,20 +3445,20 @@
         "país": "cr",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
+    "fox-sports-2": {
+        "nombre": "TV 8 Costa Rica",
         "logo": "",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                ""
+                "https://video.misistemareseller.com:1936/sanvito/sanvito/chunklist_w834201973.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.costaricayplayas.com/p/fox-sports-2.html",
         "país": "cr",
         "categoría": "news"
     },
@@ -3483,20 +3483,178 @@
         "país": "cr",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
+    "curridabat-registro-nacionalvista-este": {
+        "nombre": "TURRIALBA TV",
         "logo": "",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                ""
+                "https://cloudvideo.servers10.com:8081/8230/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.costaricayplayas.com/p/curridabat-registro-nacionalvista-este.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "taras-vista-ochomogo-cartago": {
+        "nombre": "GAM TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://v2.azulstream.com:8081/gamtv/gamtv/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/taras-vista-ochomogo-cartago.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "la-urucaplaza-de-deportes-vista-oeste_17": {
+        "nombre": "TICA TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video.misistemareseller.com:1936/tvtica/tvtica/chunklist_w60158658.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/la-urucaplaza-de-deportes-vista-oeste_17.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "cinemax-prueba": {
+        "nombre": "LIMON TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://59ef525c24caa.streamlock.net//limontv1//limontv1//chunklist_w1710248255.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/cinemax-prueba.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "CANAL-13": {
+        "nombre": "CANAL 13",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x7vh8g3?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://live-b.cf.dmcdn.net/sec2(Z_ub-YK7qk9Es-vMJXYJDQ4R9dqTtDXfE_lQz1-WWD96i_BSA98Brf3iDffvF4e6eCUaegHVh0UnPa8nKckH8-g-kNm0AdXVYDuSpcZNjWc)/dm/3/x7vh8g3/d/live-480.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/blog-page_11.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "trivision-36": {
+        "nombre": "TRIVISION 36",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://liveingesta118.cdnmedia.tv/trivision36live/dvrlive-1500/chunklist.m3u8?DVR"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/trivision-36.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "iq-tv": {
+        "nombre": "¡OPA! CANAL 38",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://opa.usastreams.com:3066/live/canalopalive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/iq-tv.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "tmc": {
+        "nombre": "TELETICA 7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://bit.ly/TeleticaLiveStream_DVR",
+                "https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8"
+            ],
+            "m3u8_url": [
+                "https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48866644",
+                "https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=48866776"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/tmc.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "tv-cuatro": {
+        "nombre": "TV Cuatro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.conceptoweb-studio.com/radio/video/tv4/",
+                "",
+                "",
+            ],
+            "m3u8_url": [
+                "https://5ca3e84a76d30.streamlock.net:443/tv4/videotv4_240p/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net:443/tv4/videotv4_360p/playlist.m3u8",
+                "https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8",
+                "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42_480p/playlist.m3u8",
+                "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42_720p/playlist.m3u8",
+                "https://5f2c1b0d880e5.streamlock.net:443/tv42/videotv42/playlist.m3u8",
+                "https://5f2c1b0d880e5.streamlock.net/tv42/smil:tv42.smil/playlist.m3u8",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvcuatro.tv/4-1/",
         "país": "cr",
         "categoría": "news"
     },
@@ -3514,160 +3672,26 @@
             "twitch_id": ""
         },
         "sitio_oficial": "",
-        "país": "cr",
+        "país": "sv",
         "categoría": "news"
     },
-    "": {
-        "nombre": "",
+    "tvo-en-vivo": {
+        "nombre": "Tvo Canal 23",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/tvo/"
+            ],
             "m3u8_url": [
-                ""
+                "https://5fc584f3f19c9.streamlock.net/tvo/videotvo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjQgMzo1OTozMyBQTSZoYXNoX3ZhbHVlPW50R1EvTHhFYjJ3NzdQUzZZZ0lSVmc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9&DVR"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
-        "categoría": "news"
-    },
-    "": {
-        "nombre": "",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "cr",
+        "sitio_oficial": "https://tvocanal23.com/tvo-en-vivo/",
+        "país": "sv",
         "categoría": "news"
     },
     "el-tiempo": {
