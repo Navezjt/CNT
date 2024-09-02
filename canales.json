@@ -3138,9 +3138,7 @@
         "nombre": "TV Nosara",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.costaricayplayas.com/p/hbo-2.html"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://acceso.radiosportstv.online:3430/hybrid/play.m3u8"
             ],
@@ -3157,9 +3155,7 @@
         "nombre": "canal Retro",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.costaricayplayas.com/p/video-tour-channel.html"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w2053077816.m3u8"
             ],
@@ -3195,9 +3191,7 @@
         "nombre": "nicoya tv",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/@costaricayplayas6791/featured?sub_confirmation=1"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w2029325583.m3u8"
             ],
@@ -3232,9 +3226,7 @@
         "nombre": "CANAL 3 KMK TV",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "cc"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://cloudvideo.servers10.com:8081/8120/tracks-v1a1/mono.m3u8"
             ],
@@ -3251,9 +3243,7 @@
         "nombre": "SANTA CRUZ TV",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "ccc"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://rtmp.info/tvsantacruz/envivo/chunklist_w307342586.m3u8"
             ],
@@ -3263,6 +3253,420 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.costaricayplayas.com/p/santa-cruz-tv.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "ticavision": {
+        "nombre": "RETROPLUS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w630250148.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/ticavision.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "fox-sports-3": {
+        "nombre": "TELESISTEMAS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w253359515.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/fox-sports-3.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "tele-uno-costa-rica": {
+        "nombre": "TELE UNO CR",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5eac7b031d945.streamlock.net/TVUNO/TVUNO/chunklist_w1208228634.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/tele-uno-costa-rica.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "tv-norte-inf": {
+        "nombre": "Zurquí TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/tv-norte-inf.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "san-vito-tv": {
+        "nombre": "SAN VITO TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video.misistemareseller.com:1936/sanvito/sanvito/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.sanvito-television.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "espn-3": {
+        "nombre": "Norte Informativo TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://videohd.live:19360/8076/8076.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/espn-3.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "espn-2": {
+        "nombre": "PEREZ ZELEDON TV SUR 14",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w718890644.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/espn-2.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "guatuso-tv": {
+        "nombre": "GUATUSO TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5cf4a2c2512a2.streamlock.net/8162/8162/chunklist_w1378355567.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/guatuso-tv.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "extrema-tv": {
+        "nombre": "EXTREMA TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w83924531.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/extrema-tv.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "telefides": {
+        "nombre": "TELEFIDES",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s2.cwebtv.net:4433/telefides/telefides/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.costaricayplayas.com/p/telefides.html",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "coto-brus-tv": {
+        "nombre": "COTO BRUS TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cloudvideo.servers10.com:2020/VideoPlayer/8030?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8030/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cotobrustv.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "tica-tv-plus": {
+        "nombre": "tica tv plus",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8030/index.m3u8",
+                "https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR",
+                "https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445/master.m3u8",
+                "http://k4.usastreams.com/telebrunca/telebrunca/playlist.m3u8",
+                "https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ticatvplus.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
         "país": "cr",
         "categoría": "news"
     },
