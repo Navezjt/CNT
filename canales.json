@@ -16298,7 +16298,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://actualidad.rt.com/en_vivo",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "russia-1": {
@@ -16319,7 +16319,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.livehdtv.com/russia-1/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "Brics-tv": {
@@ -16336,7 +16336,81 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/bermufine/news?tab=readme-ov-file",
-        "país": "rs",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "domashniy": {
+        "nombre": "Domashniy",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.mediavitrina.ru/domashniy/dom_web/player.html?start=auto"
+            ],
+            "m3u8_url": [
+                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://domashniy.ru/",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "mir-24": {
+        "nombre": "Мир 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
+                "https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mirtv.ru/",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "katun-24": {
+        "nombre": "Katun 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1",
+                "https://ok.ru/videoembed/1166706155179?nochat=1&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://katun24.ru/",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "c86-surgut": {
+        "nombre": "С86 Surgut",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rutube.ru/play/embed/813dc0c5a944559e7e52b840d09a84f6"
+            ],
+            "m3u8_url": [
+                "https://sitv.ru/hls/s86512.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://sitv.ru/efir/86/",
+        "país": "ru",
         "categoría": "news"
     },
     "channel-one": {
@@ -16353,7 +16427,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.livehdtv.com/channel-one/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "vgtrk": {
@@ -16373,7 +16447,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vgtrk.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "vkt-1": {
@@ -16390,7 +16464,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://www.freeintertv.com/view/id-3369/1-1-0-1",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "Nevermoarr-1": {
@@ -16412,7 +16486,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://live.vkplay.ru/category/3c6b4b27-75f2-49c4-b967-f15aa88e2038",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "ntv-1": {
@@ -16432,7 +16506,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.ntv.ru/air/ntv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "htv-1": {
@@ -16449,7 +16523,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.ntv.ru/air/ntvseries",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "vmeste-rf-1": {
@@ -16466,28 +16540,26 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vmeste-rf.tv/live/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
-    "-1": {
-        "nombre": "",
+    "kaskad-tv-kaliningrad": {
+        "nombre": "Каскад ТВ Калининград",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "",
-                ""
+                "https://rutube.ru/play/embed/6a21b60f8fe268fc76e5d6a97758db70"
             ],
             "m3u8_url": [
-                "",
-                ""
+                "https://media.kgd.ru:11936/kaskad2/tv.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
-        "país": "rs",
+        "sitio_oficial": "https://vits.tv/en/tv-online/kaskad-tv-kaliningrad/",
+        "país": "ru",
         "categoría": "news"
     },
     "M24-1": {
@@ -16504,7 +16576,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.m24.ru/live",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "Rbc-1": {
@@ -16521,7 +16593,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tv.rbc.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "tvzvezda-1": {
@@ -16539,7 +16611,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvzvezda.ru/video",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "rtrplaneta-1": {
@@ -16556,7 +16628,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vgtrk.ru/rtrplaneta",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "Россия-1": {
@@ -16573,7 +16645,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://smotrim.ru/live/63254",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "russia24-1": {
@@ -16592,7 +16664,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vgtrk.ru/russia24",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "Настоящее-Время": {
@@ -16609,7 +16681,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.currenttime.tv/live/video/92",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "1tv-1": {
@@ -16628,7 +16700,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.1tv.ru/live",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "kultura-channel-1": {
@@ -16645,7 +16717,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustv.live/main/kultura-channel.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "TV3-1": {
@@ -16662,7 +16734,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustv.live/main/tv3-online.html#google_vignette",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "rentv-1": {
@@ -16679,7 +16751,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustvlive.com/main/rentv.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "TVC-1": {
@@ -16696,7 +16768,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustv.live/main/tvc-online.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "sochi-24": {
@@ -16713,7 +16785,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/sochi-24/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "belgorod-24": {
@@ -16731,7 +16803,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/belgorod-24/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "krik-tv": {
@@ -16748,7 +16820,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/krik-tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "niki-tv": {
@@ -16765,7 +16837,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/niki-tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "tv-kvarc": {
@@ -16782,7 +16854,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvpodolsk.ru/index.php",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "tivikom-ulan-ude": {
@@ -16801,7 +16873,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/tivikom-ulan-ude/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "aris-24": {
@@ -16820,7 +16892,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://aris-tv.ru/o-kompanii/telekanal-aris-24.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "telekanal-78": {
@@ -16837,7 +16909,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/telekanal-78/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "teledom": {
@@ -16854,7 +16926,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/teledom/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "kanal-16-sarov": {
@@ -16871,7 +16943,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/kanal-16-sarov/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "tv-guberniya-voronezh": {
@@ -16888,7 +16960,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/tv-guberniya-voronezh/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "ort-orenburg": {
@@ -16905,7 +16977,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/ort-orenburg/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "volga-24": {
@@ -16923,7 +16995,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.volga-tv.ru/live/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "yakutiya-24": {
@@ -16942,7 +17014,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://yk24.ru/live2/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "vsya-ufa": {
@@ -16959,7 +17031,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://allufa.ru/live/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "nika-tv2": {
@@ -16977,17 +17049,14 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/nika-tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "novyj-vek": {
         "nombre": "novyj-vek",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "",
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/playlist.m3u8",
                 "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
@@ -16998,7 +17067,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvtambov.ru/novyj-vek-online/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "katun-24": {
@@ -17016,7 +17085,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://katun24.ru/k24",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "5-tv": {
@@ -17033,17 +17102,14 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustvlive.com/main/5-tv.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "domashniy": {
         "nombre": "Domashniy",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "",
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://serv30.vintera.tv:443/provider/domashnij/playlist.m3u8"
             ],
@@ -17053,7 +17119,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustvlive.com/main/domashniy.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "otr-online": {
@@ -17071,7 +17137,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustv.live/main/otr-online.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "rbc": {
@@ -17090,7 +17156,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustv.live/main/rbc-online.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "spas-online": {
@@ -17107,7 +17173,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustv.live/main/spas-online.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "karusel": {
@@ -17126,7 +17192,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustvlive.com/main/karusel.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "muz-tv": {
@@ -17144,7 +17210,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://rustv.live/main/muz-tv-online.html",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "yugra": {
@@ -17162,7 +17228,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://ugra-tv.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "trk-ryazan": {
@@ -17181,7 +17247,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tkr.su/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "kuban-24": {
@@ -17199,7 +17265,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://kuban24.tv/tv",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "pervyy-yaroslavskiy": {
@@ -17218,7 +17284,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://1yar.tv/live/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "enisey": {
@@ -17236,7 +17302,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.enisey.tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "49-kanal-novosibirsk": {
@@ -17255,7 +17321,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://nsk49.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "novgorod-tv": {
@@ -17272,7 +17338,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://novgorod-tv.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "atv-stavropol": {
@@ -17290,7 +17356,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://atvmedia.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "aist-tv-irkutsk": {
@@ -17307,7 +17373,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/aist-tv-irkutsk/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "vestnik-nadyma": {
@@ -17326,7 +17392,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://trknadym.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "vetta-24": {
@@ -17345,7 +17411,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vetta.tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "krasnodar": {
@@ -17363,7 +17429,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvkrasnodar.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "mig-tv": {
@@ -17380,7 +17446,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvmig.ru/stream/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "Tatarstan-24": {
@@ -17397,7 +17463,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/tatarstan-24/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "nizhniy-novgorod-24": {
@@ -17416,7 +17482,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vestinn.ru/online/nn24/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "12-kanal-omsk": {
@@ -17433,7 +17499,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/12-kanal-omsk/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "trk-bratsk": {
@@ -17451,7 +17517,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://trk-bratsk.tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "ntrk-ingushetia": {
@@ -17470,7 +17536,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://magas.tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "telplyus": {
@@ -17487,7 +17553,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/telplyus/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "sochi-24": {
@@ -17505,7 +17571,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://sochi24.tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "mtv-volgograd": {
@@ -17523,7 +17589,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://xn--b1ats.xn--80asehdb/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "saratov-24": {
@@ -17540,7 +17606,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/saratov-24/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "bryanskaya-guberniya": {
@@ -17559,7 +17625,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://guberniya.tv/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "krasnodar": {
@@ -17577,7 +17643,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tvkrasnodar.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "sreda-kaspiysk": {
@@ -17595,7 +17661,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://sreda-company.ru/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "kuzbass-1": {
@@ -17612,7 +17678,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://vits.tv/en/tv-online/kuzbass-1/",
-        "país": "rs",
+        "país": "ru",
         "categoría": "news"
     },
     "voa": {
