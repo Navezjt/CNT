@@ -4532,7 +4532,7 @@
                 "https://www.desdepylabs.com/External/tvaccion/npy"
             ],
             "m3u8_url": [
-                "https://rds3tf.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=6412b9f160b9ba858be9670316f9d7bbb17104bb1cc894131e8b795a2030cc92&exp=1722900179"
+                "https://rds3tf.desdeparaguay.net/npy/npy_int_alta/playlist.m3u8?k=ece9adfdd75036f5d145eeaaac062e89e1943eb2167f257fc6615bc6afc70b97&exp=1725376561"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -4548,6 +4548,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://player.twitch.tv?channel=paraguaytvhd&parent=www.paraguaytv.gov.py&referrer=https%3A%2F%2Fwww.paraguaytv.gov.py%2F",
                 "https://player.twitch.tv/?channel=paraguaytvhd&parent=www.paraguaytv.gov.py&referrer=https%3A%2F%2Fwww.paraguaytv.gov.py%2F"
             ],
             "m3u8_url": [],
@@ -4584,7 +4585,9 @@
             "iframe_url": [
                 "https://www.desdepylabs.com/External/tvaccion/telefuturo"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_alta/playlist.m3u8?k=ac6d02c939a08387b26270cee889a3ba064951a34f3bee5cf1e380855b3ba7e9&exp=1725375817"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4601,7 +4604,10 @@
             "iframe_url": [
                 "https://gentv.desdepylabs.com/External/gentv"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/playlist.m3u8?k=ca7758c15f1cd0ee77ec28a45a44651586f8cf3c64104f746d983ce4357cf148&exp=1725375464",
+                "https://rds3gen.desdeparaguay.net/gentv/gentv_int_baja/chunklist_w1351776638.m3u8?k=ca7758c15f1cd0ee77ec28a45a44651586f8cf3c64104f746d983ce4357cf148&exp=1725375464"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4629,6 +4635,25 @@
         "país": "py",
         "categoría": "news"
     },
+    "americatv-noticias": {
+        "nombre": "Americatv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vimeo.com/event/4155545/embed/interaction"
+            ],
+            "m3u8_url": [
+                "https://live-ak.vimeocdn.com/exp=1725379598~acl=%2Ff05fa858-1752-44be-b86f-8c8127dc8f83_fmp4%2F%2A~hmac=c7758528e13d89776436b2e3093ebfd2834387bde9f02421e40791b546f9c165/f05fa858-1752-44be-b86f-8c8127dc8f83_fmp4/chunklist_b3000000_cmaf_v.m3u8?_HLS_skip=YES"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.americatv.com.py/ver-vivo/",
+        "país": "py",
+        "categoría": "news"
+    },
     "snt-noticias": {
         "nombre": "Snt Noticias",
         "logo": "",
@@ -4653,7 +4678,9 @@
             "iframe_url": [
                 "https://www.desdepylabs.com/External/tvaccion/latele"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://rds3tf.desdeparaguay.net/latele/latele_int_alta/playlist.m3u8?k=c521bc31a65c45e7c90898a4363b2b7087579a3910ad1113dc0101bda83c6bc5&exp=1725376773"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4680,6 +4707,152 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://unicanal.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "c9n-noticias": {
+        "nombre": "C9n Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://a3.115tv.site/cvatt.html?get=U05UX0M0&start=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC2uoT9_KgHuBzoYX5JepHEA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.c9n.com.py/envivo/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "mega-noticias": {
+        "nombre": "MEGA Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/?url=ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
+            ],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvparaguay.me/en-vivo/mega-py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "campo9tv-noticias": {
+        "nombre": "Campo9tv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=59ce1298bfb98.streamlock.net/campo9tv/campo9tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvparaguay.me/en-vivo/campo9tv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "dismartv-noticias": {
+        "nombre": "Dismartv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=dismartv"
+            ],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvparaguay.me/en-vivo/dismartv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "caritastv-noticias": {
+        "nombre": "Caritastv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=caritastv"
+            ],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvparaguay.me/en-vivo/caritastv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "mitv-noticias": {
+        "nombre": "Mitv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=mitv"
+            ],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvparaguay.me/en-vivo/mitv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "oviedotv-noticias": {
+        "nombre": "Oviedotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=oviedotv"
+            ],
+            "m3u8_url": [
+                "https://www.enlatele.tv/player/?url=59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvparaguay.me/en-vivo/oviedotv/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "tvaire-noticias": {
+        "nombre": "Tvaire Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=tvaire"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvparaguay.me/en-vivo/tvaire/",
         "país": "py",
         "categoría": "news"
     },
@@ -4858,8 +5031,8 @@
         "país": "py",
         "categoría": "news"
     },
-    "nanduti-tv": {
-        "nombre": "Nanduti-tv",
+    "ñanduti-tv": {
+        "nombre": "Ñanduti-tv",
         "logo": "",
         "señales": {
             "iframe_url": [
