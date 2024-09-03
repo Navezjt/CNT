@@ -14023,7 +14023,7 @@
         "país": "us",
         "categoría": "Busines"
     },
-    "cnn-TV+": {
+    "cnn-TVmas": {
         "nombre": "cnn TV+",
         "logo": "",
         "señales": {
@@ -14115,8 +14115,8 @@
         "país": "us",
         "categoría": "news"
     },
-    "-usa": {
-        "nombre": " Usa",
+    "citytv-usa": {
+        "nombre": "City TV",
         "logo": "",
         "señales": {
             "iframe_url": [],
