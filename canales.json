@@ -14752,6 +14752,227 @@
         "país": "cn",
         "categoría": "news"
     },
+    "mgtv-noticias": {
+        "nombre": "MGTV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://padws.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3OS42LjE2OC4xMTMmcWlkPSZzPWY3YzFjZmI5ODY4N2JmODE0MmUyZDM0NGFjODI0OWM2JmVzPTE3MjU0MTAyNDUmdXVpZD02YjJiMmM5ZDAxNjkxYjJjMzdjZjdmNjQwYTkwMzVlZi1iMzA2YTg3MSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8?_t=1725381446021&_t=1725381477294"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.mgtv.com/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "CGTNTV-noticias": {
+        "nombre": "CGTNTV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/zh/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "cctv1-noticias": {
+        "nombre": "cctv1 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.cctv.com/live/cctv1/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "Zhejiang-noticias": {
+        "nombre": "Zhejiang TV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/zh/54785/ZhejiangTV.html",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "gdtv-noticias": {
+        "nombre": "GDTV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=1f95b9d53529d8e5a07bc3a603f4317d-OTBudnLkTQMcnc9yTUUxWXcPXYd6B%2FZhcsjJ3BCtg5ZVIMVvWwFAxvaZHeb4WZ5LRuY4F2kC6f5%2FzWUJK4KXJxcY%2BjM%2F%2BkLhTrH7KzMmBuUVkUiB90Tzu%2Bty5frx4Z%2BAGGgk3L9PhUVB4wSYSsYgOp6lJWBStZzKvo2v5oMvdjXatb06ImurmqhHkjK%2FM4%2FMcVWTN7EKXan%2BUgJFm34vPUdguKNJuWb9DNp9%2FevkCQynZEov%2BiigAlQ7hWp%2BgRCTaGpJAq4JjXyjaPlEKLBa0BBVnsUahvPQNGTAQp1HC7cKgcmns1l0xCIlAVNuOQzflDFgTc29OGvV7H3VjBh%2B5%2Ft2cdoa3PfaNOpJuAbq%2FHuic1Ugnb45%2FAkrjsia3n0GzU908%2F1qzFSYZfmKh%2BMygQ%3D%3D"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gdtv.cn/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "Bread-TV-noticias": {
+        "nombre": "Bread TV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/zh/74572/BreadTV.html",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "nbs-noticias": {
+        "nombre": "nbs Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.nbs.cn/live/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "-noticias": {
+        "nombre": " Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "hnntv-noticias": {
+        "nombre": "Hnntv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hnntv.cn/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "jstv-noticias": {
+        "nombre": "jstv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.jstv.com/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "ZhengzhouTV-noticias": {
+        "nombre": "ZhengzhouTV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/zh/72437/ZhengzhouTV.html",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "DaAi-2": {
+        "nombre": "DaAi 2",
+        "logo": "https://i.imgur.com/KdJi9af.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/hujingguang/ChinaIPTV/blob/main/cnTV_AutoUpdate.m3u8",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "浙江经济-noticias": {
+        "nombre": "浙江经济 Noticias",
+        "logo": "https://live.fanmingming.com/tv/浙江经济生活.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u",
+        "país": "cn",
+        "categoría": "news"
+    },
     "nhk-world": {
         "nombre": "NHK World",
         "logo": "",
