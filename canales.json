@@ -12552,6 +12552,194 @@
         "país": "mx",
         "categoría": "news"
     },
+    "viva-nicaragua-noticias": {
+        "nombre": "viva nicaragua Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x7u200z"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivanicaragua.com.ni/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal4-noticias": {
+        "nombre": "Canal4 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x7rwv8c?ui-highlight&start&endscreen-enable=0&controls=1&mute=0&ui-start-screen-info=0&ui-logo=0&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal4.com.ni/en-vivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal10-noticias": {
+        "nombre": "Canal10 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal10.com.ni/envivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal6-noticias": {
+        "nombre": "Canal6 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player.html?video=x9533vq"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal6.com.ni/en-vivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "tn8-noticias": {
+        "nombre": "Tn8 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/tn8/",
+                "https://conceptoweb-studio.com/radio/video/tn8/"
+            ],
+            "m3u8_url": [
+                "https://60417ddeaf0d9.streamlock.net/tn8/videotn8/chunklist_w1806088154.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8zLzIwMjQgNDoxMjo1NSBQTSZoYXNoX3ZhbHVlPVhNWjdleHB6Z2U0UWhLY2RsOVRZQWc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tn8.tv/en-vivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "vostv-noticias": {
+        "nombre": "Vostv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott3.streann.com/s-secure/player.html?U2FsdGVkX1/XDC34GHKBhb4RZGFEa3mRB0ZGzvOuidKuZGT6OLhSxtHgwjp27r38d8DZbvPfeiRqr0/WvaLx09RshKkBi+RqIcMiEgN16l6NP86sEoF6oEfhyXEJft1d2vIKYzRG3/Ra10xosbq0+LdDoWe91y6NZ33cpbN1wBK5mIFGjbPYTcd9augnAp6IfPo1jhTHKOjK87NJJAlR3dprvIWtDpR59WJx9mll7t8zqaWGZEzF+7PeXUswG1pAE8wLxT+NOrxWFobNJAmw9i2geVpRGWwrIs+ZBdXVCQZ4jFoVX+8OKhAiORoIEfy7Q1GzYu4X7y43YhCQUgKF/w=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vostv.com.ni/directo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "canal2tv-noticias": {
+        "nombre": "Canal2tv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCX2i6sAexuDAbHMztLnfnKg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal2tv.com/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "telenorte-noticias": {
+        "nombre": "Telenorte Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://odysee.com/$/embed/@telenorte:e/telenorte35:7?r=AdurHBZ9UzckWVFKFxZ3pQBYH6QshGnm&autoplay=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://television-planet.tv/es/canales-tv/nicaragua/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "WTV-Canal-20-noticias": {
+        "nombre": "WTV Canal 20",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8130/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/64475/WTVCanal20.html",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "enlace-noticias": {
+        "nombre": "Enlace",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://componentes.enlace.org/live#/player?enableInfoAndActivity=false&defaultDrawer=&autoPlay=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.enlace.org/envivo/",
+        "país": "ni",
+        "categoría": "news"
+    },
+    "El-Histonauta-TV-noticias": {
+        "nombre": "El Histonauta TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72256/ElHistonautaTV.html",
+        "país": "ni",
+        "categoría": "news"
+    },
     "rtve": {
         "nombre": "RTVE Noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
