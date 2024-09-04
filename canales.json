@@ -22326,6 +22326,57 @@
         "país": "uy",
         "categoría": "news"
     },
+    "Canal-6-Durazno-uruguay": {
+        "nombre": "Canal 6 Durazno",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://livedelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EX0NhbmFsNl9EdXJhem5vJTJGaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDg1MjE2JnJhbmRvbT1FQ0h1dloxemVNJmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnBuLDJlNjljODZmMDQyMTVmOTU4MWZkYjVmOTM3N2U1MWU0OGE0ZDNhZWQ5NGUwZDViNGVmMzVjY2ZjZGY3YzA2NDY=/u/auth_D_Canal6_Durazno/hls/auth_D_Canal6_Durazno_HLSDEF13574_3.m3u8?m=1695989964"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6pn",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-7-Punta-uruguay": {
+        "nombre": "Canal 7 Punta",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal_7_Punta,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfN19QdW50YSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDg1NTYzJnJhbmRvbT1SWkJxdG5OYTdIJmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzaDgzLGMyZGU1ZDdkOGUxODg4MmEyNzMxOGUwZmYwNzFmNDYwODFlZDBmYTk4OTljN2JhYTBjMDkwNmI0M2I5NTEyMmM=/vxfmt=hls/h_acf7bfd331629bd251e329c9e363fe1b/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2sh83",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-8-Artigas-uruguay": {
+        "nombre": "Canal 8 Artigas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal8_Artigas,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw4X0FydGlnYXMlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4NTY2MiZyYW5kb209ZjJERXRFYktzWiZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZwMSw5NWM2OTdlMjc2NDQ3YTY5ZjhjMDQzYzViMzIyNDFlNTBmMTY1YjYwZjQwNGJmYTEwZTE4NmQyY2QyZTk0OGY3/vxfmt=hls/h_59a5e31cb343f57c9ef774432ed620a1/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6p1",
+        "país": "uy",
+        "categoría": "news"
+    },
     "megavision-univtec": {
         "nombre": "Megavision Univtec",
         "logo": "",
