@@ -22105,9 +22105,7 @@
         "nombre": "thaitvus",
         "logo": "https://thaitvus.com/wp-content/uploads/2022/08/B6B842C1-7E28-4088-9E63-A03FA647E902.jpeg",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
             ],
