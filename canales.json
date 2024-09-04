@@ -21764,7 +21764,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://5900.tv/webcam/ucl.html"
+                "https://5900.tv/webcam/ucl.html",
+                "https://artv.watch/embed.php?channel=UCL.uy"
             ],
             "m3u8_url": [
                 "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8"
@@ -21775,6 +21776,553 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.5900.tv/ucl-uruguay/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "canalalma-uruguay": {
+        "nombre": "canalalma",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://emisoras.almacomunica.com/server-stream-video-widget/alma"
+            ],
+            "m3u8_url": [
+                "https://emisoras.almacomunica.com:3681/stream/play.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalalma.tv/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "canal8mercedes-uruguay": {
+        "nombre": "canal 8 mercedes",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://online.familylatinatv.com/plugin/Live/?c=663129cbcd38d"
+            ],
+            "m3u8_url": [
+                "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8",
+                "http://online.familylatinatv.com:88/live/5de910ea0ec86/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal8mercedes.com/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "canalmas-uruguay": {
+        "nombre": "canal mas uruguay",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://canalmasuruguay.com/"
+            ],
+            "m3u8_url": [
+                "https://clientestv.bachistreaming.com:3721/hybrid/play.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalmasuruguay.com/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "camara-senadores-uruguay": {
+        "nombre": "camarasenadores",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCyM7oro5NhR5oPyMEFB_rUA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://parlamento.gub.uy/camarasycomisiones/senadores",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "parlamento-uruguay": {
+        "nombre": "parlamento anteltv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Camara_Representantes,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FtYXJhX1JlcHJlc2VudGFudGVzJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MjU0ODA4MzMmcmFuZG9tPXlNRVBzZWpTb2ImYy1pcD0xNzkuNi4xNjguMTEzJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2OG0sMTNlODI5ZjY4NTYzZmE5NjI5NGFkMGZhMjMwNmEwNzBiYzc1ZWJhMDY0ZThlY2YyY2FkZDI0MmNjMWU2M2Q5ZQ==/vxfmt=hls/h_9a4feb5bba833f512bb5718151c8a9a0/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s68m",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "33tv-uruguay": {
+        "nombre": "33 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Plazacanal_TreintaYTres,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfUGxhemFjYW5hbF9UcmVpbnRhWVRyZXMlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4MTA2NSZyYW5kb209cnFSTXk4Z3o5dCZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZyNSw5YzVhYWUwODljNjI5NWM3OWRlZjNjZTU0YTI3YzQ2ZjJhNjZhZjQyNTZkMjhmNDkwOTUzNTI3MDhhYjcyYzgx/vxfmt=hls/h_b6e8eb0dfe4b4944dbc742170c688c4b/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6r5",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "CharruaTelevision-uruguay": {
+        "nombre": "Charrua Television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=CharruaTelevision.uy"
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "charruatvcanal"
+        },
+        "sitio_oficial": "https://www.charrua.tv/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "DelEsteTV-uruguay": {
+        "nombre": "Del Este TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tuvideoonline.com.ar/broadcaster/calle7/hybrid/player"
+            ],
+            "m3u8_url": [
+                "https://tuvideoonline.com.ar:3196/live/calle7live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiodeleste.com.uy/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "LaRed-uruguay": {
+        "nombre": "La Red",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=LaRed.uy"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/en/UY/LaRed.uy",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "LatinoKidsTV-uruguay": {
+        "nombre": "Latino Kids TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www-latinokids-online.filesusr.com/html/b22f37_8b081eb24364a1c4b75b7aedb62aa0aa.html",
+                "https://cloud5.streaminglivehd.com/hybrid-stream-video-widget/latinokids"
+            ],
+            "m3u8_url": [
+                "https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.latinokids.online/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "misionvida-uruguay": {
+        "nombre": "Mision Vida TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.unored.tv/flowplayer/?s=1&a=jorge854"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.misionvida.org/mvtv/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "RDTV-uruguay": {
+        "nombre": "Raquel Daruech TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=RDTV.uy"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxZ7Z0-z9EnTZAyKmeP2_MQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://artv.watch/en/UY/RDTV.uy",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "VIVOTV-uruguay": {
+        "nombre": "VIVO TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://artv.watch/embed.php?channel=VIVOTV.uy",
+                "https://vivotv.uy/?RVPInstanceName=fwduvpPlayer0&RVPPlaylistId=0&RVPVideoId=0"
+            ],
+            "m3u8_url": [
+                "https://stream.vivotv.uy/hls/0/stream.m3u8",
+                "https://stream.vivotv.uy/hls/0/stream-HZA7Vk6Sg-8864.ts"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vivotv.uy/",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "AmasV-uruguay": {
+        "nombre": "A+V",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_AmasV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQW1hc1YlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4MzE1OCZyYW5kb209d2FpWHZoRTJZZiZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4cSw4OTlkMzBhNTJkNzQ2ZjM3Y2ZjN2RjODMyOTRhNDUwY2FhMDAxNGE2YmE5ZjVhZjc1YThkM2Y2OWVlZTMzYWYw/vxfmt=hls/h_330b4e317c50f9c2412090beb45a7b45/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2sh8q",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "1000XHORA-uruguay": {
+        "nombre": "1000 X HORA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://livedelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9EXzEwMDB4SG9yYSUyRmhscyUyRiUyQSZleHBpcnk9MTcyNTQ4MzMzOCZyYW5kb209b2E3dW9OU21tayZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yc2g4bCxjZTU5NWEyYWEwMDA2MTEyNjVjMzE1YTkwYzBiMTFmYmUyODMwZGMxMjcyZmU3ODg0NThhZWQxNjRkYmEzYWZi/u/auth_D_1000xHora/hls/auth_D_1000xHora_HLSDEF13557_3.m3u8?m=1692714823"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2sh8l",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "adutv-uruguay": {
+        "nombre": "ADU TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_AduLIVE,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQWR1TElWRSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDgzNDgzJnJhbmRvbT1Jb0dXYkcxOUoxJmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm54LDkxMmUwYjM4NjZmYTNjNzk3OTZjYTJiNWMyMTI4OGM5ZDE0MjM3MDExM2MyZTU2OTJlMDA4ODVhMjJiYjVkNjk=/vxfmt=hls/h_aed21af4f01b88a6e569536bc91beb4b/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nx",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "anpitv-uruguay": {
+        "nombre": "Anpi TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_ANPITV,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQU5QSVRWJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MjU0ODM1ODkmcmFuZG9tPXl0Qko4UzJ3WEYmYy1pcD0xNzkuNi4xNjguMTEzJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2bmosNGNlOTJmNzAzZTU2ZTcwZDg3NTg3NjNjNDYzMjZiZWUyYjc2MmMyZTVhOGRlMzZkMjI0MWU3ODNmZTgzYjIwZQ==/vxfmt=hls/h_7b52451cca6e7afc403ef1ebdd596a8c/var2100000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nj",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "artigas-uruguay": {
+        "nombre": "ARTIGAS C3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Artigas_Television,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQXJ0aWdhc19UZWxldmlzaW9uJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MjU0ODM3NjUmcmFuZG9tPXFwUFNac0h0ZDImYy1pcD0xNzkuNi4xNjguMTEzJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2bnQsYzk0MTRjMjBiZDA4NGZiNjYxYzFjYzQzOGJjMzE5YmVjMzgzN2Y3ZDNhOGYwZjlkZGNiYmI5MjVhMDE1YWU5Nw==/vxfmt=hls/h_563278fd9f11da38d3c1ac66a4cc53a4/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nt",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "-uruguay": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-11-Las-Piedras-uruguay": {
+        "nombre": "Canal 11 Las Piedras",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal11_Las_Piedras,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwxMV9MYXNfUGllZHJhcyUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDgzOTI5JnJhbmRvbT1ncnFBMmFXcmhaJmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5tLGFlMTRiMWFhOGNiYzZjMWVlMTdmODk0MTRhYWMzZmUzZjU4ZDBmNWNlNmZmOThmZDg3MTJiYjVhZDM2MTkyOTY=/vxfmt=hls/h_285e58a02012fe177b0ae9a0a5fe813f/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nm",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-11-Treinta-y-Tres-uruguay": {
+        "nombre": "Canal 11 Treinta y Tres",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal11_TreintayTres,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwxMV9UcmVpbnRheVRyZXMlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4NDAzNiZyYW5kb209M3NCR3l3cG02aCZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZudixhZDYyZjYwYjM0MzFkYTZhNzRiNmMwOWM0NjlkMzJmZWVmOWE4ZDVkZWQ1M2M0YWIyNmE2M2EyMDE5OTQyOTJj/vxfmt=hls/h_28ced45ac64991d4be90de5b721d8223/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nv",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-12-Melo-uruguay": {
+        "nombre": "Canal 12 Melo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal12Melo,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwxMk1lbG8lMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4NDE2OSZyYW5kb209S1VwQlM3RmFDRSZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZuMCw1ZmQwZTYyZmNmN2VhYjBkMjQ2OTZiZDY5MmYyYTlhNzE0MTI4YmNmOTczMWY4MWQ5ZGVhN2M3NmRkNzc0MzUx/vxfmt=hls/h_125a7986c85287ffd8103ab13e451a60/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6n0",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-2-HD-San-Carlos-uruguay": {
+        "nombre": "Canal 2 HD San Carlos",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal_2_San_Carlos,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfMl9TYW5fQ2FybG9zJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MjU0ODQyNDUmcmFuZG9tPTdKMkNHSXlXWHMmYy1pcD0xNzkuNi4xNjguMTEzJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2bjgsN2NmY2Q4NThkMDQxMjY0MGVmNzViYjk3NjNhYThmNzg4ZjMwNGRhYWVlYTdmMTUxZDEyNDIxODUyYWZhMmIwZg==/vxfmt=hls/h_dd62274a5c4e277b9bb2e223d9555b49/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-2-Lascano-uruguay": {
+        "nombre": "Canal 2 Lascano",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal2_Lascano,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwyX0xhc2Nhbm8lMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4NDMzOCZyYW5kb209bkltQUNURUV1WSZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZuayw1ZjFiMzlhMmIxNDM1MjI5MjA5ZWFjN2UyMjhkYmM5NTJlNzk2OTdjYzkxNmMyZmMxNjE1YThlMzlkZGJiMjUy/vxfmt=hls/h_3e696a3089bba71fb59fdfea58e78ae8/var950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nk",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-2-Visión-Canaria-uruguay": {
+        "nombre": "Canal 2 Visión Canaria",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal2VisionCanaria,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWwyVmlzaW9uQ2FuYXJpYSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDg0NDg0JnJhbmRvbT1TeDRhN3dlWGVyJmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm5oLGZlNjhhYmI1M2RlOWJjYTA4M2QzMzAyYzg1ZDkxOWRjNjFhNzA0Mzk2ZDRhYjE1MTYwOTQ3YTIyNDlhMjA1ODc=/vxfmt=hls/h_96cb04d4ecd6939fba928257d0c2cf9a/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nh",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-23-Florida-uruguay": {
+        "nombre": "Canal 23 Florida",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal_23_Florida,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfMjNfRmxvcmlkYSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDg0NTQxJnJhbmRvbT1zcnJwMEtYa2V2JmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNm42LDVhNjQyYzA4ZWI5Yjk3ODQxZWU1OWJhOGE0YmFjZGMzNTQ5YTJlZjA1NjAwMmM0MmIxZmI3YmExMmVmNGFmYjg=/vxfmt=hls/h_2ae65c334463d87910c1aec05c87a0ee/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6n6",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-4-Chuy-uruguay": {
+        "nombre": "Canal 4 Chuy",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal4_Chuy,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw0X0NodXklMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4NDYyMyZyYW5kb209VEtGeTdOSTVDSiZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZuMSxlODUyMGY4NTYyOGY4Y2Q4ZGFkYjU0ODY0ZDBjZGEwNzg5OWNiMWQ0ZjY4ODg4ZmMzY2MzNmQzYzcwM2M3M2U1/vxfmt=hls/h_4ca0c77b5aff5a0eed401f5be10ca4c9/var2100000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-4-Juan-Lacaze-uruguay": {
+        "nombre": "Canal 4 Juan Lacaze",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal4_JuanLacaze,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWw0X0p1YW5MYWNhemUlMkZ2eGZtdCUzRGhscyUyRiUyQSZleHBpcnk9MTcyNTQ4NDcwNiZyYW5kb209bVp6c3Q0U0F1ZyZjLWlwPTE3OS42LjE2OC4xMTMmaWRfcmVmZXJlbmNpYT0maWRfZGlzcG9zaXRpdm89MCZpZF9mcm9udGVuZD0xMTk2JnB1YmxpY19pZD0yczZuZixhZDExMGRlY2Q5NjZkMzE0YjE0Nzc0YjEzNjQxZDI1YmRhMDg4Nzk0M2QzNjAzNTE4Yzg4M2FhNjc1MzViZGZk/vxfmt=hls/h_28960d5add217751e72c14500d2f3ce1/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6nf",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-4-Paysandú-uruguay": {
+        "nombre": "Canal 4 Paysandú",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal_4_Paysandu,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfNF9QYXlzYW5kdSUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDg0NzgwJnJhbmRvbT1BM2UwcUpBdDFYJmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnBsLDgyYWJiMGFiNjk2NDRiN2M5OTk4MzQ4ZDRhOTk5YjVhYmNhY2Q1MTZiZWQ3ODE4ZmM3ZTdmYzVmZTRiOTkwNTI=/vxfmt=hls/h_af8459a659a494cfd220b6ef8c0ffd3f/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6pl",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-4-Salto-uruguay": {
+        "nombre": "Canal 4 Salto",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal_4_Salto,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfNF9TYWx0byUyRnZ4Zm10JTNEaGxzJTJGJTJBJmV4cGlyeT0xNzI1NDg0ODc2JnJhbmRvbT1TYXVvQmNoaEkyJmMtaXA9MTc5LjYuMTY4LjExMyZpZF9yZWZlcmVuY2lhPSZpZF9kaXNwb3NpdGl2bz0wJmlkX2Zyb250ZW5kPTExOTYmcHVibGljX2lkPTJzNnA0LDAxMDkwMGE3MjY5OThhNGFhZjE2NWU0ZTRkOGE4ODI4ZDJmY2I0ZmI0M2NlMGEwZjE1YjE3ZmY3Yjg4ZTJiNDA=/vxfmt=hls/h_18cbc79ebc61a3aaf23c9cc315b900d0/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6p4",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "Canal-4-Tacuarembó-uruguay": {
+        "nombre": "Canal 4 Tacuarembó",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vxlive.cdn.antel.net.uy/auth_V_Canal_4_Tacuarembo,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfQ2FuYWxfNF9UYWN1YXJlbWJvJTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE3MjU0ODUxMjAmcmFuZG9tPWw2T0lhdm00SmQmYy1pcD0xNzkuNi4xNjguMTEzJmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cDUsY2I4NDhiNDY4OTNlY2UwNzI5OTY0NzI4NDA3MGYyNDg5MzY2YmZjMDhjYzg0Y2U2M2E2Nzc1OWY1ZjgwYTBjZQ==/vxfmt=hls/h_5d7ca5213f71b8b423ef0a47cc0b33e9/var3950000/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anteltv.com.uy/play/2s6p5",
         "país": "uy",
         "categoría": "news"
     },
