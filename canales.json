@@ -18704,8 +18704,8 @@
         "país": "bo",
         "categoría": "news"
     },
-    "Tvmegavision": {
-        "nombre": "Tvmegavision",
+    "Tv-megavision": {
+        "nombre": "Tv Megavision",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
@@ -18748,8 +18748,8 @@
         "país": "bo",
         "categoría": "entertainment"
     },
-    "Megatvbolivia": {
-        "nombre": "Megatvbolivia",
+    "Megatv-bolivia": {
+        "nombre": "Megatv bolivia",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
@@ -18764,6 +18764,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://megatvbolivia.com/",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "f10-tv-bolivia": {
+        "nombre": "F10 TV bolivia",
+        "logo": "https://television-libre.online/img/rcn.webp",
+        "señales": {
+            "iframe_url": [
+                "https://video.live.com.bo/live-stream-video-widget/f10hd"
+            ],
+            "m3u8_url": [
+                "https://video.live.com.bo:3099/live/f10hdlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://f10.tv.bo/f10-live/",
         "país": "bo",
         "categoría": "news"
     },
@@ -18784,15 +18803,18 @@
         "país": "bo",
         "categoría": "news"
     },
-    "bolivia-71": {
-        "nombre": "Bolivia 71",
+    "bolivia-71-72": {
+        "nombre": "Bolivia 7-1 7-2",
         "logo": "https://television-libre.online/img/rcn.webp",
         "señales": {
             "iframe_url": [
+                "https://hoca4u.xyz/player/boliviatv1.php",
                 "https://rumble.com/embed/v58mfdh/?pub=3grnb9",
                 "https://conceptoweb-studio.com/radio/video/boliviatv/"
             ],
             "m3u8_url": [
+                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8",
+                "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w304572931.m3u8",
                 "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8"
             ],
             "yt_id": "",
