@@ -4124,6 +4124,249 @@
         "país": "co",
         "categoría": "general"
     },
+    "veo-television": {
+        "nombre": "Buga Valle Colombia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ejeserver.com/video/user/?user=veotv&vol=no"
+            ],
+            "m3u8_url": [
+                "https://us.ejeserver.com/live/veotv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.colombia.com/tv/#google_vignette",
+        "país": "co",
+        "categoría": "general"
+    },
+    "mas-television-la-dorada": {
+        "nombre": "Canal Más Televisión",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ejeserver.com/video/user/?user=teledoradahd"
+            ],
+            "m3u8_url": [
+                "https://us.ejeserver.com/live/teledoradahd.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.colombia.com/tv/canal-mas-television-la-dorada-5012",
+        "país": "co",
+        "categoría": "general"
+    },
+    "canal-2-cali": {
+        "nombre": "Canal 2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.colombia.com/tv/canal-2-cali-1467",
+        "país": "co",
+        "categoría": "general"
+    },
+    "telepetroleo-barrancabermeja": {
+        "nombre": "Telepetróleo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://edge.teveo.com.co/live/AeAAAgAIAAE7A1IAyADIUCAAAAAAAAAAAmbbG-yzBqhxAAAA/chunklist_w905526554.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.colombia.com/tv/telepetroleo-barrancabermeja-1164",
+        "país": "co",
+        "categoría": "general"
+    },
+    "canal-c-cali": {
+        "nombre": "Canal C",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge.teveo.com.co/live/AeAAAgAhAANnA1IAyADIUDAAAAGAAAAAAmbbHaqzBqhxAAAA/chunklist_w1451093259.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.colombia.com/tv/canal-c-cali-2834",
+        "país": "co",
+        "categoría": "general"
+    },
+    "enlace-television-barrancabermeja": {
+        "nombre": "Barrancabermeja Santander",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://edge.teveo.com.co/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmbbHj2zBqhxAAAA/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.colombia.com/tv/enlace-television-barrancabermeja-1179",
+        "país": "co",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "co",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "co",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "co",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "co",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "co",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "co",
+        "categoría": "general"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "co",
+        "categoría": "general"
+    },
     "despierta-con-cdn": {
         "nombre": "despierta con cdn",
         "logo": "",
