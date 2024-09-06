@@ -16064,6 +16064,195 @@
         "país": "qa",
         "categoría": "news"
     },
+    "qtv-HD": {
+        "nombre": "QTV",
+        "logo": "https://www.qna.org.qa/en/qnacdn.azureedge.net/-/media/Themes/QNA/QNA/QNA/images/LiveStreaming/Aljazeera-logo/qna_qatar.jpg?h=195&la=en&w=261&modified=20211010091819",
+        "señales": {
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=Qatar-TV-1&auto=false"
+            ],
+            "m3u8_url": [
+                "https://streamer4.qna.org.qa/148133273_live/148133273_63.sdp/chunklist_w256415473.m3u8",
+                "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+                "https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8",
+                "https://streamer4.qna.org.qa/148133344_live/148133344_63.sdp/chunklist_w351607568.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.qtv.qa/",
+        "país": "qa",
+        "categoría": "news"
+    },
+    "qna-HD": {
+        "nombre": "QnA",
+        "logo": "https://www.qna.org.qa/en/qnacdn.azureedge.net/-/media/Themes/QNA/QNA/QNA/images/LiveStreaming/Aljazeera-logo/qna_alrayan2.jpg?h=195&la=en&w=261&modified=20211010092244",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alrayyan1",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alrayyan",
+                "https://www.elahmad.com/tv/radiant.php?id=al_rayyan2_1",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alrayyan2"
+            ],
+            "m3u8_url": [
+                "https://streamer7.qna.org.qa/148136749_live/148136749_296.sdp/chunklist_w1721072028.m3u8",
+                "https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/pub-noalrayy3pwz0l/live_720p/chunks_dvr.m3u8",
+                "https://alrayyancdn.vidgyor.com/pub-nooldraybinbdh/liveabr/pub-nooldraybinbdh/live_360p/chunks_dvr.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.qna.org.qa/en/Live-Streaming-Channel-Page",
+        "país": "qa",
+        "categoría": "news"
+    },
+    "jeem-HD": {
+        "nombre": "JEEM",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=jscc1",
+                "https://www.elahmad.com/tv/mpegts_player.php?id=jeemtv"
+            ],
+            "m3u8_url": [
+                "http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8",
+                "http://azrotv.com/pyr/tara-back.php?id=http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9KzVHBVZ4g8NhVgJrhEQSxs/.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/jeem.php",
+        "país": "qa",
+        "categoría": "news"
+    },
+    "baraem-HD": {
+        "nombre": "baraem",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=baraem",
+                "https://www.elahmad.com/tv/mpegts_player.php?id=baraem",
+                "https://www.elahmad.com/tv/radiant.php?id=baraem1",
+                "https://www.elahmad.com/tv/watchtv.php?id=baraem"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/baraem.php",
+        "país": "qa",
+        "categoría": "news"
+    },
+    "-HD": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/r03yjR4M1iw/?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=https%3A%2F%2Fwww.elahmad.com&widget_referrer=https%3A%2F%2Fwww.elahmad.com%2Ftv%2Farabic-live-channels.php&enablejsapi=1&widgetid=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCSD6SCudyfm56l7x0f3QUHg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "qa",
+        "categoría": "news"
+    },
+    "alkass-sport-HD": {
+        "nombre": "alkass sport",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=jadeed",
+                "http://azrotv.com/players/mpegts/?id=http://sansat.net:88/live/0CteMresihDS4dm/giKDy2HsDXKOii4/7161.ts"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/m3u8/kass/player.php?id=https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master.m3u8",
+                "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1buo/master.m3u8",
+                "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2hef/master.m3u8",
+                "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3vak/master.m3u8",
+                "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4cn/master.m3u8",
+                "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/country/?id=qatar",
+        "país": "qa",
+        "categoría": "news"
+    }, 
+    "SHOOF-sport-HD": {
+        "nombre": "SHOOF sport",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/kass/?ch=14",
+                "http://azrotv.com/m3u8/kass/?ch=14"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/m3u8/kass/player.php?id=https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8",
+                "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8",
+                "http://azrotv.com/m3u8/kass/player.php?id=https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8",
+                "https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass6Shoof/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/srt/ch/kass6.php",
+        "país": "qa",
+        "categoría": "news"
+    },
+    "Alaraby-HD": {
+        "nombre": "Alaraby",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.octivid.com/v1/live?id=MTEy&channelid=NjE=&countries=QUQsQUUsQUYsQUcsQUksQUwsQU0sQU8sQVEsQVIsQVMsQVQsQVUsQVcsQVgsQVosQkEsQkIsQkQsQkUsQkYsQkcsQkgsQkksQkosQkwsQk0sQk4sQk8sQlEsQlIsQlMsQlQsQlYsQlcsQlksQlosQ0EsQ0MsQ0QsQ0YsQ0csQ0gsQ0ksQ0ssQ0wsQ00sQ04sQ08sQ1IsQ1UsQ1YsQ1csQ1gsQ1ksQ1osREUsREosREssRE0sRE8sRFosRUMsRUUsRUcsRUgsRVIsRVMsRVQsRkksRkosRkssRk0sRk8sRlIsR0EsR0IsR0QsR0UsR0YsR0csR0gsR0ksR0wsR00sR04sR1AsR1EsR1IsR1MsR1QsR1UsR1csR1ksSEssSE0sSE4sSFIsSFQsSFUsSUQsSUUsSUwsSU0sSU4sSU8sSVEsSVIsSVMsSVQsSkUsSk0sSk8sSlAsS0UsS0csS0gsS0ksS00sS04sS1AsS1IsS1csS1ksS1osTEEsTEIsTEMsTEksTEssTFIsTFMsTFQsTFUsTFYsTFksTUEsTUMsTUQsTUUsTUYsTUcsTUgsTUssTUwsTU0sTU4sTU8sTVAsTVEsTVIsTVMsTVQsTVUsTVYsTVcsTVgsTVksTVosTkEsTkMsTkUsTkYsTkcsTkksTkwsTk8sTlAsTlIsTlUsTlosT00sUEEsUEUsUEYsUEcsUEgsUEssUEwsUE0sUE4sUFIsUFMsUFQsUFcsUFksUUEsUkUsUk8sUlMsUlUsUlcsU0EsU0IsU0MsU0QsU0UsU0csU0gsU0ksU0osU0ssU0wsU00sU04sU08sU1IsU1MsU1QsU1YsU1gsU1ksU1osVEMsVEQsVEYsVEcsVEgsVEosVEssVEwsVE0sVE4sVE8sVFIsVFQsVFYsVFcsVFosVUEsVUcsVU0sVVMsVVksVVosVkEsVkMsVkUsVkcsVkksVk4sVlUsV0YsV1MsWEssWUUsWVQsWkEsWk0sWlc=&w=100%25&h=100%25&autoplay=true&force_mute=yes&filter=ALLOW&signature=c6fa29704c54caae69451a1e3ae3a15b"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/pyr/?id=https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8",
+                "https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alaraby.com/",
+        "país": "qa",
+        "categoría": "news"
+    },
+    "Alaraby-HD": {
+        "nombre": "Alaraby",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://azrotv.com/local/twitch/?ch=alrassoulchannel"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "alrassoulchannel"
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/alresoul.php",
+        "país": "qa",
+        "categoría": "news"
+    },
     "senato": {
         "nombre": "Senato",
         "logo": "",
