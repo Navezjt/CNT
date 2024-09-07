@@ -21212,8 +21212,8 @@
         "país": "kr",
         "categoría": "music"
     },
-    "k-pop": {
-        "nombre": "K-POP",
+    "THE-k-pop": {
+        "nombre": "THE K-POP",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -21227,8 +21227,23 @@
         "país": "kr",
         "categoría": "music"
     },
-    "the-kpop": {
-        "nombre": "THE KPOP",
+    "THE-k-pop2": {
+        "nombre": "THE K-POP2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCITH7URIRpb8yoshUwGE9jg",
+            "yt_embed": "28G3W8j9BEg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@thekpop2",
+        "país": "kr",
+        "categoría": "music"
+    },
+    "all-the-kpop": {
+        "nombre": "ALL THE KPOP",
         "logo": "",
         "señales": {
             "iframe_url": [
