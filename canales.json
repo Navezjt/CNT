@@ -21388,6 +21388,10 @@
         "logo": "http://www.elahmad.com/tv/images/og_video.png",
         "señales": {
             "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=SSC-1-HD",
+                "http://azrotv.com/pyr/?id=http://5.62.130.10:80/iptv/iptv/12.m3u8",
+                "https://azrotv.com/local/ssc/sn.php",
+                "https://azrotv.com/local/ssc/s1.php",
                 "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc1",
                 "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_news",
                 "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
@@ -21411,31 +21415,46 @@
         "país": "sa",
         "categoría": "news"
     },
-    "ssc-sport-Navez2": {
-        "nombre": "ssc sport Navez2",
-        "logo": "http://www.elahmad.com/tv/images/og_video.png",
+    "ZEE-Navez": {
+        "nombre": "ZEE Navez",
+        "logo": "https://tv.tflix.app/wp-content/uploads/2024/08/tflix.webp",
         "señales": {
             "iframe_url": [
-                "https://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
-                "https://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
-                "https://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
-                "https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
-                "https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc3",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc4",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2",
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
+                "http://azrotv.com/m3u8/san-ts/?id=ZEE-ALWAN",
+                "http://azrotv.com/m3u8/geo/?id=zeeaflam",
+                "http://azrotv.com/m3u8/san-ts/?id=ZEE-AFLAM",
+                "http://azrotv.com/m3u8/geo/?id=zeealwan"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v2a1/mono.m3u8",
+                "https://weyyak-live.akamaized.net/weyyak_zee_alwan/tracks-v2a1/mono.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://tv.tflix.app/live/ssc-3/",
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/zeeal.php",
+        "país": "sa",
+        "categoría": "news"
+    },
+    "mbfm-Navez": {
+        "nombre": "Mbfm Navez",
+        "logo": "https://tv.tflix.app/wp-content/uploads/2024/08/tflix.webp",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/pyr/?id=https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/pyr/?id=https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8",
+                "https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_4.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch2/mbfm.php",
         "país": "sa",
         "categoría": "news"
     },
