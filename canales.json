@@ -3172,11 +3172,9 @@
         "nombre": "voice over radio tv",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
-                ""
+                "https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -4828,6 +4826,225 @@
         "sitio_oficial": "https://unanuevamanana.com/",
         "país": "do",
         "categoría": "general"
+    },
+    "Luna-TV": {
+        "nombre": "Luna TV",
+        "logo": "https://graph.facebook.com/unanuevamananaa/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8"
+            ],
+            "yt_id": "UCcL-6daOBkp8E_sCJLxCXLg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://lunatv.do/",
+        "país": "do",
+        "categoría": "general"
+    },
+    "canal-algerie-tv": {
+        "nombre": "Canal Algérie (ENTV2)",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=ENTV",
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
+                "http://azrotv.com/local/gnk3/?id=328",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=thalitha",
+                "http://azrotv.com/m3u8/san-ts/?id=a3-ALGERIE",
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie4",
+                "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-4",
+                "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-5",
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie6",
+                "http://azrotv.com/m3u8/san-ts/?id=ALGERIE-6",
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie7",
+                "http://azrotv.com/m3u8/san-ts/?id=tv7",
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.entv.dz/live-canal-algerie/",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "el-djazairia-one-tv": {
+        "nombre": "El Djazairia One",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=dzair_tv",
+                "https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/pyr/?id=http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/7528.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.okbob.net/article-4048490.html",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "ElDjazairN1-tv": {
+        "nombre": "El DjazairN1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=dzair_tv",
+                "https://www.elahmad.com/tv/algeria_live.php?id=el_djazairia"
+            ],
+            "m3u8_url": [
+                "http://azrotv.com/pyr/?id=http://otx.arabitv5.com:8000/live/suaFaRecord/7PASADerJXre/7528.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.okbob.net/el-djazair-n1-tv.html?_gl=1*1gj3qim*_ga*RFVZNzhYaFQ1aHVWWEtSX2xnZEVCTThHUmZyTFF4b015SGhDN0xWcTZyMWl6SDVOVWs0eFQ2TkdzUDk3MmpMQQ..",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "samira-tv": {
+        "nombre": "samira tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=samira",
+                "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=samiratv",
+                "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
+                "https://www.elahmad.com/tv/algeria_live.php?id=samira_tv",
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/samira-tv.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "anahar-tv": {
+        "nombre": "Anahar tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=ENNAHAR",
+                "https://www.elahmad.com/tv/algeria_live.php?id=ennahartv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/ennaharonline.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "Ère TV-tv": {
+        "nombre": "Ère TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://azrotv.com/pyr/?id=https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8",
+                "https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/fr/61075/ERETV.html",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "El-Fadjr-tv": {
+        "nombre": "El Fadjr (Fajr) ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=FADJR",
+                "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv",
+                "https://www.elahmad.com/tv/algeria_live.php?id=el_fadjr_tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://online.hd44.com/2021/07/el-fadjr-tv-dz-live.html",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "alhayat-tv": {
+        "nombre": "Alhayat tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=elhayatonline",
+                "http://azrotv.com/m3u8/san-ts/?id=AWRAAS"
+            ],
+            "m3u8_url": [
+                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alhayat.tv/",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "bahiya-tv": {
+        "nombre": "bahiya tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=bahia",
+                "http://azrotv.com/m3u8/san-ts/?id=bahia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://92.205.101.247/ar/watch/algerie/bahiyatv.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "lina-tv": {
+        "nombre": "Lina Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://azrotv.com/m3u8/san-ts/?id=AWRAAS",
+                "http://azrotv.com/m3u8/san-ts/?id=AWRAAS"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://92.205.101.247/ar/watch/algerie/linatv.php",
+        "país": "dz",
+        "categoría": "news"
     },
     "KAN-11": {
         "nombre": "KAN 11",
