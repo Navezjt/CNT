@@ -21411,6 +21411,34 @@
         "país": "sa",
         "categoría": "news"
     },
+    "ssc-sport-Navez2": {
+        "nombre": "ssc sport Navez2",
+        "logo": "http://www.elahmad.com/tv/images/og_video.png",
+        "señales": {
+            "iframe_url": [
+                "https://webtvstream.bhtelecom.ba/hls6/arena1.mpd",
+                "https://webtvstream.bhtelecom.ba/hls6/arena2.mpd",
+                "https://webtvstream.bhtelecom.ba/hls6/arena3.mpd",
+                "https://webtvstream.bhtelecom.ba/hls6/arena4.mpd",
+                "https://webtvstream.bhtelecom.ba/hls6/arena5.mpd",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc2",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc3",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc4",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_5",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra1",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra2",
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=ssc_extra3"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.tflix.app/live/ssc-3/",
+        "país": "sa",
+        "categoría": "news"
+    },
     "asharq-news-Navez": {
         "nombre": "asharq news Navez",
         "logo": "",
