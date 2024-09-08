@@ -16329,6 +16329,57 @@
         "país": "tr",
         "categoría": "news"
     },
+    "now-TV": {
+        "nombre": "NOW TV",
+        "logo": "https://i.ibb.co/tHQpWvn/24.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1725878252&st=Ug-Jx7v_frgEFOBZGVXlAg"
+            ],
+            "yt_id": "UCN7VYCsI4Lx1-J4_BtjoWUA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.nowtv.com.tr/canli-yayin",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "show-TV": {
+        "nombre": "SHOW TV",
+        "logo": "https://i.ibb.co/tHQpWvn/24.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1725829447&st=njVylPLG_48kREByDdXplA&tv=1"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.showtv.com.tr/canli-yayin",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "TV8-TV": {
+        "nombre": "TV8",
+        "logo": "https://user-images.githubusercontent.com/16838044/195684196-a3405e3d-98fc-41a7-9d79-ec34023ccff8.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=6q4fxkc7o0av&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tv8.com.tr/canli-yayin",
+        "país": "tr",
+        "categoría": "news"
+    },
     "abp-majha": {
         "nombre": "ABP MAJHA",
         "logo": "https://graph.facebook.com/abpmajha/picture?width=800&height=800",
