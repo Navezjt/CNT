@@ -3117,6 +3117,23 @@
         "país": "br",
         "categoría": "radio"
     },
+    "jovem-pan-AO": {
+        "nombre": "Jovem Pan",
+        "logo": "https://s.jpimg.com.br/wp-content/themes/jovempan/assets/build/images/logo-jovempan-white.png?v2",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_4.m3u8"
+            ],
+            "yt_id": "UCBtpKi29d2LQTYJWTKPHAvg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://jovempan.com.br/ao-vivo",
+        "país": "br",
+        "categoría": "news"
+    },
     "multimedios-costa-rica": {
         "nombre": "Multimedios Costa Rica",
         "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
@@ -14678,7 +14695,7 @@
         "categoría": "news"
     },
     "agenda-free-tv": {
-        "nombre": "Agenda-Free TV",
+        "nombre": "Agenda Free TV",
         "logo": "",
         "señales": {
             "iframe_url": [],
