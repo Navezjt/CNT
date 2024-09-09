@@ -9928,6 +9928,182 @@
         "país": "pe",
         "categoría": "news"
     },
+    "romance-channel": {
+        "nombre": "Romance Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/2b17d6a4-5e1d-43b9-a5ef-147572e87498/1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/romance-channel/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "crema-tv": {
+        "nombre": "Crema TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/crematv/7fb85a61-3ea7-4548-b723-45ec4ec18168/0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/crematv/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "kids-tv-espanol": {
+        "nombre": "Kids TV Español",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/37c013c6-cad1-4f09-aca0-183d9dd42060/1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/crematv/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "freetv-saber-mas": {
+        "nombre": "Freetv Saber Mas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-saber-mas/98a0f297-654c-41d2-8717-5c28bdc2e89a/3.m3u8",
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-saber-mas/98a0f297-654c-41d2-8717-5c28bdc2e89a/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/freetv-saber-mas/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "freetv-drama-latam": {
+        "nombre": "Freetv Drama Latam",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-drama-latam/b24205a6-1de6-4819-b851-83d6c0b65f93/3.m3u8",
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-drama-latam/b24205a6-1de6-4819-b851-83d6c0b65f93/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/freetv-drama-latam/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "freetv-terror": {
+        "nombre": "Freetv Terror",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-terror/0162688c-92eb-4e3e-8971-d8eaa44b27be/3.m3u8",
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-terror/0162688c-92eb-4e3e-8971-d8eaa44b27be/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/freetv-terror/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "freetv-accion-latam": {
+        "nombre": "Freetv Accion Latam",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/4c49a70c-c24f-40aa-84e8-d293bfe5ede2/3.m3u8",
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-accion-latam/4c49a70c-c24f-40aa-84e8-d293bfe5ede2/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/freetv-accion-latam/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "freetv-estelar-latam": {
+        "nombre": "Freetv Estelar Latam",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-estelar-latam/5df68a2b-e914-4465-bf24-1cafd85faac4/3.m3u8",
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/freetv-estelar-latam/5df68a2b-e914-4465-bf24-1cafd85faac4/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/freetv-estelar-latam/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "galxy-tv": {
+        "nombre": "Galxy TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream-us-east-1.getpublica.com/cl/240909crfloba2r59gtacfsqj0/960x540_1952280_0_f.m3u8?i=513_2254",
+                "https://stream-us-east-1.getpublica.com/cl/240909crfloba2r59gtacfsqj0/960x540_1952280_0_f.m3u8?i=513_2254"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/galxy-tv/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "zee-bollyworld": {
+        "nombre": "zee bollyworld",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/cl/240909crflp8rbmkd4jgsavchg/1280x720_2300000_0_f.m3u8?i=475_6640"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.distro.tv/live/zee-bollyworld/",
+        "país": "pe",
+        "categoría": "news"
+    },
     "dzrh": {
         "nombre": "Dzrh",
         "logo": "",
