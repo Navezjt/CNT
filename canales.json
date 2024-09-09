@@ -14482,6 +14482,25 @@
         "país": "us",
         "categoría": "news"
     },
+    "cbs-news": {
+        "nombre": "CBS News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cbs.com/live-tv/stream/cbs-news/"
+            ],
+            "m3u8_url": [
+                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/2aaf2f8c-0d98-41df-9989-36541b54a394:SCL/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3338376.m3u8?CMCD=mtp%3D21400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2296350e91-187d-4621-8b56-f6e96b133980%22"
+            ],
+            "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cbs.com/",
+        "país": "us",
+        "categoría": "news"
+    },
     "agenda-free-tv": {
         "nombre": "Agenda-Free TV",
         "logo": "",
