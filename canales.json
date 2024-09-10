@@ -13204,6 +13204,225 @@
         "país": "vn",
         "categoría": "news"
     },
+    "giọng-ca-để-đời": {
+        "nombre": "giọng ca để đời",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCwZ2ZaFfTusqV_MGMHUnEsg",
+            "yt_embed": "-V6SYQkjqgQ?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/watch?v=-V6SYQkjqgQ",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Giai-Dieu-Song-Hong": {
+        "nombre": "giai điệu sông hồng",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/gZXIiULf9e4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCME2wv281apbk1Y-GONto7w",
+            "yt_embed": "ElJ7uHEv7j8?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@GiaiDieuSongHong",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "360-Entertainment-media": {
+        "nombre": "360 Entertainment",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/aUtito9_Nc8?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCOCbWHBEHggqr5_WB8N9x8g",
+            "yt_embed": "aUtito9_Nc8?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@360Entertainmentmedia/streams",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Mai-Kiều-Official": {
+        "nombre": "Mai Kiều Official",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/HTVOkA7Obws?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCx74hngkuzRKmDlbmlM48bw",
+            "yt_embed": "HTVOkA7Obws?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCx74hngkuzRKmDlbmlM48bw",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Trung-Tâm-Bolero": {
+        "nombre": "Trung Tâm Bolero",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/fvcv2aAJMKY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCTj06DqiI5ZxkKmaKTszRxA",
+            "yt_embed": "xSltIaJ9xik?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TrungTamBolero",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Khánh-An-Official": {
+        "nombre": "Khánh An Official",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/SYAHqCLK1tg?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCqaLGrgyElLUKqo4k35TkBA",
+            "yt_embed": "SYAHqCLK1tg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@casikhanhanofficial",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Lời-Ca-Quê-Hương": {
+        "nombre": "Lời Ca Quê Hương",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/6AULea7hqus?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCAayLnT3BjBJG7YjLnfgCQg",
+            "yt_embed": "wxdztf1QJ3U?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@loicaquehuong/streams",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Osman-Navruzov": {
+        "nombre": "Osman Navruzov",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/Y3__yQTL-7Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCGs-QbpIK-c5QOoKyS6hVNQ",
+            "yt_embed": "Y3__yQTL-7Y?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@OsmanNavruzov1/streams",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Ngọc-Diệu-Bolero": {
+        "nombre": "Ngọc Diệu Bolero",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/iI0y4eVBfqg?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCqihWXArWpuP7uYs_SRB0sg",
+            "yt_embed": "iI0y4eVBfqg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCqihWXArWpuP7uYs_SRB0sg",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Liveshow-Ca-Nhạc": {
+        "nombre": "Liveshow Ca Nhạc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/IZL6IGue8tk?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCks39FmFGb9WI-Fawzxcn7Q",
+            "yt_embed": "IZL6IGue8tk?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@LiveshowCaNhac",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Lính-Trận-Miền-Xa": {
+        "nombre": "Lính Trận Miền Xa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/25SCvLhh7oI?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCHVcga2iFmktWA7vX-CnAtA",
+            "yt_embed": "25SCvLhh7oI?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@linhmienxa",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Nhịp-Cầu-Bolero": {
+        "nombre": "Nhịp Cầu Bolero",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/kOTRc63by5A?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCCgKB3CPS2EMKhrv-GzJ30w",
+            "yt_embed": "kOTRc63by5A?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@nhipcaubolero9383",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "Kho-Nhạc-Không-Quảng-Cáo": {
+        "nombre": "Kho Nhạc Không Quảng Cáo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/VHJHYBGtCPY?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCs2fROdO6Zvkl6c0TjqB7DQ",
+            "yt_embed": "T3E9BReuRTg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@khonhackhongquangcao8051",
+        "país": "vn",
+        "categoría": "news"
+    },
     "hch-vivo": {
         "nombre": "HCH",
         "logo": "",
