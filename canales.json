@@ -992,7 +992,7 @@
         "país": "cl",
         "categoría": "general"
     },
-    "osorno-tv": {
+    "osorno-tvmas": {
         "nombre": "Osorno TV+",
         "logo": "https://graph.facebook.com/OsornoTV/picture?width=800&height=800",
         "señales": {
@@ -1392,8 +1392,8 @@
         "país": "cl",
         "categoría": "music"
     },
-    "multi+cine": {
-        "nombre": "Multi+cine",
+    "multimas-cine": {
+        "nombre": "Multi+ Cine",
         "logo": "https://scontent.flim31-1.fna.fbcdn.net/v/t39.30808-6/436149820_122097593648276759_4087322816650421197_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=leJBTUVWva4Q7kNvgEa_G1u&_nc_ht=scontent.flim31-1.fna&oh=00_AYBBe8BjkbWkyKHXeUetEdYiY7-mscSizMwM1O07-H7yEQ&oe=66809CDF",
         "señales": {
             "iframe_url": [
@@ -13442,7 +13442,7 @@
         "país": "hn",
         "categoría": "news"
     },
-    "metrotvcholuteca": {
+    "metro-tv-choluteca": {
         "nombre": "METRO TV CHOLUTECA HONDURAS",
         "logo": "https://graph.facebook.com/MetrotvyRadioMetroCholuteca/picture?width=800&height=800",
         "señales": {
@@ -13478,7 +13478,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "imagentelevisionpuebla": {
+    "imagen-television-puebla": {
         "nombre": "Imagen Televisión Puebla",
         "logo": "https://graph.facebook.com/ImagenTVPuebla/picture?width=800&height=800",
         "señales": {
@@ -13510,7 +13510,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "binoticias": {
+    "bi-noticias": {
         "nombre": "BI NOTICIAS",
         "logo": "https://graph.facebook.com/BINoticiasAgs/picture?width=800&height=800",
         "señales": {
@@ -13527,7 +13527,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "oronoticiaspuebla": {
+    "oro-noticias-puebla": {
         "nombre": "Oro Noticias Puebla",
         "logo": "https://graph.facebook.com/OroNoticias/picture?width=800&height=800",
         "señales": {
@@ -13542,7 +13542,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "cpsnoticiaspuertovallarta": {
+    "cps-noticias-puerto-vallarta": {
         "nombre": "CPS Noticias Puerto Vallarta",
         "logo": "https://graph.facebook.com/tribunadelabahiaoficial/picture?width=800&height=800",
         "señales": {
@@ -13557,7 +13557,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "ahoranoticias3274": {
+    "ahora-noticias3274": {
         "nombre": "Ahora Noticias",
         "logo": "https://graph.facebook.com/AhoraNoticiasC/picture?width=800&height=800",
         "señales": {
@@ -13572,7 +13572,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "vamasnoticiasags26": {
+    "vamas-noticiasags26": {
         "nombre": "VA+ Noticias",
         "logo": "https://graph.facebook.com/RyTAgs/picture?width=800&height=800",
         "señales": {
@@ -13589,7 +13589,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "televisaguascalients": {
+    "televisa-aguascalients": {
         "nombre": "Televisa Aguascalientes Oficial",
         "logo": "https://graph.facebook.com/Nu9veAgs/picture?width=800&height=800",
         "señales": {
@@ -13623,7 +13623,7 @@
         "país": "mx",
         "categoría": "news"
     },
-    "televisamonterreytv": {
+    "televisa-monterreytv": {
         "nombre": "Televisa Monterrey",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
         "señales": {
@@ -15585,7 +15585,7 @@
         "país": "us",
         "categoría": "science"
     },
-    "Bloomberg-TV+": {
+    "Bloomberg-TVmas": {
         "nombre": "Bloomberg TV+",
         "logo": "",
         "señales": {
