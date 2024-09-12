@@ -1435,7 +1435,7 @@
         "país": "cl",
         "categoría": "news"
     },
-    "+cine": {
+    "mascine": {
         "nombre": "+CINE",
         "logo": "",
         "señales": {
