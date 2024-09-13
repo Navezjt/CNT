@@ -3467,6 +3467,91 @@
         "país": "br",
         "categoría": "news"
     },
+    "TV-BRASIL-AO": {
+        "nombre": "TV BRASIL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1200px-TV_Brasil_logo_2019.svg.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://iptv.vivatele.com:443/live/viva_padrao/viva2384/18.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/newclews/iptvlist/blob/main/iptv.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
+    "TV-CULTURA-AO": {
+        "nombre": "TV CULTURA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://iptv.vivatele.com:443/live/viva_padrao/viva2384/6.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/newclews/iptvlist/blob/main/iptv.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
+    "CANAL-GOV-AO": {
+        "nombre": "CANAL GOV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://isgo.newclews.workers.dev/stream/UCjaWLFTNqLkq3ZY2BJ4NYRg/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/newclews/iptvlist/blob/main/iptv.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
+    "BAND-MG-AO": {
+        "nombre": "BAND MG",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://168.205.87.198:8555/live/1210/123456/19.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/newclews/iptvlist/blob/main/iptv.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
+    "BAND-RJv-AO": {
+        "nombre": "BAND RJ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://iptv.vivatele.com:443/live/viva_padrao/viva2384/3.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/newclews/iptvlist/blob/main/iptv.m3u",
+        "país": "br",
+        "categoría": "news"
+    },
     "multimedios-costa-rica": {
         "nombre": "Multimedios Costa Rica",
         "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
@@ -10292,6 +10377,92 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.distro.tv/live/romance-channel/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "cine-romantico": {
+        "nombre": "Cine Romantico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/cl/240913cri9ag241tmvtpe62aeg/1280x720_2300000_0_f.m3u8?i=475_656",
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canela.tv/es/linear/cine-romantico",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "canela-kids": {
+        "nombre": "Canela kids",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/HelmerLuzo/CanelaTV_HL/blob/47210803073703dba16ea1b438c641e5a5464ec3/tv/m3u/CanelaTV_tv.m3u",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "canela-Canela-TV": {
+        "nombre": "Canela Canela TV",
+        "logo": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canelatv-16x9_4.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=654"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/HelmerLuzo/CanelaTV_HL/blob/47210803073703dba16ea1b438c641e5a5464ec3/tv/m3u/CanelaTV_tv.m3u",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "canela-Cinema": {
+        "nombre": "Canela Cinema",
+        "logo": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-cinema-16x9_1.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/CanelaTV_HL/blob/main/tv/m3u/CanelaTV_tv.m3u",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "canela-novelas-turcas": {
+        "nombre": "Canela Novelas Turcas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/CanelaTV_HL/blob/main/tv/m3u/CanelaTV_tv.m3u",
         "país": "pe",
         "categoría": "news"
     },
