@@ -2548,6 +2548,295 @@
         "país": "ar",
         "categoría": "news"
     },
+    "espn-PE-tv": {
+        "nombre": "Espn PE Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global1.php?stream=espn1",
+                "https://streamtp.live/global1.php?stream=espn2",
+                "https://streamtp.live/global1.php?stream=espn3",
+                "https://streamtp.live/global1.php?stream=espn_deportes",
+                "https://streamtp.live/global1.php?stream=espn5"
+            ],
+            "m3u8_url": [
+                "https://cale.pricesaskeloadsc.com:443/global/espn1/index.m3u8?token=bd2912167104ab05580d9c8846f317944baa1cc3-6d-1726276133-1726240133",
+                "https://cale.pricesaskeloadsc.com:443/global/espn2/index.m3u8?token=6a16f4a4f03617ecf4b014889fd605b46afb3a60-a3-1726276228-1726240228",
+                "https://cale.pricesaskeloadsc.com:443/global/espn3/index.m3u8?token=c57d0e577276a71a482432c6d6bd62dcd40c74d6-bb-1726276335-1726240335",
+                "https://update8915.pricesaskeloadsc.com:443/global/espn_deportes/index.m3u8?token=3f597115a59b2db79485960f6203e83485d0f948-7a-1726276384-1726240384",
+                "https://vadp.pricesaskeloadsc.com:443/global/espn5/index.m3u8?token=5e87160dea901dbb45adb68b5bc6bc03005aff94-47-1726276434-1726240434"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/espn-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "dsports-mas-tv": {
+        "nombre": "Dsports + Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global1.php?stream=dsports_plus"
+            ],
+            "m3u8_url": [
+                "https://vals88.pricesaskeloadsc.com:443/global/dsports_plus/index.m3u8?token=6e09e82eb1181f9b48c6de8fb30f54856332e55e-5b-1726276545-1726240545"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/dsports-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "espn-premium-tv": {
+        "nombre": "ESPN Premium Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global2.php?stream=espn_premium"
+            ],
+            "m3u8_url": [
+                "https://812.pricesaskeloadsc.com:443/global/espn_premium/index.m3u8?token=6612f04d0193c022300f8ac1cfb395ba45d8274c-c2-1726276673-1726240673"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/espn-premium-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "fox-sports-1": {
+        "nombre": "Fox Sports AR Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global1.php?stream=fox1ar",
+                "https://streamtp.live/global1.php?stream=fox2ar",
+                "https://streamtp.live/global1.php?stream=fox3ar",
+                "https://streamtp.live/global1.php?stream=foxsportspremium"
+            ],
+            "m3u8_url": [
+                "https://cale.pricesaskeloadsc.com:443/global/fox1ar/index.m3u8?token=25c85eb9c6e577749a8ddd83cf1ba783f8c62101-a7-1726276750-1726240750",
+                "https://cale.pricesaskeloadsc.com:443/global/fox2ar/index.m3u8?token=8a8386c8971aa8f732fdf28fa0315a2a413be42b-17-1726276883-1726240883",
+                "https://cale.pricesaskeloadsc.com:443/global/fox3ar/index.m3u8?token=7bc3198742ca40c61413465c650a2bc1e3ed7b48-33-1726276972-1726240972",
+                "https://update8915.pricesaskeloadsc.com:443/global/foxsportspremium/index.m3u8?token=d6b84e2c09fa0a0f03c9f6cc47d971d46a8890f7-5b-1726277013-1726241013"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/fox-sports-1-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "gol-peru-tv": {
+        "nombre": "GolPerú Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global1.php?stream=golperu"
+            ],
+            "m3u8_url": [
+                "https://update8915.pricesaskeloadsc.com:443/global/golperu/index.m3u8?token=b5f7231b88615571c0573c5d6ad3d5981f64236a-01-1726277073-1726241073"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/gol-peru-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "liga-1-max-tv": {
+        "nombre": "Liga 1 MAX Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global2.php?stream=l1max"
+            ],
+            "m3u8_url": [
+                "https://812.pricesaskeloadsc.com:443/global/l1max/index.m3u8?token=406f71371ad8733ebfd1b0868edd697b3d794828-a6-1726277218-1726241218"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/liga-1-max-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "tyc-sports-tv": {
+        "nombre": "Tyc Sports Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global1.php?stream=tyc_sports"
+            ],
+            "m3u8_url": [
+                "https://update8915.pricesaskeloadsc.com:443/global/tyc_sports/index.m3u8?token=6e121e3156c7584dbb4ff904eba031a5bb2b334b-e4-1726277309-1726241309"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/tyc-sports-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "tnt-sports-chile-tv": {
+        "nombre": "TNT Sports Chile Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global1.php?stream=tnt_chile",
+                "https://streamtp.live/global1.php?stream=tntsports_argentina",
+                "https://streamtp.live/global1.php?stream=tntsports_argentina"
+            ],
+            "m3u8_url": [
+                "https://812.pricesaskeloadsc.com:443/global/tnt_chile/index.m3u8?token=4e7c7d67e4129b959aa297af71e35f2c7e9fd5cf-8a-1726277384-1726241384",
+                "https://cale.pricesaskeloadsc.com:443/global/tntsports_argentina/index.m3u8?token=4f35514cb34a9cebdb5e8a502035c7325be72232-e9-1726277464-1726241464",
+                "https://xca5.pricesaskeloadsc.com:443/global/tntsports_argentina/index.m3u8?token=7c3f4b7f52051d0b3f7c35de75b6c7a7c0f1cc25-55-1726277558-1726241558"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/tnt-sports-chile-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "dazn-la-liga-tv": {
+        "nombre": "DAZN LaLiga Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://forlessmake.store/cobo.html?id=DAZN_LA_LIGA",
+                "https://streamtp.live/global1.php?stream=dazn_laliga"
+            ],
+            "m3u8_url": [
+                "https://5156.pricesaskeloadsc.com:443/global/dazn_laliga/index.m3u8?token=1f338e1a056c0359df2d3b40c429c5c75c4d6f06-00-1726277846-1726241846"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/dazn-la-liga-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "formula-1-tv": {
+        "nombre": "Fórmula 1 ES Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://forlessmake.store/cobo.html?id=FORMULA_1"
+            ],
+            "m3u8_url": [
+                "https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/formula-1-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "premiere-br-tv": {
+        "nombre": "Fox 32 Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/premiere-br-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "premiere-br-tv": {
+        "nombre": "Premiere BR Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://forlessmake.store/cobo.html?id=PREMIERE_BR"
+            ],
+            "m3u8_url": [
+                "https://live-streaming-rsm.akamaized.net/sn1hd/sn1hd_cenc.isml/.mpd"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/premiere-br-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "dazn-1-ES-tv": {
+        "nombre": "DAZN 1 ES Navezjt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://streamtp.live/global1.php?stream=dazn1",
+                "https://forlessmake.store/cobo.html?id=DAZN_1_ES",
+                "https://streamtp.live/global1.php?stream=dazn2",
+                "https://forlessmake.store/cobo.html?id=DAZN_2_ES"
+            ],
+            "m3u8_url": [
+                "https://5156.pricesaskeloadsc.com:443/global/dazn1/index.m3u8?token=de1075d198f2f915b5250ef5634b7088c183fdf3-9c-1726278169-1726242169",
+                "https://vadp.pricesaskeloadsc.com:443/global/dazn2/index.m3u8?token=51f0451a3633504451dbe7b66012541e62bf1738-90-1726278247-1726242247"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://todopelotatvhd.com/en-directo/dazn-1-es-en-vivo-por-internet",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Canal-Televida-Mendoza": {
+        "nombre": "Canal Televida Mendoza",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://television-libre.net/html/hls.html?get=aHR0cHM6Ly91bmxpbWl0ZWQxLWJ1ZW5vc2FpcmVzLmRwcy5saXZlL3RlbGV2aWRhYXIvdGVsZXZpZGFhci5zbWlsL3BsYXlsaXN0Lm0zdTg="
+            ],
+            "m3u8_url": [
+                "https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/televidaar/livestream2/chunks.m3u8?nimblesessionid=16241480"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://television-libre.net/en-vivo/televida/",
+        "país": "ar",
+        "categoría": "news"
+    },
     "bakutv": {
         "nombre": "Bakutv",
         "logo": "/assets/frontend/img/hd-logo.png",
