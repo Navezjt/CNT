@@ -6588,7 +6588,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8"
+                "https://tv.ondadigital.pe/ondadigital/index.m3u8"
             ],
             "yt_id": "UCAzIHVV3BvVIvddYDdtLJ3A",
             "yt_embed": "",
@@ -6678,7 +6678,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Canal_B.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/gu77RkmSzJc?hd=1&autoplay=1"
+                "https://www.youtube.com/embed/mk2O2bsFyas?hd=1&autoplay=1"
             ],
             "m3u8_url": [],
             "yt_id": "UCFrOdZIiGOGFP5kk4xZgH6Q",
