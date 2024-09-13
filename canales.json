@@ -2837,6 +2837,45 @@
         "país": "ar",
         "categoría": "news"
     },
+    "canal-34-de-san-juan": {
+        "nombre": "Canal 34 de San Juan",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.alsolnet.com/stream/canal34hd/player.htm",
+                "https://eja.tv/play/?http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8#2409c0d4058ad768670a7e81d2e752b82b865fc87ecdd8351282c12fc667640a"
+            ],
+            "m3u8_url": [
+                "https://streamyes.alsolnet.com/canal34hd/live/chunklist_w329713436.m3u8",
+                "https://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8",
+                "https:\/\/streamyes.alsolnet.com\/canal34hd\/live\/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canalesargentinosenvivo.com/2021/09/canal-34-de-san-juan-en-vivo.html",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "diario-el-zondas": {
+        "nombre": "Diario El Zondas",
+        "logo": "/assets/frontend/img/hd-logo.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.diarioelzondasj.com.ar/en-vivo/",
+        "país": "ar",
+        "categoría": "news"
+    },
     "bakutv": {
         "nombre": "Bakutv",
         "logo": "/assets/frontend/img/hd-logo.png",
