@@ -11106,6 +11106,26 @@
         "país": "pe",
         "categoría": "news"
     },
+    "one-tv": {
+        "nombre": "TV ONE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvone.pe/tv/tvmobil.html"
+            ],
+            "m3u8_url": [
+                "https://streamtv.onliv3.online:1936/karibtv/karibtv/chunklist_w1904423739.m3u8",
+                "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvone.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
     "dzrh": {
         "nombre": "Dzrh",
         "logo": "",
