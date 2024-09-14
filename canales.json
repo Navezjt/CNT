@@ -6469,11 +6469,12 @@
         "señales": {
             "iframe_url": [
                 "https://rudo.video/live/latina?autoplay=true&volume=0",
-                "https://www.youtube.com/embed/aPIyVbKJP7M?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://atvenvivo.com/hls.php-93.html?get=Ly9qaXJlaC0yLWhscy12aWRlby11cy1pc3AuZHBzLmxpdmUvaGxzLXZpZGVvLzU2N2ZmZGUzZmEzMTlmYWRmMzQxOWVmZGEyNTYxOTQ1NjIzMWRmZWEvbGF0aW5hL2xhdGluYS5zbWlsL3BsYXlsaXN0Lm0zdTg/ZHBzc2lkPWIyNjg1MzMxMjAxNjZiZmYyYmJjNjMzNyZzaWQ9YmE1dDFsMXhiMjUzODA5MTY3MjY2YmZmMmJkOTk0OWUmbmR2Yz0w",
+                "https://www.goltvgo.com/canalestv.php?get=aHR0cHM6Ly9qaXJlaC0zLWhscy12aWRlby1wZS1pc3AuZHBzLmxpdmUvaGxzLXZpZGVvLzU2N2ZmZGUzZmEzMTlmYWRmMzQxOWVmZGEyNTYxOTQ1NjIzMWRmZWEvbGF0aW5hL2xhdGluYS5zbWlsL3BsYXlsaXN0Lm0zdTg/ZHBzc2lkPWIxMzI2MTA3NTI1MjY1ODZkMzEyMTE0NmImc2lkPWJhNXQxbDF4YjIxODczMDM1Nzg4NjU4NmQzMTIzYjlkNyZuZHZjPTA="
             ],
             "m3u8_url": [],
             "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
-            "yt_embed": "ytv0DNcMAA4?",
+            "yt_embed": "MEULo6p5VdQ?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -6485,12 +6486,14 @@
         "nombre": "PBO",
         "logo": "https://graph.facebook.com/pboperu/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://player.twitch.tv?channel=pboperu&parent=pbo.pe&referrer=https%3A%2F%2Fpbo.pe%2Ftvenvivo%2F"
+            ],
             "m3u8_url": [],
             "yt_id": "UCgR0st4ZLABi-LQcWNu3wnQ",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "pboperu"
         },
         "sitio_oficial": "https://pbo.pe/",
         "país": "pe",
@@ -6570,7 +6573,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
+                "https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8",
                 "https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8"
             ],
             "yt_id": "UCRdGjpVs7vnyDXcEs6W8hkA",
@@ -6658,11 +6661,10 @@
         "nombre": "canal 33 ayacucho",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
         "señales": {
-            "iframe_url": [
-                "https://live.canal33ayacucho.com/"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
-                "https://video2.getstreamhosting.com:19360/8206/8206.m3u8"
+                "https://video2.getstreamhosting.com:19360/8206/8206.m3u8",
+                "https://cdnhd.iblups.com/hls/I5YHCGXRQI.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -6670,6 +6672,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.canal33ayacucho.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "chincha-tv": {
+        "nombre": "Chincha Tv",
+        "logo": "https://blogger.googleusercontent.com/img/a/AVvXsEjy2Xx6KDD2C-Ni2kyRMfsDsbG62FhSB1YcpM8FrocRdVfG1ZDEI9779v2WE5bnL0zIRn5127vcKhGJkobpLFOB_nTnNjwWzT3FCXp9HuPVeVte0sfm90vUYvQnH03b7jj52T-Itm4T0xnCGF4sOOClFLOTMLcxsH0oxhXneFwgdFvcaH7cjdWGvifvbdU=s658",
+        "señales": {
+            "iframe_url": [
+                "https://ok.ru/videoembed/5439500131845"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.chincha.tv/",
         "país": "pe",
         "categoría": "news"
     },
@@ -6849,6 +6868,7 @@
         "logo": "https://www.cadenatv.com.pe/wp-content/uploads/2023/01/LOGO-CADENA-300x261.png",
         "señales": {
             "iframe_url": [
+                "https://tv.bitstreaming.net/live-stream-video-widget/cdntv",
                "https://player.castr.com/live_22559b90f93611ee8ced67fa0559b7a1" 
             ],
             "m3u8_url": [],
@@ -6879,7 +6899,7 @@
         "categoría": "news"
     },
     "huancayo-tv": {
-        "nombre": "Huancayo-Tv",
+        "nombre": "Huancayo TV",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -6892,6 +6912,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.huancayotv.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "cana-45": {
+        "nombre": "CANAL 45",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/fragments/live-1500/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal45tv.com/",
         "país": "pe",
         "categoría": "news"
     },
@@ -6968,7 +7005,9 @@
             "iframe_url": [
                 "https://live.obslivestream.com/piuratv/embed.html"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https:\/\/live.obslivestream.com\/piuratv\/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -8597,11 +8636,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://symphonier.com/reproductor.php?canal=9026",
+                "https://artv.watch/embed.php?channel=MilenialTV.pe",
                 "rtmp://www.milenial.news:1935/live"
             ],
             "m3u8_url": [
-                "https://www.milenial.news/salida/milenial.m3u8"
+                "https://www.milenial.news/salida/milenial.m3u8",
+                "https://www.milenial.news/salida/sd/milenial.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -9185,7 +9225,9 @@
             "iframe_url": [
                 "https://tv.mediacp.eu:2020/VideoPlayer/radioelpueblo?autoplay=1"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
