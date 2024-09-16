@@ -14663,8 +14663,12 @@
         "nombre": "adn40Mx",
         "logo": "https://graph.facebook.com/adn40mx/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/60b578b060947317de7b57ac?jsapi=true&show_controls_on_ad=true&autoplay=true&volume=0&player=607868647ef7d607f13d0adb&show_title=false&poster=&cust_params=device%3Dweb%26idusuario%3Dnull&ads[map]=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F29782907%2FAztecaUno%2FVenga-La-Alegria%2FVenga-La-Alegria-EnVivo%26description_url%3D%5Bplaceholder%5D%26url%3D%26env%3Dvp%26impl%3Ds%26tfcd%3D0%26npa%3D0%26gdfp_req%3D1%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D1%26correlator%3D%22"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8"
+            ],
             "yt_id": "UC7k--FhnJzhPTrbtldMSoQQ",
             "yt_embed": "",
             "yt_playlist": "",
