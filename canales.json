@@ -14505,7 +14505,7 @@
             ],
             "m3u8_url": [],
             "yt_id": "UCKuAmo9OGf8kw2jrPWCpHdA",
-            "yt_embed": "",
+            "yt_embed": "vOoTbys9htg?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -14518,6 +14518,7 @@
         "logo": "https://graph.facebook.com/BINoticiasAgs/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
+                "https://player.vimeo.com/video/1009701588?autoplay=1",
                 "https://player.vimeo.com/video/947887635"
             ],
             "m3u8_url": [],
@@ -14612,7 +14613,7 @@
         "logo": "https://graph.facebook.com/mileniodiario/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/WapK0zFOa00?autoplay=1&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.milenio.com&widgetid=1"
+                "https://www.youtube.com/embed/d-4kSPg70jE?autoplay=1&embed_config=%7B%22adsConfig%22%3A%7B%22disableAds%22%3Atrue%7D%2C%22enableIma%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fwww.milenio.com&widgetid=1"
             ],
             "m3u8_url": [
                 "https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8"
@@ -14633,11 +14634,43 @@
             "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UCGDJLLphnP0zQQaE3kgo5Wg",
-            "yt_embed": "",
+            "yt_embed": "zbJc2aPyIGg?",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "amas-tv": {
+        "nombre": "Amas TV",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/55/Channel_4.1.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "zbJc2aPyIGg?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvazteca.com/amastv/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "Migrante-tv": {
+        "nombre": "TV Migrante",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s5.mexside.net:1936/tvmigrante/tvmigrante/chunklist_w1911119574.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mxplus.tv/television/tv-migrante",
         "país": "mx",
         "categoría": "news"
     },
@@ -14647,8 +14680,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://channel07dai-notusa.akamaized.net/linear/hls/pa/event/-upN13W-TT6fUrHnL3XddQ/stream/d27dba52-79cd-43cf-bd29-27fc959e897a:SCL/variant/229a33be64dd9fbfdb51d210081ea8c1/bandwidth/1215023.m3u8?hdntl=exp=1724426238~acl=*~id=16d6239d-8331-467b-9798-9f5598529c0c~data=hdntl~hmac=4f3b15fd464f596560d8e6f0f83a5a5f40476c6bfd2dd387ccf7c3b61a4690b0&",
-                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/465f3534-34bd-4df9-8d4a-2210dd1a5a54:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1724426873~acl=*~id=b0f284db-5ecc-49c5-bb05-13208dfeda73~data=hdntl~hmac=db45b1042dbedef70e9b02b187cda4e9dd42088f21d031a3167b0477c0a39e09&"
+                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/b06b769b-dc9b-46b7-bb8d-30b274872e73:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1726593358~acl=*~id=848583a6-b3ee-488b-96bf-936c9496cae0~data=hdntl~hmac=ec1938a7de13eb541f20dd33aa02eafa7d0006a865457a16085a9945e75c4f11&",
+                ""
             ],
             "yt_id": "UCUsm-fannqOY02PNN67C0KA",
             "yt_embed": "",
