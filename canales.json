@@ -19404,7 +19404,7 @@
         "país": "in",
         "categoría": "news"
     },
-    "banglavisionlive": {
+    "banglavision-live": {
         "nombre": "BanglaVision LIVE",
         "logo": "https://graph.facebook.com/banglavision/picture?width=800&height=800",
         "señales": {
@@ -19416,6 +19416,108 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.bvnews24.com/live/",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "news-live-tv": {
+        "nombre": "NEWS LIVE TV",
+        "logo": "https://graph.facebook.com/banglavision/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://prideeast.thelegitpro.in/newslive/newslive/embed.html"
+            ],
+            "m3u8_url": [
+                "https://prideeast.thelegitpro.in/newslive/newslive/tracks-v1/index.fmp4.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://newslivetv.com/live-tv/",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "live-tv-ndtv": {
+        "nombre": "TV NDTV24x7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_1080p@4.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ndtv.com/livetv-ndtv24x7",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "news-24-express": {
+        "nombre": "News 24 Express",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/News-24-Express/66543c02c47b711ec468090c/large_16_9_1716178882.jpg?1716801461|title=News%2024%20Express|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=66543c0bc47b71a00f001784|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/livetv",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "media9-tv": {
+        "nombre": "Media9 TV",
+        "logo": "https://graph.facebook.com/banglavision/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Media9-TV/65ce17feb1e0d2de530b0a77/large_16_9_1716178882.jpg?1716537979|title=Media9%20TV|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=65ce17fec47b713a070698ae|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://m9.media9news.com/media9/hls/media9tv.m3u8?hdnts=st=1726606162~exp=1726616962~acl=*~data=testdata~hmac=13807d63c9f850c202b5a714aeb39052a32f9cd9b4c306c39e57998142140429"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/media9-tv",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "zeenews-tv": {
+        "nombre": "ZZEENEWS TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://zeenews.india.com/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/gujarati/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/marathi/live/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/zee-hindustan/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/zee-hindustan/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/bengali/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/india/up-uttarakhand/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/zeesalaam/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/zeephh/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/india/madhya-pradesh-chhattisgarh/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/india/bihar-jharkhand/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/india/rajasthan/live-tv/embed?autoplay=1&mute=1",
+                "https://zeenews.india.com/hindi/zeeodisha/live-tv/embed?autoplay=1&mute=1",
+                "https://www.zeebiz.com/live-tv/embed?autoplay=1&mute=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://zeenews.india.com/live-tv",
         "país": "bd",
         "categoría": "news"
     },
