@@ -19491,6 +19491,215 @@
         "país": "bd",
         "categoría": "news"
     },
+    "abp-live": {
+        "nombre": "ABP News LIVE TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.abplive.com/LiveStreams/abp_live_tv/hindi/live-tv.html"
+            ],
+            "m3u8_url": [
+                "https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abplive.com/live-tv",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "samachar-24": {
+        "nombre": "Samachar 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Samachar-24/610a8ac8a609d20cad000041/large_16_9_1724912358.jpg?1724912785|title=Samachar%2024|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=610a8ac8a609d2281c0034fb|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://legitpro.co.in:9898/samachar24/samachar24/index.m3u8?hdnts=st=1726606918~exp=1726617718~acl=*~data=testdata~hmac=ce927762a2d5b712931167c7bd4a9a9ea56335d2dbc0a3f45f293bcd93e7caa7"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/samachar-24",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "garv-punjab-gurbani": {
+        "nombre": "Garv Punjab Gurbani",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Garv-Punjab-Gurbani/63b6e7b5988cd4d98f459473/large_16_9_1725445788.jpg?1725543449|title=Garv%20Punjab%20Gurbani|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=63b6e7b5988cd438bc00c944|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://server.livelegitpro.in/gurbani/gurbani/index.m3u8?hdnts=st=1726607097~exp=1726617897~acl=*~data=testdata~hmac=5df58e9a95795fe784c0e8688a28770d76bdf48eda3d002bfc0361af66e32680"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/garv-punjab-gurbani",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "swar-shree": {
+        "nombre": "Swar Shree",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Swar-Shree/63b6e7f0988cd4d98f459475/large_16_9_1725445788.jpg?1725543370|title=Swar%20Shree|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=63b6e7f1988cd438bc00c945|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://server.livelegitpro.in/swarshree/swarshree/tracks-v1a1/mono.m3u8?hdnts=st=1726607208~exp=1726618008~acl=*~data=testdata~hmac=b5522764cd13314b6465b3615a5657c36281cd03fd0505fdc8c30de2f619247c"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/swar-shree",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "global-india": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Global-India/63b6e72a988cd4d98f45946f/large_16_9_1723507507.jpg?1724826950|title=Global%20India|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=63b6e72b988cd438bc00c942|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://server.livelegitpro.in/globalindiatv/globalindiatv/tracks-v1a1/mono.m3u8?hdnts=st=1726607323~exp=1726618123~acl=*~data=testdata~hmac=224fc5e4fedf4e79a5b2a37fae5f5e27ee8ef42749d0b6725e41774225ecfae2"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/global-india",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "hare-krsna-tv": {
+        "nombre": "Hare Krsna TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Hare-Krsna-TV/5f341047a609d2fd45000018/large_16_9_webp.webp?1650528264|title=Hare%20Krsna%20TV|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=5f341047a609d2069f001bb6|genre=devotional|language=hindi|category=|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://cdn.live.shemaroome.com/harekrsnatv/smil:harekrsnatvadp.smil/chunklist_b1873057_sleng.m3u8?hdnts=st%3D1726607418%7Eexp%3D1726618218%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Ddbe2214f7cc4027b4730ef5ea1c2757278d9cc5ad1530dce9bffcee4f5704022"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/hare-krsna-tv",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "seven-wonders-tv": {
+        "nombre": "Seven Wonders TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Seven-Wonders-TV/5ff2c3daa609d26dec000005/large_16_9_webp_1655296161.webp?1655296814|title=Seven%20Wonders%20TV|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=5ff2c3daa609d226f9004bfe|genre=devotional|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://shemaroomeseventv.shemaroo.com/sevenwonderstvhls/live.m3u8?hdnts=st=1726607558~exp=1726618358~acl=*~data=testdata~hmac=98037438a9f7fdf13fa996730ac5c42d350dc358caa8a0e5e08ada70fc1fec1d"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/seven-wonders-tv",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "nimbark-tv": {
+        "nombre": "Nimbark TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Nimbark-TV/5f8b1ffba609d23213000001/large_16_9_webp_1661775429.webp?1661784974|title=Nimbark%20TV|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=5f8b1ffca609d24145001c83|genre=devotional|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://cdn.live.shemaroome.com/nimbaktv/selnimbaktv/chunklist.m3u8?hdnts=st%3D1726607735%7Eexp%3D1726618535%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Dce88b1a1ca44d16e8fa434af6c4ab8fd72dbb315a8315cdffb297f3eb83b301e"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/nimbark-tv",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "saileela-tv": {
+        "nombre": "Saileela TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/Saileela-TV/5eac3510a609d2565f000010/large_16_9_webp_1655088008.webp?1655096353|title=Saileela%20TV|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=5eac3511a609d20c8200daa8|genre=devotional|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://cdn.live.shemaroome.com/saileelatvchannel/smil:saileelatvchanneladp.smil/chunklist_b1328000_sleng.m3u8?hdnts=st%3D1726607853%7Eexp%3D1726618653%7Eacl%3D*%7Edata%3Dtestdata%7Ehmac%3Dd935d9d053539bc29f13e619910b1f2ca98a9865154a04ded1e14dec840f015d"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/saileela-tv",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "newsx": {
+        "nombre": "NewsX",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/NewsX/5eeb77bfa609d2aeb4000002/large_16_9_1724911714.jpg?1724912213|title=NewsX|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=5eeb77c0a609d205af003446|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=5|%27"
+            ],
+            "m3u8_url": [
+                "https://indianews.ottlive.co.in/newsx/newsx/tracks-v1a1/mono.m3u8?hdnts=st%3D1726607960%7Eexp%3D1726618760%7Eacl%3D%2A%7Edata%3Dtestdata%7Ehmac%3D9c04988de15a408f336bdfdb1a22351fd24f39e2edef69c1b01dbcdce47f49d9"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/newsx",
+        "país": "bd",
+        "categoría": "news"
+    },
+    "india-daily-live": {
+        "nombre": "India Daily Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.shemaroome.com/shemaroo_player/demo/embed.html?contenturl=|key=|image=https://daex9l847wg3n.cloudfront.net/shemoutputimages/India-Daily-Live/64ba5641c0048d4169bdb5bc/large_16_9_1725445788.jpg?1725522601|title=India%20Daily%20Live|theme_type=live|channel_logo=|catalog_id=5b62b824c1df412e5c000000|content_id=64ba5641c0048d4c40006b2a|genre=news|language=hindi|category=all|preview_avail=false|is_premium=false|pre_role_ad=true|subti_url=|guideline_image=|guideline_info=false|skip_info=false|skip_start_time=0|skip_end_time=0|episode_info=false|episode_link=|epi_title=|epi_number=|epi_image=|epi_time=%20|ad_st=false|player_type=web|pre_roll_ad=|mid_roll_ad=|mid_roll_ad_frequency=600|%27"
+            ],
+            "m3u8_url": [
+                "https://thejbtcdn-shemaroo.vidgyor.com/thejbt-origin/liveabr/thejbt-origin/live_720p/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.shemaroome.com/all-channels/india-daily-live",
+        "país": "bd",
+        "categoría": "news"
+    },
     "zeenews-tv": {
         "nombre": "ZZEENEWS TV",
         "logo": "",
