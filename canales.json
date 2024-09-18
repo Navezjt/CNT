@@ -6197,7 +6197,7 @@
     },
     "mtv-lebanon-hd": {
         "nombre": "MTV Lebanon",
-        "logo": "",
+        "logo": "https://www.web24iptv.online/img/lbn/mtv.webp",
         "señales": {
             "iframe_url": [
                 "https://www.elahmad.com/tv/watchtv.php?id=mtv_lebanon",
@@ -6221,7 +6221,7 @@
     },
     "lbc": {
         "nombre": "LBC",
-        "logo": "",
+        "logo": "https://www.web24iptv.online/img/lbn/lbc.webp",
         "señales": {
             "iframe_url": [
                 "https://www.elahmad.com/tv/watchtv.php?id=rotana_lbc",
@@ -6293,7 +6293,7 @@
     },
     "nbn-lebanon": {
         "nombre": "NBN Lebanon",
-        "logo": "",
+        "logo": "https://www.web24iptv.online/img/lbn/nbn.webp",
         "señales": {
             "iframe_url": [
                 "https://www.elahmad.com/tv/radiant.php?id=nbn",
@@ -6397,7 +6397,7 @@
     },
     "almayadeen": {
         "nombre": "Almayadeen",
-        "logo": "",
+        "logo": "https://www.web24iptv.online/img/newsAR/mayadin.webp",
         "señales": {
             "iframe_url": [
                 "https://player.octivid.com/v1/live?id=MTE5&channelid=NzE=&countries=QUQ=&w=100%25&h=100%25&autoplay=false&filter=DENY&signature=ae53e73fef194a5511f0504edab8d99b",
@@ -6624,7 +6624,7 @@
         "país": "lb",
         "categoría": "news"
     },
-    "Al Zahra-TV": {
+    "Al-Zahra-TV": {
         "nombre": "Al Zahra TV",
         "logo": "",
         "señales": {
@@ -6680,7 +6680,7 @@
         "categoría": "news"
     },
     "Al-Manar": {
-        "nombre": "Al-Manar",
+        "nombre": "Al Manar",
         "logo": "https://www.web24iptv.online/img/lbn/manar.webp",
         "señales": {
             "iframe_url": [
@@ -6694,6 +6694,354 @@
         },
         "sitio_oficial": "https://www.web24iptv.online/lbn/manar.html",
         "país": "lb",
+        "categoría": "news"
+    },
+    "lebanon-one-tv": {
+        "nombre": "Lebanon One TV",
+        "logo": "https://www.web24iptv.online/img/lbn/lbnone.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.web24iptv.online/player/phpar/lbnone.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.web24iptv.online/lbn/lbnone.html",
+        "país": "lb",
+        "categoría": "news"
+    },
+    "tanasuh-tv": {
+        "nombre": "Tanasuh TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=tanasuh",
+                "https://www.elahmad.com/tv/radiant.php?id=tanasuh"
+            ],
+            "m3u8_url": [
+                "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.tanasuh.tv/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "al-wasat": {
+        "nombre": "Al Wasat",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=wasat_lybia&?id=plyr",
+                "https://www.elahmad.com/tv/watchtv.php?id=wasat_lybia"
+            ],
+            "m3u8_url": [
+                "https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/token=p=54~e=1726715365~h=ac9249b2c7390e1e08a37ff8f614b62c/alwasattv/alwasat_480p/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://alwasat.ly/live",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "alwataniya": {
+        "nombre": "alwataniya",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/gin.php?id=libya",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alahrar"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://elwataniatv.dz/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "alwataniya": {
+        "nombre": "alwataniya",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.castr.com/live_1b36cfb0ba2411ee9700956e0f7084c8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://elwataniatv.dz/",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "Watania-Replay": {
+        "nombre": "Watania Replay",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCdvWVsmQBROkgcGzVep73oA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@WataniaReplay/streams",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "Libya-Al-Ahrar": {
+        "nombre": "Libya Al Ahrar",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.castr.com/live_22d9a1f0c69c11ee9441219c2cc6d61f",
+                "https://www.elahmad.com/tv/watchtv.php?id=libya_alahrar"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://libyaalahrar.tv/live/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "salam-tv": {
+        "nombre": "Salam TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=salam_tv_libya",
+                "https://player.tlfaz.com/embed/salam-tv-libya"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tlfaz.com/Tv-Channel/salam-tv/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "iqtisadia-tv": {
+        "nombre": "Iqtisadia TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/arabic-live-channels.php",
+                "https://player.tlfaz.com/embed/libyan-business-channel"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tlfaz.com/Tv-Channel/iqtisadia-tv/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "february-channel": {
+        "nombre": "February Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://panel.videoon.ly/embed/player/2/broadcast_5dc818c793576?autoplay=false&ref=http%3A%2F%2Fpanel.videoon.ly%2FLiveControl%2Fbroadcasts",
+                "https://www.elahmad.com/tv/watchtv.php?id=february_tv",
+                "https://player.tlfaz.com/embed/february-channel"
+            ],
+            "m3u8_url": [
+                "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8?md5=uiDbrOuEBm1rw3PYeUzzTA&expires=1726783245"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://februarychannel.com/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "libya-one-tv": {
+        "nombre": "Libya One TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=libyaonetv",
+                "https://player.tlfaz.com/embed/libya-one",
+                "https://player.twitch.tv/?channel=libyaonetv&muted=true&parent=localhost",
+                "https://libyaone.tv/livestream.html",
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "libyaonetv"
+        },
+        "sitio_oficial": "https://libyaone.tv/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "libya_alrasmia-tv": {
+        "nombre": "Libya Alrasmia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=libya_alrasmeya",
+                "https://player.tlfaz.com/embed/libya-alrasmia-channel"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tlfaz.com/Tv-Channel/alrasmia-tv/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "al-masar-tv": {
+        "nombre": "Al Masar TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.tlfaz.com/embed/al-masar-tv",
+                "https://www.elahmad.com/tv/radiant.php?id=almasartvlibya"
+            ],
+            "m3u8_url": [
+                "https://master.starmena-cloud.com/hls/almasar.m3u8"
+            ],
+            "yt_id": "UCYUd-dJzFiS3-QR7VRphagQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://almasartv.ly/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "almustaqbal-tv": {
+        "nombre": "Libya Almostakbal",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=libya_almostakbal",
+            ],
+            "m3u8_url": [
+                "https://media1.livaat.com/static/Libyah-Mostaqbal/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://almustaqbal.ly/live",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "libya-sports-tv": {
+        "nombre": "Libya Sports TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=libya_sport"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.facebook.com/LibyaSportTV/?locale=es_LA",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "218news-TV": {
+        "nombre": "218News TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.castr.com/live_3fd9440026a711eca011ed5ece276ef4",
+                "https://player.castr.com/live_3982873027cc11ec86950df2beca5773"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.218tv.net/218tv-%d9%85%d8%a8%d8%a7%d8%b4%d8%b1/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "Tanasuh-TV": {
+        "nombre": "Tanasuh TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.tlfaz.com/embed/tanasuh-tv"
+            ],
+            "m3u8_url": [
+                "https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/manifest.mpd"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tanasuh.tv/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "lj-bc-tv": {
+        "nombre": "JAMAHIRIYA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.tlfaz.com/embed/jamahiriya-tv",
+                "https://www.elahmad.com/tv/radiant.php?id=aljamahiriya"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tlfaz.com/Tv-Channel/lj-bc-tv/",
+        "país": "ly",
+        "categoría": "news"
+    },
+    "libya_alhadath": {
+        "nombre": "libya_alhadath",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=libya_alhadath"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://libyaalhadath.net/",
+        "país": "ly",
         "categoría": "news"
     },
     "1000-noticias": {
