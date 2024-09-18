@@ -6679,6 +6679,23 @@
         "país": "lb",
         "categoría": "news"
     },
+    "Al-Manar": {
+        "nombre": "Al-Manar",
+        "logo": "https://www.web24iptv.online/img/lbn/manar.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.web24iptv.online/player/phpar/lbnmanar.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.web24iptv.online/lbn/manar.html",
+        "país": "lb",
+        "categoría": "news"
+    },
     "1000-noticias": {
         "nombre": "1000 Noticias",
         "logo": "https://graph.facebook.com/1000noticiaspy/picture?width=800&height=800",
