@@ -6171,11 +6171,13 @@
         "país": "il",
         "categoría": "news"
     },
-    "newtv-hd": {
-        "nombre": "newtv HD",
+    "new-tv-hd": {
+        "nombre": "New TV HD",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=aljadeed",
+                "https://www.elahmad.com/tv/watchtv.php?id=aljadeed",
                 "http://www.elahmad.com/tv/watchtv.php?id=aljadeed",
                 "http://www.elahmad.com/tv/watchtv.php?id=aljadeed_new",
                 "http://www.elahmad.com/tv/radiant.php?id=aljadeed1",
@@ -6193,8 +6195,8 @@
         "país": "lb",
         "categoría": "news"
     },
-    "mtvlebanon-hd": {
-        "nombre": "mtvlebanon",
+    "mtv-lebanon-hd": {
+        "nombre": "MTV Lebanon",
         "logo": "",
         "señales": {
             "iframe_url": [
