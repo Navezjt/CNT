@@ -6176,8 +6176,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/live/shahid_shaka.php?id=aljadeed",
                 "https://www.elahmad.com/tv/watchtv.php?id=aljadeed",
+                "https://www.elahmad.com/tv/radiant.php?id=aljadeed1",
                 "http://www.elahmad.com/tv/watchtv.php?id=aljadeed",
                 "http://www.elahmad.com/tv/watchtv.php?id=aljadeed_new",
                 "http://www.elahmad.com/tv/radiant.php?id=aljadeed1",
@@ -6220,10 +6220,13 @@
         "categoría": "news"
     },
     "lbc": {
-        "nombre": "lbc",
+        "nombre": "LBC",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=rotana_lbc",
+                "https://www.elahmad.com/tv/radiant.php?id=lbci_drama",
+                "https://www.elahmad.com/tv/watchtv.php?id=rotana_lbc",
                 "http://www.elahmad.com/tv/radiant.php?id=lbc_1",
                 "http://www.elahmad.com/tv/watchtv.php?id=lbc",
                 "http://www.elahmad.com/tv/radiant.php?id=lbci_drama",
@@ -6246,6 +6249,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=otv_lb1",
+                "https://www.elahmad.com/tv/radiant.php?id=otv_lb2",
+                "https://www.elahmad.com/tv/watchtv.php?id=otv_lebanon",
+                "https://www.elahmad.com/tv/mpegts_player.php?id=otv_lebanon",
+                "https://www.elahmad.com/tv/radiant.php?id=otv_lb1",
                 "https://www.elahmad.com/tv/watchtv.php?id=otv_lebanon",
                 "https://www.elahmad.com/tv/live/sl.php?id=otv_lb",
                 "http://www.elahmad.com/tv/radiant.php?id=otv_lb1",
@@ -6268,6 +6276,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=vdltv",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=vdltv",
                 "http://www.elahmad.com/tv/radiant.php?id=vdltv",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=vdltv"
@@ -26147,44 +26156,7 @@
         "sitio_oficial": "http://www.elahmad.com/tv/almasirahtv.php",
         "país": "ye",
         "categoría": "news"
-    },
-    "otv-Navez": {
-        "nombre": "Otv Navez",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=otv_lb1",
-                "https://www.elahmad.com/tv/radiant.php?id=otv_lb2",
-                "https://www.elahmad.com/tv/watchtv.php?id=otv_lebanon",
-                "https://www.elahmad.com/tv/mpegts_player.php?id=otv_lebanon"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/otv_lb.php",
-        "país": "lb",
-        "categoría": "news"
-    },
-    "vdl24-Navez": {
-        "nombre": "VDL24 Navez",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=vdltv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "lb",
-        "categoría": "news"
-    },
+    }
     "AlArabiyaBusiness": {
         "nombre": "AlArabiyaBusiness",
         "logo": "",
