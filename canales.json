@@ -23075,6 +23075,216 @@
         "país": "ir",
         "categoría": "news"
     },
+    "arab-varzeshi-hd": {
+        "nombre": "Arab Varzeshi HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.footballii.ir/hls2/ssc1s.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.diycraftsguide.com/live-tv/arab-varzeshi-hd.html",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "voa-persian": {
+        "nombre": "VOA Persian",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.diycraftsguide.com/live-tv/voa-persian.html",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "pcm-tv": {
+        "nombre": "PCM TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://hls.pmchd.live/hls/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.diycraftsguide.com/live-tv/pmc.html",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "tapesh-tv": {
+        "nombre": "Tapesh TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://iptv.tapesh.tv/tapesh/playlist_low/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.diycraftsguide.com/live-tv/tapesh-tv.html",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "mbcb-bollywood": {
+        "nombre": "Mbcb Bollywood",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.web24iptv.online/player/phpar/mbcb.php",
+                "https://www.web24iptv.online/player/phpar/mbcsd.php",
+                "https://www.web24iptv.online/player/phpar/mbcm1.php",
+                "https://www.web24iptv.online/player/mbc/mbc2-1.php",
+                "https://www.web24iptv.online/player/phpar/mbc3.php",
+                "https://www.web24iptv.online/player/phpar/mbc4.php",
+                "https://www.web24iptv.online/player/phpar/mbc5.php",
+                "https://www.web24iptv.online/player/phpar/mbcm1.php",
+                "https://www.web24iptv.online/player/phpar/mbcm2.php",
+                "https://www.web24iptv.online/player/phpar/mbcd.php",
+                "https://www.web24iptv.online/player/phpar/mbcsd.php",
+                "https://www.web24iptv.online/player/mbc/mbca-1.php",
+                "https://www.offlinefreechanelsonly.xyz/2021/06/action_9.html",
+                "https://www.web24iptv.online/player/phpar/mbci.php",
+                "https://www.web24iptv.online/player/mbc/mbcmax-1.php",
+                "https://www.web24iptv.online/player/phpar/mbcfm.php",
+                "https://www.web24iptv.online/player/phpar/wnasa.php",
+                "https://www.web24iptv.online/player/mbc/panoramafm.php"
+            ],
+            "m3u8_url": [
+                "/player/?id=https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
+                "https://mbcbollywood-prod-dub-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.web24iptv.online/mbc/mbcb.html",
+        "país": "ir",
+        "categoría": "news"
+    },
+    "bollywood-hd": {
+        "nombre": "Bollywood HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvmalaysia.live/channel/bollywood-hd",
+        "país": "my",
+        "categoría": "news"
+    },
+    "TV-Sarawak-Live": {
+        "nombre": "TV Sarawak Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cineasticview.blogspot.com/2024/05/serawak.html"
+            ],
+            "m3u8_url": [
+                "https://stream2.smg.my/live/tvs_720p2628kbs/index.m3u8",
+                "https://stream2.smg.my/live/tvs_720p2628kbs/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2024/05/tvs.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tv3": {
+        "nombre": "TV3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2019/04/tv3.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "berita": {
+        "nombre": "Berita RTM Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://hiji3.blogspot.com/2024/08/berita1.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2022/09/berita.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "tv-ikim": {
+        "nombre": "TV IKIM Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livetvmalaysia.online/2017/12/tv-ikim.html",
+        "país": "my",
+        "categoría": "news"
+    },
+    "unifi-degup": {
+        "nombre": "Unifi Degup HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://astro.webhop.me/unifidegup.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvmalaysia.live/channel/unifi-degup",
+        "país": "my",
+        "categoría": "news"
+    },
     "Agro-Tv": {
         "nombre": "Agro Tv",
         "logo": "",
