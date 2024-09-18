@@ -6632,7 +6632,8 @@
                 "http://nettv.live/player/videojs.php?url=https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8"
             ],
             "m3u8_url": [
-                "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8"
+                "https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8",
+                "http://nettv.live/player/videojs.php?url=https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -6886,7 +6887,7 @@
                 "https://www.elahmad.com/tv/radiant.php?id=libyaonetv",
                 "https://player.tlfaz.com/embed/libya-one",
                 "https://player.twitch.tv/?channel=libyaonetv&muted=true&parent=localhost",
-                "https://libyaone.tv/livestream.html",
+                "https://libyaone.tv/livestream.html"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -6941,7 +6942,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=libya_almostakbal",
+                "https://www.elahmad.com/tv/radiant.php?id=libya_almostakbal"
             ],
             "m3u8_url": [
                 "https://media1.livaat.com/static/Libyah-Mostaqbal/playlist.m3u8"
