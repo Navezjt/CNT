@@ -11709,6 +11709,75 @@
         "país": "pe",
         "categoría": "news"
     },
+    "Live-SupremeMaster-TV": {
+        "nombre": "Live SupremeMaster TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/qHIk_qdNFy0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/ZzWBpGwKoaI?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC2dULJJ_G6TTNjsunSxP7ag",
+            "yt_embed": "qHIk_qdNFy0?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@SupremeMasterTVlive",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Channels-Television": {
+        "nombre": "Channels Television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/W8nThq62Vb4?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/dfB0qmJo1eM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCEXGDNclvmg6RW0vipJYsTQ",
+            "yt_embed": "W8nThq62Vb4?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@ChannelsTelevision/streams",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "TVC-News-Nigeria": {
+        "nombre": "TVC News Nigeria",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/A5H00Bu3N-k?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/dQhPgF7FOrk?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCgp4A6I8LCWrhUzn-5SbKvA",
+            "yt_embed": "dQhPgF7FOrk?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@tvcnewsnigeria/streams",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Suspenso-channel": {
+        "nombre": "Suspenso Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCkw_YisZMwl8OZ8ADL1Zaz",
+            "yt_embed": "M9wTwKzKCbM?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@suspensochannel/streams",
+        "país": "pe",
+        "categoría": "news"
+    },
     "romance-channel": {
         "nombre": "Romance Channel",
         "logo": "",
