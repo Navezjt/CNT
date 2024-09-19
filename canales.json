@@ -3879,7 +3879,7 @@
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elsharqtv2",
                 "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elsharqtv1",
                 "https://www.elahmad.com/tv/radiant.php?id=elsharqtv1",
-                "https://www.elahmad.com/tv/radiant.php?id=elsharqtv1",
+                "https://www.elahmad.com/tv/radiant.php?id=elsharqtv1"
             ],
             "m3u8_url": [
                 "https://mn-nl.mncdn.com/elsharq_live/live/chunklist.m3u8"
@@ -4014,8 +4014,8 @@
         "país": "eg",
         "categoría": "news"
     },
-    "-tv": {
-        "nombre": " Tv",
+    "sada-el-balad-tv": {
+        "nombre": "Sada El Balad",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -4038,6 +4038,167 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=egypt",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "Al-Kahira-wa-nass-tv": {
+        "nombre": "Al Kahira Wa Nass",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas1",
+                "https://www.elahmad.com/tv/youtube.php?id=alkaherawalnas1",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas2",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas2",
+                "https://www.elahmad.com/tv/youtube.php?id=alkaherawalnas2",
+                "https://www.youtube.com/embed/ZRj6QBopxfo?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/bwQhWhtipNs?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alkaherawalnas1",
+                "https://www.youtube.com/embed/bwQhWhtipNs?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=https%3A%2F%2Fwww.elahmad.com&widget_referrer=https%3A%2F%2Ffomny-tv.com%2F&enablejsapi=1&widgetid=1",
+                "https://www.youtube.com/embed/ZRj6QBopxfo?controls=0?autoplay=1?frameborder=0",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alkaherawalnas"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "ZRj6QBopxfo?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCzWdc0aUo0IDk5ysLrt04hw",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "dmc-tv": {
+        "nombre": "DCM TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+                "https://www.elahmad.com/tv/watchtv.php?id=dmc",
+                "https://www.elahmad.com/tv/watchtv.php?id=dmc_drama",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_live_tv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=dmc_drama_tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://fomny-tv.com/Television/A-Tv--Egypt.php",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=ontv1",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_drama",
+                "https://www.elahmad.com/tv/radiant.php?id=ontv1",
+                "https://www.elahmad.com/tv/radiant.php?id=on_sport",
+                "https://www.elahmad.com/tv/radiant.php?id=on_drama",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports1",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports2",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=on_time_sports3"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/otv_eg.php",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "Extra-news-tv": {
+        "nombre": "Extra News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/U9woNTV6jdE?controls=0?autoplay=1?frameborder=0",
+                "https://www.elahmad.com/tv/youtube.php?id=CBCEgyptPlus",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_extranews",
+                "https://www.youtube.com/embed/H_RCQLDGbu0?controls=0?autoplay=1?frameborder=0",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_drama_1",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=cbc_sofra",
+                "https://www.elahmad.com/tv/watchtv.php?id=cbc_sofra"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://fomny-tv.com/Video-5/Egypt/Extra-news/Extra-news.php",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "zamalek-tv": {
+        "nombre": "Zamalek TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zamalek"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://fomny-tv.com/Video-5/Egypt/Zamalek-TV/Zamalek-TV.php",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_drama",
+                "https://www.elahmad.com/tv/watchtv.php?id=alhayat_drama",
+                "https://www.elahmad.com/tv/watchtv.php?id=alhayat",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=alhayat_1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "el-mehwar-tv": {
+        "nombre": "El Mehwar TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elmehwar",
+                "https://www.elahmad.com/tv/radiant.php?id=elmehwar",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=elmehwar"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/elmehwartv.htm",
         "país": "eg",
         "categoría": "news"
     },
