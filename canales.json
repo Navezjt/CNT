@@ -3448,10 +3448,10 @@
         "nombre": "Wedo Tv",
         "logo": "",
         "señales": {
-            "iframe_url": [
+            "iframe_url": [],
+            "m3u8_url": [
                 "https://mvg-mv-wedotv.otteravision.com/mvg/mv/mv.m3u8?app_bundle=&app_name=wedotv&app_store_url=https%3A%2F%2Fwedotv.com&url=https%3A%2F%2Fwedotv.com&gdpr=1&channel_name=Motorvision+TV+English&content_custom_1_param=Motorvision+TV+English"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -3526,6 +3526,251 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.mekameleen.tv/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "ctv-channel": {
+        "nombre": "CTV Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://smccdn.com/ctvchannel.tv/"
+            ],
+            "m3u8_url": [
+                "https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1876464346_b1728000_slar_t64SEQ=.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ctvchannel.tv/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "nile-comedy-tv": {
+        "nombre": "Nile Comedy",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.niletc.tv/indexc.html",
+                "https://www.niletc.tv/indexc.html",
+                "https://www.niletc.tv/indexc.html",
+                "/indexc.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.niletc.tv/Channel/comedy",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "al-kahera-wal-nas": {
+        "nombre": "Al Kahera Wal NaS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/ZRj6QBopxfo",
+                "https://www.youtube.com/embed/bwQhWhtipNs"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://es.livetvcentral.com/tv/al-kahera-wal-nas",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "al-hayat-2": {
+        "nombre": "Al Hayat",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alhayat.tv/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "Alghad-tv": {
+        "nombre": "Alghad Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "https://www.youtube.com/@alghadtv",
+            "yt_embed": "9WdJul7wgV4?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alghad.tv/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "al-ahly-tv": {
+        "nombre": "Al Ahly TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCmeqakSoEdmxEtTnCFSbunw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://es.livetvcentral.com/tv/al-ahly-tv",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "ntu-ertu-tv": {
+        "nombre": "ERTU Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x8n6e4h?wmode=transparent",
+                "https://geo.dailymotion.com/player/xi5eg.html?video=x84nwne&playlist=x7zhig"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://thewatchtv.com/watch-maspero-zaman-ntu-ertu-live-tv-from-egypt/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "salam-tv": {
+        "nombre": "Salam Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.salam-tv.net/live/index.html?v=33"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.salam-tv.net/ar/live",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "al-rahma-tv": {
+        "nombre": "Al Rahma Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=alrahmatvsocial&parent=television-live.com"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "alrahmatvsocial"
+        },
+        "sitio_oficial": "https://television-live.com/3407-al-rahma-tv.html",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "cbc-egipt-tv": {
+        "nombre": "CBC Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://es.livetvcentral.com/tv/cbc-egipt",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "al-nahar-tv": {
+        "nombre": "Al Nahar Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ennahar.dzsecurity.net/embed/player.php?v=1"
+            ],
+            "m3u8_url": [
+                "https://ennahar-live.dzsecurity.net/fullres/EnnaharTV_First/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ennaharonline.com/live/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "cbcsofra-tv": {
+        "nombre": "cbcsofra Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cbcsofra.com/",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "eg",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
         "país": "eg",
         "categoría": "news"
     },
