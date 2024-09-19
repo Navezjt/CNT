@@ -15629,13 +15629,15 @@
         "nombre": "NMás",
         "logo": "https://graph.facebook.com/nmas.com.mx/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/Ulwgdf5t46o?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+            ],
             "m3u8_url": [
-                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/b06b769b-dc9b-46b7-bb8d-30b274872e73:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1726593358~acl=*~id=848583a6-b3ee-488b-96bf-936c9496cae0~data=hdntl~hmac=ec1938a7de13eb541f20dd33aa02eafa7d0006a865457a16085a9945e75c4f11&",
-                ""
+                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/af3a8c1c-caf6-4ffd-bbfb-ab2b9a4515d1:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1726846626~acl=*~id=3b17f345-7a41-4f48-b941-be51b7332410~data=hdntl~hmac=00b1a465099cc14caa1f241d57209546f314b3299312ab325f3c457f8bf9cff5&",
+                "https://channel02dai-notusa.akamaized.net/linear/hls/pa/event/wkHu6QpATh6EUoHCaTDYPw/stream/af3a8c1c-caf6-4ffd-bbfb-ab2b9a4515d1:SCL/variant/0d95e6f800f1daffbd0294c68e594d57/bandwidth/1087240.m3u8?hdntl=exp=1726846626~acl=*~id=3b17f345-7a41-4f48-b941-be51b7332410~data=hdntl~hmac=00b1a465099cc14caa1f241d57209546f314b3299312ab325f3c457f8bf9cff5&"
             ],
             "yt_id": "UCUsm-fannqOY02PNN67C0KA",
-            "yt_embed": "",
+            "yt_embed": "Ulwgdf5t46o?",
             "yt_playlist": "",
             "twitch_id": ""
         },
