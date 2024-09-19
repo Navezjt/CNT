@@ -11715,7 +11715,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/2b17d6a4-5e1d-43b9-a5ef-147572e87498/1.m3u8"
+                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/9f59a178-b6e7-4867-bc3c-5aa943241034/1.m3u8"
             ],
             "yt_id": "UCcLzwVXQXSFlWYzhnYTaWqw",
             "yt_embed": "o2KD3PgMSIs?",
@@ -11732,8 +11732,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://stream.ads.ottera.tv/cl/240913cri9ag241tmvtpe62aeg/1280x720_2300000_0_f.m3u8?i=475_656",
-                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656"
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=656",
+                "https://stream.ads.ottera.tv/cl/240919crm3f9q41tmvtp97gqe0/1280x720_2300000_0_f.m3u8?i=475_656"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -11741,6 +11741,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.canela.tv/es/linear/cine-romantico",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "cine-news": {
+        "nombre": "CINE NEWS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/cl/240919crm3k73timh1p1e48eo0/1280x720_3070540_0_f.m3u8?i=475_5399"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canela.tv/linear/corazon",
         "país": "pe",
         "categoría": "news"
     },
