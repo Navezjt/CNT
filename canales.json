@@ -20236,14 +20236,36 @@
         "sitio_oficial": "https://www.trtworld.com/",
         "país": "tr",
         "categoría": "news"
-    }, 
-    "tv100": {
-        "nombre": "TV100",
+    },
+    "star-tv": {
+        "nombre": "STAR TV",
         "logo": "https://i.ibb.co/zZnBCWt/tv100.png",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://tv100dvr.blutv.com/blutv_tv1002_dvr/live_720p2000000kbps/index.m3u8"
+                "https://dogus-live.daioncdn.net/startv/startv.m3u8",
+                "https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web&ppid=80f992a83f5f34f93ff8158991702653"
+            ],
+            "yt_id": "UCndsdUW_oPLqpQJY9J8oIRg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/star-tv-canli-izle-14/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "tv100": {
+        "nombre": "TV100",
+        "logo": "https://i.ibb.co/zZnBCWt/tv100.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/P5BOJKmWaaI?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [
+                "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+                "https://yayin2.canlitv.fun/live/tv100.stream/playlist.m3u8?hash=4f4bc0e00b23b59253622cb9702b3f2a",
+                "https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web&ppid=80f992a83f5f34f93ff8158991702653"
             ],
             "yt_id": "UCndsdUW_oPLqpQJY9J8oIRg",
             "yt_embed": "",
@@ -20254,14 +20276,32 @@
         "país": "tr",
         "categoría": "news"
     },
+    "FM-tv100": {
+        "nombre": "FM TV100",
+        "logo": "https://i.ibb.co/zZnBCWt/tv100.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.fm100.gr/hls/tv100/1_2/index.m3u8?sessId=19568"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://fm100.gr/live/tv100",
+        "país": "tr",
+        "categoría": "news"
+    },
     "tv85": {
         "nombre": "TV85",
         "logo": "https://i.ibb.co/6PRYHdW/tv85.png",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8?app=tv8bucuk_web&ce=3",
-                "https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=6je9vasj31hk&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+                "https://tv8-live.daioncdn.net/tv8/tv8.m3u8",
+                "https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=6rpqgvy4wz9f&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3",
+                "https://yayin2.canlitv.fun/live/tv-8.stream/playlist.m3u8?hash=4f4bc0e00b23b59253622cb9702b3f2a"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -20276,12 +20316,15 @@
         "nombre": "CNN TURK",
         "logo": "https://i.ibb.co/bFsmkwJ/cnn-turk.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=IiX5zGKRTl1FHzt3n2apXw&e=1719969191"
+            "iframe_url": [
+                "https://www.youtube.com/embed/X_EWYemclKA?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
-            "yt_id": "",
-            "yt_embed": "",
+            "m3u8_url": [
+                "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=qAxfiweCoXW5irPBbkvglA&e=1727221615",
+                "https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=yx7hjoPE5lGLAF1O7CtnVA&e=1727221293"
+            ],
+            "yt_id": "UCV6zcRug6Hqp1UX_FdyUeBg",
+            "yt_embed": "X_EWYemclKA?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -20310,12 +20353,14 @@
         "nombre": "A SPORT",
         "logo": "https://i.ibb.co/rwnrgFV/a-spor.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/7uBpwcn2ZZ0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
             "m3u8_url": [
                 "https://github.com/rideordie16/YouTube/raw/main/spor/aspor.m3u8"
             ],
             "yt_id": "UCJElRTCNEmLemgirqvsW63Q",
-            "yt_embed": "",
+            "yt_embed": "7uBpwcn2ZZ0?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -20327,12 +20372,16 @@
         "nombre": "NTV AVRUPA",
         "logo": "https://i.ibb.co/gRR1zpm/ntv.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8"
+            "iframe_url": [
+                "https://www.youtube.com/embed/-RORLrBwJD0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
-            "yt_id": "",
-            "yt_embed": "",
+            "m3u8_url": [
+                "https://dogus.daioncdn.net/ntv/ntv_720p.m3u8",
+                "https://ecanlitv3.etvserver.com/ntv.m3u8?tkn=F1tFNnR28jlmaToVmhyeLw&tms=1727218675",
+                "https://dogus-live.daioncdn.net/ntv/ntv_720p.m3u8"
+            ],
+            "yt_id": "UC9TDTjbOjFB9jADmPhSAPsw",
+            "yt_embed": "-RORLrBwJD0?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -20348,6 +20397,9 @@
                 "https://ecanlitvizle.video/embed.php?kanal=atv-canli-izle-2"
             ],
             "m3u8_url": [
+                ",",
+                ",",
+                "https://trkvz.daioncdn.net/atv/atv_480p.m3u8?e=1727256963&st=pdXfmFQLjW69Ra2zQeGDLg&sid=6rpsy5dy5fjo&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3",
                 "http://hw1.jemtv.com/app/ATVHD/playlist.m3u8",
                 "http://gineu8.bozztv.com/gin-trn09/gin-atvv/index.m3u8"
             ],
@@ -20357,6 +20409,381 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.atv.com.tr/canli-yayin",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "kral-pop-tv": {
+        "nombre": "Kral Pop TV",
+        "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/GuFTuKoXepw?enablejsapi=1&rel=0&controls=1&autoplay=0&fs=1&playsinline=1&origin=https://www.kralmuzik.com.tr"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCEAW_kmPVjxTC50vuLyKOQA",
+            "yt_embed": "GuFTuKoXepw?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.kralmuzik.com.tr/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "KRT-TV": {
+        "nombre": "KRT TV CANLI YAYIN",
+        "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://krttv.daioncdn.net/krttv/krttv.m3u8?app=web"
+            ],
+            "yt_id": "UCVKWwHoLwUMMa80cu_1uapA",
+            "yt_embed": "1zzKaji_Egw?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.krttv.com.tr/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "ht-spot": {
+        "nombre": "HT SPORT",
+        "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ciner-live.ercdn.net/htspor/htspor_360p.m3u8"
+            ],
+            "yt_id": "UCK3mI2lsk3LSo8PBUc8JTSw",
+            "yt_embed": "RdpqsTbi_KU?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.htspor.com/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "tele1-TV": {
+        "nombre": "TELE1 CANLI YAYINᴴᴰ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/z6ptLHwMvuM?si=89adhh7zZa6dtJBM&autoplay=1&mute=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCoHnRpOS5rL62jTmSDO5Npw",
+            "yt_embed": "z6ptLHwMvuM?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tele1.com.tr/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "a-spor-TV": {
+        "nombre": "A SPOR CANLI YAYIN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/live_stream?rel=0&autoplay=1&channel=UCJElRTCNEmLemgirqvsW63Q&ss=1",
+                "https://www.youtube.com/embed/7uBpwcn2ZZ0?rel=0&showinfo=0&autoplay=1&enablejsapi=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCJElRTCNEmLemgirqvsW63Q",
+            "yt_embed": "7uBpwcn2ZZ0?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/a-spor-canli-13/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "tv-2020": {
+        "nombre": "TV 2020 Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.canlitv.day/embed/?id=12276"
+            ],
+            "m3u8_url": [
+                "https://yayin1.canlitv.fun/canlitv/tv2020.stream/playlist.m3u8?hash=4f4bc0e00b23b59253622cb9702b3f2a",
+                "https://59cba4d34b678.streamlock.net:443/canlitv/tv2020/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canlitv.com/tv-2020",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "a2-tv-canli-6": {
+        "nombre": "A2 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=a2-tv-canli-6"
+            ],
+            "m3u8_url": [
+                "https://ecanlitv3.etvserver.com/a2tv.m3u8?tkn=WJ6fuQmNbMsOVldoc-lEwg&tms=1727223592"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/a2-tv-canli-6/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "kanal-32-tv": {
+        "nombre": "Kanal 32 Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://sweb1.socialsmart.tv/kanal32"
+            ],
+            "m3u8_url": [
+                "https://edge1.socialsmart.tv/kanal32/bant1/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kanal32.com.tr/canli-tv",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "kanal-26-tv": {
+        "nombre": "Kanal 26 Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.canlitv.day/embed/?id=68"
+            ],
+            "m3u8_url": [
+                "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8?hash=4f4bc0e00b23b59253622cb9702b3f2a",
+                "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canlitv.com/kanal-26",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "kanal-23-tv": {
+        "nombre": "Kanal 23 Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=kanal-23-canli",
+                "https://www.canlitv.day/embed/?id=107"
+            ],
+            "m3u8_url": [
+                "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/playlist.m3u8",
+                "https://live.artidijitalmedya.com/artidijital_kanal23/kanal23/chunks.m3u8?"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canlitv.com/kanal-23",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "kanal-12-canli-tv": {
+        "nombre": "Kanal 12 Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=kanal-12-canli",
+                "https://www.canlitv.day/embed/?id=11419"
+            ],
+            "m3u8_url": [
+                "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8",
+                "https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/kanal-12-canli/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "teve-2-tv": {
+        "nombre": "Teve 2 Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://demiroren.daioncdn.net/teve2/teve2.m3u8?ce=3&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ppid=80f992a83f5f34f93ff8158991702653",
+                "https://demiroren.daioncdn.net/teve2/teve2_480p.m3u8?&sid=6rq0nbc0kgni&app=6aab838a-437e-4a1b-bbd0-e30f79cdbbbd&ce=3"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.teve2.com.tr/canli-yayin",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "sanlurfa63-tv69": {
+        "nombre": "Şanlıurfa 63 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCCgnhQSte6qpupb_4GCch6g",
+            "yt_embed": "QuosFPhuqfA?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@sanlurfa63tv69",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "nrj-12-fr": {
+        "nombre": "NRJ 12 FR",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=nrj-12-fr"
+            ],
+            "m3u8_url": [
+                "https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/nrj-12-fr/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "tv-264-canli": {
+        "nombre": "TV 264",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=tv-264-canli"
+            ],
+            "m3u8_url": [
+                "https://ecanlitv3.etvserver.com/tv264.m3u8?tkn=UzpT9oAvvyaX1YKol2_1Gw&tms=1727226089"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/tv-264-canli/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "arb-24-tv": {
+        "nombre": "ARB 24 TV Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=arb-24-az-canli",
+                "https://www.canlitv.day/embed/?id=12986"
+            ],
+            "m3u8_url": [
+                "https://ecanlitv3.etvserver.com/arb24.m3u8?tkn=ltVyUqUz8z_4NZNVQjykPA&tms=1727226379",
+                "https://yayin2.canlitv.fun/live/arb24.stream/playlist.m3u8?hash=4f4bc0e00b23b59253622cb9702b3f2a"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canlitv.com/arb-24-tv",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "arb-gunes": {
+        "nombre": "ARB GÜNƏŞ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=arb-gunes"
+            ],
+            "m3u8_url": [
+                "https://ecanlitv3.etvserver.com/arbgunestv.m3u8?tkn=u3mPuI4ViIfUH-liTne1Mg&tms=1727226492"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/arb-gunes/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "arb-az-canli": {
+        "nombre": "ARB TV AZ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ecanlitvizle.video/embed.php?kanal=arb-az-canli"
+            ],
+            "m3u8_url": [
+                "https://ecanlitv3.etvserver.com/arbaz.m3u8?tkn=Eyw6MhM4K9IjGl1sliYEBA&tms=1727226689"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecanlitvizle.video/arb-az-canli/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "tv-52": {
+        "nombre": "Tv 52 Canlı Yayını",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://broadcasttr.com/tv52"
+            ],
+            "m3u8_url": [
+                "https://ht-144-76-157-47.socialsmart.tv/tv52/bant1/chunks.m3u8?nimblesessionid=181319451"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tv52.com.tr/",
+        "país": "tr",
+        "categoría": "news"
+    },
+    "halk-tv": {
+        "nombre": "HALK TV",
+        "logo": "https://i.ibb.co/NCvRHC3/trt-haber.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/-HJwrahoMsQ?si=jc3lZdnMSt1Uin33&autoplay=1&mute=1"
+            ],
+            "m3u8_url": [
+                "https://halktv-live.daioncdn.net/halktv/halktv.m3u8",
+                "https://halktv-live.daioncdn.net/halktv/halktv.m3u8?hash=1f6be83b9dd271acc384be301984ea00"
+            ],
+            "yt_id": "UCf_ResXZzE-o18zACUEmyvQ",
+            "yt_embed": "-HJwrahoMsQ?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.halktv.com.tr/",
         "país": "tr",
         "categoría": "news"
     },
@@ -20400,7 +20827,8 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1725878252&st=Ug-Jx7v_frgEFOBZGVXlAg"
+                "https://ecanlitv3.etvserver.com/foxtv.m3u8?tkn=hieUFTuvaW8Z9VtpAT5-PQ&tms=1727220951",
+                "https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1727271087&st=gXH7wvdHw2V31iYe5eDdxg"
             ],
             "yt_id": "UCN7VYCsI4Lx1-J4_BtjoWUA",
             "yt_embed": "",
@@ -20417,10 +20845,13 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1725829447&st=njVylPLG_48kREByDdXplA&tv=1"
+                "https://ciner-live.daioncdn.net/showtv/showtv.m3u8",
+                "https://ciner-live.daioncdn.net/showtv/showtv.m3u8?hash=e9bbd409d560406344cf86f5148bb0a4",
+                "https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=RBzhSuGauna0OGld-DJUVA&e=1664766175&tv=1",
+                "https://ciner-live.ercdn.net/showturk/playlist.m3u8?e=1727221088&st=M0SwmD7YibIPlwOp9VN-Mg&tv=1"
             ],
-            "yt_id": "",
-            "yt_embed": "",
+            "yt_id": "UC9JMe_We017gYrRc7kZHgmg",
+            "yt_embed": "ouuCjEjyKVI?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -20428,20 +20859,21 @@
         "país": "tr",
         "categoría": "news"
     },
-    "TV8-TV": {
-        "nombre": "TV8",
+    "tv8-5-canli": {
+        "nombre": "TV8,5",
         "logo": "https://user-images.githubusercontent.com/16838044/195684196-a3405e3d-98fc-41a7-9d79-ec34023ccff8.png",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://tv8.daioncdn.net/tv8/tv8_480p.m3u8?&sid=6q4fxkc7o0av&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3"
+                "https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3",
+                "https://cdn900.canlitv.me/tv85.m3u8?tkn=PO9BN2u7nenkPboJTg_YkA&tms=1727228847&hst=www.canlitv.me&ip=2800:200:e640:1a48:f988:442e:4f7d:c560"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.tv8.com.tr/canli-yayin",
+        "sitio_oficial": "https://tv8bucuk.com/tv8-5-canli-yayin",
         "país": "tr",
         "categoría": "news"
     },
