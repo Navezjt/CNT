@@ -9229,9 +9229,7 @@
         "nombre": "RPP Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/36EbAg4YluU?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;sh"
-            ],
+            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UC5j8-2FT0ZMMBkmK72R4aeA",
             "yt_embed": "36EbAg4YluU?",
