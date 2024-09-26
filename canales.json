@@ -15331,15 +15331,18 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=10&autoPlay=1",
                 "http://xemtruyenhinh.xyz/kenh/dongnai1.php"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://xemtruyenhinh.xyz/kenh-dn1-dong-nai-tv-1-truc-tuyen-dia-phuong.html",
+        "sitio_oficial": "http://dnrtv.org.vn/",
         "país": "vn",
         "categoría": "news"
     },
@@ -15348,9 +15351,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=14&autoPlay=1",
                 "http://xemtruyenhinh.xyz/kenh/dongnai2.php"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -15365,9 +15371,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://dnrtv.org.vn/Modules/video/PlayVideo.aspx?live=1&ChannelId=13&autoPlay=1",
                 "http://xemtruyenhinh.xyz/kenh/dongnai3.php"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -16091,6 +16100,93 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@khonhackhongquangcao8051",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "quang-ngai-tv": {
+        "nombre": "Quang Ngai  TV",
+        "logo": "https://quangngaitv.vn/images/thumbs/0000886838_a.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8",
+                "https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://quangngaitv.vn/",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "antv": {
+        "nombre": "Antv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://lives.antv.gov.vn/channel/antv/playlist.m3u8#t=0.001"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://antv.gov.vn/tag/dong-nai/articles.html",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "phu-yen-tv": {
+        "nombre": "Phu Yen TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://113.161.4.48:8080/phuyen/tv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.ptpphuyen.vn/",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "phutho-tv": {
+        "nombre": "PTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8?t=KFY3Dxc7d0eE__H2YYDYMw&e=1727427903"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://phuthotv.vn/tv-video",
+        "país": "vn",
+        "categoría": "news"
+    },
+    "bloomberg-tv-asia": {
+        "nombre": "Bloomberg TV Asia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+                "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livestreamtvhub.com/af/business/bloomberg-tv-asia-bloombergtvasiahk-720p-dlk#gsc.tab=0",
         "país": "vn",
         "categoría": "news"
     },
