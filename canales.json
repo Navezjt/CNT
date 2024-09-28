@@ -19716,6 +19716,248 @@
         "país": "be",
         "categoría": "news"
     },
+    "atv-be": {
+        "nombre": "ATV be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gva.be/atv",
+        "país": "be",
+        "categoría": "news"
+    },
+    "bx1-be": {
+        "nombre": "BX1 be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.bx1.be/playertv.php",
+                "rtmps://59959724487e3.streamlock.net:443/radio/live",
+                "rtmps://59959724487e3.streamlock.net:443/stream/live"
+            ],
+            "m3u8_url": [
+                "https://59959724487e3.streamlock.net:443/stream/live/playlist.m3u8",
+                "https://59959724487e3.streamlock.net:443/radio/live/playlist.m3u8",
+                "https://59959724487e3.streamlock.net/radio/live/chunklist_w387106910.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://bx1.be/",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Bruzz-be": {
+        "nombre": "Bruzz be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.clevercast.com?account_id=WXv1JD&event_id=V3n5YY",
+                "https://www.bruzz.be/live/popup/#/bruzz/watch",
+                "https://www.bruzz.be/live/popup/#/ice/watch"
+            ],
+            "m3u8_url": [
+                "https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist_b1300000.m3u8",
+                "https://n1.cdn.jetstre.am/session/a5c62ede9a57f2566a56dfdf491d0256/sz/fmbrussel/wowza4/live/BruzzIceVideo/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bruzz.be/kijken",
+        "país": "be",
+        "categoría": "news"
+    },
+    "TV-Oost-be": {
+        "nombre": "TV Oost be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.zendzend.com/mpegts/29375_399410/media_mpegts_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvoost.be/",
+        "país": "be",
+        "categoría": "news"
+    },
+    "ROB-tv-be": {
+        "nombre": "ROB TV be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.zendzend.com/mpegts/29375_395477/media_mpegts_1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.robtv.be/",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Notélé-be": {
+        "nombre": "Notélé be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.notele.be/it105-md5-direct.html",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Limburg-be": {
+        "nombre": "TV Limburg (TVL) be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.zendzend.com/mpegts/29375_395474/media_mpegts_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvl.be/",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Matélé-be": {
+        "nombre": "Matélé be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.matele.be/hls/live.m3u8",
+                "https://live.matele.be/hls/live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.matele.be/direct",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Focus-WTV-be": {
+        "nombre": "Focus en WTV be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.clevercast.com/?account_id=VzaPKg&event_id=WqY7Y3&chromecast=true&airplay=true",
+                "https://player.clevercast.com/?account_id=VzaPKg&event_id=VyO3OZ&chromecast=true&airplay=true",
+                "https://player.clevercast.com/?account_id=VzaPKg&event_id=WqY7Y3&chromecast=true&airplay=true",
+                "https://player.clevercast.com/?account_id=VzaPKg&event_id=VyO3OZ&chromecast=true&airplay=true"
+            ],
+            "m3u8_url": [
+                "https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/WqY7Y3.smil/chunklist_b3000000.m3u8",
+                "https://hls-origin01-focus-wtv.cdn01.rambla.be/main/adliveorigin-focus-wtv/_definst_/VyO3OZ.smil/chunklist_b3000000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://focus-wtv.be/tv-zone",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Fun-Vision-be": {
+        "nombre": "Fun Vision be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/x8fy3fv?autoplay=1",
+                "https://geo2.dailymotion.com/player/xb0mn.html?video=x8fy3fv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.funradio.be/funvision/",
+        "país": "be",
+        "categoría": "news"
+    },
+    "VRT-MAX-be": {
+        "nombre": "VRT MAX be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-radio.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/live-audio_track_0_0_dut=128000-video_track=3300000.m3u8",
+                "https://live-radio.vrtcdn.be/groupa/live/3c3a12b5-093d-4a19-ae1f-3e775433286e/live.isml/.m3u8?filter=%28%21%28type%3D%3D%22audio%22%26%26FourCC%21%3D%22AACL%22%29%29"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.squidtv.net/europe/belgium/belgium-006.html",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Qmusic-be": {
+        "nombre": "Qmusic be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-video.dpgmedia.net/f1d26a28c95485cc/out/v1/5f60a245c110454fba652900ecf30ea2/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://qmusic.be/luister/qmusic_be/watch",
+        "país": "be",
+        "categoría": "news"
+    },
+    "Europe-Satellite-be": {
+        "nombre": "Europe by Satellite be",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=1&autostart=&lg=INT&isCloud=false&showSwitchLive=true",
+                "https://audiovisual.ec.europa.eu/corporateplayer/index.html?channel=2&autostart=&lg=INT&isCloud=false&showSwitchLive=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://audiovisual.ec.europa.eu/en/ebs/live/1",
+        "país": "be",
+        "categoría": "news"
+    },
     "dw-news": {
         "nombre": "DW News",
         "logo": "",
