@@ -13115,13 +13115,15 @@
             "iframe_url": [
                 "https://www.vidio.com/live/782/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/ANTV/playlist.m3u8?enc=tjy-gEFtzvi4YxrqkyLQlA&exp=1727799350&encp=ZuxN9WYHaefK8gtm5Ay3Ww&expp=1727809850"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.vidio.com/live/782",
+        "sitio_oficial": "https://www.indihometv.com/livetv/antv",
         "país": "id",
         "categoría": "news"
     },
@@ -13132,7 +13134,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/783/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/tvone/playlist.m3u8?enc=vgfIXchugKgzKWhIaINm8A&exp=1727799613&encp=hI5x3tvviQ5mQbnF7x7Q1g&expp=1727810113"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13166,7 +13170,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/tawaftv/playlist.m3u8?enc=5V1dpYh6N4Jsktf7Hj0jBQ&exp=1727799907&encp=UIHYU_yuYTc3pC8edO9T5w&expp=1727810407"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13184,7 +13190,7 @@
                 "https://www.vidio.com/live/7055/embed?autoplay=true&player_only=true&mute=false"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "XOq7ui",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -13200,7 +13206,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/6482/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/joss/134/daaitv/playlist.m3u8?enc=OUv3q_KryepxK-i7nq-O2w&exp=1727800227&encp=ZcZ6k0oWYtaCFvi53Y8C7g&expp=1727808927"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13217,7 +13225,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/874/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/KOMPAS_TV/playlist.m3u8?enc=qnyGYsh12ppaLssT3dj6Sg&exp=1727800308&encp=4Vecbdnd9y_jNnj0grH0CQ&expp=1727810808"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13234,7 +13244,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/6165/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/beritasatu/playlist.m3u8?enc=B7KLb86oYSmWSFnN-iAZOw&exp=1727800352&encp=B7PrlyAuU3gexK3XIgld0Q&expp=1727810852"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13249,6 +13261,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/nfgnpM28xDA?rel=0&autoplay=1",
                 "https://www.youtube.com/embed/XKueVSGTk2o?rel=0&autoplay=1",
                 "https://www.vidio.com/live/777/embed?autoplay=true&player_only=true&mute=false"
             ],
@@ -13269,7 +13282,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/6441/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/TVRI/playlist.m3u8?enc=HJ2BN1MQ_TPoMKB-HEBRsg&exp=1727800766&encp=TFf4wq3HAhX06mcVSXZ96w&expp=1727811266"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13286,7 +13301,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/734/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/trans7/playlist.m3u8?enc=hjU78AufEGguD8DbFPz0zQ&exp=1727800950&encp=0lopz16SiMAxLVTmnHaEyA&expp=1727811450"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13303,7 +13320,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13337,7 +13356,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13354,7 +13375,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13371,7 +13394,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13388,7 +13413,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/7464/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13405,7 +13432,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/1561/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/RAJAWALI_TV/playlist.m3u8?enc=RIJtgeWdV-8aeHYXNIw07g&exp=1727801261&encp=bggGBQIY9uAiVYRCjdOF6w&expp=1727811761"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13422,7 +13451,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/joss/133/bumperslate/playlist.m3u8?enc=12wDH6cjc3KcHDlDttEyPQ&exp=1727801304&encp=dr64_cjrleyMi7mUaJ4CmQ&expp=1727810004"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13439,13 +13470,15 @@
             "iframe_url": [
                 "https://www.vidio.com/live/5415/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://streaming.indihometv.com/atm/hlsv3/JAK_TV/playlist.m3u8?enc=k_4mUajY33CS_rVbhevDrA&exp=1727801367&encp=mM5aGtWaqHG4ExshdOdmoQ&expp=1727811867"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.vidio.com/live/5415",
+        "sitio_oficial": "https://www.indihometv.com/tv/live",
         "país": "id",
         "categoría": "news"
     },
@@ -13456,7 +13489,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13473,7 +13508,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -13490,7 +13527,9 @@
             "iframe_url": [
                 "https://www.vidio.com/live/205-indosiar/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                ""
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
