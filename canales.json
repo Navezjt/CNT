@@ -12794,15 +12794,16 @@
         "país": "pe",
         "categoría": "news"
     },
-    "dzrh": {
-        "nombre": "Dzrh",
+    "dzrh-News": {
+        "nombre": "DZRH News Television",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.youtube.com/embed/m59pFToeXLo?autoplay=0&mute=1&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=1",
                 "https://www.youtube.com/embed/rTczxU43uSs?autoplay=1&mute=0&controls=1&origin=https%3A%2F%2Fwww.dzrh.com.ph&playsinline=1&showinfo=0&rel=0&iv_load_policy=3&modestbranding=1&enablejsapi=1&widgetid=3"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCcTiBX8js_djhSSlmJRI99A",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -12816,15 +12817,34 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/OiVPc54JfFc?si=U6W-SYFCFNuED6oV"
+                "https://www.youtube.com/embed/RHQ8CnLGZCU?list=PLPcB0_P-Zlj6t-ls2CF5GpkzLctmb-TIR&enablejsapi=1&origin=https%3A%2F%2Fent.abs-cbn.com",
+                "https://www.youtube.com/embed/RHQ8CnLGZCU?si=U6W-SYFCFNuED6oV"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCstEtN0pgOmCf02EdXsGChw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.youtube.com/watch?v=OiVPc54JfFc&ab_channel=ABS-CBNEntertainment",
+        "sitio_oficial": "https://ent.abs-cbn.com/articles-news/kapamilya-online-live-12710",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "ABS-CBN-News": {
+        "nombre": "ABS CBN News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/zue5qo-7ZEk?modestbranding=1&loop=0&rel=0&autoplay=1&embed_config=%7B%22relatedChannels%22%3A%5B%5D%2C%22disableRelatedVideos%22%3Atrue%7D&enablejsapi=1&origin=https%3A%2F%2Fnews.abs-cbn.com&widgetid=1",
+                "https://www.youtube.com/embed/RHQ8CnLGZCU?si=zWFP746T0ynRj8ER"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCE2606prvXQc_noEqKxVJXA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@abscbnnews/streams",
         "país": "ph",
         "categoría": "news"
     },
@@ -12833,10 +12853,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/OiVPc54JfFc?si=zWFP746T0ynRj8ER"
+                "https://www.youtube.com/embed/RHQ8CnLGZCU?si=zWFP746T0ynRj8ER"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCstEtN0pgOmCf02EdXsGChw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -12850,10 +12870,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/FgW4dJZRIgs?si=_16b64dihIq4A1LO"
+                "https://www.youtube.com/embed/wCIj9s2yovw?si=_16b64dihIq4A1LO"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UC3XaG-7UVi2vD8ZZEMNnnpw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -12867,10 +12887,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://player.castr.com/live_95f6ac80dd6511ed9d08b12be56ae55e",
                 "https://player.castr.com/live_95f6ac80dd6511ed9d08b12be56ae55e"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCt-iEGXzoeQLLZJ9DjN6k8Q",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -12884,7 +12905,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/YJtUDi_JOUw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.youtube.com/embed/Mo8ygMx6q2Y?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCJCUbMaY593_4SN1QPG7NFQ",
@@ -12896,12 +12917,12 @@
         "país": "ph",
         "categoría": "news"
     },
-    "untvweb": {
+    "untv-web": {
         "nombre": "UNTV",
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/FgW4dJZRIgs?si=oiwiqBglwtLMFMCl"
+                "https://www.youtube.com/embed/wCIj9s2yovw?si=wFrraYALT-nnSF8D"
             ],
             "m3u8_url": [],
             "yt_id": "UC3XaG-7UVi2vD8ZZEMNnnpw",
@@ -12918,6 +12939,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://rumble.com/embed/v5eh6zp/?pub=2hkpgy",
                 "https://livestream.com/accounts/19079954/events/7831871/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false"
             ],
             "m3u8_url": [],
@@ -12926,11 +12948,11 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://es.livetvcentral.com/tv/smni",
+        "sitio_oficial": "https://www.smni.com/online-streaming",
         "país": "ph",
         "categoría": "news"
     },
-    "gmanetwork": {
+    "gma-network": {
         "nombre": "GMA 7 Manila",
         "logo": "",
         "señales": {
@@ -12998,14 +13020,16 @@
         "nombre": "cctn",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://play4you.icu/e/niq378gsv4"
+            ],
             "m3u8_url": [
                 "http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UC7941bBpZFenu_58hHnBkGQ",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": ""
+            "twitch_id": "cctn47_live/"
         },
         "sitio_oficial": "https://cctn47.com/cctn/?page_id=2",
         "país": "ph",
@@ -13016,7 +13040,8 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/Ntj2bME7oHk?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+                "https://www.youtube.com/embed/KIDjvwlE3l0?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.youtube.com/embed/sUXWs9sQiMs?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCFRj7FPKTthzA_gfE2PsGJQ",
@@ -13036,7 +13061,7 @@
                 "https://www.youtube.com/embed/live_stream?enablejsapi=1&channel=UCDXPB23ws_T0rVvrXVCYqyA&autoplay=0&cc_load_policy=0&iv_load_policy=1&modestbranding=0&fs=1&playsinline=0&controls=1&color=red&cc_lang_pref=&rel=0&autohide=2&theme=dark&"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCMwMcgY9BqCJrtfykyCAnBw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -13053,31 +13078,12 @@
                 "https://www.youtube.com/embed?listType=playlist&list=UU0x58b8W1OdhFcr3RJmJbmg&autoplay=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UC0x58b8W1OdhFcr3RJmJbmg",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://rmn.ph/?nav=schedule&subnav=am",
-        "país": "ph",
-        "categoría": "news"
-    },
-    "norbaonline": {
-        "nombre": "norbaonline",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJmR1cmF0aW9uPQ==",
-                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGVsZW5vcmJhJmR1cmF0aW9uPQ==",
-                "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGdub3JiYTI0JmR1cmF0aW9uPQ=="
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://norbaonline.it/",
         "país": "ph",
         "categoría": "news"
     },
@@ -13093,7 +13099,7 @@
                 "https:\/\/live.mariatvcdn.com\/teleradiopace4\/13d74f2cfe921bfbc262697203d47d8f.sdp\/mono.m3u8",
                 "https:\/\/stream.mariatvcdn.com\/trpradio\/c92dd777d146ffcd75d0b6cfb13a9153.sdp\/playlist.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UC9kj3PYl2Hx9yOaPWxJQozw",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -22717,6 +22723,25 @@
         "sitio_oficial": "https://www.vaticannews.va/en.html",
         "país": "it",
         "categoría": "religious"
+    },
+    "norbaonline": {
+        "nombre": "norbaonline",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJmR1cmF0aW9uPQ==",
+                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGVsZW5vcmJhJmR1cmF0aW9uPQ==",
+                "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGdub3JiYTI0JmR1cmF0aW9uPQ=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://norbaonline.it/",
+        "país": "it",
+        "categoría": "news"
     },
     "city21": {
         "nombre": "City 21 News",
