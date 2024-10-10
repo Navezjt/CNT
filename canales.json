@@ -13965,6 +13965,21 @@
         "país": "ar",
         "categoría": "news"
     },
+    "canal13sanjuan-tv": {
+        "nombre": "Canal13sanjuan TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canal13sanjuantv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/canal13sanjuantv",
+        "país": "ar",
+        "categoría": "news"
+    },
     "pronews-tv": {
         "nombre": "Pronews TV",
         "logo": "",
@@ -13978,6 +13993,786 @@
         },
         "sitio_oficial": "www.pronews.gr",
         "país": "gr",
+        "categoría": "news"
+    },
+    "thespectrumtvlive-tv": {
+        "nombre": "Thespectrumtvlive TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "thespectrumtvlive"
+        },
+        "sitio_oficial": "https://www.twitch.tv/thespectrumtvlive",
+        "país": "us",
+        "categoría": "news"
+    },
+    "tamaractv-tv": {
+        "nombre": "Tamarac TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tamaractv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tamaractv",
+        "país": "us",
+        "categoría": "news"
+    },
+    "interradio-tv": {
+        "nombre": "Interradio TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "interradiotv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/interradiotv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "canalecos-tv": {
+        "nombre": "Canalecos TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canalecos"
+        },
+        "sitio_oficial": "https://www.twitch.tv/canalecos",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "onetelevision-tv": {
+        "nombre": "Onetelevision Music",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "onetelevision"
+        },
+        "sitio_oficial": "https://www.twitch.tv/onetelevision",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "loveliferadio-tv": {
+        "nombre": "Loveliferadio TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "loveliferadio"
+        },
+        "sitio_oficial": "https://www.twitch.tv/loveliferadio",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "diabata-tv": {
+        "nombre": "Diabata TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "diabatatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/diabatatv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "hostlivetv-CRISTIANA-tv": {
+        "nombre": "Hostlivetv CRISTIANA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "hostlivetv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/hostlivetv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "jemora70-tv": {
+        "nombre": "Jemora70 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "jemora70"
+        },
+        "sitio_oficial": "https://www.twitch.tv/jemora70",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "radio-orbitty-tv": {
+        "nombre": "Radio Orbitty TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radio_orbitty"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radio_orbitty",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tv-polocubatao": {
+        "nombre": "Polocubatao",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvpolocubatao"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tvpolocubatao",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-euronewsbrasil": {
+        "nombre": "TV Euronewsbrasil",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvgalaxia"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tveuronewsbrasil",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-valjevoplus": {
+        "nombre": "TV Valjevoplus ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvvaljevoplus"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tvvaljevoplus",
+        "país": "it",
+        "categoría": "news"
+    },
+    "teleiblea-tv": {
+        "nombre": "Teleiblea TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "teleiblea"
+        },
+        "sitio_oficial": "https://www.twitch.tv/teleiblea",
+        "país": "it",
+        "categoría": "news"
+    },
+    "bestb4-tv": {
+        "nombre": "Bestb4 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "bestb4tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/bestb4tv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tv-popular": {
+        "nombre": "TV Popular",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvpopular"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tvpopular",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "danec-tv": {
+        "nombre": "Danec TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "danectv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/danectv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "zktvtv-tv": {
+        "nombre": "Zktvtv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.twitch.tv/zktvtv",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "multicabletv-tv": {
+        "nombre": "Multicabletv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "multicabletv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/multicabletv",
+        "país": "hn",
+        "categoría": "news"
+    },
+    "moderateurtvadp-tv": {
+        "nombre": "Moderateurtvadp TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "moderateurtvadp"
+        },
+        "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
+        "país": "fr",
+        "categoría": "news"
+    },
+    "eswntv-tv": {
+        "nombre": "Eswntv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "eswntv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/eswntv",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "nuestra-comarca-television": {
+        "nombre": "nuestra comarca television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "nuestracomarcatelevision"
+        },
+        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
+        "país": "es",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "it",
+        "categoría": "news"
+    },
+    "latinamedios-tv": {
+        "nombre": "Latinamedios TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "latinamediostv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/latinamediostv",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "zonal-tv": {
+        "nombre": "Zonal TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.twitch.tv/zonaltv",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "amagateve-tv": {
+        "nombre": "Amaga Teve",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "amagateve"
+        },
+        "sitio_oficial": "https://www.twitch.tv/amagateve",
+        "país": "co",
+        "categoría": "news"
+    },
+    "canal41-tv": {
+        "nombre": "Canal41 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canal41tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/canal41tv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "zoetelevision-tv": {
+        "nombre": "Zoe Television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "zoetelevision"
+        },
+        "sitio_oficial": "https://www.twitch.tv/zoetelevision",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tv-max-cordoba": {
+        "nombre": "TV Max Cordoba",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvmaxcordoba"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tvmaxcordoba",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "space1999-tv": {
+        "nombre": "Space1999 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "space1999_tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/space1999_tv",
+        "país": "us",
+        "categoría": "news"
+    },
+    "web-madonie-tv": {
+        "nombre": "Web Madonie TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "web_madonietv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/web_madonietv",
+        "país": "it",
+        "categoría": "news"
+    },
+    "siciliauno-tv": {
+        "nombre": "Siciliauno TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "siciliauno"
+        },
+        "sitio_oficial": "https://www.twitch.tv/siciliauno",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radiostudioone-tv": {
+        "nombre": "Radiostudioone TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiostudioone"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radiostudioone",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radio-fm-faleria-tv": {
+        "nombre": "radio_fm_faleria TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radio_fm_faleria"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radio_fm_faleria",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radioantenna1-tv": {
+        "nombre": "Radioantenna1 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radioantenna1"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radioantenna1",
+        "país": "it",
+        "categoría": "news"
+    },
+    "rta-radiotivuazzurra-tv": {
+        "nombre": "RTA Radiotivuazzurra TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "rta_radiotivuazzurra"
+        },
+        "sitio_oficial": "https://www.twitch.tv/rta_radiotivuazzurra",
+        "país": "it",
+        "categoría": "news"
+    },
+    "teleradiomaristella-tv": {
+        "nombre": "Teleradiomaristella TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "teleradiomaristella"
+        },
+        "sitio_oficial": "https://www.twitch.tv/teleradiomaristella",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radioazzurra-tv": {
+        "nombre": "radioazzurra TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radioazzurra"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radioazzurra",
+        "país": "it",
+        "categoría": "news"
+    },
+    "cabanalibre-tv": {
+        "nombre": "Cabanalibre TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "cabanalibre"
+        },
+        "sitio_oficial": "https://www.twitch.tv/cabanalibre",
+        "país": "it",
+        "categoría": "news"
+    },
+    "prayercave-tv": {
+        "nombre": "Prayercave TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "prayercavetv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/prayercavetv",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radiomusica-tv": {
+        "nombre": "radiomusica TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiomusicatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radiomusicatv",
+        "país": "it",
+        "categoría": "news"
+    },
+    "sportchannelnews-tv": {
+        "nombre": "Sportchannelnews TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "sportchannelnews"
+        },
+        "sitio_oficial": "https://www.twitch.tv/sportchannelnews",
+        "país": "it",
+        "categoría": "news"
+    },
+    "fimmglaziotv-tv": {
+        "nombre": "Fimmglaziotv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "fimmglaziotv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/fimmglaziotv",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radiojukeboxtorino-tv": {
+        "nombre": "Radiojukeboxtorino TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiojukeboxtorino"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radiojukeboxtorino",
+        "país": "it",
+        "categoría": "news"
+    },
+    "amicaradio-tv": {
+        "nombre": "Amicaradio TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "amicaradiotv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/amicaradiotv",
+        "país": "it",
+        "categoría": "news"
+    },
+    "pow3r-tv": {
+        "nombre": "Pow3r TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "pow3r"
+        },
+        "sitio_oficial": "https://www.twitch.tv/pow3r",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radiocittaperta-tv": {
+        "nombre": "Radiocittaperta TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiocittaperta"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radiocittaperta",
+        "país": "it",
+        "categoría": "news"
+    },
+    "zerouno-tv": {
+        "nombre": "Zerouno TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "zerounotv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/zerounotv",
+        "país": "it",
+        "categoría": "news"
+    },
+    "teleradioercolano-tv": {
+        "nombre": "Teleradioercolano TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "teleradioercolano"
+        },
+        "sitio_oficial": "https://www.twitch.tv/teleradioercolano",
+        "país": "it",
+        "categoría": "news"
+    },
+    "radiotvoltrelimite-tv": {
+        "nombre": "Radiotvoltrelimite TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiotvoltrelimite"
+        },
+        "sitio_oficial": "https://www.twitch.tv/radiotvoltrelimite",
+        "país": "it",
+        "categoría": "news"
+    },
+    "ondatv1984-tv": {
+        "nombre": "Ondatv1984 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "ondatv1984"
+        },
+        "sitio_oficial": "https://www.twitch.tv/ondatv1984",
+        "país": "it",
+        "categoría": "news"
+    },
+    "studio95melito-tv": {
+        "nombre": "Studio95melito TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "studio95melitotv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/studio95melitotv",
+        "país": "it",
         "categoría": "news"
     },
     "bellaradio-tv": {
