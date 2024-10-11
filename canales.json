@@ -1027,7 +1027,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_tvu.png",
         "señales": {
             "iframe_url": [
-                "https://rudo.video/live/tvu?autoplay=true&volume=0"
+                "https://rudo.video/live/tvu?autoplay=true&volume=0",
+                "https://rudo.video/live/tvu"
             ],
             "m3u8_url": [
                 "https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8",
@@ -1108,7 +1109,8 @@
             ],
             "m3u8_url": [
                 "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
-                "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8"
+                "https://redirector.dps.live/hls/pinguinotv/playlist.m3u8",
+                "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/pinguinotv/pinguinotv.smil/playlist.m3u8"
             ],
             "yt_id": "UC65KUOe02xSJ_uxbTTz0dMQ",
             "yt_embed": "",
@@ -1219,6 +1221,25 @@
         "país": "cl",
         "categoría": "general"
     },
+    "tvr-television-regional": {
+        "nombre": "TVR Television Regional",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Televisi%C3%B3n_Regional_de_Chile_-_logo.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://redirector.dps.live/hls/tvr/playlist.m3u8",
+                "https://unlimited2-cl-isp.dps.live/tvr/tvr.smil/tvr/livestream0/chunks.m3u8",
+                "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCJTWU_1-_89NflP1XKnyuWg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvr.cl",
+        "país": "cl",
+        "categoría": "general"
+    },
     "veo-tv": {
         "nombre": "veoTV",
         "logo": "https://www.veotv.cl/img/logo_grande.png",
@@ -1241,7 +1262,8 @@
         "logo": "https://graph.facebook.com/TVContivision/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://rudo.video/live/cm?autoplay=true&volume=0"
+                "https://rudo.video/live/cm?autoplay=true&volume=0",
+                "https://rudo.video/live/cm"
             ],
             "m3u8_url": [
                 "https://unlimited6-cl.dps.live/cm/cm.smil/playlist.m3u8",
@@ -1300,6 +1322,181 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://zonalatinatv.com/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "u-talca-tv": {
+        "nombre": "UTalcaTV (U. de Talca)",
+        "logo": "https://tv.utalca.cl/wp-content/uploads/2023/10/cropped-Isologo-UTalcaTV-3-32x32.png",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/campustv"
+            ],
+            "m3u8_url": [
+                "https://unlimited1-cl-isp.dps.live/campustv/campustv.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCIgDezAuy6jYN2Qf6WH89vg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.utalca.cl",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "tv-uct-araucania": {
+        "nombre": "TV UCT (U. Católica de Temuco)",
+        "logo": "https://tvuct.cl/wp-content/uploads/2023/08/logo-white.png",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/uct"
+            ],
+            "m3u8_url": [
+                "https://unlimited1-cl-isp.dps.live/uct/uct.smil/playlist.m3u8",
+                "https://unlimited2-cl-isp.dps.live/uct/uct.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCdGQHFBFDJoROOVKTCMsDrA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvuct.cl/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "ua-tv": {
+        "nombre": "UA TV (U. Autonoma)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/UATV.png/320px-UATV.png",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/uatv"
+            ],
+            "m3u8_url": [
+                "https://unlimited2-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8",
+                "https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCyqfgMmeBZemFIcVYlylcEQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://uatv.cl/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "umag-tv": {
+        "nombre": "UMAG TV (U. de Magallanes)",
+        "logo": "https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://live.grupoz.cl/c8462f660fb66a5f21176af3179f737f"
+            ],
+            "m3u8_url": [
+                "https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8"
+            ],
+            "yt_id": "UCOLiwIksoxzYz4hGB_kCNyg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.umagtv.cl/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "umag-tv-2": {
+        "nombre": "UMAG TV 2 (U. de Magallanes)",
+        "logo": "https://static.wixstatic.com/media/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/2daf50_a8f34b3a9e16488ea92343158572f5e4%7Emv2.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://www.umagtv2.grupoz.cl/"
+            ],
+            "m3u8_url": [
+                "https://tls-cl.cdnz.cl/umag2/live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.umagtv.cl/blank-2",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "ues-tv": {
+        "nombre": "UESTV",
+        "logo": "https://www.uestv.cl//wp-content/uploads/layerslider/INICIO-TEMPORAL-COVID-19-Y-ECLIPSE-copy/logo-UESTV.png",
+        "señales": {
+            "iframe_url": [
+                "https://live.grupoz.cl/dd7d5a60e9d657ea4ac4dab1064d1930"
+            ],
+            "m3u8_url": [
+                "https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8"
+            ],
+            "yt_id": "UC4vhg1olhPYfBr1qEJxtPjw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.uestv.cl/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "u-de-chile-tv": {
+        "nombre": "U de Chile TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/UChile_TV_logo_2020.png",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/uchiletv"
+            ],
+            "m3u8_url": [
+                "https://unlimited2-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8",
+                "https://pantera1-100gb-cl-movistar.dps.live/uchiletv/uchiletv.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCL1W3e0pxL1vuO0LokW6erA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://uchile.cl/uchiletv",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "ufromedios": {
+        "nombre": "UfroMedios",
+        "logo": "https://www.ufromedios.cl/wp-content/uploads/2021/02/UFROMEDIOS-VISION-LOW-VERT.png",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/580a80b827de0ae2086ea6d8?volume=0",
+                "https://s02.azuracast.cl/radio/8190/ufro-clasica"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8"
+            ],
+            "yt_id": "UC5H9zdp-3M24xWWJunhLJmQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ufromedios.cl/programacion-ufrovision/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "ulagostv": {
+        "nombre": "ULagosTV (U. de los Lagos)",
+        "logo": "https://www.uestv.cl//wp-content/uploads/2023/12/LOGOS-CANALES-UESTV-6.png",
+        "señales": {
+            "iframe_url": [
+                "https://tv.ulagos.cl/"
+            ],
+            "m3u8_url": [
+                "https://tv.ulagos.cl/web/live.m3u8"
+            ],
+            "yt_id": "UCpjEq9lmqT-2iVQ2D9Xr7Gw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ulagos.cl/",
         "país": "cl",
         "categoría": "general"
     },
@@ -1374,6 +1571,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://iquiquetv.cl/senal-online/",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "wapp-tv": {
+        "nombre": "Wapp TV",
+        "logo": "https://graph.facebook.com/wapptv.cl/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/wapptv"
+            ],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/wapptv/wapptv.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCgylg1Pa7i56wLwn6sA74HA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.wapptv.cl/",
         "país": "cl",
         "categoría": "general"
     },
