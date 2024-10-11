@@ -3783,6 +3783,66 @@
         "país": "ar",
         "categoría": "news"
     },
+    "fmplustv-tv": {
+        "nombre": "Fmplustv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "fmplustv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/fmplustv",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "radiocontacto-tv": {
+        "nombre": "radiocontacto TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "radiocontactotv"
+        },
+        "sitio_oficial": "https://radiocontacto.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Somosbellville-tv": {
+        "nombre": "Somosbellville TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "somosbellvilletv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/somosbellvilletv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal13sanjuan-tv": {
+        "nombre": "Canal13sanjuan TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canal13sanjuantv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/canal13sanjuantv",
+        "país": "ar",
+        "categoría": "news"
+    },
     "bakutv": {
         "nombre": "Bakutv",
         "logo": "/assets/frontend/img/hd-logo.png",
@@ -14370,81 +14430,6 @@
         "país": "pt",
         "categoría": "news"
     },
-    "aidoruteevee-tv": {
-        "nombre": "Aidoruteevee TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "aidoruteevee"
-        },
-        "sitio_oficial": "https://www.twitch.tv/aidoruteevee",
-        "país": "jp",
-        "categoría": "news"
-    },
-    "fmplustv-tv": {
-        "nombre": "Fmplustv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "fmplustv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/fmplustv",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "radiocontacto-tv": {
-        "nombre": "radiocontacto TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "radiocontactotv"
-        },
-        "sitio_oficial": "https://radiocontacto.com.ar/",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "Somosbellville-tv": {
-        "nombre": "Somosbellville TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "somosbellvilletv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/somosbellvilletv",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "canal13sanjuan-tv": {
-        "nombre": "Canal13sanjuan TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "canal13sanjuantv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/canal13sanjuantv",
-        "país": "ar",
-        "categoría": "news"
-    },
     "pronews-tv": {
         "nombre": "Pronews TV",
         "logo": "",
@@ -22388,6 +22373,21 @@
         "sitio_oficial": "https://www.youtube.com/channel/UCynDLZ-YJnrMLSQvwYi-bUA",
         "país": "jp",
         "categoría": "camera"
+    },
+    "aidoruteevee-tv": {
+        "nombre": "Aidoruteevee TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "aidoruteevee"
+        },
+        "sitio_oficial": "https://www.twitch.tv/aidoruteevee",
+        "país": "jp",
+        "categoría": "news"
     },
     "trt-world": {
         "nombre": "TRT World",
