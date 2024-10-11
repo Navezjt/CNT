@@ -8107,6 +8107,301 @@
         "país": "tn",
         "categoría": "news"
     },
+    "telvza-Replay": {
+        "nombre": "Telvza",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=telvza",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=telvza"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "tunisna-Replay": {
+        "nombre": "Tunisna",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=tunisna",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=tunisna"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "watania1-Replay": {
+        "nombre": "Watania1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=watania1",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=watania1",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=tunisie7"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "watania2-Replay": {
+        "nombre": "Watania2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=watania2",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=watania2",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=tunisia2tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "aljanoubiya-Replay": {
+        "nombre": "Aljanoubiya",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljanoubiya",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=aljanoubiya"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "elhiwar-ettounsi-Replay": {
+        "nombre": "Elhiwar Ettounsi",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=elhiwar_ettounsi",
+                "https://www.elahmad.com/tv/radiant.php?id=elhiwarettounsi",
+                "https://www.elahmad.com/tv/live/dailymotion.php?id=elhiwar_ettounsi",
+                "https://www.elahmad.com/tv/ettounsiatv.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "elhiwar-ettounsi2-Replay": {
+        "nombre": "Elhiwar Ettounsi2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elhiwar_ettounsi",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=elhiwar_ettounsi"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "elhiwar-ettounsi3-Replay": {
+        "nombre": "Elhiwar Ettounsi3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=elhiwarettounsi",
+                "https://www.elahmad.com/tv/radiant.php?id=elhiwarettounsi"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "nessma-Replay": {
+        "nombre": "Nessma",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=nessma",
+                "https://www.elahmad.com/tv/watchtv.php?id=nessma",
+                "https://www.elahmad.com/tv/watchtv.php?id=nessma",
+                "https://www.elahmad.com/tv/radiant.php?id=nessma",
+                "https://www.elahmad.com/tv/live/dailymotion.php?id=nessma",
+                "https://www.elahmad.com/tv/nessmatv.php",
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "hannibal-Replay": {
+        "nombre": "Hannibal",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/deY6n0oupos/?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=https%3A%2F%2Fwww.elahmad.com&widget_referrer=https%3A%2F%2Fwww.elahmad.com%2Ftv%2Fhannibaltv.php&enablejsapi=1&widgetid=1",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=hannibal",
+                "https://www.elahmad.com/tv/radiant.php?id=hannibal",
+                "https://www.elahmad.com/tv/hannibaltv.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "zitounatv-Replay": {
+        "nombre": "Zitounatv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zitounatv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=zitounatv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "attessia-Replay": {
+        "nombre": "Attessia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=attessia_tv",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=attessia_tv",
+                "https://www.elahmad.com/tv/youtube.php?id=attessia_tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCGxBePbRa6fumnxqEqUqM4A",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCGxBePbRa6fumnxqEqUqM4A",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "saheltv-Replay": {
+        "nombre": "Saheltv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCdKxF4rAuicuNf-495BlsiA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://saheltv.tn/ar/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "tunisieimmobilier-Replay": {
+        "nombre": "tunisieimmobilier",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TunisieimmobiliertvNetytube/videos",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "almustakila-Replay": {
+        "nombre": "Almustakila",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=almustakillah",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almustakila",
+                "https://www.elahmad.com/tv/almustakillahtv.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/mobile_tv_live/?id=tunisia",
+        "país": "tn",
+        "categoría": "news"
+    },
+    "nefzawa-Replay": {
+        "nombre": "Nefzawa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.nefzawa.net/",
+        "país": "tn",
+        "categoría": "news"
+    },
     "Libya-Al-Ahrar": {
         "nombre": "Libya Al Ahrar",
         "logo": "",
