@@ -2359,6 +2359,36 @@
         "país": "cl",
         "categoría": "news"
     },
+    "fmplustv-tv": {
+        "nombre": "Fmplustv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "fmplustv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/fmplustv",
+        "país": "cl",
+        "categoría": "news"
+    },
+    "zonal-tv": {
+        "nombre": "Zonal TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.twitch.tv/zonaltv",
+        "país": "cl",
+        "categoría": "news"
+    },
     "todo-noticias": {
         "nombre": "Todo noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg",
@@ -3783,21 +3813,6 @@
         "país": "ar",
         "categoría": "news"
     },
-    "fmplustv-tv": {
-        "nombre": "Fmplustv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "fmplustv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/fmplustv",
-        "país": "cl",
-        "categoría": "news"
-    },
     "radiocontacto-tv": {
         "nombre": "radiocontacto TV",
         "logo": "",
@@ -3840,6 +3855,21 @@
             "twitch_id": "canal13sanjuantv"
         },
         "sitio_oficial": "https://www.twitch.tv/canal13sanjuantv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "tv-max-cordoba": {
+        "nombre": "TV Max Cordoba",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tvmaxcordoba"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tvmaxcordoba",
         "país": "ar",
         "categoría": "news"
     },
@@ -6756,6 +6786,21 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.teleantioquia.co/noticias/",
+        "país": "co",
+        "categoría": "news"
+    },
+    "amagateve-tv": {
+        "nombre": "Amaga Teve",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "amagateve"
+        },
+        "sitio_oficial": "https://www.twitch.tv/amagateve",
         "país": "co",
         "categoría": "news"
     },
@@ -13439,6 +13484,36 @@
         "país": "pe",
         "categoría": "news"
     },
+    "canal41-tv": {
+        "nombre": "Canal41 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canal41tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/canal41tv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "zoetelevision-tv": {
+        "nombre": "Zoe Television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "zoetelevision"
+        },
+        "sitio_oficial": "https://www.twitch.tv/zoetelevision",
+        "país": "pe",
+        "categoría": "news"
+    },
     "dzrh-News": {
         "nombre": "DZRH News Television",
         "logo": "",
@@ -14788,96 +14863,6 @@
         },
         "sitio_oficial": "",
         "país": "it",
-        "categoría": "news"
-    },
-    "latinamedios-tv": {
-        "nombre": "Latinamedios TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "latinamediostv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/latinamediostv",
-        "país": "ve",
-        "categoría": "news"
-    },
-    "zonal-tv": {
-        "nombre": "Zonal TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.twitch.tv/zonaltv",
-        "país": "cl",
-        "categoría": "news"
-    },
-    "amagateve-tv": {
-        "nombre": "Amaga Teve",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "amagateve"
-        },
-        "sitio_oficial": "https://www.twitch.tv/amagateve",
-        "país": "co",
-        "categoría": "news"
-    },
-    "canal41-tv": {
-        "nombre": "Canal41 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "canal41tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/canal41tv",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "zoetelevision-tv": {
-        "nombre": "Zoe Television",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "zoetelevision"
-        },
-        "sitio_oficial": "https://www.twitch.tv/zoetelevision",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "tv-max-cordoba": {
-        "nombre": "TV Max Cordoba",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tvmaxcordoba"
-        },
-        "sitio_oficial": "https://www.twitch.tv/tvmaxcordoba",
-        "país": "ar",
         "categoría": "news"
     },
     "space1999-tv": {
@@ -16932,6 +16917,21 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvr.bzh/direct",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "latinamedios-tv": {
+        "nombre": "Latinamedios TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "latinamediostv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/latinamediostv",
         "país": "ve",
         "categoría": "news"
     },
