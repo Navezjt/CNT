@@ -14053,6 +14053,116 @@
         "país": "ph",
         "categoría": "news"
     },
+    "city21": {
+        "nombre": "City 21 News",
+        "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCB-8E662xOk1I3-wdhTMNiw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "alquranhd": {
+        "nombre": "AlQuranHD القران الكريم",
+        "logo": "https://graph.facebook.com/AlQuran4K/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCraPI8sg-eiNzUrurxhKeEQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
+        "país": "pk",
+        "categoría": "religious"
+    },
+    "talonnews_hd": {
+        "nombre": "Talon News HD",
+        "logo": "https://graph.facebook.com/TalonNewsHDOfficial/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCooaD1RPqtX2mY4yNc1PPqw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "bolnewsofficial": {
+        "nombre": "BOL News",
+        "logo": "https://graph.facebook.com/BOLNETWORK/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCz2yxQJZgiB_5elTzqV7FiQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bolnews.com/live/",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "samaatvnews": {
+        "nombre": "SAMAA TV",
+        "logo": "https://graph.facebook.com/samaatvnews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCJekW1Vj5fCVEGdye_mBN6Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.samaa.tv/",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "dunyanewsofficial": {
+        "nombre": "Dunya News",
+        "logo": "https://graph.facebook.com/dunyanews/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
+                "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
+            ],
+            "yt_id": "UCnMBV5Iw4WqKILKue1nP6Hg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://dunyanews.tv/live/",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "gbnewsonline": {
+        "nombre": "GBNews",
+        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+            ],
+            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.gbnews.com/watch/live",
+        "país": "gb-eng",
+        "categoría": "news"
+    },
     "ANTV": {
         "nombre": "ANTV",
         "logo": "",
@@ -14533,231 +14643,224 @@
         "país": "id",
         "categoría": "news"
     },
-    "rapsodiatv-tv": {
-        "nombre": "Rapsodiatv TV",
+    "senato": {
+        "nombre": "Senato",
         "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/loiN1npW2MM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCbanqpWVQ0l4v_aPUV-j9JQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.senato.it/home",
+        "país": "it",
+        "categoría": "news"
+    },
+    "vatican-news": {
+        "nombre": "Vatican News",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "rapsodiatv"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/rapsodiatv",
-        "país": "ro",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "efusiva-tv": {
-        "nombre": "Efusiva TV",
-        "logo": "",
+    "vatican-news-english": {
+        "nombre": "Vatican News English",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCxIsefyl9g9A5SGWA4FvGIA",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "efusivatv"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/efusivatv",
-        "país": "uy",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "la16tv-tv": {
-        "nombre": "La16tv TV",
-        "logo": "",
+    "vatican-news-español": {
+        "nombre": "Vatican News Español",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCnB5vfb9FMMNTnC6-kAT3fQ",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "la16tv"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/la16tv",
-        "país": "fr",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "moderateurtvadp-tv": {
-        "nombre": "Moderateurtvadp TV",
-        "logo": "",
+    "vatican-news-italiano": {
+        "nombre": "Vatican News Italiano",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCkwbN2a1L1H6P9rcA7FhAqg",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "moderateurtvadp"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
-        "país": "fr",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "space1999-tv": {
-        "nombre": "Space1999 TV",
-        "logo": "",
+    "vatican-news-portugues": {
+        "nombre": "Vatican News Português",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCGYSq4b4DXmtK4jyq6r-FYg",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "space1999_tv"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/space1999_tv",
-        "país": "us",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "behelstreet-tv": {
-        "nombre": "Behelstreet TV",
-        "logo": "",
+    "vatican-news-frances": {
+        "nombre": "Vatican News Français",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCQxVySG5g2aC-Uz9NhpyiFg",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "behelstreet"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/behelstreet",
-        "país": "us",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "emsnj-tv": {
-        "nombre": "Emsnj TV",
-        "logo": "",
+    "vatican-news-aleman": {
+        "nombre": "Vatican News Deutsch",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UC4ndSG692MXx_zZlIKMYsdg",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "emsnj"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/emsnj",
-        "país": "us",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "thespectrumtvlive-tv": {
-        "nombre": "Thespectrumtvlive TV",
-        "logo": "",
+    "vatican-news-polaco": {
+        "nombre": "Vatican News Polski",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCShH-YDtaUQH0Zvmg_6bKJQ",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "thespectrumtvlive"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/thespectrumtvlive",
-        "país": "us",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "tamaractv-tv": {
-        "nombre": "Tamarac TV",
-        "logo": "",
+    "vatican-news-vietnamita": {
+        "nombre": "Vatican News Tiếng Việt",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UC1HuzI97H8M5bI3Wl6wKdvA",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "tamaractv"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://www.twitch.tv/tamaractv",
-        "país": "us",
-        "categoría": "news"
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
     },
-    "tokon-line-tv": {
-        "nombre": "Tokon Line",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tokonline"
-        },
-        "sitio_oficial": "https://tokon-line.com/",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "asfaltotv-tv": {
-        "nombre": "Asfaltotv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "asfaltotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/asfaltotv",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "waytvportugal-tv": {
-        "nombre": "Waytvportugal TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "waytvportugal"
-        },
-        "sitio_oficial": "https://waytv.com.pt/",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "loasstvofc-tv": {
-        "nombre": "Loasstvofc TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "loasstvofc"
-        },
-        "sitio_oficial": "https://www.twitch.tv/loasstvofc",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "pronews-tv": {
-        "nombre": "Pronews TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "pronewstv"
-        },
-        "sitio_oficial": "www.pronews.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "extacy-tv": {
-        "nombre": "Extacy TV",
+    "FLTelevision-news": {
+        "nombre": "FLTelevision",
         "logo": "",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8"
+                "https://rst.saiuzwebnetwork.it:8081/fiestaloca/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
-            "twitch_id": "extacy_tv"
+            "twitch_id": ""
         },
-        "sitio_oficial": "https://extacytv.gr/",
-        "país": "gr",
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/it/73526/FLTelevision.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "Rete8-Abruzzo": {
+        "nombre": "Rete8 Abruzzo ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/categorylg/it/5.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "vatican-news-chino": {
+        "nombre": "Vatican News 中文",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCRvmnuS6-wC2ZkAjh2tNK7w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vaticannews.va/en.html",
+        "país": "it",
+        "categoría": "religious"
+    },
+    "norbaonline": {
+        "nombre": "norbaonline",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJmR1cmF0aW9uPQ==",
+                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGVsZW5vcmJhJmR1cmF0aW9uPQ==",
+                "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGdub3JiYTI0JmR1cmF0aW9uPQ=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://norbaonline.it/",
+        "país": "it",
         "categoría": "news"
     },
     "tv-valjevoplus": {
@@ -14787,96 +14890,6 @@
             "twitch_id": "teleiblea"
         },
         "sitio_oficial": "https://www.twitch.tv/teleiblea",
-        "país": "it",
-        "categoría": "news"
-    },
-    "zktvtv-tv": {
-        "nombre": "Zktvtv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.twitch.tv/zktvtv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "multicabletv-tv": {
-        "nombre": "Multicabletv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "multicabletv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/multicabletv",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "laverdadtvhn-tv": {
-        "nombre": "laverdadtvhn TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "laverdadtvhn"
-        },
-        "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
-        "país": "hn",
-        "categoría": "news"
-    },
-    "eswntv-tv": {
-        "nombre": "Eswntv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "eswntv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/eswntv",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "nuestra-comarca-television": {
-        "nombre": "nuestra comarca television",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "nuestracomarcatelevision"
-        },
-        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
-        "país": "es",
-        "categoría": "news"
-    },
-    "-tv": {
-        "nombre": " TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
         "país": "it",
         "categoría": "news"
     },
@@ -15313,6 +15326,293 @@
         },
         "sitio_oficial": "https://www.twitch.tv/etnachanneltv",
         "país": "it",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "it",
+        "categoría": "news"
+    },
+    "zktvtv-tv": {
+        "nombre": "Zktvtv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.twitch.tv/zktvtv",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "eswntv-tv": {
+        "nombre": "Eswntv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "eswntv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/eswntv",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "nuestra-comarca-television": {
+        "nombre": "nuestra comarca television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "nuestracomarcatelevision"
+        },
+        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
+        "país": "es",
+        "categoría": "news"
+    },
+    "rapsodiatv-tv": {
+        "nombre": "Rapsodiatv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "rapsodiatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/rapsodiatv",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "efusiva-tv": {
+        "nombre": "Efusiva TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "efusivatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/efusivatv",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "la16tv-tv": {
+        "nombre": "La16tv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "la16tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/la16tv",
+        "país": "fr",
+        "categoría": "news"
+    },
+    "moderateurtvadp-tv": {
+        "nombre": "Moderateurtvadp TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "moderateurtvadp"
+        },
+        "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
+        "país": "fr",
+        "categoría": "news"
+    },
+    "space1999-tv": {
+        "nombre": "Space1999 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "space1999_tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/space1999_tv",
+        "país": "us",
+        "categoría": "news"
+    },
+    "behelstreet-tv": {
+        "nombre": "Behelstreet TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "behelstreet"
+        },
+        "sitio_oficial": "https://www.twitch.tv/behelstreet",
+        "país": "us",
+        "categoría": "news"
+    },
+    "emsnj-tv": {
+        "nombre": "Emsnj TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "emsnj"
+        },
+        "sitio_oficial": "https://www.twitch.tv/emsnj",
+        "país": "us",
+        "categoría": "news"
+    },
+    "thespectrumtvlive-tv": {
+        "nombre": "Thespectrumtvlive TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "thespectrumtvlive"
+        },
+        "sitio_oficial": "https://www.twitch.tv/thespectrumtvlive",
+        "país": "us",
+        "categoría": "news"
+    },
+    "tamaractv-tv": {
+        "nombre": "Tamarac TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tamaractv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tamaractv",
+        "país": "us",
+        "categoría": "news"
+    },
+    "tokon-line-tv": {
+        "nombre": "Tokon Line",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tokonline"
+        },
+        "sitio_oficial": "https://tokon-line.com/",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "asfaltotv-tv": {
+        "nombre": "Asfaltotv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "asfaltotv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/asfaltotv",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "waytvportugal-tv": {
+        "nombre": "Waytvportugal TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "waytvportugal"
+        },
+        "sitio_oficial": "https://waytv.com.pt/",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "loasstvofc-tv": {
+        "nombre": "Loasstvofc TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "loasstvofc"
+        },
+        "sitio_oficial": "https://www.twitch.tv/loasstvofc",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "pronews-tv": {
+        "nombre": "Pronews TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "pronewstv"
+        },
+        "sitio_oficial": "www.pronews.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "extacy-tv": {
+        "nombre": "Extacy TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "extacy_tv"
+        },
+        "sitio_oficial": "https://extacytv.gr/",
+        "país": "gr",
         "categoría": "news"
     },
     "publikatv-tv": {
@@ -18042,6 +18342,36 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.lametrohn.com/",
+        "país": "hn",
+        "categoría": "news"
+    },
+    "multicabletv-tv": {
+        "nombre": "Multicabletv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "multicabletv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/multicabletv",
+        "país": "hn",
+        "categoría": "news"
+    },
+    "laverdadtvhn-tv": {
+        "nombre": "laverdadtvhn TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "laverdadtvhn"
+        },
+        "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
         "país": "hn",
         "categoría": "news"
     },
@@ -24345,336 +24675,6 @@
         },
         "sitio_oficial": "http://azrotv.com/iphone/arabic/ch/alresoul.php",
         "país": "qa",
-        "categoría": "news"
-    },
-    "senato": {
-        "nombre": "Senato",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/loiN1npW2MM?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCbanqpWVQ0l4v_aPUV-j9JQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.senato.it/home",
-        "país": "it",
-        "categoría": "news"
-    },
-    "vatican-news": {
-        "nombre": "Vatican News",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC7E-LYc1wivk33iyt5bR5zQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-english": {
-        "nombre": "Vatican News English",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCxIsefyl9g9A5SGWA4FvGIA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-español": {
-        "nombre": "Vatican News Español",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCnB5vfb9FMMNTnC6-kAT3fQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-italiano": {
-        "nombre": "Vatican News Italiano",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCkwbN2a1L1H6P9rcA7FhAqg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-portugues": {
-        "nombre": "Vatican News Português",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCGYSq4b4DXmtK4jyq6r-FYg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-frances": {
-        "nombre": "Vatican News Français",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCQxVySG5g2aC-Uz9NhpyiFg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-aleman": {
-        "nombre": "Vatican News Deutsch",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC4ndSG692MXx_zZlIKMYsdg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-polaco": {
-        "nombre": "Vatican News Polski",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCShH-YDtaUQH0Zvmg_6bKJQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-vietnamita": {
-        "nombre": "Vatican News Tiếng Việt",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC1HuzI97H8M5bI3Wl6wKdvA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "FLTelevision-news": {
-        "nombre": "FLTelevision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://rst.saiuzwebnetwork.it:8081/fiestaloca/tracks-v1a1/mono.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/channelnew/it/73526/FLTelevision.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "Rete8-Abruzzo": {
-        "nombre": "Rete8 Abruzzo ",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.coolstreaming.us/categorylg/it/5.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "vatican-news-chino": {
-        "nombre": "Vatican News 中文",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/41/Vatican_News_2017_(Icon).png/",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCRvmnuS6-wC2ZkAjh2tNK7w",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vaticannews.va/en.html",
-        "país": "it",
-        "categoría": "religious"
-    },
-    "norbaonline": {
-        "nombre": "norbaonline",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJmR1cmF0aW9uPQ==",
-                "https://play.xdevel.com/13435/video2s976570-2117?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGVsZW5vcmJhJmR1cmF0aW9uPQ==",
-                "https://play.xdevel.com/13074/video0s976570-1326?fromPW=1&vastUrl=aHR0cHM6Ly9wbGF5Lm5vcmJhb25saW5lLml0L3Zhc3Q/c2l0ZT1wbGF5bm9yYmFvbmxpbmUmYWR2VHlwZT1wcmUmY29uc2VudD0ke0dEUFJfQ09OU0VOVF8xMTV9JnJlZj1odHRwcyUzQSUyRiUyRnBsYXkubm9yYmFvbmxpbmUuaXQlMkZkaXJldHRhJTJGdGdub3JiYTI0JmR1cmF0aW9uPQ=="
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://norbaonline.it/",
-        "país": "it",
-        "categoría": "news"
-    },
-    "city21": {
-        "nombre": "City 21 News",
-        "logo": "https://graph.facebook.com/C21.Karachi/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCB-8E662xOk1I3-wdhTMNiw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCB-8E662xOk1I3-wdhTMNiw",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "alquranhd": {
-        "nombre": "AlQuranHD القران الكريم",
-        "logo": "https://graph.facebook.com/AlQuran4K/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCraPI8sg-eiNzUrurxhKeEQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCraPI8sg-eiNzUrurxhKeEQ",
-        "país": "pk",
-        "categoría": "religious"
-    },
-    "talonnews_hd": {
-        "nombre": "Talon News HD",
-        "logo": "https://graph.facebook.com/TalonNewsHDOfficial/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCooaD1RPqtX2mY4yNc1PPqw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCooaD1RPqtX2mY4yNc1PPqw",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "bolnewsofficial": {
-        "nombre": "BOL News",
-        "logo": "https://graph.facebook.com/BOLNETWORK/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCz2yxQJZgiB_5elTzqV7FiQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.bolnews.com/live/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "samaatvnews": {
-        "nombre": "SAMAA TV",
-        "logo": "https://graph.facebook.com/samaatvnews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCJekW1Vj5fCVEGdye_mBN6Q",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://live.samaa.tv/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "dunyanewsofficial": {
-        "nombre": "Dunya News",
-        "logo": "https://graph.facebook.com/dunyanews/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8",
-                "https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8"
-            ],
-            "yt_id": "UCnMBV5Iw4WqKILKue1nP6Hg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://dunyanews.tv/live/",
-        "país": "pk",
-        "categoría": "news"
-    },
-    "gbnewsonline": {
-        "nombre": "GBNews",
-        "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
-            ],
-            "yt_id": "UC0vn8ISa4LKMunLbzaXLnOQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.gbnews.com/watch/live",
-        "país": "gb-eng",
         "categoría": "news"
     },
     "cna": {
