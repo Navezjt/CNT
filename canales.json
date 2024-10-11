@@ -5134,7 +5134,8 @@
         "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?jsapi=true&autoplay=true&volume=0"
+                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?jsapi=true&autoplay=true&volume=0",
+                "https://mdstrm.com/live-stream/5a7b1e63a8da282c34d65445?volume=0"
             ],
             "m3u8_url": [],
             "yt_id": "UCILU2ghO8GrOeB-zo93eYdA",
@@ -5684,8 +5685,7 @@
         "señales": {
             "iframe_url": [
                 "https://mdstrm.com/live-stream/632391734be92a791e2750e6?autoplay=true",
-                "https://television-libre.online/html/r/?r=aHR0cHM6Ly90dXRsZWhkNC5jb20vL29ubGluZS5waHA/YT00MDE=",
-                "https://television-libre.online/html/hls?get=aHR0cHM6Ly9tZHN0cm0uY29tL2xpdmUtc3RyZWFtLXBsYXlsaXN0LzU3NDQ2MzY5N2I5ODE3Y2YwODg2ZmMxNy5tM3U4"
+                "https://mdstrm.com/live-stream/632391734be92a791e2750e6?volume=0"
             ],
             "m3u8_url": [],
             "yt_id": "UC2Xq2PK-got3Rtz9ZJ32hLQ",
