@@ -14146,6 +14146,66 @@
         "país": "pk",
         "categoría": "news"
     },
+    "tokon-line-tv": {
+        "nombre": "Tokon Line",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tokonline"
+        },
+        "sitio_oficial": "https://tokon-line.com/",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "asfaltotv-tv": {
+        "nombre": "Asfaltotv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "asfaltotv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/asfaltotv",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "waytvportugal-tv": {
+        "nombre": "Waytvportugal TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "waytvportugal"
+        },
+        "sitio_oficial": "https://waytv.com.pt/",
+        "país": "pt",
+        "categoría": "news"
+    },
+    "loasstvofc-tv": {
+        "nombre": "Loasstvofc TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "loasstvofc"
+        },
+        "sitio_oficial": "https://www.twitch.tv/loasstvofc",
+        "país": "pt",
+        "categoría": "news"
+    },
     "gbnewsonline": {
         "nombre": "GBNews",
         "logo": "https://graph.facebook.com/GBNewsOnline/picture?width=800&height=800",
@@ -14161,6 +14221,38 @@
         },
         "sitio_oficial": "https://www.gbnews.com/watch/live",
         "país": "gb-eng",
+        "categoría": "news"
+    },
+    "pronews-tv": {
+        "nombre": "Pronews TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "pronewstv"
+        },
+        "sitio_oficial": "www.pronews.gr",
+        "país": "gr",
+        "categoría": "news"
+    },
+    "extacy-tv": {
+        "nombre": "Extacy TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "extacy_tv"
+        },
+        "sitio_oficial": "https://extacytv.gr/",
+        "país": "gr",
         "categoría": "news"
     },
     "ANTV": {
@@ -15341,278 +15433,6 @@
         },
         "sitio_oficial": "",
         "país": "it",
-        "categoría": "news"
-    },
-    "zktvtv-tv": {
-        "nombre": "Zktvtv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.twitch.tv/zktvtv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "eswntv-tv": {
-        "nombre": "Eswntv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "eswntv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/eswntv",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "nuestra-comarca-television": {
-        "nombre": "nuestra comarca television",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "nuestracomarcatelevision"
-        },
-        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
-        "país": "es",
-        "categoría": "news"
-    },
-    "rapsodiatv-tv": {
-        "nombre": "Rapsodiatv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "rapsodiatv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/rapsodiatv",
-        "país": "ro",
-        "categoría": "news"
-    },
-    "efusiva-tv": {
-        "nombre": "Efusiva TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "efusivatv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/efusivatv",
-        "país": "uy",
-        "categoría": "news"
-    },
-    "la16tv-tv": {
-        "nombre": "La16tv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "la16tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/la16tv",
-        "país": "fr",
-        "categoría": "news"
-    },
-    "moderateurtvadp-tv": {
-        "nombre": "Moderateurtvadp TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "moderateurtvadp"
-        },
-        "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
-        "país": "fr",
-        "categoría": "news"
-    },
-    "space1999-tv": {
-        "nombre": "Space1999 TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "space1999_tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/space1999_tv",
-        "país": "us",
-        "categoría": "news"
-    },
-    "behelstreet-tv": {
-        "nombre": "Behelstreet TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "behelstreet"
-        },
-        "sitio_oficial": "https://www.twitch.tv/behelstreet",
-        "país": "us",
-        "categoría": "news"
-    },
-    "emsnj-tv": {
-        "nombre": "Emsnj TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "emsnj"
-        },
-        "sitio_oficial": "https://www.twitch.tv/emsnj",
-        "país": "us",
-        "categoría": "news"
-    },
-    "thespectrumtvlive-tv": {
-        "nombre": "Thespectrumtvlive TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "thespectrumtvlive"
-        },
-        "sitio_oficial": "https://www.twitch.tv/thespectrumtvlive",
-        "país": "us",
-        "categoría": "news"
-    },
-    "tamaractv-tv": {
-        "nombre": "Tamarac TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tamaractv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/tamaractv",
-        "país": "us",
-        "categoría": "news"
-    },
-    "tokon-line-tv": {
-        "nombre": "Tokon Line",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tokonline"
-        },
-        "sitio_oficial": "https://tokon-line.com/",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "asfaltotv-tv": {
-        "nombre": "Asfaltotv TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "asfaltotv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/asfaltotv",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "waytvportugal-tv": {
-        "nombre": "Waytvportugal TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "waytvportugal"
-        },
-        "sitio_oficial": "https://waytv.com.pt/",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "loasstvofc-tv": {
-        "nombre": "Loasstvofc TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "loasstvofc"
-        },
-        "sitio_oficial": "https://www.twitch.tv/loasstvofc",
-        "país": "pt",
-        "categoría": "news"
-    },
-    "pronews-tv": {
-        "nombre": "Pronews TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "pronewstv"
-        },
-        "sitio_oficial": "www.pronews.gr",
-        "país": "gr",
-        "categoría": "news"
-    },
-    "extacy-tv": {
-        "nombre": "Extacy TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://fr.crystalweb.net:1936/extacytv/extacytv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "extacy_tv"
-        },
-        "sitio_oficial": "https://extacytv.gr/",
-        "país": "gr",
         "categoría": "news"
     },
     "publikatv-tv": {
@@ -19543,6 +19363,21 @@
         "país": "es",
         "categoría": "news"
     },
+    "nuestra-comarca-television": {
+        "nombre": "nuestra comarca television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "nuestracomarcatelevision"
+        },
+        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
+        "país": "es",
+        "categoría": "news"
+    },
     "hechos-ecuador": {
         "nombre": "hechos ecuador",
         "logo": "",
@@ -21610,6 +21445,81 @@
         "país": "us",
         "categoría": "news"
     },
+    "space1999-tv": {
+        "nombre": "Space1999 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "space1999_tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/space1999_tv",
+        "país": "us",
+        "categoría": "news"
+    },
+    "behelstreet-tv": {
+        "nombre": "Behelstreet TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "behelstreet"
+        },
+        "sitio_oficial": "https://www.twitch.tv/behelstreet",
+        "país": "us",
+        "categoría": "news"
+    },
+    "emsnj-tv": {
+        "nombre": "Emsnj TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "emsnj"
+        },
+        "sitio_oficial": "https://www.twitch.tv/emsnj",
+        "país": "us",
+        "categoría": "news"
+    },
+    "thespectrumtvlive-tv": {
+        "nombre": "Thespectrumtvlive TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "thespectrumtvlive"
+        },
+        "sitio_oficial": "https://www.twitch.tv/thespectrumtvlive",
+        "país": "us",
+        "categoría": "news"
+    },
+    "tamaractv-tv": {
+        "nombre": "Tamarac TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tamaractv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tamaractv",
+        "país": "us",
+        "categoría": "news"
+    },
     "euronews-eng": {
         "nombre": "euronews (English)",
         "logo": "",
@@ -21843,6 +21753,36 @@
         "sitio_oficial": "https://artv.watch/es/FR/4KurdHD.fr",
         "país": "fr",
         "categoría": ""
+    },
+    "la16tv-tv": {
+        "nombre": "La16tv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "la16tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/la16tv",
+        "país": "fr",
+        "categoría": "news"
+    },
+    "moderateurtvadp-tv": {
+        "nombre": "Moderateurtvadp TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "moderateurtvadp"
+        },
+        "sitio_oficial": "https://www.twitch.tv/moderateurtvadp",
+        "país": "fr",
+        "categoría": "news"
     },
     "hln-be": {
         "nombre": "HLN be",
@@ -22639,6 +22579,21 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "eswntv-tv": {
+        "nombre": "Eswntv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "eswntv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/eswntv",
         "país": "cn",
         "categoría": "news"
     },
@@ -26958,6 +26913,21 @@
         "país": "ru",
         "categoría": "news"
     },
+    "zktvtv-tv": {
+        "nombre": "Zktvtv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.twitch.tv/zktvtv",
+        "país": "ru",
+        "categoría": "news"
+    },
     "voa": {
         "nombre": "voa noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
@@ -27493,6 +27463,21 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.antena3.ro/live/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "rapsodiatv-tv": {
+        "nombre": "Rapsodiatv TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "rapsodiatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/rapsodiatv",
         "país": "ro",
         "categoría": "news"
     },
@@ -31022,12 +31007,27 @@
         "país": "uy",
         "categoría": "news"
     },
-    "-uruguay": {
-        "nombre": "",
+    "efusiva-tv": {
+        "nombre": "Efusiva TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "efusivatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/efusivatv",
+        "país": "uy",
+        "categoría": "news"
+    },
+    "hhh-uruguay": {
+        "nombre": "hhhhh",
         "logo": "",
         "señales": {
             "iframe_url": [
-                ""
+                "hh"
             ],
             "m3u8_url": [
                 ""
