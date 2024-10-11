@@ -491,7 +491,7 @@
         "país": "cl",
         "categoría": "radio"
     },
-    "agriculturatv": {
+    "agricultura-tv": {
         "nombre": "AGRICULTURA TV",
         "logo": "https://graph.facebook.com/RadioAgricultura/picture?width=800&height=800",
         "señales": {
@@ -527,6 +527,63 @@
         "país": "cl",
         "categoría": "radio"
     },
+    "radio-la-nuestra": {
+        "nombre": "La nuestra",
+        "logo": "https://graph.facebook.com/LaNuestra.cl/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/ln"
+            ],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCt1bAR9jH-EZsVhafYQ3eCA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.lanuestra.cl/",
+        "país": "cl",
+        "categoría": "radio"
+    },
+    "radio-subela": {
+        "nombre": "Súbela Radio",
+        "logo": "https://graph.facebook.com/subelaradio/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/6580414b99f9d36397019551?volume=0"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/6580414b99f9d36397019551.m3u8"
+            ],
+            "yt_id": "UC2XAmdUgYy23fkg5nC6Spag",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.subela.cl/",
+        "país": "cl",
+        "categoría": "radio"
+    },
+    "radio-pauta": {
+        "nombre": "Pauta",
+        "logo": "https://graph.facebook.com/pauta.cl/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/pautatv"
+            ],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8"
+            ],
+            "yt_id": "UCiy1wN5P8nYj_oJK1vdZTRw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.pauta.cl/",
+        "país": "cl",
+        "categoría": "radio"
+    },
     "tvn-cl": {
         "nombre": "TVN",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/33/Logotipo_de_Televisi%C3%B2n_Nacional_de_Chile.svg",
@@ -535,7 +592,9 @@
                 "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?jsapi=true&player=57f40bb4dc5b9f3075c49cfe&custom.ui=%2F317342475%2Ftvn&custom.tvn_demo=&custom.tvn_tipo=EnVivo&custom.tvn_seccion=senal-en-vivo&custom.tvn_articulo=5653641561b4eba30a7e4929&custom.tvn_tags="
             ],
             "m3u8_url": [
-                "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8"
+                "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+                "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+                "https://marine2.miplay.cl/tvnchile/index.m3u8"
             ],
             "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
             "yt_embed": "",
@@ -545,6 +604,63 @@
         "sitio_oficial": "https://www.youtube.com/channel/UCaVaCaiG6qRzDiJDuEGKOhQ",
         "país": "cl",
         "categoría": "general"
+    },
+    "tv-chile": {
+        "nombre": "TV Chile",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Logotipo_de_TV_Chile.svg",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/533adcc949386ce765657d7c?volume=0"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvn.cl/tvchile/envivo",
+        "país": "cl",
+        "categoría": "general"
+    },
+    "tvn-3": {
+        "nombre": "TVN 3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/TVN_3_2023.svg/320px-TVN_3_2023.svg.png",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/5653641561b4eba30a7e4929?volume=0"
+            ],
+            "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvn.cl/tvn3",
+        "país": "cl",
+        "categoría": "culture"
+    },
+    "ntv": {
+        "nombre": "NTV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/Logotipo_de_NTV.svg",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/5aaabe9e2c56420918184c6d?volume=0"
+            ],
+            "m3u8_url": [
+                "https://marine2.miplay.cl/ntv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvn.cl/ntv",
+        "país": "cl",
+        "categoría": "culture"
     },
     "mega-cl": {
         "nombre": "Mega",
@@ -571,6 +687,7 @@
                 "https://rudo.video/live/c13?autoplay=true&volume=0"
             ],
             "m3u8_url": [
+                "https://marine2.miplay.cl/c13/index.m3u8",
                 "https://jireh-hls-live-video.dpsgo.com/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/c13/playlist.m3u8",
                 "https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/529d29eb-8117-44d3-9e21-cdfd68c3c097:MRN2/master.m3u8"
             ],
@@ -590,7 +707,9 @@
             "iframe_url": [
                 "https://tvonlinechile.cl/senal-chv"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://marine2.miplay.cl/chvchile/index.m3u8"
+            ],
             "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -624,9 +743,12 @@
         "nombre": "Stgo.TV",
         "logo": "https://graph.facebook.com/stgotvchile/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://stv4.janus.cl/player/player_timeshifting_widgets_embebible.html"
+            ],
             "m3u8_url": [
-                "https://stv4.janus.cl/playlist/stream.m3u8"
+                "https://stv4.janus.cl/playlist/stream.m3u8",
+                "https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=m24xwoab&q=&d=w"
             ],
             "yt_id": "UC3sbpk-tomsqyOdiBIQR2aw",
             "yt_embed": "",
@@ -642,9 +764,11 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?autoplay=true&volume=0"
+                "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?autoplay=true&volume=0",
+                "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?jsapi=true&loop=false&autoplay=true&controls=true&player=5c0e87c403a35601ebcffcf4"
             ],
             "m3u8_url": [
+                "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8",
                 "https://mdstrm.com/live-stream-playlist/5c0e8b19e4c87f3f2d3e6a59.m3u8"
             ],
             "yt_id": "UCZnboDa_k5jxFCGp6jVhpUQ",
@@ -655,6 +779,126 @@
         "sitio_oficial": "https://www.tvmas.tv/",
         "país": "cl",
         "categoría": "general"
+    },
+    "13-cultura": {
+        "nombre": "13 Cultura",
+        "logo": "https://graph.facebook.com/canal13c/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/13cultura"
+            ],
+            "m3u8_url": [
+                "https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8",
+                "https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.13.cl/c",
+        "país": "cl",
+        "categoría": "culture"
+    },
+    "13-entretencion": {
+        "nombre": "13 Entretención",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/4/4f/13entretencion.svg",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/13e"
+            ],
+            "m3u8_url": [
+                "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+                "https://dai.google.com/linear/hls/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.13.cl/",
+        "país": "cl",
+        "categoría": "entertainment"
+    },
+    "13-festival": {
+        "nombre": "13 Festival",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/6/6e/13festival.svg",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/13festival"
+            ],
+            "m3u8_url": [
+                "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+                "https://dai.google.com/linear/hls/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.13.cl/",
+        "país": "cl",
+        "categoría": "music"
+    },
+    "13-realities": {
+        "nombre": "13 Realities",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/2/29/13realities.svg",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/13realities"
+            ],
+            "m3u8_url": [
+                "https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8",
+                "https://dai.google.com/linear/hls/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.13.cl/",
+        "país": "cl",
+        "categoría": "entertainment"
+    },
+    "13-teleseries": {
+        "nombre": "13 Teleseries",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/f/f1/13teleseries.svg",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/13t"
+            ],
+            "m3u8_url": [
+                "https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8",
+                "https://dai.google.com/linear/hls/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.13.cl/",
+        "país": "cl",
+        "categoría": "entertainment"
+    },
+    "13-pop": {
+        "nombre": "13 Pop",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/5/5c/13pop.svg",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/13pop"
+            ],
+            "m3u8_url": [
+                "https://origin.dpsgo.com/ssai/event/WKlE4m31TOijQS05TZmhqw/master.m3u8",
+                "https://dai.google.com/linear/hls/event/WKlE4m31TOijQS05TZmhqw/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.13.cl/",
+        "país": "cl",
+        "categoría": "entertainment"
     },
     "voz-sobran": {
         "nombre": "La Voz De Los Que Sobran",
@@ -680,7 +924,10 @@
         "nombre": "Puranoticia TV",
         "logo": "https://graph.facebook.com/puranoticiachile/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://pnt.janus.cl/front/video_player_website.html",
+                "https://puranoticia.pnt.cl/cms/stat/stream.html"
+            ],
             "m3u8_url": [
                 "https://pnt.janusmedia.tv/hls/pnt.m3u8",
                 "https://pnt.janus.cl/playlist/stream.m3u8"
@@ -759,10 +1006,12 @@
         "logo": "https://graph.facebook.com/BioBioTV/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
+                "https://rudo.video/live/c9",
                 "https://rudo.video/live/c9?autoplay=true&volume=0"
             ],
             "m3u8_url": [
-                "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8"
+                "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8",
+                "https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8"
             ],
             "yt_id": "UCUyXwD-J--EZlv90KHyqOUg",
             "yt_embed": "",
