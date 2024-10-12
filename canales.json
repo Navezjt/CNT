@@ -28088,6 +28088,327 @@
         "país": "ro",
         "categoría": "news"
     },
+    "Realitatea-Sportivă": {
+        "nombre": "Realitatea Sportivă",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.realitatea.net/realitatea/sportiva_md/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.realitateasportiva.net/live#google_vignette",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Mooz-tv": {
+        "nombre": "Mooz TV",
+        "logo": "https://mooz.tv/site/img/MoozDance_Summer_2016.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8",
+                "https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8",
+                "https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8",
+                "https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mooz.tv/live-ro/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "magic-TV": {
+        "nombre": "Magic TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.broadcasting.ro/925f90db-5c88-4190-a53d-5163cdffe6f4.html"
+            ],
+            "m3u8_url": [
+                "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4_output_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.magicfm.ro/magictv",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Kiss-tv": {
+        "nombre": "Kiss TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html"
+            ],
+            "m3u8_url": [
+                "https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131_output_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Rock-tv": {
+        "nombre": "Rock TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.broadcasting.ro/85c83a80-4f71-4f2d-a8d6-43f676896bcb.html"
+            ],
+            "m3u8_url": [
+                "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.rockfm.ro/rocktv",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "TeleM-Botosani": {
+        "nombre": "TeleM Botosani",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/undefined?showinfo=0&theme=light&autohide=1&rel=0&wmode=opaque"
+            ],
+            "m3u8_url": [
+                "http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telembotosani.ro/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Banat-tv": {
+        "nombre": "Banat TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://www.btv.ro/hls/banat-tv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.btv.ro/live-tv/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Roman-tv": {
+        "nombre": "Roman TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv?channel=romantv__&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fromania%2Fromania-131.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "romantv__"
+        },
+        "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-131.html",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Sălăjeanul-INFO": {
+        "nombre": "Sălăjeanul INFO",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv?channel=salajeanulinfo&parent=www.squidtv.net&referrer=https%3A%2F%2Fwww.squidtv.net%2Feurope%2Fromania%2Fromania-141.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "salajeanulinfo"
+        },
+        "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-141.html",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "trinitas-tv": {
+        "nombre": "Trinitas TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/dIqzpDj441k?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.trinitas.tv/live/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Alfa-Omega": {
+        "nombre": "Alfa Omega",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://alfaomega.tv/embed/live/"
+            ],
+            "m3u8_url": [
+                "https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.squidtv.net/europe/romania/romania-052.html",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Credo-tv": {
+        "nombre": "Credo TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://651c69fa2ff4e.streamlock.net/ctv/livecredo/chunklist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.credo.tv/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "Speranta-tv": {
+        "nombre": "Speranta TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://jstre.am/embed/jsl:2gNjpghXRLE/jsp:PA39Owb5kkR?autoplay="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.sperantatv.ro/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "a7-tv": {
+        "nombre": "A7 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://a7tvlive.ro/A7TV/A7TV/chunklist_w1992303597.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.a7tv.ro/live/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "tvarad": {
+        "nombre": "TV Arad",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.djemba.ro/live/tvaradlive/chunklist_w899703312.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvarad.ro/live",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "TD-Ameritrade-Network-tv": {
+        "nombre": "TD Ameritrade Network TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tdameritrade-distro.amagi.tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/caliwyr/Software/blob/3ec44337259037497db01bd658c1b265ea39c7f0/IPTV/us_distro.m3u",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "cool-tv": {
+        "nombre": "Cool TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://36578ca484df8bc0e290eda20e6c42de0041f2b1"
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cool-tv.net/ch/euforia.htm",
+        "país": "ro",
+        "categoría": "news"
+    },
     "red-uno": {
         "nombre": "Red uno",
         "logo": "https://television-libre.online/img/rcn.webp",
