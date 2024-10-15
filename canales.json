@@ -15715,19 +15715,208 @@
         "país": "it",
         "categoría": "news"
     },
-    "-tv": {
-        "nombre": " TV",
+    "thainews-tv": {
+        "nombre": "NBT TV",
         "logo": "",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64.smil/chunklist_w1726819301_b978000.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
-        "país": "it",
+        "sitio_oficial": "https://thainews.prd.go.th/nbtworld/live/",
+        "país": "th",
+        "categoría": "news"
+    },
+    "AL-tv": {
+        "nombre": "ALTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge2a.v2h-cdn.com/altv2/altv.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "mgronline-tv": {
+        "nombre": "Mgronline TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://server1.streamssl.com/stream/news1_low.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://mgronline.com/",
+        "país": "th",
+        "categoría": "news"
+    },
+    "NBT-HD-tv": {
+        "nombre": "NBT HD TV",
+        "logo": "https://i.imgur.com/IJh6SHb.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge2a.v2h-cdn.com/nbt/nbt.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "THAI-PBS-HD-tv": {
+        "nombre": "THAI PBS HD TV",
+        "logo": "https://iptv36.my.to/logo/thaipbs.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge2a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "TV5-HD-tv": {
+        "nombre": "TV5 HD TV",
+        "logo": "https://i.imgur.com/wOIaqg7.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "Boomerang-Thai-tv": {
+        "nombre": "Boomerang Thai TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png"",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "T-Sports-7-tv": {
+        "nombre": "T Sports 7 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge2a.v2h-cdn.com/t_sport/t_sport.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "TVB-Thai-tv": {
+        "nombre": "TVB Thai TV",
+        "logo": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge2a.v2h-cdn.com/tvb_thai/tvb_thai.stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "TP-tv": {
+        "nombre": "TP TV",
+        "logo": "https://iptv36.my.to/logo/tptv.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tv-live.tpchannel.org/live/tv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "NBT-11-Central-tv": {
+        "nombre": "NBT 11 Central TV",
+        "logo": "https://i.imgur.com/8hYQIxS.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
+        "categoría": "news"
+    },
+    "NBT-11-North-tv": {
+        "nombre": "NBT 11 North TV",
+        "logo": "https://imgur.com/XTFVUkP.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "país": "th",
         "categoría": "news"
     },
     "publikatv-tv": {
