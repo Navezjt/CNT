@@ -15853,7 +15853,7 @@
     },
     "TVB-Thai-tv": {
         "nombre": "TVB Thai TV",
-        "logo": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
+        "logo": "https://iptv36.my.to/logo/tvb.png",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
