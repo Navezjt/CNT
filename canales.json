@@ -5279,6 +5279,661 @@
         "país": "br",
         "categoría": "news"
     },
+    "tv-rede-super": {
+        "nombre": "Rede Super Ao Vivo",
+        "logo": "https://www.redesuper.com.br/wp-content/uploads/sites/29/2023/09/logotipo.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8",
+                "https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.redesuper.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "rede-tv": {
+        "nombre": "Rede TV Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b0baf19518fb782525c37b40c2f5d9b5.webp",
+        "señales": {
+            "iframe_url": [
+                "https://geo2.dailymotion.com/player/xgrus.html?video=kYe5OYErhldJ75Azib2"
+            ],
+            "m3u8_url": [
+                "https://live-b.cf.dmcdn.net/sec2(4JGmUMoEJa5FFpNpJTR-SLHQK6-MHnufJWJuCQduRqLwyE7ZxMzelIlWZREZmhJYSFUIZRtRLUL3ErnN6Hb10AEcjbEakK8x-z69ogE4kBmbcL-_5xgBf2HCO655ZTC3)/dm/3/x8xps0s/d/live-480.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.redetv.uol.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "retro-cartoon": {
+        "nombre": "Retro Cartoon Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a1e4076264abe6b6ccde87a587966abe.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ipgotv.net.br/tv/retrocartoontv/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "web-tv-cine": {
+        "nombre": "Web Tv Cine Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d8ea456a45f1f4837ffb24db7646f8f.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-cine",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-aratu-sbt-bahia": {
+        "nombre": "TV Aratu Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/58ef6f711bd4731bc5f0095f223b0fe0.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tv-aratu-sbt-bahia",
+        "país": "br",
+        "categoría": "news"
+    },
+    "multi-canais": {
+        "nombre": "Multi Canais Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/38cca32010062541d346871765a20c4a.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8",
+                "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8",
+                "https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8",
+                "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8",
+                "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8",
+                "https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ipgotv.top/tv/multicanais/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "web-tv-classicos-do-cinema": {
+        "nombre": "Web Tv Clássicos do Cinema Ao Vivo",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8",
+                "https://stmv1.srvif.com/movies1/movies1/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://infomastertec.blogspot.com/p/agora-na-tv.html",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-channel-Network": {
+        "nombre": "TV Channel Network",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www-tvchannel-tv-br.filesusr.com/html/ac52cc_122725cb89c2334b8af20a13e310cbe9.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC6t48RiHDQm_8RZ2BeQrgUg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvchannel.tv.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "bons-tempos": {
+        "nombre": "Bons Tempos Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0bf29296ede8db8b9c502fba9c05cb7f.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "anime-tv": {
+        "nombre": "Anime TV",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c44a8bd6e3634b22e307678c4f21d127.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ipgotv.net.br/tv/animetv/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "RIT-TV": {
+        "nombre": "RIT TV",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c44a8bd6e3634b22e307678c4f21d127.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://acesso.ecast.site:3648/live/ritlive.m3u8",
+                "https://acesso.ecast.site:3648/live/ritlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.rittv.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "filmes-online": {
+        "nombre": "Filmes Online Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf711b0c34fdda729cf379ba14f8cffb.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/filmes-online",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-loading": {
+        "nombre": "Tv Loading Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1d08352f33c92124373d9f3b0fcf2ef8.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tv-loading",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-max": {
+        "nombre": "TV MAX Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e6aa0ad770325c0c0b656ab54716e542.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www-tvmaxrio-net.filesusr.com/html/b88112_2e47258ffd866b2caa634bcdf9f30080.html"
+            ],
+            "m3u8_url": [
+                "https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvmaxrio.net/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "esporte-interativo-nordeste-hd": {
+        "nombre": "TNT Sports Brasil",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9abe82bee3a622aa1d14138e1d2a04dc.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed?list=UUs-6sCz2LJm1PrWQN4ErsPw&playnext=1&index=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCs-6sCz2LJm1PrWQN4ErsPw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/esporte-interativo-nordeste-hd",
+        "país": "br",
+        "categoría": "news"
+    },
+    "rbatv": {
+        "nombre": "RBATV (Band PA) Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/df0c35517ab2f2e9e6e63c1808730694.webp",
+        "señales": {
+            "iframe_url": [
+                "https://player.jmvstream.com/lvw/bRlIjyfn2E2D6x03TMOrmm2JJ2Y4vn"
+            ],
+            "m3u8_url": [
+                "https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rbatv.dol.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "rede-clone": {
+        "nombre": "Rede Clouding TV Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rede-clone",
+        "país": "br",
+        "categoría": "news"
+    },
+    "sbt-rio": {
+        "nombre": "SBT Rio Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/32807e3e1e6d28707a4dc9a82683b8da.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/live_stream?channel=UCsRfBAspa72ExrsN347W2xg&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/sbt-rio",
+        "país": "br",
+        "categoría": "news"
+    },
+    "rede-manchete": {
+        "nombre": "Rede Manchete Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1042cb4422483a9a56a30524c47d3688.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/rede-manchete",
+        "país": "br",
+        "categoría": "news"
+    },
+    "web-tv-xtreme": {
+        "nombre": "Web Tv Xtreme Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/87464e2fb467b19b710aadb2da52725d.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/web-tv-xtreme",
+        "país": "br",
+        "categoría": "news"
+    },
+    "cinepix-tv": {
+        "nombre": "CinePIX TV Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/840254a95bac6a1f369b4d9641ef4dfa.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/cinepix-tv",
+        "país": "br",
+        "categoría": "news"
+    },
+    "canal-29": {
+        "nombre": "Canal 29 Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dcb3ff84b8f31ddc39ef213b42402f75.webp",
+        "señales": {
+            "iframe_url": [
+                "https://playerv.srvif.com/canal29"
+            ],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canal29.weebly.com/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "cazetv": {
+        "nombre": "CazéTV Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ed777683fdb619972ae85298a4925b40.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCZiYbVptd3PVPf4f6eR6UaQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@CazeTV",
+        "país": "br",
+        "categoría": "news"
+    },
+    "desenhos-classicos-tv": {
+        "nombre": "Desenhos Clássicos TV Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/34848ed178e03783640b8cc7a653b3c9.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8",
+                "https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ipgotv.net.br/tv/retrocartoontv/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "otaku-sign-tv": {
+        "nombre": "Otaku Sign Tv Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/442d0e9d16595bd786733d685f375b56.webp",
+        "señales": {
+            "iframe_url": [
+                "https://playerv.srvif.com/otaku"
+            ],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/otaku/otaku/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://otakusigntv.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "awcchannel": {
+        "nombre": "AWTV Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862465d1835288b2ae6d11f27507a791.webp",
+        "señales": {
+            "iframe_url": [
+                "https://acesso.cloudecast.com/live-stream-video-widget/awtv"
+            ],
+            "m3u8_url": [
+                "https://acesso.ecast.site:3070/live/awtvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://awtv.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "top-tv": {
+        "nombre": "Top Tv Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5773a6c94eda6bbb4fc9e82594c56e7a.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://isaocorp.cloudecast.com/toptv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/top-tv",
+        "país": "br",
+        "categoría": "news"
+    },
+    "iurd-tv": {
+        "nombre": "TV Universal Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0c7cb5e3fd63664c893aeca217712b07.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/iurd-tv",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-tropical-record-rn": {
+        "nombre": "V Tropical (Rede Record RN) Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/85b498edcd66663ea7dfb0c1f9fc697e.webp",
+        "señales": {
+            "iframe_url": [
+                "https://player.logicahost.com.br/player.php?player=35"
+            ],
+            "m3u8_url": [
+                "https://video07.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w1630150607.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://portaldatropical.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "jetsons-tv": {
+        "nombre": "Jetsons Tv Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7856d68f41f8f261c2cdeca2b92dce7b.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8",
+                "https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ipgotv.net.br/tv/jetsonstv/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-gazeta": {
+        "nombre": "TV Gazeta (Rede Gazeta) Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e203baa61a997851f879286d0e262b59.webp",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xb2fp.html?video=x8ttlxm",
+                "https://www.dailymotion.com/embed/video/x8ttlxm"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvgazeta.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-jovem-pan-tv-jp": {
+        "nombre": "TV Jovem Pan - TV JP Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/69673434b607b4db5fb14633654a0ced.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://amg01391-addigital-jovempan-distrotv-tvd2e.amagi.tv/playlist/amg01391-addigital-jovempan-distrotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tv-jovem-pan-tv-jp",
+        "país": "br",
+        "categoría": "news"
+    },
+    "runtime-acao": {
+        "nombre": "Runtime Ação Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/runtime-acao",
+        "país": "br",
+        "categoría": "news"
+    },
+    "istv": {
+        "nombre": "ISTV Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/956249947191e0e94a5a4768b952d303.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w420632867.m3u8",
+                "https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.istv.com.br/home",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-classicos": {
+        "nombre": "Tv Clássicos Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fe290cfa853a15cfac44bb1bf2e924af.webp",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stmv1.srvif.com/canal29/canal29/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/tv-classicos",
+        "país": "br",
+        "categoría": "news"
+    },
+    "tv-aracati-hd": {
+        "nombre": "Tv Aracati HD Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/69cf38e0cd65c06291dc072f3f9270b1.webp",
+        "señales": {
+            "iframe_url": [
+                "https://playerv.logicahost.com.br/video/tvaracati/1/true/false/ZG1sa1pXOHdOQzVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/"
+            ],
+            "m3u8_url": [
+                "https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvaracati.com.br/",
+        "país": "br",
+        "categoría": "news"
+    },
+    "band-news": {
+        "nombre": "Band News Ao",
+        "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/20211a3689f153de32e70cc0e29da4a4.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed?list=UUWijW6tW0iI5ghsAbWDFtTg&playnext=1&index=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCWijW6tW0iI5ghsAbWDFtTg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/band-news",
+        "país": "br",
+        "categoría": "news"
+    },
     "multimedios-costa-rica": {
         "nombre": "Multimedios Costa Rica",
         "logo": "https://graph.facebook.com/MultimediosCR/picture?width=800&height=800",
