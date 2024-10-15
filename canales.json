@@ -2465,6 +2465,262 @@
         "país": "ar",
         "categoría": "news"
     },
+    "tv-publica-arg-Pampeana": {
+        "nombre": "Televisión Pública Pampeana HD Santa Rosa",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a5/TVP_-_Televisión_Pública_(2021).svg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvpp.lapampa.gob.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Canal-2-HD-Misiones": {
+        "nombre": "Canal 2 HD Misiones",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://nd106.republicaservers.com:4433/canal2misioness.html"
+            ],
+            "m3u8_url": [
+                "https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal2misiones.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Chaco-TV-HD-Resistencia": {
+        "nombre": "Chaco TV HD Resistencia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Telpin-TV-HD-Pinamar": {
+        "nombre": "Telpin TV HD Pinamar",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Canal-3-HD-Las-Heras": {
+        "nombre": "Canal 3 | HD | Las Heras",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "CN3-Pinamar-HD-Pinamar": {
+        "nombre": "CN3 Pinamar HD Pinamar",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://intelincloud01.com.ar/hls/cn3/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Televisión-Pública-Pampeana-HD-Santa-Rosa": {
+        "nombre": "Televisión Pública Pampeana HD Santa Rosa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Televito/TDT-Mundo/blob/6873e5c1ca7c71671ef01c8e7cb45ee1c06bf7ac/IPTV#L684",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Garage-TV-SD-Buenos-Aires": {
+        "nombre": "Garage TV SD Buenos Aires",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://stream1.sersat.com/hls/garagetv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Televito/TDT-Mundo/blob/6873e5c1ca7c71671ef01c8e7cb45ee1c06bf7ac/IPTV#L684",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Telejunín-SD-Junín": {
+        "nombre": "Telejunín SD Junín",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Televito/TDT-Mundo/blob/6873e5c1ca7c71671ef01c8e7cb45ee1c06bf7ac/IPTV#L684",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Litus-FHD-Buenos-Aires": {
+        "nombre": "Litus FHD Buenos Aires",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "Canal-2-HD-Ushuaia": {
+        "nombre": "Canal 2 HD Ushuaia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://nd106.republicaservers.com:4433/hls/c6611/1_0/index.m3u8?sessId=1041505"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal2.com.ar/",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "vtv-gujarati": {
+        "nombre": "VTV Gujarati",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://smartstream.org.in/vtvads/index-ima.html?autoplay=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vtvgujarati.com/live-tv",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "vtv-g": {
+        "nombre": "VTV HN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vtv.com.hn/envivo/",
+        "país": "hn",
+        "categoría": "news"
+    },
+    "tv-miraflores": {
+        "nombre": "TV Miraflores",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.dailymotion.com/embed/video/k1yNOrgCd2jz9hBaDXQ?autoplay=1&ui-highlight=?autoplay=0&background=FFC300&foreground=F7FFFD&highlight=171D1B&logo=1&quality=380&info=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://miraflorestv.com.ve/en-vivo/vtv/",
+        "país": "ve",
+        "categoría": "news"
+    },
     "cronica-tv": {
         "nombre": "Crónica TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Crónica_TV_logotipo_(2016).png",
