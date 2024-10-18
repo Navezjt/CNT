@@ -21520,7 +21520,7 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://gacetaperutv.pe/envivo",
-        "país": "ec",
+        "país": "pe",
         "categoría": "news"
     },
     "canal-rtu": {
@@ -21540,18 +21540,58 @@
         "país": "ec",
         "categoría": "news"
     },
-    "-": {
-        "nombre": "",
+    "gen": {
+        "nombre": "GEN",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://gentv.desdepylabs.com/External/gentv"
+            ],
             "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "somosgen"
+        },
+        "sitio_oficial": "https://www.gen.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "ecuastereo": {
+        "nombre": "Ecuastereo",
+        "logo": "https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png",
+        "señales": {
+            "iframe_url": [
+                "https://video.misistemareseller.com:2000/VideoPlayer/ecuastereotv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://video.misistemareseller.com:1936/ecuastereotv/ecuastereotv/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://ecuastereo.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "puruwa-tv": {
+        "nombre": "Puruwatv Music",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://live.tvcontrolcp.com:2020/VideoPlayer/puruwatv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://puruwatv.com/en-vivo/",
         "país": "ec",
         "categoría": "news"
     },
@@ -21568,7 +21608,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.educa.ec/",
         "país": "ec",
         "categoría": "news"
     },
