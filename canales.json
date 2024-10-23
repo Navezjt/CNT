@@ -9137,6 +9137,21 @@
         "país": "tn",
         "categoría": "news"
     },
+    "Ghazwa-salma-tv": {
+        "nombre": "Ghazwa salma",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCSyhuOTM05x6auU7Kdomn6Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@Dailyvloging00796/streams",
+        "país": "tn",
+        "categoría": "news"
+    },
     "Castmas-Tunis-tv": {
         "nombre": "Cast+ Tunis",
         "logo": "",
@@ -9148,7 +9163,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "",
+        "sitio_oficial": "https://www.youtube.com/@CastPlusTunis",
         "país": "tn",
         "categoría": "news"
     },
