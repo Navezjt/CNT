@@ -32645,7 +32645,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8"
+            ],
             "yt_id": "UCyscVWiJELkATSuU-RF2NLg",
             "yt_embed": "OKzd_EmEE2s?",
             "yt_playlist": "",
