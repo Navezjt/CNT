@@ -17692,47 +17692,6 @@
         "país": "iq",
         "categoría": "news"
     },
-    "2M-tv": {
-        "nombre": "2M",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=maroc2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=2m_maroc",
-                "https://ok.ru/videoembed/8053965659722?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "2m-tv": {
-        "nombre": "2M+",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
-                "https://ok.ru/video/8053965659722",
-                "https://www.web24iptv.online/player/phpar/fas2m.php",
-                "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
-            ],
-            "m3u8_url": [
-                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
-        "país": "ma",
-        "categoría": "news"
-    },
     "zagrosnews-tv": {
         "nombre": "Zagrosnews",
         "logo": "",
@@ -18324,6 +18283,47 @@
         },
         "sitio_oficial": "https://github.com/Navezjt/IPTVthailandia/blob/main/Digital_TV.m3u",
         "país": "th",
+        "categoría": "news"
+    },
+    "2M-tv": {
+        "nombre": "2M",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=maroc2",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=2m_maroc",
+                "https://ok.ru/videoembed/8053965659722?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "2m-tv": {
+        "nombre": "2M+",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
+                "https://ok.ru/video/8053965659722",
+                "https://www.web24iptv.online/player/phpar/fas2m.php",
+                "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
+            ],
+            "m3u8_url": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
+        "país": "ma",
         "categoría": "news"
     },
     "publikatv-tv": {
