@@ -18285,6 +18285,25 @@
         "país": "th",
         "categoría": "news"
     },
+    "aloula1-tv": {
+        "nombre": "Aloula1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=aloula1",
+                "https://www.elahmad.com/tv/radiant.php?id=laayoune",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alaoulaeurope"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/rtm_maroc.php",
+        "país": "ma",
+        "categoría": "news"
+    },
     "2M-tv": {
         "nombre": "2M",
         "logo": "",
@@ -18324,6 +18343,373 @@
         },
         "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
         "país": "ma",
+        "categoría": "news"
+    },
+    "arryadia3-tv": {
+        "nombre": "Arryadia 3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=arryadia1",
+                "/tv/cloudflare.php?id=arryadia1",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arryadia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCRN5ho3UGhUi7ZCBe2G2f2w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/arryadia_maroc.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "Aarrabiaa4-tv": {
+        "nombre": "Arrabiaa 4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=arrabia",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=arrabiaa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/arrabia-maroc.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "almaghribia5-tv": {
+        "nombre": "Almaghribia 5",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=al_maghribia",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=almaghribia"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/almaghribia-tv.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "assadissa-tv": {
+        "nombre": "Assadissa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=assadissatv",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=assadissa",
+                "https://qanawat.taghtia.com/api/player/assadissa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.taghtia.com/en/watch/assadissa",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "aflam-maroc-tv": {
+        "nombre": "Aflam Maroc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=aflam_maroc"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "tamazight-tv": {
+        "nombre": "Tamazight",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=tamazight",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=tamazight"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/tamazight-live-tv.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "medi1tv-tv": {
+        "nombre": "Medi1tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=medi1tv",
+                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_arabia",
+                "https://www.elahmad.com/tv/radiant.php?id=medi1tv_afrique",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=medi1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/medi1tv.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "maptvnews-tv": {
+        "nombre": "Maptv News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=maptvnews"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "telemaroc-tv": {
+        "nombre": "Telemaroc",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false",
+                "https://livestream.com/accounts/27130247/events/9197096/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemaroc.tv/liveTV",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "Rasd-tv": {
+        "nombre": "Rasd TV Directo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rasd.tv/embed.php?id=3931"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://xn--vivaespaa-s6a.tv/user/live-tv/rasd-tv/28",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "athaqafia-tv": {
+        "nombre": "athaqafia",
+        "logo": "https://iteleflix.com/archivos/Athaqafia-1.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=saudi_thaqafiya",
+                "https://qanawat.taghtia.com/api/player/athaqafia",
+                "https://www.snrt.ma/dummy/snrt_token_al_aoula.php",
+                "https://www.snrt.ma/dummy/snrt_token_athaqafia.php"
+            ],
+            "m3u8_url": [
+                "https://utlils433.pro/pr_mar.php?url=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8",
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.snrt.ma/",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "Al-Aoula-Maroc-tv": {
+        "nombre": "Al Aoula Maroc",
+        "logo": "http://www.casasat.com/pics/1552707_1one.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/RVycDPf6iRI?fs=1&autoplay=1&iv_load_policy=3&showinfo=0&showsearch=0&modestbranding=1&rel=0&autohide=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.casasat.com/tv50.htm",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "alalgerietv-tv": {
+        "nombre": "Alalgerie TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie",
+                "",
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alalgerietv.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "algerie3-tv": {
+        "nombre": "Algerie3 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=algeria3",
+                "http://www.elahmad.com/tv/arabic-tv-online.php?id=thalitha",
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/algeria3.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "algerie-tv": {
+        "nombre": "Algerie4 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie4",
+                "https://www.elahmad.com/tv/radiant.php?id=algeria4",
+                "/tv/mpegts_player.php?id=algerie4"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/algeria4.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "algerie5-tv": {
+        "nombre": "Algerie5",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie5",
+                "https://www.elahmad.com/tv/radiant.php?id=algeria5",
+                "/tv/mpegts_player.php?id=algerie5"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/algeria5.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "algerie6-tv": {
+        "nombre": "Algerie6",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie6",
+                "https://www.elahmad.com/tv/radiant.php?id=algeria6",
+                "/tv/mpegts_player.php?id=algerie6"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/tv6-algerie-en-direct-live.php",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "algerie7-tv": {
+        "nombre": "Algerie7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie7"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "algerie8-tv": {
+        "nombre": "Algerie8",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/algeria_live.php?id=algerie8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "dz",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "dz",
         "categoría": "news"
     },
     "publikatv-tv": {
