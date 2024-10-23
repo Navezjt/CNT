@@ -15865,44 +15865,6 @@
         "país": "ps",
         "categoría": "news"
     },
-    "Anita-tv": {
-        "nombre": "Anita TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://cp.horusplayer.com/embed/anitatv/live"
-            ],
-            "m3u8_url": [
-                "https://srvx1.selftv.video/anitatv/live/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://anitatv.it/",
-        "país": "it",
-        "categoría": "news"
-    },
-    "orler-tv": {
-        "nombre": "Orler",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.orler.it/orlerstreaming/indexneworler.php"
-            ],
-            "m3u8_url": [
-                "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.orler.it/streamingtv/",
-        "país": "it",
-        "categoría": "news"
-    },
     "musawa-channel-tv": {
         "nombre": "Musawa Channel",
         "logo": "https://www.musawachannel.com/sites/all/themes/musawa/images/logo.png",
@@ -16188,25 +16150,6 @@
         "país": "ps",
         "categoría": "news"
     },
-    "programma-tv": {
-        "nombre": "Programma",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "//playercdn.cdnvideo.ru/aloha/players/tvsoyuz_player.html"
-            ],
-            "m3u8_url": [
-                "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tv-soyuz.ru/tvprogramma",
-        "país": "ru",
-        "categoría": "news"
-    },
     "nablus-tv": {
         "nombre": "Nablus",
         "logo": "",
@@ -16222,570 +16165,6 @@
         },
         "sitio_oficial": "https://www.elahmad.com/tv/",
         "país": "ps",
-        "categoría": "news"
-    },
-    "i-news-tv": {
-        "nombre": " I NEWS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=i_news"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "samarra-tv": {
-        "nombre": "Samarra",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "http://212.18.233.19:1935/samarra/samarra/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.samarra.tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "dijlah-tv": {
-        "nombre": "Dijlah",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=dijlahtv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "aletejah-tv": {
-        "nombre": "Aletejah",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aletejahtv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alfallujah-tv": {
-        "nombre": "Alfallujah",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alfallujah_tv",
-                "https://player.vimeo.com/video/937561515"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alfallujah-tv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alqanat-tv": {
-        "nombre": "Alqanat",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alqanattv",
-                "https://www.elahmad.com/tv/radiant.php?id=alqanattv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alqanattv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "albaghdadia1-tv": {
-        "nombre": "Albaghdadia1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=albaghdadia1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/albaghdadia.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "honabaghdad-tv": {
-        "nombre": "Honabaghdad",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=honabaghdad",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=honabagdad"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/honabagdad-tv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alsharqiyanews-tv": {
-        "nombre": "Alsharqiya News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alsharqiya1",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alsharqiya",
-                "https://www.elahmad.com/tv/radiant.php?id=charkiyanews1",
-                "https://www.elahmad.com/tv/radiant.php?id=charkiyanews2",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alsharqiyanews"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/honabagdad-tv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "charkiyanews2-tv": {
-        "nombre": "Charkiyanews2",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "/tv/cloudflare.php?id=charkiyanews2",
-                "https://www.elahmad.com/tv/cloudflare.php?id=charkiyanews2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "almasaraloula-tv": {
-        "nombre": "Almasaraloula",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.snrt.ma/dummy/snrt_token_al_aoula.php",
-                "https://www.elahmad.com/tv/radiant.php?id=almasaraloula"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://snrtlive.ma/ar/al-aoula",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alrasheedtv-tv": {
-        "nombre": "Alrasheedtv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alrasheedtv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alrasheed.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "2M-tv": {
-        "nombre": "2M",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=maroc2",
-                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=2m_maroc",
-                "https://ok.ru/videoembed/8053965659722?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "2m-tv": {
-        "nombre": "2M+",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
-                "https://ok.ru/video/8053965659722",
-                "https://www.web24iptv.online/player/phpar/fas2m.php",
-                "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
-            ],
-            "m3u8_url": [
-                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
-        "país": "ma",
-        "categoría": "news"
-    },
-    "zagrosnews-tv": {
-        "nombre": "Zagrosnews",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=zagrosnews"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "https://www.elahmad.com/tv/radiant.php?id=zagrosnews",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "afaq-tv-live": {
-        "nombre": "Afaq",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=afaqtv_1",
-                "https://www.elahmad.com/tv/radiant.php?id=afaqtv_2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/afaq-tv-live.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alforat-tv": {
-        "nombre": "Alforat",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alforat",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alforat"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alforattv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alhurra-tv": {
-        "nombre": "Alhurra",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=alhurra",
-                "https://www.elahmad.com/tv/radiant.php?id=alhurra_iraq"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "altaghier-tv": {
-        "nombre": "Altaghier",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=taghier",
-                "https://player.castr.io/live_d33349a0962a11ed907dd9e556777b63"
-            ],
-            "m3u8_url": [
-                "https://stream.castr.com/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/tracks-v2a1/rewind-14400.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/altaghier-live-tv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "anb1-tv": {
-        "nombre": "Anb1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "http://www.parsatv.com/embed.php?name=ANB-Sat&auto=false",
-                "https://www.elahmad.com/tv/radiant.php?id=anb1"
-            ],
-            "m3u8_url": [
-                "https://anbsat.ddns.net/anb/live/ANB/playlist_dvr_timeshift-0-14400.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.anbsat.com/watch-live",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alsumaria-tv": {
-        "nombre": "Alsumaria",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=alsumaria",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alsumaria"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alsumariav.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "kurdistan-tv": {
-        "nombre": "Kurdistan",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=kurdistan_tv",
-                "http://www.parsatv.com/embed.php?name=Kurdistan-TV&auto=false"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "https://www.elahmad.com/tv/radiant.php?id=kurdistan_tv",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "iraqia-news-tv": {
-        "nombre": "iraqia News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aliraqya_news",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=aliraqiya"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/iraqia-news.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "aliraqiya-tv": {
-        "nombre": "Aliraqiya",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=aliraqya_tv",
-                "https://www.elahmad.com/tv/radiant.php?id=aliraqya_news",
-                "https://www.elahmad.com/tv/arabic-tv-online.php?id=aliraqiya"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/aliraqiya-tv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "aliraqiya-sport-tv": {
-        "nombre": "Aliraqiya Sport",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/puzzbEab8B8/?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=https%3A%2F%2Fwww.elahmad.com&widget_referrer=https%3A%2F%2Fwww.elahmad.com%2Ftv%2Faliraqiya-sport.php&enablejsapi=1&widgetid=1",
-                ""
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCZ8zJO04KF6RD2VqZaWFkxg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/aliraqiya-sport.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alrabiaa-one-tv": {
-        "nombre": "Alrabiaa One",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_one",
-                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_two",
-                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_three",
-                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_four"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/alrabiaa-tv-live.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "i-news-tv": {
-        "nombre": "i News TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=i_news"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "nrt-tv1": {
-        "nombre": "Nrt TV1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=nrt_tv1",
-                "https://www.elahmad.com/tv/kurdish-tv-online.php?id=NRT3Kids",
-                "https://www.elahmad.com/tv/kurdish-tv-online.php?id=NRT2",
-                "https://www.elahmad.com/tv/kurdish-tv-online.php?id=NRT"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/nrttv.php",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "rudaw-tv": {
-        "nombre": "Rudaw",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=rudawtv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "beladitv-tv": {
-        "nombre": "Beladitv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=beladitv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "utv-iraq-tv": {
-        "nombre": "Utv Iraq",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.elahmad.com/tv/radiant.php?id=utv_iraq"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.elahmad.com/tv/",
-        "país": "iq",
         "categoría": "news"
     },
     "tokon-line-tv": {
@@ -18060,6 +17439,687 @@
         },
         "sitio_oficial": "https://www.twitch.tv/etnachanneltv",
         "país": "it",
+        "categoría": "news"
+    },
+    "Anita-tv": {
+        "nombre": "Anita TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cp.horusplayer.com/embed/anitatv/live"
+            ],
+            "m3u8_url": [
+                "https://srvx1.selftv.video/anitatv/live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://anitatv.it/",
+        "país": "it",
+        "categoría": "news"
+    },
+    "orler-tv": {
+        "nombre": "Orler",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.orler.it/orlerstreaming/indexneworler.php"
+            ],
+            "m3u8_url": [
+                "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.orler.it/streamingtv/",
+        "país": "it",
+        "categoría": "news"
+    },
+    "i-news-tv": {
+        "nombre": " I NEWS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=i_news"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "samarra-tv": {
+        "nombre": "Samarra",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://212.18.233.19:1935/samarra/samarra/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.samarra.tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "dijlah-tv": {
+        "nombre": "Dijlah",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=dijlahtv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "aletejah-tv": {
+        "nombre": "Aletejah",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=aletejahtv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alfallujah-tv": {
+        "nombre": "Alfallujah",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alfallujah_tv",
+                "https://player.vimeo.com/video/937561515"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alfallujah-tv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alqanat-tv": {
+        "nombre": "Alqanat",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alqanattv",
+                "https://www.elahmad.com/tv/radiant.php?id=alqanattv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alqanattv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "albaghdadia1-tv": {
+        "nombre": "Albaghdadia1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=albaghdadia1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/albaghdadia.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "honabaghdad-tv": {
+        "nombre": "Honabaghdad",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=honabaghdad",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=honabagdad"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/honabagdad-tv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alsharqiyanews-tv": {
+        "nombre": "Alsharqiya News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alsharqiya1",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alsharqiya",
+                "https://www.elahmad.com/tv/radiant.php?id=charkiyanews1",
+                "https://www.elahmad.com/tv/radiant.php?id=charkiyanews2",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alsharqiyanews"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/honabagdad-tv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "charkiyanews2-tv": {
+        "nombre": "Charkiyanews2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "/tv/cloudflare.php?id=charkiyanews2",
+                "https://www.elahmad.com/tv/cloudflare.php?id=charkiyanews2"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "almasaraloula-tv": {
+        "nombre": "Almasaraloula",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.snrt.ma/dummy/snrt_token_al_aoula.php",
+                "https://www.elahmad.com/tv/radiant.php?id=almasaraloula"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC1X2nRRWPptr88W_N9RWS1g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://snrtlive.ma/ar/al-aoula",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alrasheedtv-tv": {
+        "nombre": "Alrasheedtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alrasheedtv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alrasheed.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "2M-tv": {
+        "nombre": "2M",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=maroc2",
+                "https://www.elahmad.com/tv/mobiletv/glarb.php?id=2m_maroc",
+                "https://ok.ru/videoembed/8053965659722?autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://azrotv.com/iphone/arabic/ch6/2mdirect.php",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "2m-tv": {
+        "nombre": "2M+",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ww.aflam4you.net/embed.php?vid=8&aflam_s=1",
+                "https://ok.ru/video/8053965659722",
+                "https://www.web24iptv.online/player/phpar/fas2m.php",
+                "http://jawaltv.com/player/?id=https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/index.m3u8?DVR"
+            ],
+            "m3u8_url": [
+                "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde-avc1_1500000=6-mp4a_130400_qad=1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tunisvista.com/medias/2m-maroc-online.html",
+        "país": "ma",
+        "categoría": "news"
+    },
+    "zagrosnews-tv": {
+        "nombre": "Zagrosnews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=zagrosnews"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "https://www.elahmad.com/tv/radiant.php?id=zagrosnews",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "afaq-tv-live": {
+        "nombre": "Afaq",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=afaqtv_1",
+                "https://www.elahmad.com/tv/radiant.php?id=afaqtv_2"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/afaq-tv-live.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alforat-tv": {
+        "nombre": "Alforat",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alforat",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alforat"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alforattv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alhurra-tv": {
+        "nombre": "Alhurra",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=alhurra",
+                "https://www.elahmad.com/tv/radiant.php?id=alhurra_iraq"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "altaghier-tv": {
+        "nombre": "Altaghier",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=taghier",
+                "https://player.castr.io/live_d33349a0962a11ed907dd9e556777b63"
+            ],
+            "m3u8_url": [
+                "https://stream.castr.com/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/tracks-v2a1/rewind-14400.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/altaghier-live-tv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "anb1-tv": {
+        "nombre": "Anb1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=ANB-Sat&auto=false",
+                "https://www.elahmad.com/tv/radiant.php?id=anb1"
+            ],
+            "m3u8_url": [
+                "https://anbsat.ddns.net/anb/live/ANB/playlist_dvr_timeshift-0-14400.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.anbsat.com/watch-live",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alsumaria-tv": {
+        "nombre": "Alsumaria",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=alsumaria",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=alsumaria"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alsumariav.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "kurdistan-tv": {
+        "nombre": "Kurdistan",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=kurdistan_tv",
+                "http://www.parsatv.com/embed.php?name=Kurdistan-TV&auto=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "https://www.elahmad.com/tv/radiant.php?id=kurdistan_tv",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "iraqia-news-tv": {
+        "nombre": "iraqia News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=aliraqya_news",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=aliraqiya"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/iraqia-news.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "aliraqiya-tv": {
+        "nombre": "Aliraqiya",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=aliraqya_tv",
+                "https://www.elahmad.com/tv/radiant.php?id=aliraqya_news",
+                "https://www.elahmad.com/tv/arabic-tv-online.php?id=aliraqiya"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/aliraqiya-tv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "aliraqiya-sport-tv": {
+        "nombre": "Aliraqiya Sport",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/puzzbEab8B8/?html5=1&autoplay=0&controls=0&showinfo=0&rel=0&modestbranding=0&playsinline=1&origin=https%3A%2F%2Fwww.elahmad.com&widget_referrer=https%3A%2F%2Fwww.elahmad.com%2Ftv%2Faliraqiya-sport.php&enablejsapi=1&widgetid=1",
+                ""
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCZ8zJO04KF6RD2VqZaWFkxg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/aliraqiya-sport.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alrabiaa-one-tv": {
+        "nombre": "Alrabiaa One",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_one",
+                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_two",
+                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_three",
+                "https://www.elahmad.com/tv/watchtv.php?id=alrabiaa_four"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/alrabiaa-tv-live.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "i-news-tv": {
+        "nombre": "i News TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=i_news"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "nrt-tv1": {
+        "nombre": "Nrt TV1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=nrt_tv1",
+                "https://www.elahmad.com/tv/kurdish-tv-online.php?id=NRT3Kids",
+                "https://www.elahmad.com/tv/kurdish-tv-online.php?id=NRT2",
+                "https://www.elahmad.com/tv/kurdish-tv-online.php?id=NRT"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/nrttv.php",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "rudaw-tv": {
+        "nombre": "Rudaw",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=rudawtv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "beladitv-tv": {
+        "nombre": "Beladitv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=beladitv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "utv-iraq-tv": {
+        "nombre": "Utv Iraq",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.elahmad.com/tv/radiant.php?id=utv_iraq"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.elahmad.com/tv/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alhurra-Navez": {
+        "nombre": "Alhurra",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8"
+            ],
+            "yt_id": "UCyscVWiJELkATSuU-RF2NLg",
+            "yt_embed": "OKzd_EmEE2s?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.alhurra.com/",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "alqaheranews-Navez": {
+        "nombre": "AlQaheraNews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCcu3RolEOalAMef4Lt3uZLg",
+            "yt_embed": "ySGKh5o7-TU?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@alqaheranewslivestream",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "AlHadath": {
+        "nombre": "AlHadath",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCrj5BGAhtWxDfqbza9T9hqA",
+            "yt_embed": "et0bSUddkn4?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@AlHadath",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "inewschannel1": {
+        "nombre": "Inewschannel1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCvRlogyJIZuK7BUPbo7GiPA",
+            "yt_embed": "n4G5akz4tiw?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@inewschannel1",
+        "país": "iq",
+        "categoría": "news"
+    },
+    "BelqeesTV": {
+        "nombre": "BelqeesTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/YDIcwHOkaqI?autoplay=1&mute=0&controls=0&origin=https%3A%2F%2Fbelqees.net&playsinline=1&showinfo=0&rel=10&iv_load_policy=3&modestbranding=0&enablejsapi=1&loop=1&widgetid=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxA_zZwALQMmVMSZyLKC-Nw",
+            "yt_embed": "YDIcwHOkaqI?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@BelqeesTV",
+        "país": "iq",
         "categoría": "news"
     },
     "thainews-tv": {
@@ -29921,6 +29981,25 @@
         "país": "ru",
         "categoría": "news"
     },
+    "programma-tv": {
+        "nombre": "Programma",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "//playercdn.cdnvideo.ru/aloha/players/tvsoyuz_player.html"
+            ],
+            "m3u8_url": [
+                "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv-soyuz.ru/tvprogramma",
+        "país": "ru",
+        "categoría": "news"
+    },
     "voa": {
         "nombre": "voa noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/d/dd/VOA_logo.svg",
@@ -32637,87 +32716,8 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.youtube.com/@mellowbeatseeker",
-        "país": "",
+        "país": "kr",
         "categoría": "music"
-    },
-    "alhurra-Navez": {
-        "nombre": "Alhurra",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8"
-            ],
-            "yt_id": "UCyscVWiJELkATSuU-RF2NLg",
-            "yt_embed": "OKzd_EmEE2s?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.alhurra.com/",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "alqaheranews-Navez": {
-        "nombre": "AlQaheraNews",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCcu3RolEOalAMef4Lt3uZLg",
-            "yt_embed": "ySGKh5o7-TU?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@alqaheranewslivestream",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "AlHadath": {
-        "nombre": "AlHadath",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCrj5BGAhtWxDfqbza9T9hqA",
-            "yt_embed": "et0bSUddkn4?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@AlHadath",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "inewschannel1": {
-        "nombre": "Inewschannel1",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCvRlogyJIZuK7BUPbo7GiPA",
-            "yt_embed": "n4G5akz4tiw?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@inewschannel1",
-        "país": "iq",
-        "categoría": "news"
-    },
-    "BelqeesTV": {
-        "nombre": "BelqeesTV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/YDIcwHOkaqI?autoplay=1&mute=0&controls=0&origin=https%3A%2F%2Fbelqees.net&playsinline=1&showinfo=0&rel=10&iv_load_policy=3&modestbranding=0&enablejsapi=1&loop=1&widgetid=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCxA_zZwALQMmVMSZyLKC-Nw",
-            "yt_embed": "YDIcwHOkaqI?",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@BelqeesTV",
-        "país": "iq",
-        "categoría": "news"
     },
     "alsahraatv-Navez": {
         "nombre": "alsahraatv Navez",
