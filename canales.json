@@ -32706,7 +32706,9 @@
         "nombre": "BelqeesTV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.youtube.com/embed/YDIcwHOkaqI?autoplay=1&mute=0&controls=0&origin=https%3A%2F%2Fbelqees.net&playsinline=1&showinfo=0&rel=10&iv_load_policy=3&modestbranding=0&enablejsapi=1&loop=1&widgetid=1"
+            ],
             "m3u8_url": [],
             "yt_id": "UCxA_zZwALQMmVMSZyLKC-Nw",
             "yt_embed": "YDIcwHOkaqI?",
