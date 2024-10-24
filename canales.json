@@ -2404,6 +2404,155 @@
         "país": "ao",
         "categoría": "news"
     },
+    "itvbd": {
+        "nombre": "Independent Television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/gXZqEzlz1tA?si=bVzj7RN2StozbTAa"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCATUkaOHwO9EP_W87zCiPbA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.itvbd.com/tv",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "ekushey-tv": {
+        "nombre": "Ekushey Television - ETV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.ekushey-tv.com/etvlive/vjsrs/fullpage.php"
+            ],
+            "m3u8_url": [
+                "https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ekushey-tv.com/etvlive/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "ekattor": {
+        "nombre": "Ekattor",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCtqvtAVmad5zywaziN6CbfA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ekattor.tv/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "desh": {
+        "nombre": "Desh",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCqyt55f3byoK8rjgO0LBe4Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.desh.tv/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "gazi-tv": {
+        "nombre": "Gazi TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCXuHIkEezOy_b1pnkN0-TIg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://gazitv.com/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "tpa-Online": {
+        "nombre": "TPA Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/KzhQ2QVj0PU?feature=oembed&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCpf7-LhTbmKk11p4nqw5LYA",
+            "yt_embed": "7wxPvxuXoRY?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tpaonline.ao/em-directo/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "live-tv-angola": {
+        "nombre": "",
+        "logo": "LIVE TV Angola",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/9Ls2t4bSUx4?controls=1&rel=0&playsinline=0&modestbranding=0&autoplay=1&enablejsapi=1&origin=https%3A%2F%2Flivetvangola.com&widgetid=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCxQc6L73dS-WZGjBf35cefw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livetvangola.com/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "tv-zimbo": {
+        "nombre": "Zimbo",
+        "logo": "https://tvzimbo.ao/carregamentos/2023/07/logotipo-branco.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/tracks-v1/index.fmp4.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvzimbo.ao/tv/ao-vivo/",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "KK-TV": {
+        "nombre": "KK TV",
+        "logo": "https://kktv.co.ao/wp-content/uploads/2023/05/LOGO_KK_TV_Angola_preto-01.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://w1.manasat.com:443/ktv-angola/smil:ktv-angola.smil/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kktv.co.ao/",
+        "país": "ao",
+        "categoría": "news"
+    },
     "todo-noticias": {
         "nombre": "Todo noticias",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4f/TN_todo_noticias_logo.svg",
@@ -11486,7 +11635,7 @@
             "m3u8_url": [
                 "https://servilive.com:3528/live/conect2tvlive.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCHVTQQj5AKPIl8yNsahGNhA",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
