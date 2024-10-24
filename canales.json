@@ -22971,6 +22971,126 @@
         "país": "es",
         "categoría": "news"
     },
+    "canal-quickie": {
+        "nombre": "Canal Quickie",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canalquickie"
+        },
+        "sitio_oficial": "https://www.twitch.tv/canalquickie",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-blunatv": {
+        "nombre": "Blunatv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "blunatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/blunatv",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-blue-crow-tv": {
+        "nombre": "Blue Crowtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "bluecrowtv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/bluecrowtv",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-nanduti1020": {
+        "nombre": "Canal Ñanduti",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "nanduti1020"
+        },
+        "sitio_oficial": "https://www.twitch.tv/nanduti1020",
+        "país": "py",
+        "categoría": "news"
+    },
+    "canal-chicago670thescore": {
+        "nombre": "Chicago 670 Thescore",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "chicago670thescore"
+        },
+        "sitio_oficial": "https://www.twitch.tv/chicago670thescore",
+        "país": "us",
+        "categoría": "news"
+    },
+    "canal-chiganash": {
+        "nombre": "Canal Chiganash",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "chiganash_tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/chiganash_tv",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "canal-el-observador-radio": {
+        "nombre": "El Observador Radio",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "elobservadorradio"
+        },
+        "sitio_oficial": "https://www.twitch.tv/elobservadorradio",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-tycsports": {
+        "nombre": "Canal Tycsports",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tycsports"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tycsports",
+        "país": "ar",
+        "categoría": "news"
+    },
     "hechos-ecuador": {
         "nombre": "hechos ecuador",
         "logo": "",
