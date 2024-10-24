@@ -3696,16 +3696,44 @@
         "país": "ar",
         "categoría": "news"
     },
+    "canal-el-observador-radio": {
+        "nombre": "El Observador Radio",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "elobservadorradio"
+        },
+        "sitio_oficial": "https://www.twitch.tv/elobservadorradio",
+        "país": "ar",
+        "categoría": "news"
+    },
+    "canal-tycsports": {
+        "nombre": "Canal Tycsports",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "tycsports"
+        },
+        "sitio_oficial": "https://www.twitch.tv/tycsports",
+        "país": "ar",
+        "categoría": "news"
+    },
     "premiere-br-tv": {
         "nombre": "Fox 32 Navezjt",
         "logo": "",
         "señales": {
             "iframe_url": [
-                ""
+                "https://forlessmake.store/cobo.html?id=PREMIERE_BR"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -3934,9 +3962,7 @@
         "nombre": "Chaco TV HD Resistencia",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
             ],
@@ -3953,9 +3979,7 @@
         "nombre": "Telpin TV HD Pinamar",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8"
             ],
@@ -4011,9 +4035,7 @@
             "iframe_url": [
                 "https://geo.dailymotion.com/player/x9xwn.html?video=x8dhao1"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -4100,9 +4122,7 @@
         "nombre": "CN3 Pinamar HD Pinamar",
         "logo": "https://canal3pinamar.com/webapp/imagenes/mosca.gif",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://intelincloud01.com.ar/hls/cn3/index.m3u8"
             ],
@@ -4219,9 +4239,7 @@
         "nombre": "Canal 9 del Litoral",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://stream.arcast.live/ahora/ahora/chunklist_w1263039313.m3u8"
             ],
@@ -4296,9 +4314,7 @@
         "nombre": "Canal 13 de Corrientes",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8"
             ],
@@ -4370,9 +4386,7 @@
         "nombre": "T 5 Satelital",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://stream.t5satelital.blog/hls/t5satelital.m3u8"
             ],
@@ -4389,9 +4403,7 @@
         "nombre": "Corrientes TV",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://stmvideo6.livecastv.com/canal7/canal7/chunklist_w1268662280.m3u8"
             ],
@@ -4447,9 +4459,7 @@
         "nombre": "CN3 Pinamar HD Pinamar",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://intelincloud01.com.ar/hls/cn3/index.m3u8"
             ],
@@ -4466,9 +4476,7 @@
         "nombre": "Televisión Pública Pampeana HD Santa Rosa",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8"
             ],
@@ -4485,9 +4493,7 @@
         "nombre": "Garage TV SD Buenos Aires",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://stream1.sersat.com/hls/garagetv.m3u8"
             ],
@@ -4504,9 +4510,7 @@
         "nombre": "Telejunín SD Junín",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8"
             ],
@@ -4523,9 +4527,7 @@
         "nombre": "Litus FHD Buenos Aires",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://stream.arcast.com.ar/litustv/ngrp:litustv_all/playlist.m3u8"
             ],
@@ -6665,6 +6667,24 @@
         },
         "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/band-news",
         "país": "br",
+        "categoría": "news"
+    },
+    "global-news": {
+        "nombre": "Global News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+                "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://globalnews.ca/live/national/",
+        "país": "ca",
         "categoría": "news"
     },
     "multimedios-costa-rica": {
@@ -15571,6 +15591,24 @@
         "país": "pe",
         "categoría": "news"
     },
+    "gaceta-peru": {
+        "nombre": "Gaceta Peru",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=gacetaperutv&parent=gacetaperutv.pe&muted=true",
+                "https://vk.com/video_ext.php?oid=710509469&id=456239043&hd=2&autoplay=1&quot;"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://gacetaperutv.pe/envivo",
+        "país": "pe",
+        "categoría": "news"
+    },
     "acs-network": {
         "nombre": "ACS Network",
         "logo": "",
@@ -22972,8 +23010,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&autoplay=1",
-                ""
+                "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&autoplay=1"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -23184,66 +23221,6 @@
         },
         "sitio_oficial": "https://www.twitch.tv/bluecrowtv",
         "país": "es",
-        "categoría": "news"
-    },
-    "canal-chicago670thescore": {
-        "nombre": "Chicago 670 Thescore",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "chicago670thescore"
-        },
-        "sitio_oficial": "https://www.twitch.tv/chicago670thescore",
-        "país": "us",
-        "categoría": "news"
-    },
-    "canal-chiganash": {
-        "nombre": "Canal Chiganash",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "chiganash_tv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/chiganash_tv",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "canal-el-observador-radio": {
-        "nombre": "El Observador Radio",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "elobservadorradio"
-        },
-        "sitio_oficial": "https://www.twitch.tv/elobservadorradio",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "canal-tycsports": {
-        "nombre": "Canal Tycsports",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "tycsports"
-        },
-        "sitio_oficial": "https://www.twitch.tv/tycsports",
-        "país": "ar",
         "categoría": "news"
     },
     "hechos-ecuador": {
@@ -23501,24 +23478,6 @@
         "país": "ec",
         "categoría": "news"
     },
-    "gaceta-peru": {
-        "nombre": "Gaceta Peru",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.twitch.tv/?channel=gacetaperutv&parent=gacetaperutv.pe&muted=true",
-                "https://vk.com/video_ext.php?oid=710509469&id=456239043&hd=2&autoplay=1&quot;"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://gacetaperutv.pe/envivo",
-        "país": "pe",
-        "categoría": "news"
-    },
     "canal-rtu": {
         "nombre": "Canal Rtu",
         "logo": "",
@@ -23640,24 +23599,6 @@
         },
         "sitio_oficial": "https://www.esmitv.com/",
         "país": "sv",
-        "categoría": "news"
-    },
-    "global-news": {
-        "nombre": "Global News",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
-                "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://globalnews.ca/live/national/",
-        "país": "ca",
         "categoría": "news"
     },
     "abc7-swfl": {
@@ -25530,6 +25471,21 @@
             "twitch_id": "tamaractv"
         },
         "sitio_oficial": "https://www.twitch.tv/tamaractv",
+        "país": "us",
+        "categoría": "news"
+    },
+    "canal-chicago670thescore": {
+        "nombre": "Chicago 670 Thescore",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "chicago670thescore"
+        },
+        "sitio_oficial": "https://www.twitch.tv/chicago670thescore",
         "país": "us",
         "categoría": "news"
     },
@@ -30940,6 +30896,21 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://tv-soyuz.ru/tvprogramma",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "canal-chiganash": {
+        "nombre": "Canal Chiganash",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "chiganash_tv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/chiganash_tv",
         "país": "ru",
         "categoría": "news"
     },
