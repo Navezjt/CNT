@@ -9268,7 +9268,7 @@
                 "https://www.youtube-nocookie.com/embed/live_stream?channel=UCKEImtWikw9usC1pl_9m1nQ&modestbranding=1"
             ],
             "m3u8_url": [],
-            "yt_id": "",
+            "yt_id": "UCKEImtWikw9usC1pl_9m1nQ",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -15886,6 +15886,188 @@
         "país": "pe",
         "categoría": "news"
     },
+    "Camara-Comercio-Lima": {
+        "nombre": "Camara Comercio Lima",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCX9RI-nZ79S6Ibjc7qSWHQg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@CamaraComercioLimaOficial",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Wayka": {
+        "nombre": "Wayka",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCQmo59tWId4OHTdl4W320DQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@Wayka",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Radio-Titanka": {
+        "nombre": "Radio Titanka Apurímac",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCzfqmhtDhv8NrLeNHmEvz5g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@RadioTitanka",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "nzk-television": {
+        "nombre": "NZK Televisión",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCE7mMrSeXxOnIAJK9eBen6Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@nzktelevision",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "ENCONTRADOS-RADIOTV": {
+        "nombre": "ENCONTRADOS RADIOTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC9sojE9O8NGPJw3aLxHwBMw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@encontradosradiotv9393",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Mundo-Tuerca-Peru": {
+        "nombre": "Mundo Tuerca",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCdRCFCJ-1phTJrVHlimhG8A",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@MundoTuercaPeru",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "OD-futbol-Bolivia": {
+        "nombre": "OD mas que futbol Bolivia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCzJYKpr3ObyFZImL0aenXBQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@ODmasquefutbol",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "TRIVU": {
+        "nombre": "TRIVU",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCEgNxyXXpArM8F368uJjF-Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@trivutv",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "tpa-online": {
+        "nombre": "TPA Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCpf7-LhTbmKk11p4nqw5LYA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@tpaonline3152",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "telefuturoparaguay": {
+        "nombre": "Telefuturo Paraguay",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "telefuturoparaguay"
+        },
+        "sitio_oficial": "https://www.telefuturo.com.py/tfstream",
+        "país": "py",
+        "categoría": "news"
+    },
+    "gen": {
+        "nombre": "GEN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://gentv.desdepylabs.com/External/gentv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "somosgen"
+        },
+        "sitio_oficial": "https://www.gen.com.py/",
+        "país": "py",
+        "categoría": "news"
+    },
+    "canal-nanduti1020": {
+        "nombre": "Canal Ñanduti",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "nanduti1020"
+        },
+        "sitio_oficial": "https://www.twitch.tv/nanduti1020",
+        "país": "py",
+        "categoría": "news"
+    },
     "dzrh-News": {
         "nombre": "DZRH News Television",
         "logo": "",
@@ -16950,9 +17132,7 @@
             "iframe_url": [
                 "https://www.vidio.com/live/733/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -16986,9 +17166,7 @@
             "iframe_url": [
                 "https://www.vidio.com/live/6362/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17005,9 +17183,7 @@
             "iframe_url": [
                 "https://www.vidio.com/live/6399/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17024,9 +17200,7 @@
             "iframe_url": [
                 "https://www.vidio.com/live/8241/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17119,9 +17293,7 @@
             "iframe_url": [
                 "https://www.vidio.com/live/206/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17138,9 +17310,7 @@
             "iframe_url": [
                 "https://www.vidio.com/live/204-sctv/embed?autoplay=true&player_only=true&mute=false"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -23016,21 +23186,6 @@
         "país": "es",
         "categoría": "news"
     },
-    "canal-nanduti1020": {
-        "nombre": "Canal Ñanduti",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "nanduti1020"
-        },
-        "sitio_oficial": "https://www.twitch.tv/nanduti1020",
-        "país": "py",
-        "categoría": "news"
-    },
     "canal-chicago670thescore": {
         "nombre": "Chicago 670 Thescore",
         "logo": "",
@@ -23379,23 +23534,6 @@
         },
         "sitio_oficial": "https://canalrtu.tv/envivo/",
         "país": "ec",
-        "categoría": "news"
-    },
-    "gen": {
-        "nombre": "GEN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://gentv.desdepylabs.com/External/gentv"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "somosgen"
-        },
-        "sitio_oficial": "https://www.gen.com.py/",
-        "país": "py",
         "categoría": "news"
     },
     "ecuastereo": {
@@ -26352,23 +26490,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.nbs.cn/live/",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "-noticias": {
-        "nombre": " Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                ""
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
         "país": "cn",
         "categoría": "news"
     },
@@ -31834,23 +31955,6 @@
         "país": "ro",
         "categoría": "news"
     },
-    "-tv": {
-        "nombre": " TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
-        "país": "ro",
-        "categoría": "news"
-    },
     "Sălăjeanul-INFO": {
         "nombre": "Sălăjeanul INFO",
         "logo": "",
@@ -31996,9 +32100,7 @@
             "iframe_url": [
                 "https://36578ca484df8bc0e290eda20e6c42de0041f2b1"
             ],
-            "m3u8_url": [
-                ""
-            ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -32163,7 +32265,7 @@
                 "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w304572931.m3u8",
                 "https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w376273250.m3u8"
             ],
-            "yt_id": "",
+            "yt_id": "UCKadCx-t_VmwzfWczlWE98w",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
@@ -32435,6 +32537,96 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://gigavision.tv/vivo-santa-cruz/",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "todo-noticias-tarija": {
+        "nombre": "Todo oticias Tarija",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC-PbkLNxemio6lPH7_08A4Q",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@todonoticiastarija",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "anm-colombia": {
+        "nombre": "Anm Colombia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC-UFIpu9chDSPSeSRQmk38A",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@anmcolombia",
+        "país": "co",
+        "categoría": "news"
+    },
+    "TV8-News-Angola": {
+        "nombre": "TV8 News Angola",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCjUQbwdspVBHEqF5lQXR0Ig",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TV8NewsAngola",
+        "país": "ao",
+        "categoría": "news"
+    },
+    "Calle-7-Bolivia": {
+        "nombre": "Calle 7 Bolivia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UComN7x6DB7WweEqN8e9SNsA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@Calle7Bolivia",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "Tigo-Sports-Bolivia": {
+        "nombre": "Tigo Sports Bolivia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCEtMFuN_m5TwqH2AHlx2_Jw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@TigoSportsBo",
+        "país": "bo",
+        "categoría": "news"
+    },
+    "Contacto-Bolivia": {
+        "nombre": "Contacto Bolivia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCLfvxJ59q5DJ5N0owaaCrIg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@ContactoBolivia",
         "país": "bo",
         "categoría": "news"
     },
