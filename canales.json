@@ -34769,6 +34769,144 @@
         "país": "kr",
         "categoría": "music"
     },
+    "NBS": {
+        "nombre": "NBS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.inbs.co.kr/onair.do",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "Asian-Crush-us": {
+        "nombre": "Asian Crush us",
+        "logo": "https://images.sr.roku.com/idType/roku/context/trc/id/79ed68ed51ad522b8783c6c42a5e2e8c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112681628_DMR_-_AsianCrush_Roku-Channel_Info-HUD2.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/iptv-cutter",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "Rakuten-Viki-tv": {
+        "nombre": "Rakuten Viki us",
+        "logo": "https://images.sr.roku.com/idType/roku/context/trc/id/c4bdfe6fd751590e9d096b5de264bba1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1678995051754_image_hud1_260x147.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/iptv-cutter",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "ElectricNow-us": {
+        "nombre": "ElectricNow us",
+        "logo": "https://images.sr.roku.com/idType/roku/context/trc/id/15cc44e50d8453e18f21ea37713319c5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1660071204893_1605145912343_EN_Logo_WhiteonBlack_260x147.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://elec-en.otteravision.com/elec/en/elec_en.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/iptv-cutter",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "MidnightPulp-us": {
+        "nombre": "MidnightPulp us",
+        "logo": "https://images.sr.roku.com/idType/roku/context/trc/id/c0643e92d33e525791e770844524dc69/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1675112783491_MP_ROKU_EPG.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://amg01201-cinedigmenterta-midnightpulp-cineverse-axym1.amagi.tv/playlist/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/iptv-cutter",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "-tv": {
+        "nombre": " Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "Crunchyroll-us": {
+        "nombre": "Crunchyroll us",
+        "logo": "https://images.sr.roku.com/idType/roku/context/trc/id/307b3b9ea321539b9688148fc97a8bfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1694207383202_RokuImage-HUD-2_260x147px_Wil_Rosser.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://gsn-crunchyroll-1-us.anoki.wurl.tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/iptv-cutter",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "elufa-tv": {
+        "nombre": "Elufa Tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.twitch.tv/?channel=chuo_tv&parent=alplox.github.io"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://www.elufa-tv.net/live.html",
+        "país": "kp",
+        "categoría": "news"
+    },
     "alsahraatv-Navez": {
         "nombre": "alsahraatv Navez",
         "logo": "",
@@ -36309,40 +36447,6 @@
         },
         "sitio_oficial": "https://news.ustv.com.tw/",
         "país": "tw",
-        "categoría": "news"
-    },
-    "elufa-tv": {
-        "nombre": "Elufa Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://player.twitch.tv/?channel=chuo_tv&parent=alplox.github.io"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "http://www.elufa-tv.net/live.html",
-        "país": "kp",
-        "categoría": "news"
-    },
-    "NBS": {
-        "nombre": "NBS",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://media.joycorp.co.kr:4443/live/live_360p/chunklist_w1808117143.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.inbs.co.kr/onair.do",
-        "país": "kr",
         "categoría": "news"
     },
     "ucl-uruguay": {
