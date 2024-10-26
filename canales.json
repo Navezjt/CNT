@@ -21104,84 +21104,6 @@
         "país": "bt",
         "categoría": "news"
     },
-    "timetvusa-tv": {
-        "nombre": "Time TV usa",
-        "logo": "https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png",
-        "señales": {
-            "iframe_url": [
-                "https://cdn.streamcast.xyz/timetv/embed.html"
-            ],
-            "m3u8_url": [
-                "https://cdn.streamcast.xyz/timetv/tracks-v1/index.fmp4.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://tvchannels.live/bhutan/",
-        "país": "us",
-        "categoría": "news"
-    },
-    "currenttime-tv": {
-        "nombre": "Current Time",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "//www.currenttime.tv/embed/player/1/92.html?type=video&platformType=cross-promo&enablejsapi=1"
-            ],
-            "m3u8_url": [
-                "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://en.currenttime.tv/live-online",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "ont-tv": {
-        "nombre": "ONT TV",
-        "logo": "https://ont.by/_nuxt/img/logo.ec0f4ee.svg",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://edge59.dc.beltelecom.by/ont/_definst_/ont/chunklist_w816544205.m3u8",
-                "https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8",
-                "https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist_w131973150.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ont.by/broadcasting",
-        "país": "ru",
-        "categoría": "news"
-    },
-    "time-tv": {
-        "nombre": "TIME INDIA",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
-                "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
-                "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
-                "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
-                "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://timetv.news/livetv/",
-        "país": "in",
-        "categoría": "news"
-    },
     "publika-tv": {
         "nombre": "Publika TV",
         "logo": "",
@@ -26133,22 +26055,22 @@
         "país": "us",
         "categoría": "news"
     },
-    "ocn-tv": {
-        "nombre": "OCN TV",
-        "logo": "",
+    "timetvusa-tv": {
+        "nombre": "Time TV usa",
+        "logo": "https://timetvusa.com/wp-content/uploads/2022/07/ttv-logo.png",
         "señales": {
             "iframe_url": [
-                ""
+                "https://cdn.streamcast.xyz/timetv/embed.html"
             ],
             "m3u8_url": [
-                ""
+                "https://cdn.streamcast.xyz/timetv/tracks-v1/index.fmp4.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.ocn-tv.com/live.aspx",
+        "sitio_oficial": "https://tvchannels.live/bhutan/",
         "país": "us",
         "categoría": "news"
     },
@@ -27071,6 +26993,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.webcenterfairbanks.com/livestream/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "ocn-tv": {
+        "nombre": "OCN TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://smccdn.com/ocn-tv.com/"
+            ],
+            "m3u8_url": [
+                "https://597f64b67707a.streamlock.net/ocnbroadcasting.com/ocnbroadcasting2/chunklist_w925318634.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ocn-tv.com/live.aspx",
         "país": "us",
         "categoría": "news"
     },
@@ -28055,10 +27996,10 @@
         "nombre": "jstv Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                ""
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -29611,6 +29552,27 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.abplive.com/live-tv",
+        "país": "in",
+        "categoría": "news"
+    },
+    "time-tv": {
+        "nombre": "TIME INDIA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8",
+                "https://chardikalanorthamerica.gigabitcdn.net/in-chardikala/chardikala-north-usa/playlist.m3u8",
+                "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+                "https://chardikalatimestv.gigabitcdn.net/in-chardikala/chardikala-gurbani-tv/playlist.m3u8",
+                "https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://timetv.news/livetv/",
         "país": "in",
         "categoría": "news"
     },
@@ -32496,6 +32458,129 @@
             "twitch_id": "chiganash_tv"
         },
         "sitio_oficial": "https://www.twitch.tv/chiganash_tv",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "Беларусь-5-HD-noticias": {
+        "nombre": "Беларусь 5 HD Noticias",
+        "logo": "http://epg.it999.ru/img/2541.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/chunklist_b1460000_sleng.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/nnmtv.github.io/blob/main/msx/iptv/bt_tv.json",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "Большая-Азия-HD-noticias": {
+        "nombre": "Большая Азия HD Noticias",
+        "logo": "http://epg.it999.ru/img/2417.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/nnmtv.github.io/blob/main/msx/iptv/edu.json",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "Беларусь-24-HD-noticias": {
+        "nombre": "Беларусь 24 HD Noticias",
+        "logo": "http://epg.it999.ru/img/2170.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/chunklist_b1460000_sleng.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/nnmtv.github.io/blob/main/msx/iptv/bt_tv.json",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "Солнц-noticias": {
+        "nombre": "Солнце (WSVGA)",
+        "logo": "https://epgx.site/p/solnce.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://tv.mediacdn.ru/live/disney/playlist_3000k.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/m3u_ru/blob/main/stream-old.m3u",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "ani-noticias": {
+        "nombre": "Ani (WSVGA) kid",
+        "logo": "https://epgx.site/p/ani.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://stv.mediacdn.ru/live/cdn/ani/playlist_sdhigher.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/m3u_ru/blob/main/stream-old.m3u",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "currenttime-tv": {
+        "nombre": "Current Time",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "//www.currenttime.tv/embed/player/1/92.html?type=video&platformType=cross-promo&enablejsapi=1"
+            ],
+            "m3u8_url": [
+                "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://en.currenttime.tv/live-online",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "ont-tv": {
+        "nombre": "ONT TV",
+        "logo": "https://ont.by/_nuxt/img/logo.ec0f4ee.svg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge59.dc.beltelecom.by/ont/_definst_/ont/chunklist_w816544205.m3u8",
+                "https://ont.dc.beltelecom.by/ont/ont/playlist.m3u8",
+                "https://edge56.dc.beltelecom.by/ont/_definst_/ont/chunklist_w131973150.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ont.by/broadcasting",
         "país": "ru",
         "categoría": "news"
     },
