@@ -17416,10 +17416,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://ustream.to/embed?olweb&id=gma-pinoy-tv",
-                "https://geo.dailymotion.com/player/x3d09.html?video=x92ncmw&customConfig[customParams]=dm_position%3Dmainrecowidget&actionInfo=false&mute=true&dmPubtool=new-cdn-ce-v2"
+                "https://geo.dailymotion.com/player/x3d09.html?video=x92ncmw&customConfig[customParams]=dm_position%3Dmainrecowidget&actionInfo=false&mute=true&dmPubtool=new-cdn-ce-v2",
+                 "https://ustream.to/embed?olweb&id=gma-pinoy-tv"
             ],
             "m3u8_url": [
+                "",
                 "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/level_2.m3u8"
             ],
             "yt_id": "UCKL5hAuzgFQsyrsQKgU0Qng",
@@ -17428,6 +17429,74 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.gmanetwork.com/#goog_rewarded",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "Super-Radyo-DZBB": {
+        "nombre": "Super Radyo DZBB",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Alimaku26/iptv/tree/949b5c51c8d59c0e39d63776f08cda1a2a5a9c0b/streams",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "INC-TV": {
+        "nombre": "INC TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Alimaku26/iptv/blob/949b5c51c8d59c0e39d63776f08cda1a2a5a9c0b/streams/ph.m3u#L4",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "Cinema-One": {
+        "nombre": "Cinema One",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Alimaku26/iptv/blob/949b5c51c8d59c0e39d63776f08cda1a2a5a9c0b/streams/ph.m3u#L4",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "MYX-Philippin": {
+        "nombre": "MYX Philippin",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://myxnola-abscbn-ono.amagi.tv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Alimaku26/iptv/blob/949b5c51c8d59c0e39d63776f08cda1a2a5a9c0b/streams/ph.m3u#L4",
         "país": "ph",
         "categoría": "news"
     },
