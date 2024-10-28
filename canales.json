@@ -17416,9 +17416,12 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://ustream.to/embed?olweb&id=gma-pinoy-tv",
                 "https://geo.dailymotion.com/player/x3d09.html?video=x92ncmw&customConfig[customParams]=dm_position%3Dmainrecowidget&actionInfo=false&mute=true&dmPubtool=new-cdn-ce-v2"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/level_2.m3u8"
+            ],
             "yt_id": "UCKL5hAuzgFQsyrsQKgU0Qng",
             "yt_embed": "",
             "yt_playlist": "",
@@ -17564,6 +17567,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.teleradiopace.tv/",
+        "país": "ph",
+        "categoría": "news"
+    },
+    "Schedule-TV5-Philippines": {
+        "nombre": "TV5 Philippines",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ustream.to/embed?olweb&id=tv5-pinoy"
+            ],
+            "m3u8_url": [
+                "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/level_2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.olweb.tv/tv5-ph-live",
         "país": "ph",
         "categoría": "news"
     },
