@@ -16360,6 +16360,639 @@
         "país": "pe",
         "categoría": "news"
     },
+    "emmanuel-Peru": {
+        "nombre": "Emmanuel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://edge.streann.com/emmanueltvlive_abr/emmanueltvlive/emmanueltvlive/emmanueltvlive_3/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MzAyMjQ0MDMsInJpZCI6IjYzNTg4NTAwZTRiMGEzZWZkZmZjZDdhZSIsImtleSI6ImtleTEiLCJjaWQiOiI2NjI5NDhhOThmMDg1MTEzNzZlMGZkMTYifQ.rYyOMquHM_ZzrLVm2DcNbDA7xtgiqimSuTrz9G0vjuM"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.stream.emmanuel.tv/main",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "emanuel7tv-es-online": {
+        "nombre": "Emanuel7tv es",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://playerv.voxtvhd.com.br/video/emanueltv/1/true/false/V1hwT1UyUkhVbkZYV0ZacllsUnJNRnBGYUdGaU1YQkVUbGR3YVUxcVFqRlhWelZLVUZFOVBTc3orMQ==/16:9/nocover/sim"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.emanuel7tv.es/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "emmanuel-pe-online": {
+        "nombre": "Emmanuel pe",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGimexax_xNysi9QkR7Pzmw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://emmanuel.pe/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "hosannavision-online": {
+        "nombre": "Vosanna Vision",
+        "logo": "/site/templates/theme/img/logo/logo.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8"
+            ],
+            "yt_id": "UCBRWfsg6d6BttI4WIE-b5xQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hosannavision.com/en-vivo/",
+        "país": "pa",
+        "categoría": "cristiana"
+    },
+    "asomavision-online": {
+        "nombre": "Asomavision",
+        "logo": "https://i0.wp.com/www.asomavision.com/wp-content/uploads/2024/03/LOGO.png?fit=300%2C215&ssl=1",
+        "señales": {
+            "iframe_url": [
+                "https://asomatv.duckdns.org/"
+            ],
+            "m3u8_url": [
+                "//asomatv.duckdns.org/livestream/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.asomavision.com/",
+        "país": "ec",
+        "categoría": "cristiana"
+    },
+    "ebenezer-online": {
+        "nombre": "Ebenezer",
+        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+        "señales": {
+            "iframe_url": [
+                "https://ebenezer.hn/envivo",
+                "https://panel.fiberstreams.com:8080/VideoPlayer/6018"
+            ],
+            "m3u8_url": [
+                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ebenezer.hn/",
+        "país": "hn",
+        "categoría": "cristiana"
+    },
+    "ebenezer2-online": {
+        "nombre": "Ebenezer2",
+        "logo": "//www.ebenezer.org.gt/wp-content/uploads/2021/05/logo-ebenezer-menu-2.png",
+        "señales": {
+            "iframe_url": [
+                "https://panel.fiberstreams.com:8080/VideoPlayer/6018",
+                "https://ebenezer.hn/envivo"
+            ],
+            "m3u8_url": [
+                "https://5e85d90130e77.streamlock.net:443/6018/6018/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ebenezer.org.gt/transmision-en-vivo/",
+        "país": "gt",
+        "categoría": "cristiana"
+    },
+    "canal-27G": {
+        "nombre": "Canal 27G",
+        "logo": "https://emisorasgt.com/wp-content/uploads/2023/04/canal-27-guatemala.webp",
+        "señales": {
+            "iframe_url": [
+                "https://emisorasgt.com/embed/tv2/canal-27.html?v=1"
+            ],
+            "m3u8_url": [
+                "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://emisorasgt.com/canal-27/",
+        "país": "gt",
+        "categoría": "cristiana"
+    },
+    "rnn-canal-27": {
+        "nombre": "RNN Canal 27",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalesdominicanos.live/rnn-canal-27/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "avivamiento-tv-online": {
+        "nombre": "Avivamiento TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s1.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
+            ],
+            "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://avivamiento.com/avivamiento-tv.php",
+        "país": "co",
+        "categoría": "cristiana"
+    },
+    "abn-avivamiento": {
+        "nombre": "Abn Avivamiento AR",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://musicacristiana.com.ar/tv/abn-avivamiento-tv.htm"
+            ],
+            "m3u8_url": [
+                "https://s2.abntelevision.com/avivamientohd/avivamientohd/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://musicacristiana.com.ar/abn-avivamiento.html",
+        "país": "ar",
+        "categoría": "cristiana"
+    },
+    "movie-fe-online": {
+        "nombre": "movie fe",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3438&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/movie-fe"
+            ],
+            "m3u8_url": [
+                "https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w1515187058.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/movie-fe",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "unsion-online": {
+        "nombre": "Unsion",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.restream.io/?token=6d91a00ed7bb4434a40d12d1179792bd&vwrs=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCOw8ehobkl3mW8PE1GqkIrQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://unsion.tv/envivo/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "canal27-online": {
+        "nombre": "Canal 27",
+        "logo": "https://www.canal27.org/wp-content/uploads/2023/03/Logo-canal-70mm-2-e1679592205944-1024x576.png",
+        "señales": {
+            "iframe_url": [
+                "https://live.canal27.tv/live-stream-video-widget/canal27online"
+            ],
+            "m3u8_url": [
+                "https://live.canal27.tv:3882/live/canal27onlinelive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal27.org/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "tu-universo-tv": {
+        "nombre": "Tu niverso TV",
+        "logo": "https://lifestreammedia.net/wp-content/uploads/2020/08/Tu-Universo-TV-Logo-Nuevo-Pagina.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://lifestreammedia.net/embed/player/player.html?c=tu_universo_tv&v=1708206230"
+            ],
+            "m3u8_url": [
+                "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w1088079014.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://lifestreammedia.net/tuuniversotv/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "tuuniversotv": {
+        "nombre": "Tuuniversotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://lifestreammedia.net/embed/player/player.html?c=tu_universo_tv&v=1709909572"
+            ],
+            "m3u8_url": [
+                "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/chunklist_w681499673.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tuuniversotv.net/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "tu-universo": {
+        "nombre": "Tu Universo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2872&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/tu-universo"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/tu-universo",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "canalluz-online": {
+        "nombre": "Canalluz",
+        "logo": "https://canalluz.org/assets/images/canalluz-303x103.png",
+        "señales": {
+            "iframe_url": [
+                "https://vmf.edge-apps.net/embed/live.php?streamname=canal_luz01-100009&autoplay=0&loop=0"
+            ],
+            "m3u8_url": [
+                "https://g5.mc-hor.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/canal_luz01-100009_1080p/index.m3u8"
+            ],
+            "yt_id": "UCrK0iKIAjZAGcYoZXirHeHg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalluz.org/index.html",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "canal-luz-television": {
+        "nombre": "Canal Luz Television",
+        "logo": "https://canalluztelevision.es/wp-content/uploads/2023/04/logo-canal-luz-color-degradado.svg",
+        "señales": {
+            "iframe_url": [
+                "https://stream.azhr.tv/canalluztv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalluztelevision.es/en-directo/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "radiolaluz-online": {
+        "nombre": "Radiolaluz",
+        "logo": "http://radiolaluz.com/wp-content/themes/laluz/images/logo_tv.png",
+        "señales": {
+            "iframe_url": [
+                "http://radiolaluz.com/tv-en-vivo/",
+                "http://www.radiolaluz.com/audioenvivo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://radiolaluz.com/television/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "abn-online": {
+        "nombre": "ABN Online",
+        "logo": "https://tv.abn.pe/wp-content/uploads/2021/08/ABN-TV.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://xhateaec.com:8800/hls/abnradio/abnradio/9579e25b705387298999b6fa6f3ceb75/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tv.abn.pe/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "3abnlatino-online": {
+        "nombre": "3abnlatino",
+        "logo": "https://3abnlatino.tv/img/Latino-Logo-2015.svg",
+        "señales": {
+            "iframe_url": [
+                "https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCmsr5iTWrKfkAa4-9k2stxA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://3abnlatino.tv/tv/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "ABN2-online": {
+        "nombre": "ABN2 Online",
+        "logo": "https://abn.pe/wp-content/uploads/2022/12/abn-radio-logo-mobil.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://xhateaec.com:8800/hls/abnradio/abnradio/9579e25b705387298999b6fa6f3ceb75/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://abn.pe/mega-menu/en-vivo/tv-camara-abn/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "abn-television-avivamiento-television": {
+        "nombre": "Abn Television Avivamiento",
+        "logo": "http://tvcristiana.net/wp-content/uploads/2016/09/logo-tvc.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s3.abntelevision.com:443/avivamientosd/avivamientosd/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvcristiana.net/abn-television-avivamiento-television-cristiana-en-vivo/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "abnnewswire-online": {
+        "nombre": "Abnnewswire",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://66b5bf5782311.streamlock.net/live/_definst_/spanish/chunklist_w2092562209.m3u8",
+                "https://66b5bf5782311.streamlock.net:443/live/_definst_/spanish/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abnnewswire.net/index.asp?lang=_es",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "cdminternacional-online": {
+        "nombre": "Cdm Internacional",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s2.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cdminternacional.com/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "ABNSAT-online": {
+        "nombre": "ABNSAT Canal arameo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vidmgr.abnvideos.com/embed/nilesat",
+                "https://vidmgr.abnvideos.com/embed/surath",
+                "https://vidmgr.abnvideos.com/embed/abnsat",
+                "https://vidmgr.abnvideos.com/embed/trinitychannel",
+                "https://vidmgr.abnvideos.com/embed/abnurdu"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.abnsat.com/es/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "avivamiento-online": {
+        "nombre": "Avivamiento Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://s2.abntelevision.com:443/avivamientoabr/stream/playlist.m3u8"
+            ],
+            "yt_id": "UCXcQGr8uHA76jOZzUmMiVnQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.avivamiento.com/avivamiento-tv.php",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "jbntv-online": {
+        "nombre": "Jbntv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.jbntv.org/reprotv/",
+                "https://www.musicacristiana.com.ar/tv/jbn-internacional-tv.htm"
+            ],
+            "m3u8_url": [
+                "https://mediacp.us:8081/jbntv/tracks-v1a1/mono.m3u8",
+                "https://mediacp.us:8081/jbntv/tracks-v1a1/mono.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.jbntv.org/",
+        "país": "hn",
+        "categoría": "cristiana"
+    },
+    "ritmocelestial-online": {
+        "nombre": "Ritmocelestial",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cdn.jwplayer.com/players/MOHGQfxE-mtWT23eN.html"
+            ],
+            "m3u8_url": [
+                "https://59a564764e2b6.streamlock.net/ritmoteve/ritmocelestial/chunklist_w1702949432.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ritmocelestial.com/?page_id=19",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "microvision-online": {
+        "nombre": "Microvision Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+                "https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w773661069.m3u8"
+            ],
+            "yt_id": "UCHnuPHs-WMjG9GEhJnioEXg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://microvision.com.do/en-vivo/",
+        "país": "do",
+        "categoría": "cristiana"
+    },
+    "telemicro-online": {
+        "nombre": "Telemicro Online",
+        "logo": "https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/64a254d4-c606-477d-a7b4-6c65a58a6a00/w=822,h=204",
+        "señales": {
+            "iframe_url": [
+                "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://playback.akamaized.net/streams/27456795_10633780_lsim0xd9latiz50xf3h_1/master.m3u8?dw=14400&hdnts=exp=1730220694~acl=/streams/27456795_10633780_lsim0xd9latiz50xf3h_1/master.m3u8*~hmac=7d250704b220683a3d4edbba0f20c435d8b4d5bc98407948cab2576e6064e60d"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
+        "país": "do",
+        "categoría": "cristiana"
+    },
+    "telesantodomingo-online": {
+        "nombre": "Telesantodomingo Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telesantodomingo.com/",
+        "país": "do",
+        "categoría": "cristiana"
+    },
+    "canal-121-online": {
+        "nombre": "Canal 121 Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rodrixtv.info/tv/canal121.html",
+                "https://tarjetarojaenvivo.lat/player/3/67"
+            ],
+            "m3u8_url": [
+                "https://d6.jisdeshmaiganga.com:999/hls/wsmkmlfeed67.m3u8?md5=N7t7fXdIHjZge_hiCHtEbg&expires=1730227687"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.pirlotvenhd.online/canal-121.php",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
+    "misionvida-online": {
+        "nombre": "mision vida",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.unored.tv/flowplayer/?s=1&a=jorge854"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.misionvida.org/mvtv/",
+        "país": "pe",
+        "categoría": "cristiana"
+    },
     "acs-network": {
         "nombre": "ACS Network",
         "logo": "",
