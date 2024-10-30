@@ -24943,6 +24943,42 @@
         "país": "mx",
         "categoría": "news"
     },
+    "espn3mexico-noticias": {
+        "nombre": "espn mexico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/espnmexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/espn2mexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/espn3mexico.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisiongratishd2.com/espn-mexico-en-vivo.html",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "galavision-noticias": {
+        "nombre": "galavision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/galavision.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://embed.sdfgnksbounce.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
     "viva-nicaragua-noticias": {
         "nombre": "viva nicaragua Noticias",
         "logo": "",
