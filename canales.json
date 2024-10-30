@@ -2702,8 +2702,14 @@
         "logo": "https://graph.facebook.com/telefenoticias/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/telefe.html",
+                "https://embed.sdfgnksbounce.com/embed/telefe.html",
                 "https://www.youtube.com/embed/live_stream?channel=UChxGASjdNEYHhVKpl667Huw&autoplay=1&wmode=opaque&rel=0&showinfo=0&iv_load_policy=3&modestbranding=0",
-                "https://ssl.cloud.telefe.com/vivo/"
+                "https://ssl.cloud.telefe.com/vivo/",
+                "https://www.cablevisionhd.com/stream/telefe.php",
+                "https://www.cablevisionhd.com/stream2/telefe.php",
+                "https://www.cablevisionhd.com/stream4/telefe.php",
+                "https://www.cablevisionhd.com/stream5/telefe.php"
             ],
             "m3u8_url": [],
             "yt_id": "UChxGASjdNEYHhVKpl667Huw",
@@ -24638,7 +24644,12 @@
         "nombre": "Televisa Puebla",
         "logo": "https://graph.facebook.com/TelevisaPuebla/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.cablevisionhd.com/stream/lasestrellas.php",
+                "https://www.cablevisionhd.com/stream2/lasestrellas.php",
+                "https://embed.sdfgnksbounce.com/embed2/lasestrellas.html",
+                "https://embed.sdfgnksbounce.com/embed/lasestrellas.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UC-HNztluSQSffhIWJTL-LUw",
             "yt_embed": "",
@@ -24653,7 +24664,10 @@
         "nombre": "Televisa Sonora Oficial",
         "logo": "https://graph.facebook.com/TelevisaSON/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.cablevisionhd.com/stream4/lasestrellas.php",
+                "https://www.cablevisionhd.com/stream5/lasestrellas.php"
+            ],
             "m3u8_url": [],
             "yt_id": "UCyzWMHGS7bs0sot6KZk5EZg",
             "yt_embed": "",
@@ -24749,7 +24763,10 @@
                 "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn",
                 "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-xtra",
                 "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-mas",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-mas"
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=rcn-mas",
+                "https://embed.sdfgnksbounce.com/embed2/rcn.html",
+                "https://embed.sdfgnksbounce.com/embed/rcn.html",
+                "https://www.cablevisionhd.com/stream/rcn.php"
             ],
             "m3u8_url": [
                 "https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8"
@@ -24768,7 +24785,10 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=aztecauno"],
+                "https://embed.sdfgnksbounce.com/embed2/aztecauno.html",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=aztecauno",
+                "https://embed.sdfgnksbounce.com/embed/aztecauno.html"
+            ],
             "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
@@ -24784,9 +24804,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/azteca7.html",
                 "https://tele-libre.com/en-vivo-online/azteca-7/embed.php",
                 "https://tele-libre.com/en-vivo-online/azteca-7/embed2.php",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca7"
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=azteca7",
+                "https://embed.sdfgnksbounce.com/embed/azteca7.html"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -24803,7 +24825,9 @@
         "logo": "",
         "señales": {
             "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=univision"
+                "https://embed.sdfgnksbounce.com/embed2/univision.html",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=univision",
+                "https://embed.sdfgnksbounce.com/embed/univision.html"
             ],
             "m3u8_url": [],
             "yt_id": "UCxjAywdMGltlVokq1oWTeQA",
@@ -24858,6 +24882,13 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://www.cablevisionhd.com/stream/canal5.php",
+                "https://www.cablevisionhd.com/stream2/canal5.php",
+                "https://www.cablevisionhd.com/stream4/canal5.php",
+                "https://www.cablevisionhd.com/stream5/canal5.php",
+                "https://embed.sdfgnksbounce.com/embed2/canal5.html",
+                "https://embed.sdfgnksbounce.com/embed.js",
+                "https://embed.sdfgnksbounce.com/embed/canal5.html",
                 "https://www.televisionlibre.co/envivo/player/embed.php?r=canal5-mx"
             ],
             "m3u8_url": [],
@@ -24893,8 +24924,8 @@
         "país": "mx",
         "categoría": "news"
     },
-    "unimas": {
-        "nombre": "Unimas",
+    "unimas2": {
+        "nombre": "Unimas2",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -24976,6 +25007,208 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://embed.sdfgnksbounce.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "fox-sports-mexico-noticias": {
+        "nombre": "Fox Sports Mexico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/foxsportsmexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/foxsports2mexico.html",
+                "https://embed.sdfgnksbounce.com/embed2/foxsports3mexico.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "telemundo51-noticias": {
+        "nombre": "Telemundo 51",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/telemundo51.html",
+                "https://embed.sdfgnksbounce.com/embed/telemundo51.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "univision-tlnovelas-noticias": {
+        "nombre": "Univision Tlnovelas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.cablevisionhd.com/stream/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream2/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream3/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream4/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream5/univisiontlnovelas.php",
+                "https://www.cablevisionhd.com/stream6/univisiontlnovelas.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/univision-tlnovelas-en-vivo.html",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "cartoonnetwork-noticias": {
+        "nombre": "Cartoon Network",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/cartoonnetwork.html",
+                "https://embed.sdfgnksbounce.com/embed/cartoonnetwork.html",
+                "https://www.cablevisionhd.com/dtv/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream2/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream3/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream4/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream5/cartoonnetwork.php",
+                "https://www.cablevisionhd.com/stream6/cartoonnetwork.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "tooncast-noticias": {
+        "nombre": "Tooncast",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/tooncast.html",
+                "https://embed.sdfgnksbounce.com/embed/tooncast.html",
+                "https://www.cablevisionhd.com/stream/tooncast.php",
+                "https://www.cablevisionhd.com/stream2/tooncast.php",
+                "https://www.cablevisionhd.com/stream3/tooncast.php",
+                "https://www.cablevisionhd.com/stream4/tooncast.php",
+                "https://www.cablevisionhd.com/stream5/tooncast.php",
+                "https://www.cablevisionhd.com/stream6/tooncast.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "cartoonito-noticias": {
+        "nombre": "Cartoonito",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/cartoonito.html",
+                "https://embed.sdfgnksbounce.com/embed/cartoonito.html",
+                "https://www.cablevisionhd.com/dtv/cartoonito.php",
+                "https://www.cablevisionhd.com/stream/cartoonito.php",
+                "https://www.cablevisionhd.com/stream2/cartoonito.php",
+                "https://www.cablevisionhd.com/stream4/cartoonito.php",
+                "https://www.cablevisionhd.com/stream5/cartoonito.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "disneychannel-noticias": {
+        "nombre": "Disneychannel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/disneychannel.html",
+                "https://embed.sdfgnksbounce.com/embed/disneychannel.html",
+                "https://www.cablevisionhd.com/dtv/disneychannel.php",
+                "https://www.cablevisionhd.com/stream/disneychannel.php",
+                "https://www.cablevisionhd.com/stream2/disneychannel.php",
+                "https://www.cablevisionhd.com/stream4/disneychannel.php",
+                "https://www.cablevisionhd.com/stream5/disneychannel.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "disneyjr-noticias": {
+        "nombre": "Disneyjr",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/disneyjr.html",
+                "https://embed.sdfgnksbounce.com/embed/disneyjr.html",
+                "https://www.cablevisionhd.com/dtv/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream2/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream4/disneyjunior.php",
+                "https://www.cablevisionhd.com/stream5/disneyjunior.php",
+                "https://embed.sdfgnksbounce.com/embed.js"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cablevisionhd.com/",
+        "país": "mx",
+        "categoría": "news"
+    },
+    "nick-noticias": {
+        "nombre": "Nick",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.sdfgnksbounce.com/embed2/nick.html",
+                "https://embed.sdfgnksbounce.com/embed/nick.html",
+                "https://www.cablevisionhd.com/dtv/nick.php",
+                "https://www.cablevisionhd.com/stream/nick.php",
+                "https://www.cablevisionhd.com/stream2/nick.php",
+                "https://www.cablevisionhd.com/stream4/nick.php",
+                "https://www.cablevisionhd.com/stream5/nick.php",
+                "https://embed.sdfgnksbounce.com/embed.js"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vix.com/es-es/canales?lang=canales",
         "país": "mx",
         "categoría": "news"
     },
