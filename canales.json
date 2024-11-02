@@ -15483,14 +15483,14 @@
         "país": "pe",
         "categoría": "news"
     },
-    "Radio-NavezMIXS": {
-        "nombre": "Radio NavezMIXS",
+    "Radio-Navez-MIX": {
+        "nombre": "Radio Navez MIX",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://sites.google.com/view/radio-navez-mixs/home?authuser=0"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream.zeno.fm/vq4s9m2sg48uv.m3u"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
