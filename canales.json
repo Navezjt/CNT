@@ -11540,8 +11540,8 @@
         "país": "pe",
         "categoría": "news"
     },
-    "latina-noticias": {
-        "nombre": "Latina Noticias",
+    "latina-pe": {
+        "nombre": "Latina PE",
         "logo": "",
         "señales": {
             "iframe_url": [
@@ -11550,6 +11550,47 @@
                 "https://www.goltvgo.com/canalestv.php?get=aHR0cHM6Ly9qaXJlaC0zLWhscy12aWRlby1wZS1pc3AuZHBzLmxpdmUvaGxzLXZpZGVvLzU2N2ZmZGUzZmEzMTlmYWRmMzQxOWVmZGEyNTYxOTQ1NjIzMWRmZWEvbGF0aW5hL2xhdGluYS5zbWlsL3BsYXlsaXN0Lm0zdTg/ZHBzc2lkPWIxMzI2MTA3NTI1MjY1ODZkMzEyMTE0NmImc2lkPWJhNXQxbDF4YjIxODczMDM1Nzg4NjU4NmQzMTIzYjlkNyZuZHZjPTA="
             ],
             "m3u8_url": [],
+            "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
+            "yt_embed": "MEULo6p5VdQ?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.latina.pe/tvenvivo",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "latina-noticias": {
+        "nombre": "Latina Noticias",
+        "logo": "//cdn.rudo.video/assets/latina/live/live_f9d093caa527f4eaf1aa08c6d130a19f1725480294.png",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/latina?autoplay=true&volume=0",
+                "//rudo.video/live/latinanoticias",
+                "https://atvenvivo.com/hls.php-93.html?get=Ly9qaXJlaC0yLWhscy12aWRlby11cy1pc3AuZHBzLmxpdmUvaGxzLXZpZGVvLzU2N2ZmZGUzZmEzMTlmYWRmMzQxOWVmZGEyNTYxOTQ1NjIzMWRmZWEvbGF0aW5hL2xhdGluYS5zbWlsL3BsYXlsaXN0Lm0zdTg/ZHBzc2lkPWIyNjg1MzMxMjAxNjZiZmYyYmJjNjMzNyZzaWQ9YmE1dDFsMXhiMjUzODA5MTY3MjY2YmZmMmJkOTk0OWUmbmR2Yz0w",
+                "https://www.goltvgo.com/canalestv.php?get=aHR0cHM6Ly9qaXJlaC0zLWhscy12aWRlby1wZS1pc3AuZHBzLmxpdmUvaGxzLXZpZGVvLzU2N2ZmZGUzZmEzMTlmYWRmMzQxOWVmZGEyNTYxOTQ1NjIzMWRmZWEvbGF0aW5hL2xhdGluYS5zbWlsL3BsYXlsaXN0Lm0zdTg/ZHBzc2lkPWIxMzI2MTA3NTI1MjY1ODZkMzEyMTE0NmImc2lkPWJhNXQxbDF4YjIxODczMDM1Nzg4NjU4NmQzMTIzYjlkNyZuZHZjPTA="
+            ],
+            "m3u8_url": [
+                "https://rudo.video/rudo.m3u8"
+            ],
+            "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
+            "yt_embed": "MEULo6p5VdQ?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.latina.pe/tvenvivo",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "latina-clasicos": {
+        "nombre": "Latina Clasicos",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/latina2"
+            ],
+            "m3u8_url": [
+                "https://rudo.video/rudo.m3u8"
+            ],
             "yt_id": "UCpSJ5fGhmAME9Kx2D3ZvN3Q",
             "yt_embed": "MEULo6p5VdQ?",
             "yt_playlist": "",
@@ -13453,10 +13494,12 @@
         "logo": "https://sanjuaneratv.pe/wp-content/uploads/2021/10/LOGO1.png",
         "señales": {
             "iframe_url": [
+                "https://infosmartpe.store:5443/LiveApp/play.html?id=vLn2BEFdTBNu8866060423704237",
                 "https://tvgratisperu.com/pages/peru/re/sanjuaneratv_op1.php",
                 "https://app.ahxpro.com/audio/sanjuanera/"
             ],
             "m3u8_url": [
+                "https://infosmartpe.store:5443/LiveApp/streams/vLn2BEFdTBNu8866060423704237.m3u8",
                 "https://live.obslivestream.com/sanjuanera/index.m3u8",
                 "https://live.obslivestream.com/sanjuanera/tracks-v1a1/mono.m3u8"
             ],
