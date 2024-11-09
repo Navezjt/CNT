@@ -8486,6 +8486,60 @@
         "país": "do",
         "categoría": "general"
     },
+    "microvision-online": {
+        "nombre": "Microvision Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
+                "https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w773661069.m3u8"
+            ],
+            "yt_id": "UCHnuPHs-WMjG9GEhJnioEXg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://microvision.com.do/en-vivo/",
+        "país": "do",
+        "categoría": "cristiana"
+    },
+    "telemicro-online": {
+        "nombre": "Telemicro Online",
+        "logo": "https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/64a254d4-c606-477d-a7b4-6c65a58a6a00/w=822,h=204",
+        "señales": {
+            "iframe_url": [
+                "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
+            ],
+            "m3u8_url": [
+                "https://playback.akamaized.net/streams/27456795_10633780_lsim0xd9latiz50xf3h_1/master.m3u8?dw=14400&hdnts=exp=1730220694~acl=/streams/27456795_10633780_lsim0xd9latiz50xf3h_1/master.m3u8*~hmac=7d250704b220683a3d4edbba0f20c435d8b4d5bc98407948cab2576e6064e60d"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
+        "país": "do",
+        "categoría": "cristiana"
+    },
+    "telesantodomingo-online": {
+        "nombre": "Telesantodomingo Online",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telesantodomingo.com/",
+        "país": "do",
+        "categoría": "cristiana"
+    },
     "canal-algerie-tv": {
         "nombre": "Canal Algérie (ENTV2)",
         "logo": "",
@@ -16978,60 +17032,6 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "microvision-online": {
-        "nombre": "Microvision Online",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8",
-                "https://streaming.telecablecentral.com.do/live/MicroHD/chunklist_w773661069.m3u8"
-            ],
-            "yt_id": "UCHnuPHs-WMjG9GEhJnioEXg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://microvision.com.do/en-vivo/",
-        "país": "do",
-        "categoría": "cristiana"
-    },
-    "telemicro-online": {
-        "nombre": "Telemicro Online",
-        "logo": "https://imagedelivery.net/NLRdvd00lh1oHv32qhXM9g/64a254d4-c606-477d-a7b4-6c65a58a6a00/w=822,h=204",
-        "señales": {
-            "iframe_url": [
-                "https://livestream.com/accounts/27456795/events/10633780/player?width=640&height=360&enableInfoAndActivity=true&defaultDrawer=&autoPlay=true&mute=false"
-            ],
-            "m3u8_url": [
-                "https://playback.akamaized.net/streams/27456795_10633780_lsim0xd9latiz50xf3h_1/master.m3u8?dw=14400&hdnts=exp=1730220694~acl=/streams/27456795_10633780_lsim0xd9latiz50xf3h_1/master.m3u8*~hmac=7d250704b220683a3d4edbba0f20c435d8b4d5bc98407948cab2576e6064e60d"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://telemicro.com.do/telemicro-en-vivo/",
-        "país": "do",
-        "categoría": "cristiana"
-    },
-    "telesantodomingo-online": {
-        "nombre": "Telesantodomingo Online",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://vdopanel.jlahozconsulting.com/p/3668/live/santodomingolive.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.telesantodomingo.com/",
-        "país": "do",
-        "categoría": "cristiana"
-    },
     "canal-121-online": {
         "nombre": "Canal 121 Online",
         "logo": "",
@@ -17068,6 +17068,207 @@
         "sitio_oficial": "https://www.misionvida.org/mvtv/",
         "país": "pe",
         "categoría": "cristiana"
+    },
+    "supertrendy-caracas-online": {
+        "nombre": "Supertrendy Caracas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott3.streann.com/s-secure/player.html?U2FsdGVkX19wO++TJ7pHGu3EtGAco5J4feoJhsfUCNKradI2d6D18CBezoR+ismzlsENER7rLGC0/qtGpT/AosmAyjKlumusgrpXIW5/yf719KviYMmpcHqLuNgJ7OqY44Sb2sBbgbtisBrUiSRKzb6XZfFoSGOl/U2KoaAUDoDVNziC4GSNUvW6OMhNAfGdm8T01RnrrH55g6TFZlfQ88CXrDesp4iPxfBF1+ZD7Eyb3TlznrT7GPzgslMHe7fSYlVPtT+0VNQ9uCzvmWb/Fc/NObAlA9mc7i85uKZFgDDL8t8MfzlxBhyXzafllONoiZWW9HFLt8dG6IjvgBKWUa/VbAiWa/XafOnA161AjtCIiZlr5ZAUV4n3UJdjZVGMMP7gX6LGGoduX7yLBjYMug=="
+            ],
+            "m3u8_url": [
+                "https://edge.streann.com/supertrendy2/supertrendy2/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MzEyMDE4ODksInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI1YWQ3MzNmMzJjZGNhZTIwOTJjZTJlYjgifQ.CmgF3G1nVSKKNxabD4JKhU5EcbQopmvdzzF9eqtA-xw"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supertrendy.net/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "MIX-online": {
+        "nombre": "MIX TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "//www.alsolnet.com/stream/mixmusic/player.htm"
+            ],
+            "m3u8_url": [
+                "https://cdamix.streaming.ws/mixmusic/live/chunklist_w2098772448.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supertrendy.net/mix/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "supertrendy-valencia-online": {
+        "nombre": "Supertrendy Valencia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott3.streann.com/s-secure/player.html?U2FsdGVkX1/dudU77tvpZsN859W90ELqrX7F0ms9iDQ9vyq+KSls9IjoJ9kZVl0ucOhu4SCUGw6PljW9Z+uNfw+OLGNjXee1ZGh/ecC+uFnHEZGkITk4R29p1EkGHvM0Ih58dDRrBxJxyRus5dI5e/ccNNiA2vjvWcMQJyjUJHkCz/Sfk2sqbm9S441QZZtOmpCknJReXLYInW0hew3h5NvjDSLZZ/G1eXOtwV5G4hWDhnYEpBO5IOdFO1FKGP+7odN143ZA0kkfNIPtobfUJa/Lo2R2kuy8WHsyWgShcwOjjYkbyprIZwrNkO/bl1IpskHHxBk0fKIAHsmcw77YA6YwNDr0za+r6UHu8EHSdf9QOpn1MSvWid6XHk5SVuujgvQvKwTuusaCAbb2DP+uQg=="
+            ],
+            "m3u8_url": [
+                "https://edge.streann.com/supertrendy1/supertrendy1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MzEyMDI1MTMsInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI1YWQ3MzNkMjJjZGNhZTIwOTJjZTJlYTAifQ.u9q2VgVnma9S900PWY28Gc8T-97BavlP4PFiaOkeNbU"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supertrendy.net/supertrendy-valencia/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "pop-fm-online": {
+        "nombre": "Pop Fm",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott3.streann.com/streaming/player.html?U2FsdGVkX18PNdpVclygLXOqUx+feZ0LkCuozF4F9UAhvahPuZKoUBzuC70Pm/aFHGS8BOs8YFmjsB/WeWhTYPu7eRY72noPRs66wd4uw7azam28YRQEv1bF/PPmD3iwidd2MtAJj1kht5OlFKlAyhQc2GwK6O79jono3IOQd08j14PxXKV3Uov1xg2OCMmTwoUf2KBlHbOnjXI9h9EaetM/MmOHGgcI8KLj42e3gHf635s+ItO7rgRgwovCaQ8K6njayvL8gNoNNmYaLrkqiNlBNJgK7fLeDzr0kOBQo+sZzoVcoOH6XoXUaLz2JjOqnMkjwpWwiLDKoF8Yuv5GYG8MkCXJM99GdHd9hayJktkToOxzNB8Y1TifATF+hRH1FtBEAa7GrLR30wynDaR9RA=="
+            ],
+            "m3u8_url": [
+                "https://edge.streann.com/supertrendy3/supertrendy3/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE3OS42LjE2OC42NSIsImV4cCI6MTczMTIwMjYyNCwicmlkIjoiNWFkNzMwMmIyY2RjMmRlMDEyOWY3NzI0Iiwia2V5Ijoia2V5MSIsImNpZCI6IjVhZDczMjEzMmNkYzJkZTAxMjlmNzdkNyJ9.OknZQSphub4zjfKReWUgnkhA7um7cinBl7-fUlxbkHA"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supertrendy.net/pop-fm/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "rumbera-107-9-online": {
+        "nombre": "Rumbera 107-9",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott3.streann.com/streaming/player.html?U2FsdGVkX1/QsSTYiEWYnp9xoOdfK6IiL5jQl4KUJC8N5HFhgPC4rhp3PcSJ4eDG/lqzKjz5wbNWIugrOf2I3LG5GsDQ0soirVfjM1Y3GPxoqsbh4m7wMewX9NiJcAcqZ44MR9g8iugsobDtYRiF/YpmqLoq6J10EZFHtegnuYTM7Y7J/88WhaGxHIoi1wA/xs6ZQsoTSZkoQ51GXqqj2sL48FmtiwSvdAhCyNH/y1DtD167GAuyZuP5UMFOaHqUXeBkoQzjax8CpF2+clIsze1+k0L2FkDBha+KYeyXrMB/VahDZJdMray6ETyVb8NRaijCxBKhcWFOIFDvQWCR2Q=="
+            ],
+            "m3u8_url": [
+                "https://edge.streann.com/rumberacur/rumberacur_1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MzEyMDI4OTksInJpZCI6IjVhZDczMDJiMmNkYzJkZTAxMjlmNzcyNCIsImtleSI6ImtleTEiLCJjaWQiOiI2NWU5ZDQ3NWU0YjAzNzZlYzBmMDA2ZjIifQ.dgRj1l2Zrxu-Vpi6lxzv_U1cvxaug6EZLaiEx9jDGP0"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supertrendy.net/rumbera-107-9/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "supertrendy-cojedes-online": {
+        "nombre": "Supertrendy Cojedes",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://supertrendy.net/reproductores/musiktinaquillo/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supertrendy.net/supertrendy-cojedes/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "91-5-supertrendy-online": {
+        "nombre": "91-5 Supertrendy",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streamyes.alsolnet.com/musiktv/live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://supertrendy.net/91-5-supertrendy/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "laquebuenaatlanta-online": {
+        "nombre": "Laquebuenaatlanta",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streamyes.alsolnet.com/quebuenaatlanta/live/chunklist_w1745666702.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://laquebuenaatlanta.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "Dialradio-online": {
+        "nombre": "Dialradio",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "//www.alsolnet.com/stream/dialradiotv/arg/player.htm"
+            ],
+            "m3u8_url": [
+                "//streamyes.alsolnet.com/dialradiotv/live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://dialradio.tv/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "lamiafm-online": {
+        "nombre": "Lamiafm",
+        "logo": "https://lamiafm.com/wp-content/uploads/2024/10/Lamiafmx500.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://vdo.upmediatech.com/LiveApp/streams/lamiafm.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://lamiafm.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "soyradiotv-online": {
+        "nombre": "Soyradiotv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.alsolnet.com/stream/soyradiotv/player.htm"
+            ],
+            "m3u8_url": [
+                "//streamyes.alsolnet.com/soyradiotv/live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.closeradiotv.com/es/",
+        "país": "pe",
+        "categoría": "news"
     },
     "acs-network": {
         "nombre": "ACS Network",
