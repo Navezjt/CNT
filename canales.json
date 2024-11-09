@@ -11450,6 +11450,23 @@
         "país": "pa",
         "categoría": "news"
     },
+    "hosannavision-online": {
+        "nombre": "Vosanna Vision",
+        "logo": "/site/templates/theme/img/logo/logo.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8"
+            ],
+            "yt_id": "UCBRWfsg6d6BttI4WIE-b5xQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hosannavision.com/en-vivo/",
+        "país": "pa",
+        "categoría": "cristiana"
+    },
     "tv-peru": {
         "nombre": "TVPerú Noticias",
         "logo": "",
@@ -16466,22 +16483,24 @@
         "país": "pe",
         "categoría": "cristiana"
     },
-    "hosannavision-online": {
-        "nombre": "Vosanna Vision",
-        "logo": "/site/templates/theme/img/logo/logo.png",
+    "close-radio-tv": {
+        "nombre": "Close Radio",
+        "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8"
+            "iframe_url": [
+                "//www.alsolnet.com/stream/quebuenaatlanta/player.htm"
             ],
-            "yt_id": "UCBRWfsg6d6BttI4WIE-b5xQ",
+            "m3u8_url": [
+                "//streamyes.alsolnet.com/quebuenaatlanta/live/playlist.m3u8"
+            ],
+            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://hosannavision.com/en-vivo/",
-        "país": "pa",
-        "categoría": "cristiana"
+        "sitio_oficial": "https://soyradioinc.com/close-radio-tv/",
+        "país": "pe",
+        "categoría": "news"
     },
     "asomavision-online": {
         "nombre": "Asomavision",
