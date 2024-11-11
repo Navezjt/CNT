@@ -8238,6 +8238,148 @@
         "país": "co",
         "categoría": "news"
     },
+    "Radio-Progreso-online": {
+        "nombre": "Radio Progreso",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://teveo.cu/live/audio/5RVa3f5fhgEXJkgU/embed?auto=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://teveo.cu/live/audio/5RVa3f5fhgEXJkgU",
+        "país": "cu",
+        "categoría": "news"
+    },
+    "Canal-Caribe-online": {
+        "nombre": "Canal Caribe",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=false"
+            ],
+            "m3u8_url": [
+                "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/caribe",
+        "país": "cu",
+        "categoría": "news"
+    },
+    "cubavision-online": {
+        "nombre": "Cubavision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://teveo.cu/live/video/G9bkUAyaJDwyJh5S/embed?auto=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/cubavision",
+        "país": "cu",
+        "categoría": "news"
+    },
+    "cvi-icrt-online": {
+        "nombre": "Cvi Icrt",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://teveo.cu/live/video/AKDdWvMTYzfsfnNJ/embed?auto=true"
+            ],
+            "m3u8_url": [
+                "https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/chunklist_b1728000.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cvi.icrt.cu/",
+        "país": "cu",
+        "categoría": "news"
+    },
+    "multivision-online": {
+        "nombre": "multivision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://teveo.cu/live/video/ubXyE5z29hgjJHSH/embed"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvcubana.icrt.cu/cartelera-de-la-tv-cubana/multivision",
+        "país": "cu",
+        "categoría": "news"
+    },
+    "telerebelde-online": {
+        "nombre": "Telerebelde",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://teveo.cu/live/video/zeZmyVqvdkR4GWRu/embed"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telerebelde.icrt.cu/",
+        "país": "cu",
+        "categoría": "news"
+    },
+    "martinoticias-online": {
+        "nombre": "Martinoticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.martinoticias.com/t/9.html?utm_medium=affiliate&utm_campaign=OCB-player9&utm_source=tvinsur.com%2F&utm_content=player",
+        "país": "cu",
+        "categoría": "news"
+    },
+    "teletuya-online": {
+        "nombre": "Teletuya",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhuur.html?video=k1Rx6Ji9YbPLoRAIFiC"
+            ],
+            "m3u8_url": [
+                "https://live-b2.cf.dmcdn.net/sec2(GZpGbUtzYR_Eid57N0LyKpfzd_yfdzoE76TUOYYMACSE-Vbtz5UwL4M1H_DZQ9DagXpzm2EUYKBCv6lRgypYl2V635HvnXlIMw5b14JN0tRhosVwKb6zvsEFKonfrr_V)/cloud/3/x8z1nnq/s/live-720.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://teletuya.net/en-vivo/",
+        "país": "cu",
+        "categoría": "news"
+    },
     "despierta-con-cdn": {
         "nombre": "despierta con cdn",
         "logo": "",
@@ -8539,6 +8681,79 @@
         "sitio_oficial": "https://www.telesantodomingo.com/",
         "país": "do",
         "categoría": "cristiana"
+    },
+    "entelevision-online": {
+        "nombre": "Entelevision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.livestreaminggroup.info/live-stream-video-widget/entelevision"
+            ],
+            "m3u8_url": [
+                "https://tv.livestreaminggroup.info:3985/live/entelevisionlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://entelevision.com/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "atv canal 35 -online": {
+        "nombre": "ahoratv canal 35 ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.livestreaminggroup.info/live-stream-video-widget/canal35"
+            ],
+            "m3u8_url": [
+                "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8",
+                "https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ahoratv.com/en-vivo.php",
+        "país": "do",
+        "categoría": "news"
+    },
+    "acdmedia-online": {
+        "nombre": "acdmedia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tv.livestreaminggroup.info/live-stream-video-widget/catorcetv"
+            ],
+            "m3u8_url": [
+                "https://tv.livestreaminggroup.info:3052/live/catorcetvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://acdmedia.com/",
+        "país": "do",
+        "categoría": "news"
+    },
+    "proceso-online": {
+        "nombre": "Proceso",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCi3FV2Z4sjKMyPZfpnbQv-w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://proceso.com.do/en-vivo/",
+        "país": "do",
+        "categoría": "news"
     },
     "canal-algerie-tv": {
         "nombre": "Canal Algérie (ENTV2)",
@@ -9157,6 +9372,25 @@
         "sitio_oficial": "http://www.unetvhn.com/",
         "país": "hn",
         "categoría": "general"
+    },
+    "teleprogreso-online": {
+        "nombre": "Telepais",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://webmedialive.com/ReproTelePais/live/"
+            ],
+            "m3u8_url": [
+                "https://tv.webmedialive.com/teleprogreso/live/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.teleprogreso.net/",
+        "país": "hn",
+        "categoría": "news"
     },
     "alhayat-tv": {
         "nombre": "Alhayat Tv",
@@ -11375,15 +11609,43 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://mdstrm.com/live-stream/64cbe53b46ee28089166c04f?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=F5hvlzkTSeDDa4iiaPTAjeavwxSrt4qNAehYuwKvhcucrApOzZJiZOG57WL31ZdPguRV4mBsXlm",
+                "https://mdstrm.com/live-stream/65d4c7bcbe741b6c4131bd70?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=r2NgXk8BB0LvApspusaH6nswIv3fazuBNCIZ2Gdxvf29ezHZWghaAa8bd16bb7zVRIpeWdio08I",
+                "https://mdstrm.com/live-stream/65d4c7bcbe741b6c4131bd70?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=OomjqjzSnALqeV3KCQZg7Qwjzfe0HpXROozej1wpKec8KS5He4awKqrW7HCpvHZckoA21ptBcZS",
+                "https://mdstrm.com/live-stream/65d4c7bcbe741b6c4131bd70?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=OomjqjzSnALqeV3KCQZg7Qwjzfe0HpXROozej1wpKec8KS5He4awKqrW7HCpvHZckoA21ptBcZS",
                 "https://mdstrm.com/live-stream/64cbe53b46ee28089166c04f?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=kyVAWP9h879bZoIUtwTlveR3A6QLAT1brQ4cIrveHH2lFpLTT7hEgl5bJ51CqwIuvtxFPRPk2iC"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/JxbC8Kj4Te6ZeH2w-d5IfA/stream/2ef83aae-ead7-4d08-9d3c-3c15fa986c7e:CBF2/variant/25b837ee6bdd3e6d1a83a4124d199f3f/bandwidth/1722600.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=p4wmk2dMarwRGfSROYucNMm9GfTZisOC&sid=hukbpnMUWOGlojoLLIczxVTWoIPZqdNp&pid=Iabyos8nPSNM8lIDPzkjZtMBqTMk0Ih1&ref=https%3A%2F%2Ftvnpass.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=U4idObu8sAOrb9WysDaXlOxXsURc0Xc1wQbAUfmqh6ZvNaX4lH82WttkUF502gR24lw8z3b1Dge&adInsertionGoogleStreamId=2ef83aae-ead7-4d08-9d3c-3c15fa986c7e%3ACBF2&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1731444124904&ot=-0SLJ75wA6Bg8OK7s_kIRA&proto=https&pz=us",
+                "https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/yB_eY9MOQUepHoz0yC5C0Q/stream/02a10b49-1c79-4ad4-8fc4-80bcff027b8b:MRN2/variant/20bdda19ad81621e8e00fea0799a9d72/bandwidth/1623600.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=p4wmk2dMarwRGfSROYucNMm9GfTZisOC&sid=hukbpnMUWOGlojoLLIczxVTWoIPZqdNp&pid=r3V4IsA3qA64aAI63z0iJa0MCKr8UNNi&ref=https%3A%2F%2Ftvnpass.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=OomjqjzSnALqeV3KCQZg7Qwjzfe0HpXROozej1wpKec8KS5He4awKqrW7HCpvHZckoA21ptBcZS&adInsertionGoogleStreamId=02a10b49-1c79-4ad4-8fc4-80bcff027b8b%3AMRN2&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1731443921583&ot=C2oH5cYN1OxT0TZJHFIZiQ&proto=https&pz=us"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.tvn-2.com/en-directo/",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "tvn2-live": {
+        "nombre": "Tvn2 Radio",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://mdstrm.com/live-stream/65d4c68470d6fd087fe7d8fb?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=jumYX30u0RzBrBvFNIdXI69diABLTTAUqvkUbhfHO8PUwPtNHnWWQBqD9v6FbKEQKMinToGodTq",
+                "https://mdstrm.com/live-stream/672cffd91315deedbe7666b7?jsapi=true&autoplay=true&controls=true&player=6652933c62f44c32939f8007&access_token=VFUzSxdlSLWK0h6zE8SVlg8gm5UhcjIqd76CneJZEIUkpxYUyJSlnQEtbHLkteVnPZcsfIr3x5G"
+            ],
+            "m3u8_url": [
+                "https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-secure/65d4c68470d6fd087fe7d8fb/publish/media_1800.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=p4wmk2dMarwRGfSROYucNMm9GfTZisOC&sid=hukbpnMUWOGlojoLLIczxVTWoIPZqdNp&pid=bd4w6kpBH6oGTF7FE54Ih6O39CD00mdg&ref=https%3A%2F%2Ftvnpass.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=jumYX30u0RzBrBvFNIdXI69diABLTTAUqvkUbhfHO8PUwPtNHnWWQBqD9v6FbKEQKMinToGodTq&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1731444375831&ot=yzdo8HPg4On0QXHI1XUrAA&proto=https&pz=us",
+                "https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-secure/672cffd91315deedbe7666b7/publish/media_1800.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=p4wmk2dMarwRGfSROYucNMm9GfTZisOC&sid=hukbpnMUWOGlojoLLIczxVTWoIPZqdNp&pid=Wmc0vPR1iWBIMu7OWoohEeFJXU0mkOPR&ref=https%3A%2F%2Ftvnpass.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=VFUzSxdlSLWK0h6zE8SVlg8gm5UhcjIqd76CneJZEIUkpxYUyJSlnQEtbHLkteVnPZcsfIr3x5G&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1731444202263&ot=bBO1a97ohOu-4c79-NgayQ&proto=https&pz=us"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvnpass.com/",
         "país": "pa",
         "categoría": "news"
     },
@@ -11478,8 +11740,12 @@
         "nombre": "Telemetro",
         "logo": "https://graph.facebook.com/telemetro/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhq0n.html?video=x90xloo"
+            ],
+            "m3u8_url": [
+                "https://live-c2.cf.dmcdn.net/sec2(_soyWCxTtTWyWgCRnW0v5QwfM-k6EXsRxw1XrgmIvlGIvZLxZwoRwoeuc0H-3kKJDyGi9WzeyGwxo_O8RzehF2MuapXme3qM-dtjrh_jt-09qUiaup5wU6LHMkRL05sV)/cloud/3/x90xloo/s/live-720.m3u8"
+            ],
             "yt_id": "UCm-EJjdw2bKskUFF5YyWYog",
             "yt_embed": "",
             "yt_playlist": "",
@@ -11520,6 +11786,211 @@
         "sitio_oficial": "https://hosannavision.com/en-vivo/",
         "país": "pa",
         "categoría": "cristiana"
+    },
+    "tvocanal23-online": {
+        "nombre": "Tvocanal23",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://conceptoweb-studio.com/radio/video/tvo/"
+            ],
+            "m3u8_url": [
+                "https://5fc584f3f19c9.streamlock.net/tvo/videotvo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyNCA4OjUyOjQ4IFBNJmhhc2hfdmFsdWU9L0IvTlg5SERXd2RZa2dkeldUdnQ2UT09JnZhbGlkbWludXRlcz0xMCZpZD0=&DVR"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvocanal23.com/",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "oyetv-online": {
+        "nombre": "Oye TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhq0f.html?video=x8odgha"
+            ],
+            "m3u8_url": [
+                "https://live-c2.cf.dmcdn.net/sec2(uyabS5eatVX8rhU-NFQ9_zN-3_PyPsPaaofRZv2Q9m_KO3gENtYUWYg4axQT5CW7iH-HoMW9aVyaEhRRcpoMzhZqD3fbvxCcZmCop7Yzq2WXVSLsq1sry7YWC-24u1ha)/cloud/3/x8odgha/s/live-240.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://oyetv.com.pa/",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "CALLE7-online": {
+        "nombre": "CALLE 7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhq0f.html?video=x90xloo"
+            ],
+            "m3u8_url": [
+                "https://live-c2.cf.dmcdn.net/sec2(igsLFRL4mWmLc5F-voMkAwwKyPLOQ9VrOsQdso56F1uy9ejYd8m9ZyVAYD4vhLkVBN2bcGXUZfHpg3dMiLnGRiDkuQ_ux4WOMPSyDfyTkdyZmSFvKinRVMIhCDrjnL0W)/cloud/3/x90xloo/s/live-480.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://go.medcom.com.pa/calle-7",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "CALIENTE-online": {
+        "nombre": "CALIENTE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe65z"
+            ],
+            "m3u8_url": [
+                "https://live-b2.cf.dmcdn.net/sec2(5thilr4K9tCs0VHxHAGYslQTmO9veWBomZvK33iNkU0DPgrwBthfARtGprtYvIOe2QB_3W7B2BH6os11flNvtAmOCZ2VNFtXS3qxzKxZoxgHrmPoBbExclet2pLg8jAH)/cloud/3/x8oe65z/s/live-480.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://go.medcom.com.pa/radio-caliente",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "RPC-online": {
+        "nombre": "RPC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe65h"
+            ],
+            "m3u8_url": [
+                "https://live-b2.cf.dmcdn.net/sec2(Itc0674553mnGqLQMwEnq6VSIErx2vIUVxbGnW5KyR_cQ-aWRjmAxkeN4t3Jj9uJXYdCBVC6TeBTjIkfgODjZ6_CkoPM0zpPAChd3GymQATOVpagaNi90Gny9k9t0g3m)/cloud/3/x8oe65h/s/live-480.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://go.medcom.com.pa/radio-rpc",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "radio-telemetro-online": {
+        "nombre": "Radio Telemetro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhq0f.html?video=x8oe642"
+            ],
+            "m3u8_url": [
+                "https://live-b2.cf.dmcdn.net/sec2(9dfMl6BsqMt79Xu0WMceohY0RQ2Efvhesw0xbFvPOE3T-JInVk1G_urQve6_Zw2U1VjZfe3gIHBU59MRN2nQhg0taRFqz3Mv3-t69s_il2iEz0nYQuapQH4yE-hpaZSN)/cloud/3/x8oe642/s/live-480.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://go.medcom.com.pa/radio-telemetro",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "especiales-online": {
+        "nombre": "Especiales",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://geo.dailymotion.com/player/xhq0f.html?video=x8pp1se"
+            ],
+            "m3u8_url": [
+                "https://live-b2.cf.dmcdn.net/sec2(mC8k1304aHjg1qqXh0zuHaUqBJLaqlFLcUihfaywvOJy6yAnWWToaFhlzHG5zx6iPOV6TDw5nZJ49T-GvyVe4CTbgfmKXjQykaZZDY3XoxfCmWXjG0Rjw_aJmrhEUjyl)/cloud/3/x8pp1se/s/live-480.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://go.medcom.com.pa/especiales",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "nexpanama-online": {
+        "nombre": "Nexpanama",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vcp8.myplaytv.com:2020/VideoPlayer/nextv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://vcp8.myplaytv.com:1936/nextv/nextv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://nexpanama.com/en-vivo/",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "Canal-Bocas-BTV-online": {
+        "nombre": "Canal Bocas BTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://oursnetworktv.com/#/ChannelDetail/38/Btv-Panam%C3%A1-"
+            ],
+            "m3u8_url": [
+                "https://stream.ontvmx.com/ontv/Sfn3zLdqgM4b17T05C/media_w1214799916_vo_17835_m3u8.cmfv"
+            ],
+            "yt_id": "UCoQt2GRq9WZCrbMeJuGbCfQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.btvpanama.com/en-vivo",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "Tv-Color-online": {
+        "nombre": "Tv Color",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streamtv.host-pa.com:9090/tvcolor/live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://centrocristianobetania.org/tv-color-en-vivo/",
+        "país": "pa",
+        "categoría": "news"
+    },
+    "fetv-online": {
+        "nombre": "Fetv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://vimeo.com/event/97556/embed"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://fetv.org/en-directo/",
+        "país": "pa",
+        "categoría": "news"
     },
     "tv-peru": {
         "nombre": "TVPerú Noticias",
