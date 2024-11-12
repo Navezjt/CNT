@@ -13175,11 +13175,14 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://irtp-player.iblups.com/radionacional",
                 "https://s1.tvdatta.com/live-stream-video-widget/nacionaltv",
                 "https://tvgratisperu.com/pages/peru/re/nacionaltvperu_op1.php",
                 "https://iblups.com/e_radionacional"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://cdnhd.iblups.com/hls/0773874174fd4eba8bb9eff741d190dc.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
