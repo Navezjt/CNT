@@ -7192,6 +7192,316 @@
         "país": "cr",
         "categoría": "news"
     },
+    "luznacientetv": {
+        "nombre": "Luz Naciente TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/8x2fza9v5m",
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2680&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/luz-naciente"
+            ],
+            "m3u8_url": [
+                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8",
+                "https://streeming.protoscr.com:3858/live/streeminglive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.luznacientetv.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "zurqui-tv": {
+        "nombre": "Zurqui TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/7h46l1wg5x"
+            ],
+            "m3u8_url": [
+                "https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/zurqui-tv",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "xpresso-joven-radio": {
+        "nombre": "Xpresso Joven Radio",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/zu8mc4bafy"
+            ],
+            "m3u8_url": [
+                "https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/chunklist_w874839867.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/xpresso-joven-radio",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "voiceover-radio-tv": {
+        "nombre": "Voiceover Radio TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://cloudvideo.servers10.com/VideoPlayer/8198",
+                "https://play4you.icu/e/ujovhblmz6",
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3334&autoplay=yes&showChat=no&chat-theme=dark&parent_url=www.vivalivetv.com/channel/voice-over-radio-tv"
+            ],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/mono.m3u8",
+                "https://cloudvideo.servers10.com:8081/8198/rewind-3600.m3u8?DVR"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/voiceover-radio-tv",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "vintage-music-tv": {
+        "nombre": "Vintage Music",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/9x58glthkn"
+            ],
+            "m3u8_url": [
+                "https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w536426197.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/en/onlinetv/costa-rica/vintage-music",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "video-tour-channel": {
+        "nombre": "Video Tour Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://popup.play4you.icu/29r1lks6m4"
+            ],
+            "m3u8_url": [
+                "https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://videotourchannel.com/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "vm-latino-tv": {
+        "nombre": "Vm Latino TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://play4you.icu/e/p5nfr8dokl"
+            ],
+            "m3u8_url": [
+                "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/chunklist_w1606565019.m3u8",
+                "https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vmlatino.com/en-vivo/",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "my-life-tv2": {
+        "nombre": "My Life TV2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3012&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/my-life-tv2"
+            ],
+            "m3u8_url": [
+                "https://manifests.vivalivetv.com/livehttporigin_vivalivelive/3012/amlst:mainstream/chunklist_b7390770.m3u8?op_id=0&userId=0&channelId=3012&stime=1731370287&etime=1731456687&token=0c1f8100288e403223603&p=livecdn"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/my-life-tv2",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "plous-tv": {
+        "nombre": "Plous TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3437&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/plous-tv"
+            ],
+            "m3u8_url": [
+                "https://vcp.myplaytv.com/glowtv/glowtv/chunklist_w1288032643.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/plous-tv",
+        "país": "cr",
+        "categoría": "news"
+    },
+    "investment-pitch": {
+        "nombre": "Investment Pitch FINANCIERO",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=1088&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/investment-pitch"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/41.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/investment-pitch",
+        "país": "us",
+        "categoría": "news"
+    },
+    "european-indie-music-network": {
+        "nombre": "European Indie Music Network",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3696&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/european-indie-music-network"
+            ],
+            "m3u8_url": [
+                "https://57068da1deb21.streamlock.net/euroindiemusic/euroindiemusic/chunklist_w1382207095.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/european-indie-music-network",
+        "país": "us",
+        "categoría": "news"
+    },
+    "visit-florida-tv": {
+        "nombre": "Visit Florida TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3352&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/visit-florida"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/57.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/visit-florida",
+        "país": "us",
+        "categoría": "news"
+    },
+    "the-golf-kingdom-tv": {
+        "nombre": "The Golf Kingdom TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=2894&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/the-golf-kingdom"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/53.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/the-golf-kingdom",
+        "país": "us",
+        "categoría": "news"
+    },
+    "30a-tv-1": {
+        "nombre": "30a TV 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=998&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/30a-tv-1"
+            ],
+            "m3u8_url": [
+                "https://30a-tv.com/feeds/720p/33.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/30a-tv-1",
+        "país": "us",
+        "categoría": "news"
+    },
+    "2tv": {
+        "nombre": "TV2 INDONESIA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.mana2.my/Tv2/tracks-v3a1/mono.m3u8?token=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-b0883ef30822adcda17c6fbcfe5ba14f&auth_key=1731388473-28d49fb7d3c943cdb0bc60dcbf7caa6a-0-85931ee7fa38fc11dc6d2620246cd078"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mana2.my/channel/live/tv2",
+        "país": "my",
+        "categoría": "news"
+    },
+    "comercio-tv-financiero": {
+        "nombre": "Comercio TV Financiero",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3450&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/comercio-tv"
+            ],
+            "m3u8_url": [
+                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccdd1a572d4a9003820&bpkio_sessionid=10c0f2f14-d562ae01-e007-4928-b8d6-c185210f5115&category=all&mm_sp",
+                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccd35b07bd52421c62a&bpkio_sessionid=10a0b12e45-8f873bcd-d2db-40e7-92ad-025798b60d2d&category=all&mm_sp"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/comercio-tv",
+        "país": "es",
+        "categoría": "news"
+    },
     "el-tiempo": {
         "nombre": "EL TIEMPO",
         "logo": "",
