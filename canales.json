@@ -4798,7 +4798,7 @@
         "categoría": "news"
     },
     "Radio-Vale-FM-97-5": {
-        "nombre": "Radio Vale FM 97.5",
+        "nombre": "Radio Vale FM 97-5",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -4831,7 +4831,7 @@
         "nombre": "AM 610",
         "logo": "",
         "señales": {
-            "iframe_url": [,
+            "iframe_url": [],
             "m3u8_url": [],
             "yt_id": "UCLNvrruQxjZIMA_H7_khPvQ",
             "yt_embed": "",
