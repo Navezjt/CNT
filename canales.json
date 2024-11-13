@@ -4780,68 +4780,6 @@
         "país": "ar",
         "categoría": "news"
     },
-    "la-popu": {
-        "nombre": "La Popu",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://api.apolomedia.com/player/embed/playerId/11MKOM1557150898/contentId/133901"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCNxohbqfDp8YxW_Mji2XMHA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.lapopu.com.ar/radio-en-vivo/la-popu",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "Radio-Vale-FM-97-5": {
-        "nombre": "Radio Vale FM 97.5",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC1Oa7gHuqzGHB90FPb0ssPA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC1Oa7gHuqzGHB90FPb0ssPA",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "Crudo-TV": {
-        "nombre": "Crudo TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCtyukjwRMYhHTKPbpsxfzVA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCtyukjwRMYhHTKPbpsxfzVA",
-        "país": "ar",
-        "categoría": "news"
-    },
-    "AM-610": {
-        "nombre": "AM 610",
-        "logo": "",
-        "señales": {
-            "iframe_url": [,
-            "m3u8_url": [],
-            "yt_id": "UCLNvrruQxjZIMA_H7_khPvQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/@Am610Directos",
-        "país": "ar",
-        "categoría": "news"
-    },
     "vtv-g": {
         "nombre": "VTV HN",
         "logo": "",
