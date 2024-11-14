@@ -29213,6 +29213,44 @@
         "país": "us",
         "categoría": "general"
     },
+    "30a-investment-pitch-news": {
+        "nombre": "30A Investment Pitch Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://www.30a-tv.com/InvPit.m3u8",
+                "https://www.30a-tv.com/InvPit.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://30a-tv.com/30a/investment-pitch-news/",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Bloomberg-TVmas": {
+        "nombre": "Bloomberg TV+ Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8",
+                "https://bloomberg.com/media-manifest/streams/politics.m3u8",
+                "https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8",
+                "https://live-prod-us-event-primary.akamaized.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-5-ZVZBvS0LHXCz_live.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.bloomberg.com/live/us",
+        "país": "us",
+        "categoría": "busines"
+    },
     "fox-business": {
         "nombre": "Fox Business",
         "logo": "",
@@ -29230,6 +29268,273 @@
             "twitch_id": "n3mloba3"
         },
         "sitio_oficial": "https://livestreamlinks.net/onlinetv/united-states/fox-business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Ameritrade-Channel-business": {
+        "nombre": "Ameritrade TV Channel - Business News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tdameritrade-vizio.amagi.tv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://livestreamlinks.net/onlinetv/united-states/fox-business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Cafe-Trade-business": {
+        "nombre": "Cafe Trade TV Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cafetradehls.wns.live/hls/stream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Entrepreneur-Channel-business": {
+        "nombre": "Entrepreneur TV Channel Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "schwab-network-business": {
+        "nombre": "Schwab Network Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://content-asae1-up-1.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128/f.m3u8?tc=1&rn=861956634&cid=f9aafa1f132e40af9b9e7238bc18d128&exp=1763159465&ct=c&sig=1ebdc2e102bc7c01a4e124c7bf88169387ed1eec822c8af6c345a9d38eae19e2&pbs=a83bb28f8c854c4c8a7b9fe8c6ff9262"
+            ],
+            "yt_id": "UCqoSrYgusd8ZddtMoWhjHYA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://schwabnetwork.com/",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Entrepreneur-Channel-business": {
+        "nombre": "Entrepreneur TV Channel Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://a.jsrdn.com/broadcast/7582ed85f7/+0000/c.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Business-Rockstars-business": {
+        "nombre": "Business Rockstars Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Yahoo!-Finance-business": {
+        "nombre": "Yahoo! Finance US Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "Real-Vision-business": {
+        "nombre": "Real Vision Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "",
+                ""
+            ],
+            "m3u8_url": [
+                "https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
+        "país": "us",
+        "categoría": "business"
+    },
+    "navez-360": {
+        "nombre": "NAVEZ 360",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvweb360.tv/?ch=tvfrtd"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvweb360.tv/embedtvplayer.html",
+        "país": "us",
+        "categoría": "general"
+    },
+    "FOLK-TV": {
+        "nombre": "FoLK TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://skyfolk.mk/",
+                "http://www.parsatv.com/embed.php?name=Sky-Folk-TV&auto=false"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.parsatv.com/name=Sky-Folk-TV",
+        "país": "us",
+        "categoría": "general"
+    },
+    "tiankov-TV": {
+        "nombre": "Tiankov TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://player.neterra.tv/tiankov/tiankov-folk.php"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tiankov.com/watch-online/",
+        "país": "bg",
+        "categoría": "general"
+    },
+    "axs-tv-now": {
+        "nombre": "Axs TV Now",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8",
+                "https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://bx-tv.com/axs-tv-now/",
+        "país": "bg",
+        "categoría": "general"
+    },
+    "ctv-news-channel": {
+        "nombre": "CTV News Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268",
+                "https://embed.jasperplayer.com?brand=CTV_NEWS&destination=ctvnews_web&language=EN&contentId=64268"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ctvnews.ca/video/c64268-ctv-news-channel-live",
+        "país": "ca",
+        "categoría": "general"
+    },
+    "Star-plus": {
+        "nombre": "Star plus",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://tvembed.eu/embed/embed_tv.js"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://worldhtml.weebly.com/embed-code-of-tv-channel.html",
+        "país": "us",
+        "categoría": "general"
+    },
+    "ANIMAL PLANET": {
+        "nombre": "ANIMAL PLANET",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "http://tvembed.eu/embed/embed_tv.js"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://worldhtml.weebly.com/embed-code-of-tv-channel.html",
         "país": "us",
         "categoría": "general"
     },
@@ -29258,7 +29563,8 @@
                 "https://www.livehdtv.com/embed/the-weather-channel/"
             ],
             "m3u8_url": [
-                "https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8"
+                "https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index.m3u8",
+                "https://livetvde.net/weather/index.m3u8?token=b32c4fd79caf917231b59a617f220ab8960a5436-fe47d80334d1ec64727575175a6e946f-1731630324-1731619524"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29325,20 +29631,40 @@
         "país": "us",
         "categoría": "general"
     },
-    "fox-news": {
-        "nombre": "Fox News",
+    "fox-soul": {
+        "nombre": "Fox Soul",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "https://www.livehdtv.com/embed/fox-news/"
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8"
             ],
-            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.livehdtv.com/fox-news/",
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/culture/fox-soul-foxsoulus-1080p-505",
+        "país": "us",
+        "categoría": "science"
+    },
+    "fox-news": {
+        "nombre": "Fox News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://w3.mp.lura.live/player/3.12.16/v3/anvload.html?key=eyJtIjoiRVBGT1giLCJ2IjoiYWRzdHczZzBQajI4UDJBVyIsImF1dG9wbGF5Ijp0cnVlLCJ0cmFja1RpbWVQZXJpb2QiOjEsIndpZHRoIjoiMTAwJSIsImFudmFjayI6IjdiNFdKbDM1emFIUndXemhrVWV3V1pKaUQzSk9tQWpHIiwic2hhcmVMaW5rIjoiaHR0cHM6Ly93d3cubGl2ZW5vd2ZveC5jb20iLCJwbHVnaW5zIjp7ImN1c3RvbUNvbXNjb3JlUGx1Z2luIjp7ImMzIjoiTGl2ZU5vdyIsImM2IjoiRlRTIiwic2NyaXB0IjoiaHR0cHM6Ly9zdGF0aWMuZm94dHYuY29tL3N0YXRpYy9vcmlvbi9zY3JpcHRzL2NvcmUvdXRpbHMvY29tc2NvcmUvTmF0aXZlQ29tc2NvcmVQbHVnaW4uanMiLCJzZGsiOiJodHRwczovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9jb21zY29yZS9jb21zY29yZS5qcyIsImNsaWVudElkIjoiNjA0MjkwMSIsIm5zX3N0X3N0IjoiTE5GWCIsInRpdGxlIjoiIiwibnNfc3RfY2kiOiJhZHN0dzNnMFBqMjhQMkFXIiwiYzQiOm51bGwsInNldEdlbnJlTmFtZSI6Ik5ld3MiLCJhcHBOYW1lIjoiRk9YIExpdmVOT1cgTmV3cyBBcHAifSwiZGZwIjp7ImNsaWVudFNpZGUiOnsiYWRUYWdVcmwiOiJodHRwczovL3B1YmFkcy5nLmRvdWJsZWNsaWNrLm5ldC9nYW1wYWQvbGl2ZS9hZHM%252FaXU9LzU1NTU1NTU1L0xJVkVOT1dGT1gmZGVzY3JpcHRpb25fdXJsPVtwbGFjZWhvbGRlcl0mZW52PXZwJmltcGw9cyZjb3JyZWxhdG9yPSZ0ZmNkPTAmbnBhPTAmZ2RmcF9yZXE9MSZvdXRwdXQ9dmFzdCZzej0xMDAxeDEwMDEmdW52aWV3ZWRfcG9zaXRpb25fc3RhcnQ9MSIsImtleVZhbHVlcyI6eyJwdHlwZSI6InZpZGVvLWxpdmUiLCJ1c19wcml2YWN5IjpudWxsfX0sInNlcnZlclNpZGUiOnsidXNfcHJpdmFjeSI6bnVsbH0sImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9LCJwYWwiOnsicHBpZCI6ImU1YzQxN2ZkLTA1ZTMtNGE4Ny1hZDYwLTg2ZDM5NDllZjg3MiIsIm5vbmNlUGVyaW9kIjozMDAsIm5vbmNlVGltZW91dCI6NSwiZGVzY3JpcHRpb25VcmwiOiJodHRwczovL3d3dy5saXZlbm93Zm94LmNvbSIsImxpYnJhcnlSZXF1ZXN0ZWQiOnRydWV9LCJuYXRpdmVIZWFydGJlYXRQbHVnaW4iOnsic2NyaXB0IjoiaHR0cDovL3N0YXRpYy5mb3h0di5jb20vc3RhdGljL29yaW9uL3NjcmlwdHMvY29yZS91dGlscy9hZG9iZS9DdXN0b21IZWFydGJlYXRQbHVnaW4uanMiLCJwcmltYXJ5X2J1c2luZXNzX3VuaXQiOiJmdHMiLCJzZWNvbmRhcnlfYnVzaW5lc3NfdW5pdCI6ImxuZngiLCJhcHBfbmFtZSI6ImxpdmVub3dmb3guY29tIiwiYXBwX3BsYXRmb3JtIjoid2ViIiwiYXBwX3ZlcnNpb24iOiIxLjAuMCIsInBsYXllclVuaXF1ZUlkIjoicGxheWVyLTY4MjZkOWEwLTI2MzctNGUwYS04NzVkLWNhM2RiODExYWUzNCIsInZpZGVvX2lkIjoiYWRzdHczZzBQajI4UDJBVyJ9fSwiaHRtbDUiOnRydWUsInRva2VuIjoieDZZNzVxNFFJWVBQdGQ1Sl9JcDZnalBPNnVGQW0wVlJSOFZsWVBGS1VYZ35NbjR3ZmcifQ%253D%253D",
+                "https://www.livehdtv.com/embed/fox-news/"
+            ],
+            "m3u8_url": [
+                "https://livetvde.net/k12/index.m3u8?token=a9e0a975f9e88b300fb135cb269af578245f1b7b-904d7cae09b4a058151d8ee1ca660614-1731630789-1731619989"
+            ],
+            "yt_id": "UCJg9wBPyKMNA5sRDnvzmkdg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.livenowfox.com/",
         "país": "us",
         "categoría": "general"
     },
@@ -29347,15 +29673,19 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://abcnews.go.com/video/embed?id=abc_live11",
                 "https://www.livehdtv.com/embed/bbc-news/"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
+            "m3u8_url": [
+                "https://content-asae1-up-1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/d.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=5ec79417706d47f98ac71377b2a13ce8&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D5ec79417-706d-47f9-8ac7-1377b2a13ce8%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2F%26plt%3Dweb%26d_us_privacy%3D&ad.adUnit=/abc-news/abcnews.com/web/video&pbs=62241f9d722941dbb911b1019e319256",
+                "https://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.vast3=1&ad.vid=$program_id&ad.description_url=https://abcnews.go.com/&ad.ppid=5ec79417706d47f98ac71377b2a13ce8&ad.us_privacy=&prbd.server=drax&ad.prbd=drax&ad.rdp=0&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26swid%3D5ec79417-706d-47f9-8ac7-1377b2a13ce8%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2F%26plt%3Dweb%26d_us_privacy%3D&ad.adUnit=/abc-news/abcnews.com/web/video"
+            ],
+            "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.livehdtv.com/bbc-news/",
+        "sitio_oficial": "https://abcnews.go.com/",
         "país": "us",
         "categoría": "general"
     },
@@ -29366,13 +29696,16 @@
             "iframe_url": [
                 "https://www.livehdtv.com/embed/newsnet/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/playlist.m3u8",
+                "https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1311088/chunklist_b2000000.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.livehdtv.com/newsnet/",
+        "sitio_oficial": "https://www.livestreamtvhub.com/us/news/newsnet-newsnetus-720p-3sb",
         "país": "us",
         "categoría": "general"
     },
@@ -29387,7 +29720,8 @@
             "m3u8_url": [
                 "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
                 "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
-                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8"
+                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
+                src="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29420,33 +29754,19 @@
         "país": "us",
         "categoría": "general"
     },
-    "30a-investment-pitch-news": {
-        "nombre": "30A Investment Pitch",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://www.30a-tv.com/InvPit.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://30a-tv.com/30a/investment-pitch-news/",
-        "país": "us",
-        "categoría": "general"
-    },
     "skynews": {
         "nombre": "Sky News",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://tunein.com/embed/player/s2583/",
                 "https://www.livehdtv.com/embed/skynews/"
             ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
+            "m3u8_url": [
+                "https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/08_1080-30.m3u8"
+            ],
+            "yt_id": "UCoMdktPbSTixAyNGwb-UYkQ",
+            "yt_embed": "oJUvTVdTMyY?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -29590,27 +29910,6 @@
         "sitio_oficial": "https://www.virgingalactic.com/",
         "país": "us",
         "categoría": "science"
-    },
-    "Bloomberg-TVmas": {
-        "nombre": "Bloomberg TV+",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "in",
-                "in"
-            ],
-            "m3u8_url": [
-                "https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/43e05dc5-34cf-4765-b71d-a3b7e3dd7ff7:SCL/variant/2669df91676be1a76e52d4de25e4f1a5/bandwidth/2400000.m3u8",
-                "https://live-prod-us-event-primary.akamaized.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-5-ZVZBvS0LHXCz_live.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.bloomberg.com/live/us",
-        "país": "us",
-        "categoría": "Busines"
     },
     "cnn-TVmas": {
         "nombre": "cnn TV+",
