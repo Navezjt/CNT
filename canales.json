@@ -12402,7 +12402,7 @@
                 "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
             ],
             "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
-            "yt_embed": "",
+            "yt_embed": "Z32evS15N-g?",
             "yt_playlist": "",
             "twitch_id": ""
         },
@@ -12693,7 +12693,7 @@
         "país": "pe",
         "categoría": "radio"
     },
-    "Best_Cable": {
+    "Best-Cable": {
         "nombre": "Best Cable",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
         "señales": {
@@ -12711,6 +12711,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://bestcableperu.com.pe/lima/enVivo",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "radio-sabor-mix": {
+        "nombre": "Radio Sabor Mix",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
+        "señales": {
+            "iframe_url": [
+                "#?embed=true&googleAnalyticsTrackingCode=&instanceName=Player2&instanceTheme=dark&autohideControls=2&hideControlsOnMouseOut=Yes&playerLayout=fitToContainer&videoPlayerWidth=1006&videoPlayerHeight=420&videoRatio=1.7777777777777777&videoRatioStretch=false&iOSPlaysinline=true&floatPlayerOutsideViewport=false&pauseStickyOutsideViewport=false&lightBox=false&lightBoxAutoplay=false&lightBoxThumbnail=images/preview_images/poster.jpg&lightBoxThumbnailWidth=400&lightBoxThumbnailHeight=220&lightBoxCloseOnOutsideClick=true&playlist=Off&playlistScrollType=light&playlistBehaviourOnPageload=closed&autoplay=false&colorAccent=00a8eb&vimeoColor=00adef&youtubeControls=custom controls&youtubeSkin=dark&youtubeColor=red&youtubeQuality=default&youtubeShowRelatedVideos=Yes&videoPlayerShadow=effect1&loadRandomVideoOnStart=No&shuffle=No&posterImg=&posterImgOnVideoFinish=&onFinish=Stop video&nowPlayingText=Yes&HTML5VideoQuality=HD&preloadSelfHosted=none&rightClickMenu=true&hideVideoSource=false&showAllControls=true&allowSkipAd=false&rewindShow=Yes&qualityShow=Yes&infoShow=Yes&shareShow=Yes&facebookShow=Yes&twitterShow=Yes&facebookShareName=Elite video player&facebookShareLink=#&facebookShareDescription=#&facebookSharePicture=https://0.s3.envato.com/files/123866118/preview.jpg&twitterText=#&twitterHashtags=#&twitterVia=#&logoShow=Yes&logoClickable=Yes&logoPath=images/logo/logo.png&logoGoToLink=#&logoPosition=bottom-right&embedShow=Yes&embedCodeSrc=#&embedCodeW=746&embedCodeH=420&embedShareLink=#&showGlobalPrerollAds=false&globalPrerollAds=url1;url2;url3;url4;url5&globalPrerollAdsSkipTimer=5&globalPrerollAdsGotoLink=#&advertisementTitle=Advertisement&skipAdvertisementText=Skip advertisement&mutedNotificationText=Video has no sound&playBtnTooltipTxt=Play&pauseBtnTooltipTxt=Pause&rewindBtnTooltipTxt=Rewind&downloadVideoBtnTooltipTxt=Download video&qualityBtnOpenedTooltipTxt=Close settings&qualityBtnClosedTooltipTxt=Settings&ccShowOnHTML5Videos=false&ccShowOnVideoLoad=false&ccBtnOpenedTooltipTxt=Hide captions&ccBtnClosedTooltipTxt=Show captions&muteBtnTooltipTxt=Mute&unmuteBtnTooltipTxt=Unmute&fullscreenBtnTooltipTxt=Fullscreen&exitFullscreenBtnTooltipTxt=Exit fullscreen&infoBtnTooltipTxt=Show info&embedBtnTooltipTxt=Embed&shareBtnTooltipTxt=Share&volumeTooltipTxt=Volume&playlistBtnClosedTooltipTxt=Show playlist&playlistBtnOpenedTooltipTxt=Hide playlist&facebookBtnTooltipTxt=Share on Facebook&twitterBtnTooltipTxt=Share on Twitter&lastBtnTooltipTxt=Go to last video&firstBtnTooltipTxt=Go to first video&nextBtnTooltipTxt=Play next video&previousBtnTooltipTxt=Play previous video&shuffleBtnOnTooltipTxt=Shuffle on&shuffleBtnOffTooltipTxt=Shuffle off&nowPlayingTooltipTxt=NOW PLAYING&embedWindowTitle1=SHARE THIS PLAYER:&embedWindowTitle2=EMBED THIS VIDEO IN YOUR SITE:&embedWindowTitle3=SHARE LINK TO THIS PLAYER:&copyTxt=Copy&copiedTxt=Copied!&youtubePlaylistID=&youtubeChannelID=&youtubeChannelNumberOfVideos=NaN&videosLength=1&videoType=HTML5&title=undefined&youtubeID=undefined&vimeoID=undefined&mp4HD=https://7.innovatestream.pe:19360/sabormixtv/sabormixtv.m3u8&mp4SD=https://7.innovatestream.pe:19360/sabormixtv/sabormixtv.m3u8&ccUrl=ccUrl&enable_mp4_download=no&imageUrl=undefined&imageTimer=undefined&prerollAD=no&prerollGotoLink=prerollGotoLink&preroll_mp4=preroll_mp4&prerollSkipTimer=prerollSkipTimer&midrollAD=no&midrollAD_displayTime=midrollAD_displayTime&midrollGotoLink=midrollGotoLink&midroll_mp4=midroll_mp4&midrollSkipTimer=midrollSkipTimer&postrollAD=no&postrollGotoLink=postrollGotoLink&postroll_mp4=postroll_mp4&postrollSkipTimer=postrollSkipTimer&popupImg=popupImg&popupAdShow=no&popupAdStartTime=popupAdStartTime&popupAdEndTime=popupAdEndTime&popupAdGoToLink=popupAdGoToLink&description=undefined&thumbImg=thumbImg&info=undefined"
+            ],
+            "m3u8_url": [
+                "https://7.innovatestream.pe:19360/sabormixtv/sabormixtv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiosabormix.pe/?fbclid=IwY2xjawGhvidleHRuA2FlbQIxMAABHeFwLUndGA1W52zylSsdoQiRLVQXpaAVBxWxr1CsdI1KpBOjmHF_w-brVA_aem_CJ2LdD129ElkJMzbGSsn4A",
         "país": "pe",
         "categoría": "news"
     },
