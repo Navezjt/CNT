@@ -12388,12 +12388,18 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://irtp-player.iblups.com/tvperuhd",
                 "https://iblups.com/e_tvperu73",
+                "https://irtp-player.iblups.com/tvperunoticias",
                 "https://iblups.com/e_tvperuHD",
+                "https://irtp-player.iblups.com/tvperuinternacional",
                 "https://iblups.com/e_tvperu72"
             ],
             "m3u8_url": [
-                "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8"
+                "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+                "https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8",
+                "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+                "https://cdnhd.iblups.com/hls/ee2450c81e554f4cae0e6292106993c2.m3u8"
             ],
             "yt_id": "UCkZCoc42IipR1ucqJmIehsA",
             "yt_embed": "",
