@@ -29229,7 +29229,7 @@
         },
         "sitio_oficial": "https://30a-tv.com/30a/investment-pitch-news/",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "Bloomberg-TVmas": {
         "nombre": "Bloomberg TV+ Business",
@@ -29249,7 +29249,7 @@
         },
         "sitio_oficial": "https://www.bloomberg.com/live/us",
         "país": "us",
-        "categoría": "busines"
+        "categoría": "news"
     },
     "fox-business": {
         "nombre": "Fox Business",
@@ -29269,10 +29269,10 @@
         },
         "sitio_oficial": "https://livestreamlinks.net/onlinetv/united-states/fox-business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "Ameritrade-Channel-business": {
-        "nombre": "Ameritrade TV Channel - Business News",
+        "nombre": "Ameritrade TV Channel Business News",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -29286,7 +29286,7 @@
         },
         "sitio_oficial": "https://livestreamlinks.net/onlinetv/united-states/fox-business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "Cafe-Trade-business": {
         "nombre": "Cafe Trade TV Business",
@@ -29303,7 +29303,7 @@
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "Entrepreneur-Channel-business": {
         "nombre": "Entrepreneur TV Channel Business",
@@ -29320,7 +29320,7 @@
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "schwab-network-business": {
         "nombre": "Schwab Network Business",
@@ -29337,7 +29337,7 @@
         },
         "sitio_oficial": "https://schwabnetwork.com/",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "Entrepreneur-Channel-business": {
         "nombre": "Entrepreneur TV Channel Business",
@@ -29354,7 +29354,7 @@
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "Business-Rockstars-business": {
         "nombre": "Business Rockstars Business",
@@ -29371,9 +29371,9 @@
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
-    "Yahoo!-Finance-business": {
+    "Yahoo-Finance-business": {
         "nombre": "Yahoo! Finance US Business",
         "logo": "",
         "señales": {
@@ -29388,16 +29388,13 @@
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "Real-Vision-business": {
         "nombre": "Real Vision Business",
         "logo": "",
         "señales": {
-            "iframe_url": [
-                "",
-                ""
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8"
             ],
@@ -29408,7 +29405,7 @@
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/us/business",
         "país": "us",
-        "categoría": "business"
+        "categoría": "news"
     },
     "navez-360": {
         "nombre": "NAVEZ 360",
@@ -29425,7 +29422,7 @@
         },
         "sitio_oficial": "https://tvweb360.tv/embedtvplayer.html",
         "país": "us",
-        "categoría": "general"
+        "categoría": "news"
     },
     "FOLK-TV": {
         "nombre": "FoLK TV",
@@ -29443,7 +29440,7 @@
         },
         "sitio_oficial": "https://www.parsatv.com/name=Sky-Folk-TV",
         "país": "us",
-        "categoría": "general"
+        "categoría": "news"
     },
     "tiankov-TV": {
         "nombre": "Tiankov TV",
@@ -29460,7 +29457,7 @@
         },
         "sitio_oficial": "https://tiankov.com/watch-online/",
         "país": "bg",
-        "categoría": "general"
+        "categoría": "news"
     },
     "axs-tv-now": {
         "nombre": "Axs TV Now",
@@ -29478,7 +29475,7 @@
         },
         "sitio_oficial": "https://bx-tv.com/axs-tv-now/",
         "país": "bg",
-        "categoría": "general"
+        "categoría": "news"
     },
     "ctv-news-channel": {
         "nombre": "CTV News Channel",
@@ -29496,7 +29493,7 @@
         },
         "sitio_oficial": "https://www.ctvnews.ca/video/c64268-ctv-news-channel-live",
         "país": "ca",
-        "categoría": "general"
+        "categoría": "news"
     },
     "The-Wall-Street-Journal-Live": {
         "nombre": "The Wall Street Journal Live",
@@ -29513,7 +29510,7 @@
         },
         "sitio_oficial": "https://www.livehdtv.com/the-weather-channel/",
         "país": "us",
-        "categoría": "general"
+        "categoría": "news"
     },
     "the-weather-channel": {
         "nombre": "The Weather Channel",
@@ -29606,7 +29603,7 @@
         },
         "sitio_oficial": "https://www.livestreamtvhub.com/us/culture/fox-soul-foxsoulus-1080p-505",
         "país": "us",
-        "categoría": "science"
+        "categoría": "general"
     },
     "fox-news": {
         "nombre": "Fox News",
