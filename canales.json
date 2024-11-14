@@ -12663,7 +12663,10 @@
         "nombre": "Radio Tropical 99.1 FM",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://videoserver.tmcreativos.com:2020/VideoPlayer/raditropical?autoplay=1",
+                "https://reproductor.tmcreativos.com/radiotropical/"
+            ],
             "m3u8_url": [
                 "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8"
             ],
@@ -12672,9 +12675,60 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://radiotropical.pe/",
+        "sitio_oficial": "https://radiotropical.pe/television/",
         "país": "pe",
         "categoría": "radio"
+    },
+    "radio-la-luz": {
+        "nombre": "Radio La Luz",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ott.streann.com/streaming/player.html?U2FsdGVkX19EHB5+1aUJEMrE+WomqLCdpnQH8FSQ6lfrlLKOLqA6N+3PbNBYWdDWLsUzEISIrehK8N1jsyVe8NGmea9uH+ppSntnU+uQRGKDMl6WPIAiJbqUqhEqWYXQirkDZyJX+OBfUTgRhv+15k2L+iKRodEEtF4hkBKjui9mfmmP2eQbtr/1bHapfhQd/u2KppU9VQ7kGKtrcOBa14rbsf+wjYpuPaeDB12yCdnjExU1rB4VcXlPX2jJD4EHTlCMVD8jkHfcRKsEy+aKiIYd3A0lfHr/IfASyRjQRJCDXJe04DLbHptDmVoLSz7+hD5XUl8G5WRBcZ3O9oxifw=="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://radiolaluz.com/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                ""
+            ],
+            "m3u8_url": [
+                ""
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "radio-bacan": {
+        "nombre": "Radio Bacan",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "rbacansat1130"
+        },
+        "sitio_oficial": "https://www.radiobacan.com/",
+        "país": "pe",
+        "categoría": "news"
     },
     "radio-uno": {
         "nombre": "Radio Uno 93.7 FM",
@@ -12714,6 +12768,23 @@
         "país": "pe",
         "categoría": "news"
     },
+    "ctv-pe": {
+        "nombre": "CTV PE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://ca2.inka.net.pe/ctvperu-live/embed.html?autoplay=false&token=96032c874ce04fdad22af117bf7418d7e5819960-4420a5b154af7a9aff56f81701f99d6f-1731607160-1731596360&remote=179.6.168.65"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ctv.pe/en-vivo",
+        "país": "pe",
+        "categoría": "news"
+    },
     "radio-sabor-mix": {
         "nombre": "Radio Sabor Mix",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Best_Cable_logo.png",
@@ -12731,7 +12802,7 @@
         },
         "sitio_oficial": "https://radiosabormix.pe/?fbclid=IwY2xjawGhvidleHRuA2FlbQIxMAABHeFwLUndGA1W52zylSsdoQiRLVQXpaAVBxWxr1CsdI1KpBOjmHF_w-brVA_aem_CJ2LdD129ElkJMzbGSsn4A",
         "país": "pe",
-        "categoría": "news"
+        "categoría": "radio"
     },
     "canal-33-ayacucho": {
         "nombre": "canal 33 ayacucho",
@@ -13237,23 +13308,6 @@
             "twitch_id": "tvlesp"
         },
         "sitio_oficial": "https://grupotvl.com/en-vivo/",
-        "país": "pe",
-        "categoría": "news"
-    },
-    "canal-ipe": {
-        "nombre": "Canal IPE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://iblups.com/e_canalipe"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canalipe.tv/streaming",
         "país": "pe",
         "categoría": "news"
     },
@@ -14271,6 +14325,7 @@
                 "https://servilive.com/live-stream-video-widget/qosqotimes"
             ],
             "m3u8_url": [
+                "https://v4.tustreaming.cl/qosqotimes/index.m3u8",
                 "https://servilive.com:3753/live/qosqotimeslive.m3u8"
             ],
             "yt_id": "",
@@ -14279,6 +14334,25 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://qosqotimes.pe/qtenvivo/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "telurica-pe": {
+        "nombre": "Telurica PE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.ahxpro.com/audio/radiogv20/"
+            ],
+            "m3u8_url": [
+                "https://live.obslivestream.com/teluricatv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://telurica.pe/",
         "país": "pe",
         "categoría": "news"
     },
@@ -14692,23 +14766,6 @@
         "país": "pe",
         "categoría": "news"
     },
-    "radiotropical": {
-        "nombre": "radiotropical",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://videoserver.tmcreativos.com:2020/VideoPlayer/raditropical?autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiotropical.pe/television/",
-        "país": "pe",
-        "categoría": "news"
-    },
     "matices-tv": {
         "nombre": "Matices Tv",
         "logo": "",
@@ -15075,11 +15132,12 @@
         "país": "pe",
         "categoría": "news"
     },
-    "canalipe": {
-        "nombre": "CANALIPE",
+    "canal-ipe": {
+        "nombre": "CANAL IPE",
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://iblups.com/e_canalipe",
                 "https://iblups.com/e_canalipe"
             ],
             "m3u8_url": [
@@ -15091,6 +15149,44 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.canalipe.gob.pe/",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "hipodromo-de-monterrico": {
+        "nombre": "Hipodromo Monterrico",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.opencaster.com/clients/hipodromojcp/"
+            ],
+            "m3u8_url": [
+                "https://h.jcp.live.opencaster.com/play_480/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://hipodromodemonterrico.com.pe/monterrico/home",
+        "país": "pe",
+        "categoría": "news"
+    },
+    "solar-tv-cusco": {
+        "nombre": "Solar TV Cusco",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://playerv.voxhdnet.com/video/solartv/3/true/false/V1hwT1UyUkhVbkZTV0ZacllsUnJNRmxWWkZOa1ZuQlpWVmhXV2sxcWJEQT0rUg==/16:9/YUhSMGNITTZMeTl6YjJ4aGNuUjJZM1Z6WTI4dWJtVjBMbkJsTHc9PSta"
+            ],
+            "m3u8_url": [
+                "https://stmv1.voxhdnet.com/solartv/solartv/chunklist_w263777726.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://solartvcusco.net.pe/",
         "país": "pe",
         "categoría": "news"
     },
