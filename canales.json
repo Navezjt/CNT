@@ -29672,13 +29672,16 @@
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/UqFzfqlb60g",
-                "https://www.livehdtv.com/embed/qvc/"
+                "https://www.livehdtv.com/embed/qvc/",
+                "http://tvembed.eu/embed/embed_tv.js",
+                "http://tvembed.eu/embed/embed_tv.js",
+                "http://tvembed.eu/embed/embed_tv.js"
             ],
             "m3u8_url": [
                 "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
                 "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
                 "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/medhigh.m3u8",
-                src="https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
+                "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1us/master.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
