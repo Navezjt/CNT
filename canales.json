@@ -29672,10 +29672,7 @@
         "señales": {
             "iframe_url": [
                 "https://www.youtube.com/embed/UqFzfqlb60g",
-                "https://www.livehdtv.com/embed/qvc/",
-                "http://tvembed.eu/embed/embed_tv.js",
-                "http://tvembed.eu/embed/embed_tv.js",
-                "http://tvembed.eu/embed/embed_tv.js"
+                "https://www.livehdtv.com/embed/qvc/"
             ],
             "m3u8_url": [
                 "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/master.m3u8",
