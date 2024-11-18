@@ -31987,18 +31987,39 @@
         "país": "ua",
         "categoría": "news"
     },
-    "set-inews": {
-        "nombre": "三立iNEWS",
+    "营山电视台-noticias": {
+        "nombre": "营山电视台 Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCoNYj9OFHZn3ACmmeRCPwbA",
+            "iframe_url": [
+                "https://yeslivetv.com/channels/rthk34/"
+            ],
+            "m3u8_url": [
+                "http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd"
+            ],
+            "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://live.setn.com/",
+        "sitio_oficial": "https://gitee.com/baocaien/tvbox",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "贵南综合-noticias": {
+        "nombre": "贵南综合 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://gitee.com/baocaien/tvbox",
         "país": "cn",
         "categoría": "news"
     },
@@ -32017,28 +32038,13 @@
         "país": "cn",
         "categoría": "news"
     },
-    "ctstw": {
-        "nombre": "華視新聞 CH52",
-        "logo": "https://graph.facebook.com/TBSCTS/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCDCJyLpbfgeVE9iZiEam-Kg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://news.cts.com.tw/",
-        "país": "cn",
-        "categoría": "news"
-    },
     "cgtn": {
         "nombre": "CGTN",
         "logo": "",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://live.cgtn.com/1000/prog_index.m3u8",
+                "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
                 "https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8"
             ],
             "yt_id": "UCgrNz-aDmcr2uuto8_DL2jg",
@@ -32050,11 +32056,33 @@
         "país": "cn",
         "categoría": "news"
     },
+    "CGTN-noticias": {
+        "nombre": "CGTNTV Noticias INGLES",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/zh/",
+        "país": "cn",
+        "categoría": "news"
+    },
     "ftvnews53": {
         "nombre": "民視新聞網 Formosa TV News network",
         "logo": "https://graph.facebook.com/ftvnews53/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://embed.4gtv.tv/ftvnews/FTVNews.html",
+                "https://embed.4gtv.tv/ftvnews/ftvnews-FTTV.html",
+                "https://embed.4gtv.tv/ftvnews/ftvnews-FTV.html",
+                "https://embed.4gtv.tv/ftvnews/ftvnews-FMTV.html"
+            ],
             "m3u8_url": [],
             "yt_id": "UC2VmWn8dAqkzlQqvy02E1PA",
             "yt_embed": "",
@@ -32088,10 +32116,13 @@
         "nombre": "NBS",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://www.nbs.cn/live/"
+            ],
             "m3u8_url": [
                 "http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8",
-                "http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8"
+                "http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8",
+                "https://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -32099,6 +32130,164 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.nbs.cn/live/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "gstv-noticias": {
+        "nombre": "GSTV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.gstv.com.cn/zxc.jhtml"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/ct/CN.html",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "zjstv-noticias": {
+        "nombre": "Zjstv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://yeslivetv.com/channels/zjstv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://yeslivetv.com/channels/zjstv/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "Dragon-noticias": {
+        "nombre": "Dragon Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://live.kankanews.com/huikan/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.kankanews.com/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "rthk34-noticias": {
+        "nombre": "Rthk34 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://yeslivetv.com/channels/rthk34/"
+            ],
+            "m3u8_url": [
+                "https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://yeslivetv.com/channels/rthk34/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "breadradio-noticias": {
+        "nombre": "Bread Radio Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+                "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.breadradioonline.com/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "Shangyu-现场直播-noticias": {
+        "nombre": "Shangyu TV (CN) - 现场直播 Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/ct/CN.html",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "BSTV-noticias": {
+        "nombre": "BSTV Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://yeslivetv.com/channels/bstv/"
+            ],
+            "m3u8_url": [
+                "https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://yeslivetv.com/channels/bread-tv/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "videoland-sports-noticias": {
+        "nombre": "Videoland Sports Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://yeslivetv.com/channels/videoland-sports/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://yeslivetv.com/channels/videoland-sports/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "hunantv-noticias": {
+        "nombre": "Hunantv Noticias",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://yeslivetv.com/channels/hunantv/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/ct/CN.html",
         "país": "cn",
         "categoría": "news"
     },
@@ -32121,12 +32310,12 @@
     },
     "mgtv-noticias": {
         "nombre": "MGTV Noticias",
-        "logo": "",
+        "logo": "//img.mgtv.com/imgotv-channel/6.1.8/pcweb-head/ios-fav.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://padws.qing.mgtv.com/nn_live/nn_x64/dWlwPTE3OS42LjE2OC4xMTMmcWlkPSZzPWY3YzFjZmI5ODY4N2JmODE0MmUyZDM0NGFjODI0OWM2JmVzPTE3MjU0MTAyNDUmdXVpZD02YjJiMmM5ZDAxNjkxYjJjMzdjZjdmNjQwYTkwMzVlZi1iMzA2YTg3MSZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYKTMPP360.m3u8?_t=1725381446021&_t=1725381477294"
+            "iframe_url": [
+                "https://live.mgtv.com/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -32136,31 +32325,32 @@
         "país": "cn",
         "categoría": "news"
     },
-    "CGTNTV-noticias": {
-        "nombre": "CGTNTV Noticias",
+    "Dianzhang-现场直播-noticias": {
+        "nombre": "Dianzhang TV (CN) - 现场直播 Noticias",
         "logo": "",
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://news.cgtn.com/resource/live/english/cgtn-news.m3u8"
+                "https://volcanopull.aniu.tv/live/aniu2/index.m3u8",
+                "https://schautv.mdn.ors.at/live/eds/kuriertv_hd/hls_nodrm/kuriertv_hd-nodrm.m3u8?guid=c5bca0ef-7394-4b87-a48b-b625dfae0101"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.coolstreaming.us/zh/",
+        "sitio_oficial": "https://tv.cctv.com/live/cctv1/",
         "país": "cn",
         "categoría": "news"
     },
-    "cctv1-noticias": {
-        "nombre": "cctv1 Noticias",
+    "cctv-noticias": {
+        "nombre": "cctv Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1/index.m3u8?b=200-2100"
+            "iframe_url": [
+                "https://tv.cctv.com/live/cctvjilu/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -32191,10 +32381,10 @@
         "nombre": "GDTV Noticias",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=1f95b9d53529d8e5a07bc3a603f4317d-OTBudnLkTQMcnc9yTUUxWXcPXYd6B%2FZhcsjJ3BCtg5ZVIMVvWwFAxvaZHeb4WZ5LRuY4F2kC6f5%2FzWUJK4KXJxcY%2BjM%2F%2BkLhTrH7KzMmBuUVkUiB90Tzu%2Bty5frx4Z%2BAGGgk3L9PhUVB4wSYSsYgOp6lJWBStZzKvo2v5oMvdjXatb06ImurmqhHkjK%2FM4%2FMcVWTN7EKXan%2BUgJFm34vPUdguKNJuWb9DNp9%2FevkCQynZEov%2BiigAlQ7hWp%2BgRCTaGpJAq4JjXyjaPlEKLBa0BBVnsUahvPQNGTAQp1HC7cKgcmns1l0xCIlAVNuOQzflDFgTc29OGvV7H3VjBh%2B5%2Ft2cdoa3PfaNOpJuAbq%2FHuic1Ugnb45%2FAkrjsia3n0GzU908%2F1qzFSYZfmKh%2BMygQ%3D%3D"
+            "iframe_url": [
+                "https://www.gdtv.cn/tvChannelDetail/43"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -32218,23 +32408,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.coolstreaming.us/channelnew/zh/74572/BreadTV.html",
-        "país": "cn",
-        "categoría": "news"
-    },
-    "nbs-noticias": {
-        "nombre": "nbs Noticias",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.nbs.cn/live/",
         "país": "cn",
         "categoría": "news"
     },
@@ -32335,6 +32508,38 @@
             "twitch_id": "eswntv"
         },
         "sitio_oficial": "https://www.twitch.tv/eswntv",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "set-inews": {
+        "nombre": "三立iNEWS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCoNYj9OFHZn3ACmmeRCPwbA",
+            "yt_embed": "pF507BLtbqU",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.setn.com/",
+        "país": "cn",
+        "categoría": "news"
+    },
+    "ctstw": {
+        "nombre": "華視新聞 CH52",
+        "logo": "https://graph.facebook.com/TBSCTS/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/wcQGjR5Ll9o?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCDCJyLpbfgeVE9iZiEam-Kg",
+            "yt_embed": "wM0g8EoUZ_E?",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://news.cts.com.tw/",
         "país": "cn",
         "categoría": "news"
     },
