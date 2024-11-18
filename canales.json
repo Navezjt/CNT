@@ -30030,6 +30030,160 @@
         "país": "us",
         "categoría": "news"
     },
+    "FOX-Weather": {
+        "nombre": "FOX Weather",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC1FbPiXx59_ltnFVx7IxWow",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@Foxweather/streams",
+        "país": "us",
+        "categoría": "news"
+    },
+    "News-12": {
+        "nombre": "News 12",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCFhbonoFqxg2b9FMRzYAwog",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@news12",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Shout-Studios": {
+        "nombre": "Shout! Studios",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCpHaAKu74UHvcYCi2g_PvBQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@ShoutStudios",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Chisme-No-Like": {
+        "nombre": "Chisme No Like",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC5qgk9xFZhXjzvCRcZn8KqQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "us",
+        "categoría": "news"
+    },
+    "YoTube-Radio": {
+        "nombre": "YoTube Radio",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCeQQWlUVno4fE_B_AWECkYg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@YoTubeRadio",
+        "país": "us",
+        "categoría": "news"
+    },
+    "RCC-MEDIA": {
+        "nombre": "RCC MEDIA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://dominicanplayers.com/video-player/1589/0"
+            ],
+            "m3u8_url": [
+                "https://ss5.domint.net:3032/vozz_str/vozzmedia/chunklist_w1152599309.m3u8"
+            ],
+            "yt_id": "UCviHC4F7P1E0KK5GPPkh9Dw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@RCCMEDIA",
+        "país": "us",
+        "categoría": "news"
+    },
+    "NUEVA-EPS": {
+        "nombre": "NUEVA EPS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCyxIPlnHog5L4MAZ5K5xjBQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Hosanna Radio": {
+        "nombre": "",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCQ0HFRHNA3Fubn8k25h6cmA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@Hosannaradio947",
+        "país": "us",
+        "categoría": "news"
+    },
+    "ATV-DEPORTES-pe": {
+        "nombre": "ATV DEPORTES PE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCMAgnrMC0TDKKapL9F2sukA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@deportes-atv",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Radio Omasuyo": {
+        "nombre": "Radio Omasuyo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCoqzQn0Q-evPSQ9MN7Ug_EQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/@radioomasuyo6552",
+        "país": "us",
+        "categoría": "news"
+    },
     "fox5-atlanta": {
         "nombre": "Fox5 Atlanta",
         "logo": "",
