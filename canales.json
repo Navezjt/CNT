@@ -16704,14 +16704,153 @@
         "país": "pe",
         "categoría": "news"
     },
+    "prima-sport-1": {
+        "nombre": "Prima Sport 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvonline123.com/embed/prima-sport-1",
+                "https://www.tvonline123.com/epg/prima-sport-1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-sport-1",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "prima-sport-3": {
+        "nombre": "Prima Sport 3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvonline123.com/embed/prima-sport-3",
+                "https://www.tvonline123.com/epg/prima-sport-3" 
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-sport-3",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "prima-tv": {
+        "nombre": "Prima TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvonline123.com/embed/prima-tv",
+                "https://www.tvonline123.com/epg/prima-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=prima-tv",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "pro-arena": {
+        "nombre": "Vezi Pro Arena HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.tvonline123.com/embed/pro-arena",
+                "https://www.tvonline123.com/epg/pro-arena"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvonline123.com/tvlive/?url=pro-arena",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "digi-sport-1": {
+        "nombre": "Digi Sport 1",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvcanale.live/embed.php?id=62"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvron.org/digi-sport-1/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "digi-sport-2": {
+        "nombre": "Digi Sport 2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://tvcanale.live/embed.php?id=63"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvron.org/digi-sport-2/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "digi-24": {
+        "nombre": "Digi 24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dai.google.com/linear/hls/pa/event/OQfdjUhHSDSlb1fJVzehsQ/stream/55a238b7-ab0e-4b5d-b289-64a6b2b089e5:SCL/variant/328325f5494203c31438adcc52e30a46/bandwidth/1477770.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.digi24.ro/live/digi24",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "observatornews": {
+        "nombre": "Observatornews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8",
+                "https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews_1400k.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://observatornews.ro/live/",
+        "país": "ro",
+        "categoría": "news"
+    },
     "romance-channel": {
         "nombre": "Romance Channel",
         "logo": "",
         "señales": {
             "iframe_url": [],
-            "m3u8_url": [
-                "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/9f59a178-b6e7-4867-bc3c-5aa943241034/1.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "UCcLzwVXQXSFlWYzhnYTaWqw",
             "yt_embed": "o2KD3PgMSIs?",
             "yt_playlist": "",
