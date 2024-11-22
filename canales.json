@@ -39934,9 +39934,7 @@
         "nombre": "Kpoptv Live",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
-            "iframe_url": [
-                "https://kpoptv.live/play/player.php"
-            ],
+            "iframe_url": [],
             "m3u8_url": [
                 "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
                 "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
