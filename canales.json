@@ -39215,6 +39215,7 @@
                 "https://kpoptv.live/play/player.php"
             ],
             "m3u8_url": [
+                "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/chunks.m3u8",
                 "https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8"
             ],
             "yt_id": "UCoRXPcv8XK5fAplLbk9PTww",
