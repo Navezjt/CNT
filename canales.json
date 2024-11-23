@@ -35684,14 +35684,51 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://s183.glaz.tv:8082/liveg/domkino.stream/chunks.m3u8?nimblesessionid=96214849&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjIvMjAyNCA5OjU3OjU4IFBNJmhhc2hfdmFsdWU9Q29QdURSWFVPVy9zOXRpMFl2cTZoQT09JnZhbGlkbWludXRlcz0yMDA="
+                "https://videos-cloudfront-usp.jwpsrv.com/6741bdfb_ff0a075972c89714b10dc5c98e89ab3138615997/site/cGlKNUnj/media/JcCg0zir/version/40xOEzCa/manifest.ism/manifest-audio_eng=112008-video_eng=302056.m3u8",
+                "https://a5.pokaz.me/iGx6LyK6NNeWNJ1kozhyUg/186/1732338052/index.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://glaz.tv/online-tv/dom-kino",
+        "sitio_oficial": "https://telepedia.fandom.com/ru/wiki/%D0%94%D0%BE%D0%BC_%D0%BA%D0%B8%D0%BD%D0%BE",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "dom-kino2-tv": {
+        "nombre": "Dom Kino2 О канале Дом Кино",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream1.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+                "https://videos-cloudfront-usp.jwpsrv.com/6741bdfb_ff0a075972c89714b10dc5c98e89ab3138615997/site/cGlKNUnj/media/JcCg0zir/version/40xOEzCa/manifest.ism/manifest-audio_eng=112008-video_eng=302056.m3u8",
+                "https://a5.pokaz.me/iGx6LyK6NNeWNJ1kozhyUg/186/1732338052/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://xittv.net/domkino.html",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "Кино-ТВ": {
+        "nombre": "Кино ТВ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://31.148.48.15/Kino_TV/tracks-v1a1/mono.m3u8?token=test"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://tvset.sbs/online/kino-tv",
         "país": "ru",
         "categoría": "news"
     },
