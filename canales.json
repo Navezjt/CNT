@@ -30029,6 +30029,23 @@
         "país": "us",
         "categoría": "Busines"
     },
+    "cmc-music-usa": {
+        "nombre": "CMC ALIFORNIA Music Channel",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8?DEVICE_ID=_DEVICE_UUID_&device[dnt]=&us_privacy=&coppa=&app_bundle=&app_name=CMC California Music Channel&app_store_url=&platform="
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cmctv.com/cmc/",
+        "país": "us",
+        "categoría": "news"
+    },
     "30a-music-usa": {
         "nombre": "30a Music Usa",
         "logo": "",
@@ -41760,6 +41777,148 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://news.ustv.com.tw/",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "EF运通": {
+        "nombre": "3EF运通 Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "Viva-美好購物2台": {
+        "nombre": "Viva 美好購物2台 Business",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/ChiSheng9iptv",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "EF运通": {
+        "nombre": "EF运通",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "人间卫视": {
+        "nombre": "人间卫视",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "大爱1台": {
+        "nombre": "大爱1台",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/?rel=0&enablejsapi=1&origin=https%3A%2F%2Fm.daai.tv&widgetid=1",
+                "https://m.daai.tv/v2/mp4/blank.m4v"
+            ],
+            "m3u8_url": [
+                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8",
+                "https://pulltv1.wanfudaluye.com/live/tv1.m3u8",
+                "https://pulltv2.wanfudaluye.com/live/tv1.m3u8",
+                "https://pulltv2.wanfudaluye.com/live/tv2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://m.daai.tv/v2/live/ch3",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "大爱1台": {
+        "nombre": "大爱1台",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/tvbox-/blob/main/zbyfx20230107.txt",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "P-TAIWAN": {
+        "nombre": "P TAIWAN",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV92.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/ChiSheng9iptv/blob/master/TV92.m3u8",
+        "país": "tw",
+        "categoría": "news"
+    },
+    "LIVE-NEWS": {
+        "nombre": "LIVE NEWS2",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://github.com/Navezjt/ChiSheng9iptv/raw/refs/heads/master/TV90.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/Navezjt/ChiSheng9iptv/blob/master/TV90.m3u8",
         "país": "tw",
         "categoría": "news"
     },
