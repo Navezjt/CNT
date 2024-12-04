@@ -30334,8 +30334,8 @@
         "país": "us",
         "categoría": "news"
     },
-    "Hosanna Radio": {
-        "nombre": "",
+    "Hosanna-Radio": {
+        "nombre": "Hosanna Radio",
         "logo": "",
         "señales": {
             "iframe_url": [],
@@ -30364,7 +30364,7 @@
         "país": "us",
         "categoría": "news"
     },
-    "Radio Omasuyo": {
+    "Radio-Omasuyo": {
         "nombre": "Radio Omasuyo",
         "logo": "",
         "señales": {
@@ -32145,6 +32145,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.livehdtv.com/wdr-fernsehen/",
+        "país": "de",
+        "categoría": "news"
+    },
+    "kika": {
+        "nombre": "KIKA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.kika.de/live/live-100",
         "país": "de",
         "categoría": "news"
     },
@@ -40025,7 +40042,7 @@
         "categoría": "news"
     },
     "HLQS-DTV": {
-        "nombre": "HLQS-DTV",
+        "nombre": "HLQS DTV",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
         "señales": {
             "iframe_url": [
@@ -40528,25 +40545,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/Navezjt/iptv-cutter",
-        "país": "kr",
-        "categoría": "news"
-    },
-    "-tv": {
-        "nombre": " Tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                ""
-            ],
-            "m3u8_url": [
-                ""
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "",
         "país": "kr",
         "categoría": "news"
     },
