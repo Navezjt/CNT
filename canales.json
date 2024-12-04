@@ -29047,9 +29047,11 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
                 "https://www.livehdtv.com/embed/ch92/"
             ],
             "m3u8_url": [
+                "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
                 "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad."
             ],
@@ -29067,17 +29069,81 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://thedaddy.to/embed/stream-767.php",
+                "https://epctv.com/stream/CBS-Stream_3.html",
+                "http://www.parsatv.com/embed.php?name=CBS-News&auto=false",
                 "https://www.cbs.com/live-tv/stream/cbs-news/"
             ],
             "m3u8_url": [
-                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/2aaf2f8c-0d98-41df-9989-36541b54a394:SCL/variant/df9d5f9fc8201f0878fd4a77927eea3b/bandwidth/3338376.m3u8?CMCD=mtp%3D21400%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2296350e91-187d-4621-8b56-f6e96b133980%22"
+                "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/74b11949-6f25-4212-8a36-e77f7b11c7bc:SCL/variant/c5978f1497cc006085b1a374230e90d9/bandwidth/1872292.m3u8"
             ],
             "yt_id": "UCBi2mrWuNuyYy4gbM6fU18Q",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.cbs.com/",
+        "sitio_oficial": "https://iteleflix.com/ver/cbs-news-usa-en-directo-online/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "cbsnews": {
+        "nombre": "CBSNews",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://thedaddy.to/embed/stream-767.php",
+                "https://epctv.com/stream/CBS-Stream_3.html",
+                "https://www.youtube.com/embed/0LDpOEhJXdw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
+                "https://www.livehdtv.com/embed/cbsn/"
+            ],
+            "m3u8_url": [
+                "https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8",
+                "https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/74b11949-6f25-4212-8a36-e77f7b11c7bc:SCL/variant/c5978f1497cc006085b1a374230e90d9/bandwidth/1872292.m3u8"
+            ],
+            "yt_id": "UC8p1vwvWtl6T73JiExfWs1g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cbsnews.com/live/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "cbs8-news": {
+        "nombre": "CBS8 News",
+        "logo": "https://media.cbs8.com/assets/KFMB/images/e4fca405-db6c-4ee6-991a-f249077ce56b/e4fca405-db6c-4ee6-991a-f249077ce56b_1920x1080.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://media.cbs8.com/embeds/video/responsive/509-97bec85d-4bc0-4358-b891-53b4975d6958/iframe"
+            ],
+            "m3u8_url": [
+                "https://video.tegnaone.com/kfmb/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KFMB-Production/live/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cbs8.com/watch",
+        "país": "us",
+        "categoría": "news"
+    },
+    "cbs58-news": {
+        "nombre": "CBS58 News",
+        "logo": "https://newscdn2.weigelbroadcasting.com/j9kqz-1579122951-70-image_feeds-58%20News%20Live.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video.cbs58.com/live/wdjt/live1/live1.m3u8"
+            ],
+            "yt_id": "UCDI-R_ASsdHUo4zQYKsFx3g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cbs58.com/stream/live-stream-1",
         "país": "us",
         "categoría": "news"
     },
@@ -29155,6 +29221,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "http://www.parsatv.com/embed.php?name=Cheddar-News&auto=false",
                 "https://www.livehdtv.com/embed/cheddar-news/"
             ],
             "m3u8_url": [
@@ -29166,24 +29233,6 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://cheddar.com/live",
-        "país": "us",
-        "categoría": "news"
-    },
-    "cbsn": {
-        "nombre": "CBSN",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/0LDpOEhJXdw?frameborder=0&mute=1&autoplay=1&amp;rel=0&amp;showinfo=0",
-                "https://www.livehdtv.com/embed/cbsn/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UC8p1vwvWtl6T73JiExfWs1g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.cbsnews.com/live/",
         "país": "us",
         "categoría": "news"
     },
