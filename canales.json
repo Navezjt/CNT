@@ -21250,6 +21250,177 @@
         "país": "pk",
         "categoría": "news"
     },
+    "vsh-news": {
+        "nombre": "VSH News Nonton langsung",
+        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/vsh-news.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULF8Y2g1wCIU3zUB6WGnEwtYg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UC8Y2g1wCIU3zUB6WGnEwtYg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/2342-vsh-news.html",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "raah-tv": {
+        "nombre": "",
+        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/raah-tv.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=&list=UULFdadSJuBe7q6Y03MAlVDyhA&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCdadSJuBe7q6Y03MAlVDyhA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/2295-raah-tv.html",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "madani-channel": {
+        "nombre": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/madani-channel.webp",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCuUocUAnPTUkwGtC8GuNKow&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCuUocUAnPTUkwGtC8GuNKow",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/559-madani-channel.html",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "ptvGlobal": {
+        "nombre": "PtvGlobal",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ptvstream1.nayatel.com:8096/transcoder/ptvglobaltrc_source/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ptv.com.pk/ptvGlobal/globallive",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "mjunoon": {
+        "nombre": "Mjunoon",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn5.mjunoon.tv:8087/web/Madni-121/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDk6NDI6MzMgUE0maGFzaF92YWx1ZT16TitmaTNiMUE0djlzWFhPTDJlZ3JBPT0mdmFsaWRtaW51dGVzPTE="
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mjunoon.tv/watch-live-tv-channels",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "aaj-news": {
+        "nombre": "Aaj News",
+        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/aaj-tv.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCgBAPAcLsh_MAPvJprIz89w&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCgBAPAcLsh_MAPvJprIz89w",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/2352-aaj-news.html",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "geo": {
+        "nombre": "GEOTV",
+        "logo": "https://www.geo.tv/assets/front/images/gn-icons/57x57.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8",
+                "https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://live.geo.tv/",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "venus-tv": {
+        "nombre": "Venus TV",
+        "logo": "https://trefoil.tv/uploads/posts/2023-10/thumbs/venus-hd.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCpV-fDDudZ8i8_incLt3mqw&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCpV-fDDudZ8i8_incLt3mqw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://trefoil.tv/3013-venus-tv.html",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "dawn-news": {
+        "nombre": "Dawn News",
+        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/dawnnews.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/live_stream?channel=UCaxR-D8FjZ-2otbU0_Y2grg&autoplay=1&rel=0&controls=1&disablekb=0&playsinline=1&cc_load_policy=1&cc_lang_pref=auto&iv_load_policy=3&modestbranding=1&enablejsapi=1&origin=https://live-tv-channels.org"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCaxR-D8FjZ-2otbU0_Y2grg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/2348-dawn-news.html",
+        "país": "pk",
+        "categoría": "news"
+    },
+    "channel-5": {
+        "nombre": "Channel Five Pakistan",
+        "logo": "https://id.trefoil.tv/uploads/posts/2023-11/thumbs/channel-five-pakistan.webp",
+        "señales": {
+            "iframe_url": [
+                "https://www.mjunoon.tv/embedplayer/channel-five-live.html"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/2893-channel-5.html",
+        "país": "pk",
+        "categoría": "news"
+    },
     "palestine-HD-tv": {
         "nombre": "Palestine HD",
         "logo": "https://www.appcreator24.com/srv/imgs/seccs/28830163_ico.png?ts=1698903049",
@@ -27140,6 +27311,251 @@
         },
         "sitio_oficial": "https://www.twitch.tv/laverdadtvhn",
         "país": "hn",
+        "categoría": "news"
+    },
+    "channel-k": {
+        "nombre": "Channel K",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_low/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://id.trefoil.tv/2721-channel-k.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "channel9": {
+        "nombre": "Channel9",
+        "logo": "assets/templates/basic/icon2020/apple-touch-icon.png",
+        "señales": {
+            "iframe_url": [
+                "https://www.myanmartvchannels.com/channel9.html#SD%201"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/channel9.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "channel-7": {
+        "nombre": "Channel 7",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5a13fe32ef748.streamlock.net/mmplay/channel7/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjAzOjI2IFBNJmhhc2hfdmFsdWU9ZXc4SDVuclU2b2dnd2VNYng0QjZQZz09JnZhbGlkbWludXRlcz0xMCZpZD00NTEyNTI0NzEz"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/channel-7.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-HD": {
+        "nombre": "MRTV HD",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "livestreamingmrtv"
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/myanmar/myanmar-007.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "Myanmar-International-TV": {
+        "nombre": "Myanmar International TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mitvlivestream"
+        },
+        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-News": {
+        "nombre": "MRTV News",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mrtvnewslive"
+        },
+        "sitio_oficial": "https://www.squidtv.net/asia/myanmar/myanmar-008.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-FARMERS": {
+        "nombre": "MRTV FARMERS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "channel_mrtv"
+        },
+        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-SPORTS": {
+        "nombre": "MRTV SPORTS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "arrkasarrchannel"
+        },
+        "sitio_oficial": "",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-4": {
+        "nombre": "MRTV 4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.pyoneplay.com/livetv/01gt74kf63194hkch7pbsp46he",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "mizzimanewsTV": {
+        "nombre": "mizzimanewsTV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/-TStOFqZwHo?enablejsapi=1&autoplay=0&cc_load_policy=0&cc_lang_pref=&iv_load_policy=1&loop=0&modestbranding=1&rel=1&fs=1&playsinline=1&autohide=2&theme=dark&color=red&controls=1&"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCk9f0cLiMmtchQySOogzoig",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "MRTV-NRC": {
+        "nombre": "MRTV NRC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "mrtvfarmers"
+        },
+        "sitio_oficial": "https://mrtv.gov.mm/mm/live-stream",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "mrtv-entertainment": {
+        "nombre": "Mrtv Entertainment",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w192916607.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjM5OjQ3IFBNJmhhc2hfdmFsdWU9QTVZY0tCQUJUUzQvYlZ0R2JONXZudz09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/mrtv-entertainment.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "DVB": {
+        "nombre": "DVB",
+        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/dvb-120x120-58e.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live-stream.dvb.no/hls/stream_mid/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/dvb.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "education-channel": {
+        "nombre": "Education Channel",
+        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/education-120x120-88e.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1932121421.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjQ0OjE3IFBNJmhhc2hfdmFsdWU9WEZrSWgvZW5aNWRHNENobS80MFhmQT09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/education-channel.html",
+        "país": "mm",
+        "categoría": "news"
+    },
+    "mntv-channel": {
+        "nombre": "Mntv Channel",
+        "logo": "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mntv-120x120-dda.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_mobile/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDI0IDEwOjQ3OjU1IFBNJmhhc2hfdmFsdWU9Qk9YakhQdG9ON0xaVjA5MWhRMUNuZz09JnZhbGlkbWludXRlcz0xMCZpZD0xNDQ0ODM3MTQx",
+                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_lowest/index.m3u8",
+                "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_standard/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.myanmartvchannels.com/mntv-channel.html",
+        "país": "mm",
         "categoría": "news"
     },
     "imagentv": {
