@@ -29723,11 +29723,147 @@
                 "https://telemundolive.akamaized.net/hls/live/2093200/NEWS104/master_main104.m3u8"
             ],
             "yt_id": "UCRwA1NUcUnwsly35ikGhp0A",
-            "yt_embed": "RwWqZDxgRjw?",
+            "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": "txl_092l"
         },
         "sitio_oficial": "https://www.telemundo.com/noticias",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo52-California": {
+        "nombre": "Telemundo52 California",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/b52758b7-bb67-43f4-bc70-b3a5aee7af5f/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundo52.com/ver/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo52-San-Diego": {
+        "nombre": "Telemundo52 San Diego",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/f2b44036-a80e-4479-9287-079dabebec14/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundo20.com/ver/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo60-San-Antonio": {
+        "nombre": "Telemundo60 San Antonio TEXAS",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/9239b309-0fa2-4f43-953b-ff894707055e/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundosanantonio.com/ver/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo-Washington-DC": {
+        "nombre": "Telemundo Washington DC",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/e39f3d81-44f2-4050-8856-1828cc81f338/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundosanantonio.com/ver/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo51-Maiami-Florida": {
+        "nombre": "Telemundo51 Maiami-Florida",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/66ceb537-cc35-42ef-8555-5a21193f86a1/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundo51.com/ver/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo31-Orlando-Florida": {
+        "nombre": "Telemundo31 Orlando Florida",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/9157d636-e659-4960-b5df-6696b6e1a3b7/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundo31.com/ver/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo47-NewYork-Noreste": {
+        "nombre": "Telemundo47 NEWYORK NORESTE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/68439e12-ef1d-4f6f-8dae-7719e0bc23aa/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundo47.com/ver/",
+        "país": "us",
+        "categoría": "news"
+    },
+    "Telemundo-dallas-Noreste": {
+        "nombre": "Telemundo DallasFT Worth",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/d232841e-9d65-49dc-b98c-9540195fcee7/2.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundodallas.com/ver/",
         "país": "us",
         "categoría": "news"
     },
