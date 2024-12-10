@@ -29867,6 +29867,23 @@
         "país": "us",
         "categoría": "news"
     },
+    "Telemundo-Laredo": {
+        "nombre": "Telemundo Laredo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=3ea08c47552045dfba445e7e93c2da1d"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.telemundolaredo.tv/en-vivo/",
+        "país": "us",
+        "categoría": "news"
+    },
     "abc13houston": {
         "nombre": "ABC13Houston",
         "logo": "https://graph.facebook.com/abc13Houston/picture?width=800&height=800",
@@ -29950,8 +29967,12 @@
         "nombre": "EVTV MIAMI",
         "logo": "https://graph.facebook.com/evtvmiami/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
+            "iframe_url": [
+                "https://ott.streann.com/inside-ad-ima?web=1&debug=true&btn_start=5&btn_text=Close&ad=https://pubads.g.doubleclick.net/gampad/live/ads?iu=/22290518902/evtv&description_url=https%3A%2F%2Fevtv.online&tfcd=0&npa=0&sz=640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=f85b860f-914a-e7ef-5a29-916b02aa00e2&vad_type=linear"
+            ],
+            "m3u8_url": [
+                "https://edge.streann.com/evtv1/evtv1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJleHAiOjE3MzM4ODQyMjEsInJpZCI6IjU5NWZiNGExOTczODA1MDExN2FhNDQyNyIsImtleSI6ImtleTEiLCJjaWQiOiI1YTU2M2JkZjJjZGMzMmQxNzRmOGU5OTUifQ.nT7nWyoqX3JprRvOh998iVE00-OeiwV35TfiLsThkiY"
+            ],
             "yt_id": "UCshe7-1A5MN_ArHsG_3V41g",
             "yt_embed": "lON8KX0FJcA?",
             "yt_playlist": "",
