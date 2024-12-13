@@ -40984,6 +40984,42 @@
         "país": "kr",
         "categoría": "music"
     },
+    "kpoptv1-live": {
+        "nombre": "KPOPTV1 NAVEZ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/kpop-tv-play",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "kpoptv2-live": {
+        "nombre": "KPOPTV2 NAVEZ",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://kpoptv.htforum.net/play/player.php"
+            ],
+            "m3u8_url": [
+                "https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.htforum.net/",
+        "país": "kr",
+        "categoría": "news"
+    },
     "kbs-world2": {
         "nombre": "KBS WORLD2",
         "logo": "https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",
@@ -41179,6 +41215,184 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://github.com/Navezjt/iptv-cutter",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "mnet-live": {
+        "nombre": "Mnet",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://everylive.space/live/mnet/livestream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.cc/channel/Mnet/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "tvn-live": {
+        "nombre": "TVN Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://everylive.space/live/tvn/livestream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.cc/channel/tvN/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "JTBC-live": {
+        "nombre": "JTBC Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://everylive.space/live/jtbc/livestream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.cc/channel/JTBC/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "SBS-live": {
+        "nombre": "SBS Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.cc/channel/SBS/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "KBS1-live": {
+        "nombre": "KBS1 Live",
+        "logo": "https://padmin.static.kbs.co.kr/live/2018/10/11/1539237809933_114600.png",
+        "señales": {
+            "iframe_url": [
+                "https://cfpwwwapi.kbs.co.kr/api/v1/landing/live/channel_code/11"
+            ],
+            "m3u8_url": [
+                "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Expires=1734296264&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLzF0dl8zLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQyOTYyNjR9fX1dfQ__&Signature=ikrZDCQmBblOMNhWc-7kaNE3DAi3F6~NNtPGduheaQQtuaiMIws1I6iL6EOEymtnHoPWTjSOmUlwrlOKnEj6Rciy-85BFdFiYCE~ZpT75f93gefIeZ9YmOzTKXo1zBwity9QEfwCNvZGModONaWTVefg6h693swPt82LYAdtuofE7NzDRE3gGfWyj2lRIvNj7WqqHxEiCwTeDhpayGzpAmgk0aXQXMK1VpgfM98K516QMhfaurZtWXqw69uGzJMqmepTlVOJ3Lxo7qiDbX0AsMgamv9oKi9I~DB8Mo2LZGIZVh8Ct53vg-J6EEY71lqUDDnkiGK1~H4~3OaiiNvjpQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.cc/channel/KBS1/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "MBC-live": {
+        "nombre": "MBC Live",
+        "logo": "/upload/vod/20211018-1/56707143eb0ce7cd489218738ff6b778.jpg",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.cc/channel/MBC/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "KBS2-live": {
+        "nombre": "KBS2 Live",
+        "logo": "/upload/vod/20211018-1/c6b2e0f7c8a06960b1e3073256fa20b4.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://cfpwwwapi.kbs.co.kr/api/v1/landing/live/channel_code/12"
+            ],
+            "m3u8_url": [
+                "https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Expires=1734296537&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLzJ0dl8xLm0zdTgiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3MzQyOTY1Mzd9fX1dfQ__&Signature=d-qqXWCLhCV7Qyelt0uvVNdyIzJ2r2gvpzAtO1Y1-Ft7rVR9OK7fTu09x2tGQp8NcwIbl-9OXjuIpF9SyYJw5cmI7mrgha7xwzylPAaFUC7Pkmv7783mDqJem0gp3dS9jgvLO3fCXmbpX6HkPmv1lY3wwdBL0N~YNxQLGLpA1kafF7uxOdNPazmnqc7ShBtvS3PRNxXk8ErcoBNLzNanesrp3fcntm4GXkm9mjPFe9hhXnICVvC5CaqH4L1sta5~gKQUczT~98-hTaOCvNXUC6vrBvQ1SeDKvaA1cn0ENTFZQUYNfmTyh1EwIucoYNC49T2xxFiMJDXn~bMrMrxhkg__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://kpoptv.cc/channel/KBS2/",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "MNEWS-live": {
+        "nombre": "MNEWS Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.linetv.tw/fast_channel/42?col_index=0&data_index=0&drama_id=104&group_type=&placement_index=0&placement_title=Channel%2024%E5%B0%8F%E6%99%82%E7%9B%B4%E6%92%AD%E4%B8%AD&schedule_type=LIVE&source=FAST&tv_id=42"
+            ],
+            "m3u8_url": [
+                "https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/04649035-20ec-4c22-ae41-fbb72fb6fb0b/1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.linetv.tw/?source=NAVBAR",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "yonhap-news-tv": {
+        "nombre": "YONHAP NEWS Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/6QZ_qc75ihU?autoplay=true"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCTHCOPwqNfZ0uiKOvFyhGwg",
+            "yt_embed": "6QZ_qc75ihU",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.cxtv.com.br/tv-ao-vivo/yonhap-news-tv",
+        "país": "kr",
+        "categoría": "news"
+    },
+    "YNN-live": {
+        "nombre": "YNN Live",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.linetv.tw/fast_channel/63?drama_id=105&placement_title=%E5%8F%B0%E7%81%A3%E7%94%9F%E6%B4%BB%E6%96%B0%E8%81%9E&schedule_type=LIVE&source=FAST_TV&source_drama_id=16596&source_schedule_type=MARATHON&source_tv_id=66&tv_id=63&type=link"
+            ],
+            "m3u8_url": [
+                "https://d2c3knvd5vy5p4.cloudfront.net/out/v1/f4b08c95eaa94ca4b27f95fe2147b5a3/index_1.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.linetv.tw/?source=NAVBAR",
         "país": "kr",
         "categoría": "news"
     },
