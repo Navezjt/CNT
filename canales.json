@@ -2704,7 +2704,8 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_(2022).svg/2048px-Canal_26_logo_(2022).svg.png",
         "señales": {
             "iframe_url": [
-                "https://www.youtube.com/embed/MS0QdZ5zvn8?enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
+                "https://www.youtube.com/embed/9fkB8aDdSik",
+                "https://www.youtube.com/embed/9fkB8aDdSik?enablejsapi=1&origin=https%3A%2F%2Fwww.canal26.com"
             ],
             "m3u8_url": [],
             "yt_id": "UCrpMfcQNog595v5gAS-oUsQ",
@@ -26162,6 +26163,23 @@
             "twitch_id": "latinamediostv"
         },
         "sitio_oficial": "https://www.twitch.tv/latinamediostv",
+        "país": "ve",
+        "categoría": "news"
+    },
+    "laiguana-TV": {
+        "nombre": "Laiguana TV",
+        "logo": "https://www.laiguana.tv/wp-content/uploads/2020/05/logo_movil.jpg",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/KL1-rVGg28A?enablejsapi=1&channel=UCCc2H9_eNnU7ucq2n7Sh3Rg&autoplay=0&cc_load_policy=0&iv_load_policy=3&modestbranding=1&fs=1&playsinline=1&controls=1&color=red&cc_lang_pref=&rel=0&autohide=2&theme=dark&"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCCc2H9_eNnU7ucq2n7Sh3Rg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.laiguana.tv/envivo/",
         "país": "ve",
         "categoría": "news"
     },
