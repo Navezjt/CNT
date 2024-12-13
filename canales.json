@@ -12998,15 +12998,7 @@
                 "https://fullchannels.online/canales.php?id=azteca-guate",
                 "https://1.deporte-libre.org/en-vivo-online/vamos/embed.php",
                 "https://1.deporte-libre.org/en-vivo-online/vamos/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php",
-                "https://1.deporte-libre.org/en-vivo-online/telemundo-usa/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/telemundo-usa/embed3.php",
-                "https://1.deporte-libre.org/en-vivo-online/nbc-universo-usa/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/nbc-universo-usa/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/vtv-plus/embed.php",
-                "https://1.deporte-libre.org/en-vivo-online/vtv-plus/embed2.php",
-                "https://1.deporte-libre.org/en-vivo-online/vtv-plus/embed3.php",
-                "https://1.deporte-libre.org/en-vivo-online/arena-premium/embed.php"
+                "https://1.deporte-libre.org/en-vivo-online/vamos/embed3.php"
             ],
             "m3u8_url": [],
             "yt_id": "",
@@ -29737,7 +29729,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/b52758b7-bb67-43f4-bc70-b3a5aee7af5f/2.m3u8"
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/803dd8d2-7ba1-4817-ba36-bd20ee1030fb/2.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29754,7 +29746,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/f2b44036-a80e-4479-9287-079dabebec14/2.m3u8"
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/dddd9d68-3187-4fd8-8751-089632f4d46f/2.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29771,7 +29763,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/9239b309-0fa2-4f43-953b-ff894707055e/2.m3u8"
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/4d7b26f6-1a9a-4e27-b476-ca884fd47b19/2.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29805,7 +29797,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/66ceb537-cc35-42ef-8555-5a21193f86a1/2.m3u8"
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/e57ee8c7-60eb-47fb-a825-9fea3fa6076f/2.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29856,7 +29848,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/d232841e-9d65-49dc-b98c-9540195fcee7/2.m3u8"
+                "https://d2kowtvrzzi7ps.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc/1970d384-8eb8-4d29-a443-2efbde2bdb07/2.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -29869,12 +29861,12 @@
     },
     "Telemundo-Laredo": {
         "nombre": "Telemundo Laredo",
-        "logo": "",
+        "logo": "//webpubcontent.gray.tv/gray/arc-fusion-assets/images/logo-off-site/kxnu.png?d=457",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://dai2-playlistserver.aws.syncbak.com/media.m3u8?bitrate=3659760&session=3ea08c47552045dfba445e7e93c2da1d"
+            "iframe_url": [
+                "https://www.telemundolaredo.tv/en-vivo/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
