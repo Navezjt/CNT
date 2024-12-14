@@ -36952,6 +36952,25 @@
         "país": "ru",
         "categoría": "news"
     },
+    "belarus-1-channel0": {
+        "nombre": "Belarus 1 Channel0 Беларусь 1",
+        "logo": "https://100tv.uz/images/logo-channel/belarus-1-tv-logo.png",
+        "señales": {
+            "iframe_url": [
+                "https://100tv.uz/assets/js/player/belarus-1-channel"
+            ],
+            "m3u8_url": [
+                "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w376756560_b5160000_sleng.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://100tv.uz/belarus-1-channel0",
+        "país": "ru",
+        "categoría": "news"
+    },
     "doktor-tv": {
         "nombre": "Doktor TV",
         "logo": "",
@@ -36990,10 +37009,10 @@
         "nombre": "Amedia Premium HD 2",
         "logo": "http://ip.viks.tv/posts/2016-12/1483178794_amedia-premium-hd.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/Z4h3EK5eilXE0zDP9u39DA/193/1732332339/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/497-amedia-premium-hd_2.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37007,10 +37026,10 @@
         "nombre": "Amedia HIT",
         "logo": "http://ip.viks.tv/posts/2022-02/1644961857_amediahit.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/6PwCLY9w_7Y6YVAI1AO2CA/183/1732332964/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/604-amedia-hit.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37024,11 +37043,10 @@
         "nombre": "ANI TV",
         "logo": "http://ip.viks.tv/posts/2017-01/1483551535_ani.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s2.viks.tv/8xXEnKtb3-O3Ov0o9WzWrA/190/1732332553/index.m3u8",
-                "https://s2.viks.tv/190/index.m3u8?k=1732332546p56i861i6i971S0d477bc98f9f6Od7c586c6b7fa46a561&rand=0.015308304431956854"
+            "iframe_url": [
+                "http://ip.viks.tv/505-ani.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37042,10 +37060,10 @@
         "nombre": "A1 TV",
         "logo": "http://ip.viks.tv/posts/2016-12/1483211618_amedia1.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/_ojW4-2BHSti3QSycBo2UQ/132/1732332686/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/499-a1.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37059,10 +37077,10 @@
         "nombre": "A2 TV",
         "logo": "http://ip.viks.tv/posts/2017-01/1483221728_amedia2.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/mDPmlWV-WP9p-K1EaJHu-Q/192/1732332762/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/500-a2.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37076,10 +37094,10 @@
         "nombre": "9 канал Израиль",
         "logo": "http://ip.viks.tv/posts/2017-07/1498928568_9_kanal_israel.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/Tei-szYV-itbEOJzGSUyVQ/185/1732333057/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/520-9-kanal-izrail_20.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37093,16 +37111,17 @@
         "nombre": "365 TB",
         "logo": "http://ip.viks.tv/posts/2018-12/1543637279_365.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/a9XflepEFIV3ElMsrvO9UQ/108/1732333200/index.m3u8"
+            "iframe_url": [
+                "https://100tv.uz/assets/js/player/360-tv",
+                "http://ip.viks.tv/443-365.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "http://ip.viks.tv/443-365.html",
+        "sitio_oficial": "https://100tv.uz/360-tv",
         "país": "ru",
         "categoría": "news"
     },
@@ -37110,10 +37129,10 @@
         "nombre": "Ren TV",
         "logo": "http://ip.viks.tv/posts/2018-12/1543637572_rentv.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/fDWX8CgLyr9qlpCQHd59wQ/543/1732330032/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/346-ren-tv_6.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37146,10 +37165,10 @@
         "nombre": "1000 Русское кино",
         "logo": "http://ip.viks.tv/posts/2016-04/1460667089_1000-russkoe-kino.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/WSIFcSf8yqAJFxOMCDN4gQ/139/1732333582/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/421-1000-russkoe-kino_14.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37163,10 +37182,10 @@
         "nombre": "1000 Action",
         "logo": "http://ip.viks.tv/posts/2016-04/1460666864_1000-action.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/XtW6-gjRXvSN4_dreEwxWg/138/1732333808/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/422-1000-action_9.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37180,10 +37199,10 @@
         "nombre": "1000 TV",
         "logo": "http://ip.viks.tv/posts/2016-04/1460666322_tv1000.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/lU0kL_xza1pKpzt87PG4NQ/137/1732333845/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/423-1000_15.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37197,10 +37216,10 @@
         "nombre": "RED TV",
         "logo": "http://ip.viks.tv/posts/2022-08/1659824669_red.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s2.viks.tv/bBgUTmAbRGn-h_3GjA8cHA/576/1732334000/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/105426-sony.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37214,10 +37233,10 @@
         "nombre": "BLACK TV",
         "logo": "http://ip.viks.tv/posts/2022-08/1659824880_black.png",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://s2.viks.tv/k58LS5fTkAZhhVBjG78Bbw/577/1732334098/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/622-sony-turbo_2.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37231,9 +37250,12 @@
         "nombre": "XXI TV",
         "logo": "http://ip.viks.tv/posts/2016-12/1483179391_tv_xxi.png",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "http://ip.viks.tv/498-tv-xxi.html"
+            ],
             "m3u8_url": [
-                "https://a5.pokaz.me/rDLeh0jVo39njueIcr30Bg/133/1732334157/index.m3u8"
+                "https://a5.pokaz.me/cdnQAX_3qSqkcowHiehX0g/133/1734209663/index.m3u8",
+                "https://a5.pokaz.me/133/index.m3u8?k=1734209616p51i861i6i971Sf9bed2cc637c8cf9cb55593cfa3eb86a&rand=0.38969542437869364"
             ],
             "yt_id": "",
             "yt_embed": "",
@@ -37248,10 +37270,10 @@
         "nombre": "Viasat Explorer TV",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://a5.pokaz.me/8Ln6BhhxHrH7-krMQF_z-w/109/1732334412/index.m3u8"
+            "iframe_url": [
+                "http://ip.viks.tv/386-viasat-explorer-tv.html"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -37354,18 +37376,39 @@
     },
     "channel-one": {
         "nombre": "Первый канал",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
+        "logo": "http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/first-channel-russia-logo_0.png",
         "señales": {
             "iframe_url": [
+                "https://static.1tv.ru/eump/embeds/public_live.html?interactive=yes&__paranja=yes&__location=http://tvin.su/&__dvr=yes",
                 "https://www.livehdtv.com/embed/channel-one/"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://stream2.cinerama.uz/1214/index.m3u8",
+                "https://stream1.cinerama.uz/1214/index.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
         "sitio_oficial": "https://www.livehdtv.com/channel-one/",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "channel-one-mas-one": {
+        "nombre": "Canal 1+1 UA TV",
+        "logo": "http://tvin.su/sites/default/files/sites/default/files/images/logo-channel/1_plus_1_ua_tv-logotip.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "http://tvin.su/players/wms.php?target=http://live1.trkcrimea.ru/1tvcrimea.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "http://tvin.su/view-tv-online/1-plus-1",
         "país": "ru",
         "categoría": "news"
     },
@@ -37403,6 +37446,23 @@
             "twitch_id": ""
         },
         "sitio_oficial": "http://www.freeintertv.com/view/id-3369/1-1-0-1",
+        "país": "ru",
+        "categoría": "news"
+    },
+    "КТК-Казахстан": {
+        "nombre": "КТК Казахстан (Russia)",
+        "logo": "https://100tv.uz/images/logo-channel/ktk-tv.png",
+        "señales": {
+            "iframe_url": [
+                "https://100tv.uz/assets/js/player/ktk-tv"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://100tv.uz/ktk-tv",
         "país": "ru",
         "categoría": "news"
     },
@@ -37558,6 +37618,7 @@
         "logo": "",
         "señales": {
             "iframe_url": [
+                "https://player.smotrim.ru/iframe/live/uid/d7fef212-df66-485d-9952-7eab82d7d51b/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/",
                 "https://player.smotrim.ru/iframe/live/id/63251/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_rtr/"
             ],
             "m3u8_url": [],
@@ -37570,20 +37631,22 @@
         "país": "ru",
         "categoría": "news"
     },
-    "Россия-1": {
-        "nombre": "Россия 1",
-        "logo": "",
+    "Россия-0": {
+        "nombre": "Россия",
+        "logo": "https://100tv.uz/images/logo-channel/tv-prodvizhenie.png",
         "señales": {
             "iframe_url": [
-                "https://player.smotrim.ru/iframe/live/id/63254/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r1/"
+                "https://100tv.uz/assets/js/player/tv-prodvizhenie"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://stream2.cinerama.uz/1020/tracks-v1a1/mono.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://smotrim.ru/live/63254",
+        "sitio_oficial": "https://100tv.uz/tv-prodvizhenie",
         "país": "ru",
         "categoría": "news"
     },
@@ -37595,7 +37658,7 @@
                 "https://player.smotrim.ru/iframe/live/id/21/showZoomBtn/false/isPlay/true/mute/true/sid/smotrim_r24/"
             ],
             "m3u8_url": [
-                "https://streaming.goodstream.cyou/live/30.m3u8"
+                "https://stream1.cinerama.uz/1021/tracks-v1a1/mono.m3u8"
             ],
             "yt_id": "",
             "yt_embed": "",
