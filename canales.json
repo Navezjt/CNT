@@ -13446,7 +13446,9 @@
                 "https://player.twitch.tv/?channel=americatv_envivo&parent=americatv_envivo",
                 "https://betzta.com/canales.php?stream=america"
             ],
-            "m3u8_url": [],
+            "m3u8_url": [
+                "https://live-zlr1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8"
+            ],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
