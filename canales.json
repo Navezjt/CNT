@@ -11040,6 +11040,210 @@
         "país": "es",
         "categoría": "news"
     },
+    "tac-12": {
+        "nombre": "TAC 12",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/tac-12-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "tvr-la-rioja": {
+        "nombre": "Tvr La Rioja",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "tvr-la-rioja": {
+        "nombre": "Tvr La Rioja",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/chunklist_w210507380.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/tvr-la-rioja-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-taronja-osona-i-moianes": {
+        "nombre": "Canal Taronja Osona i Moianes",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/canal-taronja-osona-i-moianes-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "tv-hellin": {
+        "nombre": "TV Hellin",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5940924978228.streamlock.net/directohellin/directohellin/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/tv-hellin-en-directo-online-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "onda-15-tv": {
+        "nombre": "Onda 15 TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8034/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/onda-15-tv-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "onda-algeciras-tv": {
+        "nombre": "Onda Algeciras TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/onda-algeciras-tv-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "el-toro-tv": {
+        "nombre": "El Toro TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/el-toro-tv-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "cadena-elite": {
+        "nombre": "Cadena Élite",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cloudvideo.servers10.com:8081/8004/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/cadena-elite-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "mirame-tv": {
+        "nombre": "Mírame TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/mirame-tv-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-coin": {
+        "nombre": "Canal Coín",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://canalcoin.garjim.es/hls/directo.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/canal-coin-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "urola-telebista": {
+        "nombre": "Urola Telebista",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2_360p/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://iteleflix.com/ver/urola-telebista-en-directo-online/",
+        "país": "es",
+        "categoría": "news"
+    },
     "comercio-tv-financiero": {
         "nombre": "Comercio TV Financiero",
         "logo": "",
