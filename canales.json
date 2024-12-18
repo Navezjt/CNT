@@ -12667,9 +12667,11 @@
         "nombre": "Radio San Borja Tv",
         "logo": "",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg"
+            ],
             "m3u8_url": [
-                "https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8",
+                "https://bradm.ax/build/202403/30/d853f825e47c181f6e4522144984d9b4ab69c6ac/index.html?mediaUrl=https%3A%2F%2Fcast.stre.live7.la%3A3168%2Flive%2Fsanborjatevelive.m3u8&duration=734.097415&splashImgUrl=https%3A%2F%2Fradiosanborjatv.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fflyer-radio-1024x576.jpg",
                 "https://cast.stre.live7.la:3168/live/sanborjatevelive.m3u8"
             ],
             "yt_id": "UCRdGjpVs7vnyDXcEs6W8hkA",
