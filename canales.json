@@ -7619,26 +7619,6 @@
         "país": "my",
         "categoría": "news"
     },
-    "comercio-tv-financiero": {
-        "nombre": "Comercio TV Financiero",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3450&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/comercio-tv"
-            ],
-            "m3u8_url": [
-                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccdd1a572d4a9003820&bpkio_sessionid=10c0f2f14-d562ae01-e007-4928-b8d6-c185210f5115&category=all&mm_sp",
-                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccd35b07bd52421c62a&bpkio_sessionid=10a0b12e45-8f873bcd-d2db-40e7-92ad-025798b60d2d&category=all&mm_sp"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.vivalivetv.com/channel/comercio-tv",
-        "país": "es",
-        "categoría": "news"
-    },
     "el-tiempo": {
         "nombre": "EL TIEMPO",
         "logo": "",
@@ -10649,6 +10629,798 @@
         },
         "sitio_oficial": "https://www.elahmad.com/tv/elmehwartv.htm",
         "país": "eg",
+        "categoría": "news"
+    },
+    "rtve": {
+        "nombre": "RTVE Noticias",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
+        "señales": {
+            "iframe_url": [
+                "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
+                "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
+                "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/"
+            ],
+            "m3u8_url": [
+                "https://ztnr.rtve.es/ztnr/1694255.m3u8",
+                "https://ztnr.rtve.es/ztnr/1688877.m3u8",
+                "https://ztnr.rtve.es/ztnr/1688885.m3u8"
+            ],
+            "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.rtve.es/noticias",
+        "país": "es",
+        "categoría": "news"
+    },
+    "television-de-galicia": {
+        "nombre": "Televisión de Galicia",
+        "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://agalega.gal/videos/76475-tvg"
+            ],
+            "m3u8_url": [
+                "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8"
+            ],
+            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://agalega.gal/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "malaga24h": {
+        "nombre": "Málaga 24h TV Noticias",
+        "logo": "https://graph.facebook.com/Malaga24hTv/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCoMWImnPAur6JhXDK63dpAg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://malaga24h.com/directo-de-malaga-24-horas/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "televisioncanaria": {
+        "nombre": "TelevisionCanaria",
+        "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://rtvc.es/en-directo/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "camarasdetraficodevigo8409": {
+        "nombre": "Cámaras de tráfico de Vigo",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC30mmDZa-tMpIS-cIXoErsA",
+            "yt_embed": "z1E5ciDe3a0",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
+        "país": "es",
+        "categoría": "camera"
+    },
+    "tve": {
+        "nombre": "TVEE",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=tve",
+                "https://www.televisionlibre.co/envivo/player/embed.php?r=tve-op2"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.televisionlibre.co/envivo/tve",
+        "país": "es",
+        "categoría": "news"
+    },
+    "el-confidencial": {
+        "nombre": "El Confidencial",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.hispanochannel.tv/el-confidencial/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "cuatro": {
+        "nombre": "Cuatro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://nebunexa.co/clappr/?id=CUATRO"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/cuatro/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "condado-vision": {
+        "nombre": "condado vision",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mitele.uno/player/?url=5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/condado-vision/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-sur": {
+        "nombre": "canal sur",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&autoplay=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-sur/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "la-7-murcia": {
+        "nombre": "la 7 murcia",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8",
+                "https://www.mitele.uno/player/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/la-7-murcia/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-4-4": {
+        "nombre": "canal 4-4",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=limited35.todostreaming.es/live/mitjans-livestream.m3u8",
+                "https://www.mitele.uno/player/?url=limited35.todostreaming.es/live/mitjans-livestream.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-4-4/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-10-emporda": {
+        "nombre": "canal 10 emporda",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=ventdelnord.tv:8080/escala/directe.m3u8",
+                "https://www.mitele.uno/player/?url=ventdelnord.tv:8080/escala/directe.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-10-emporda/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "9-la-loma-tv": {
+        "nombre": "9 la loma tv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=directo.9laloma.tv/live/720.m3u8",
+                "https://www.mitele.uno/player/?url=directo.9laloma.tv/live/720.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/9-la-loma-tv/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-4-mancha-centro": {
+        "nombre": "canal 4 mancha centro",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
+                "https://www.mitele.uno/player/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-4-mancha-centro/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-4-tenerife": {
+        "nombre": "canal 4 tenerife",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://app.enlatele.tv/player-es/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8",
+                "https://www.mitele.uno/player/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-4-tenerife/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-3-24": {
+        "nombre": "canal 3-24",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.mitele.uno/player/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8",
+                "https://app.enlatele.tv/player-es/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.mitele.uno/canal-3-24/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "cnnee": {
+        "nombre": "CNN en Español",
+        "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://cnnespanol.cnn.com/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "nuestra-comarca-television": {
+        "nombre": "nuestra comarca television",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "nuestracomarcatelevision"
+        },
+        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-quickie": {
+        "nombre": "Canal Quickie",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "canalquickie"
+        },
+        "sitio_oficial": "https://www.twitch.tv/canalquickie",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-blunatv": {
+        "nombre": "Blunatv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "blunatv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/blunatv",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-blue-crow-tv": {
+        "nombre": "Blue Crowtv",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": "bluecrowtv"
+        },
+        "sitio_oficial": "https://www.twitch.tv/bluecrowtv",
+        "país": "es",
+        "categoría": "news"
+    },
+    "canal-33-online": {
+        "nombre": "canal 33 Madrid",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
+        "país": "es",
+        "categoría": "news"
+    },
+    "Canal-Antena-3": {
+        "nombre": "Canal Antena 3",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://nebunexa.co/clappr/?id=ANTENA3",
+                "https://tvlibreonline.net/html/fl/?get=QW50ZW5hXzM="
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://tvlibreonline.net/en-vivo/antena3/",
+        "país": "es",
+        "categoría": "news"
+    },
+    "comercio-tv-financiero": {
+        "nombre": "Comercio TV Financiero",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.vivalivetv.com/embed?scheme=embedChannel&channelId=3450&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.vivalivetv.com/channel/comercio-tv"
+            ],
+            "m3u8_url": [
+                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccdd1a572d4a9003820&bpkio_sessionid=10c0f2f14-d562ae01-e007-4928-b8d6-c185210f5115&category=all&mm_sp",
+                "https://362a33c2c6f798b844366ccd6f3932db23f6939e.cdn.broadpeak.io/out/v1/f44d4884e8ea456192b5a58737afd20f/index_1.m3u8?bpkio_serviceid=c6f798b844366ccd35b07bd52421c62a&bpkio_sessionid=10a0b12e45-8f873bcd-d2db-40e7-92ad-025798b60d2d&category=all&mm_sp"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.vivalivetv.com/channel/comercio-tv",
+        "país": "es",
+        "categoría": "news"
+    },
+    "hechos-ecuador": {
+        "nombre": "hechos ecuador",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php",
+                "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "4dmas": {
+        "nombre": "4dmas",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.enlatele.tv/player/embed.php?r=admasnoticias",
+                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/4dmas/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuavisa": {
+        "nombre": "Ecuavisa",
+        "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://rudo.video/live/ecuavisa?dXNlcj1udWxs"
+            ],
+            "m3u8_url": [
+                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
+            ],
+            "yt_id": "UCRUV3nUNSc-xpBrTwQOCQQg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ecuavisa.com/envivo",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecoteltv": {
+        "nombre": "Ecotel TV",
+        "logo": "https://graph.facebook.com/CadenaEcotel/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://playerhd.eu/tv/ecoteltv/",
+                "https://player.streamseguro.com/radio/ecotelradio/"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCGgJIShx7nSBzuI4JeT5aew",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.ecotel.tv/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "catomedia-ucsg": {
+        "nombre": "Catomedia UCSG",
+        "logo": "https://graph.facebook.com/catomediaucsg/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8",
+                "https://5e2f36bc1c433.streamlock.net/ucsg/entretenimiento.stream/playlist.m3u8"
+            ],
+            "yt_id": "UCH5499PHqkqKPsGEUJl5lZg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://catomedia.net/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "canaltvdigital": {
+        "nombre": "Canal Tv Digital",
+        "logo": "https://graph.facebook.com/tvdigitalonline.ecu/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCzfV4_Fh7BEZxYsqe-vUjNw",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canaltvdigitalonline.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "periodicodeunaec": {
+        "nombre": "Periódico D'Una",
+        "logo": "https://graph.facebook.com/periodicodeuna/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCT9O240oe9HhC0VSSBgrPug",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://deunanoticias.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "radiocentroec": {
+        "nombre": "Radio Centro 101.3 FM",
+        "logo": "https://graph.facebook.com/radiocentroec/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://makrodigital.com/makrostreaming/radiocentroguayaquil/envivo.php"
+            ],
+            "m3u8_url": [
+                "https://video1.makrodigital.com/radiocentro/radiocentro/playlist.m3u8"
+            ],
+            "yt_id": "UCA_UqlgBTc824rRCLv6J_xA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiocentro.com.ec/en-vivo/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radioelite99-7tv5": {
+        "nombre": "Radio Elite 99.7 TV",
+        "logo": "https://graph.facebook.com/Radioelite997/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://streamingecuador.net/AudioPlayer/radioelite"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCaFfXFnXsMJKtsmoouxmFVQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radioelite997.com/online/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radiosonoonda997": {
+        "nombre": "Radio Sono Onda",
+        "logo": "https://graph.facebook.com/radiosonoonda997/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://live.obslivestream.com/sonoondatv/index.m3u8"
+            ],
+            "yt_id": "UCvNwkves6FXLMpdNDwR81lg",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://sonoonda.com/tv-online/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radiorumbaec": {
+        "nombre": "Radio Rumba 107.3 FM",
+        "logo": "https://graph.facebook.com/RadioRumbaEc/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [
+                "https://streamingecuador.net:2020/AudioPlayer/radiorumba"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCSucprhsPUKXMYzxnO2_zvQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://radiorumba.fm/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "radiopichincha": {
+        "nombre": "Radio Pichincha Multimedia",
+        "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCK0WHZbs_ZJ4r7DMuft7p-g",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.radiopichincha.com/",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "sonoramatv900": {
+        "nombre": "Sonorama TV",
+        "logo": "https://graph.facebook.com/radio.sonorama/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCGOHw6AjriiGhkJnDAhJsRA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA",
+        "país": "ec",
+        "categoría": "radio"
+    },
+    "café-la-posta": {
+        "nombre": "Café la Posta",
+        "logo": "https://graph.facebook.com/LaPostaEc/picture?width=800&height=800",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [],
+            "yt_id": "UCLCCMz3exOqYc59IN0VOLlA",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.laposta.ec/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "majestad-tv": {
+        "nombre": "Majestad TV",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://videoserver.tmcreativos.com:2020/VideoPlayer/majestadtv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://majestadtv.ec/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "canal-rtu": {
+        "nombre": "Canal Rtu",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video1.makrodigital.com/rtu/rtu/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalrtu.tv/envivo/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuastereo": {
+        "nombre": "Ecuastereo",
+        "logo": "https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png",
+        "señales": {
+            "iframe_url": [
+                "https://video.misistemareseller.com:2000/VideoPlayer/ecuastereotv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://video.misistemareseller.com:1936/ecuastereotv/ecuastereotv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecuastereo.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "puruwa-tv": {
+        "nombre": "Puruwatv Music",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://live.tvcontrolcp.com:2020/VideoPlayer/puruwatv?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://puruwatv.com/en-vivo/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "Educa-TV": {
+        "nombre": "Educa",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://educa.streamingcnt.net"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.educa.ec/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "canal-uno-ecuador": {
+        "nombre": "Canal Uno Ecuador",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://movil.ejeserver.com/video/user/?user=canaluno&vol=no"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://canalunoecuador.com/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuador-Comunicacion": {
+        "nombre": "Ecuador Comunicacion",
+        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
+        "señales": {
+            "iframe_url": [
+                "https://eu1.servers10.com:2020/VideoPlayer/8298?autoplay=1"
+            ],
+            "m3u8_url": [
+                "https://eu1.servers10.com:8081/8298/index.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://ecuadorcomunicacion.com/tv-en-vivo/",
+        "país": "ec",
         "categoría": "news"
     },
     "elwatania2-tv": {
@@ -28779,760 +29551,6 @@
         "país": "ni",
         "categoría": "news"
     },
-    "rtve": {
-        "nombre": "RTVE Noticias",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo_TVE-24h.svg",
-        "señales": {
-            "iframe_url": [
-                "https://www.rtve.es/play/videos/directo/canales-lineales/24h/",
-                "https://www.rtve.es/play/videos/directo/canales-lineales/la-1/",
-                "https://www.rtve.es/play/videos/directo/canales-lineales/la-2/"
-            ],
-            "m3u8_url": [
-                "https://ztnr.rtve.es/ztnr/1694255.m3u8",
-                "https://ztnr.rtve.es/ztnr/1688877.m3u8",
-                "https://ztnr.rtve.es/ztnr/1688885.m3u8"
-            ],
-            "yt_id": "UC7QZIf0dta-XPXsp9Hv4dTw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.rtve.es/noticias",
-        "país": "es",
-        "categoría": "news"
-    },
-    "television-de-galicia": {
-        "nombre": "Televisión de Galicia",
-        "logo": "https://graph.facebook.com/tvgalicia/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://agalega.gal/videos/76475-tvg"
-            ],
-            "m3u8_url": [
-                "https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8"
-            ],
-            "yt_id": "UCz46p3cffUXUSGUtcnw_Ouw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://agalega.gal/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "malaga24h": {
-        "nombre": "Málaga 24h TV Noticias",
-        "logo": "https://graph.facebook.com/Malaga24hTv/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCoMWImnPAur6JhXDK63dpAg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://malaga24h.com/directo-de-malaga-24-horas/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "televisioncanaria": {
-        "nombre": "TelevisionCanaria",
-        "logo": "https://graph.facebook.com/RadioTelevisionCanaria/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://rtvc.es/en-directo/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "camarasdetraficodevigo8409": {
-        "nombre": "Cámaras de tráfico de Vigo",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC30mmDZa-tMpIS-cIXoErsA",
-            "yt_embed": "z1E5ciDe3a0",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UC30mmDZa-tMpIS-cIXoErsA",
-        "país": "es",
-        "categoría": "camera"
-    },
-    "tve": {
-        "nombre": "TVEE",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=tve",
-                "https://www.televisionlibre.co/envivo/player/embed.php?r=tve-op2"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.televisionlibre.co/envivo/tve",
-        "país": "es",
-        "categoría": "news"
-    },
-    "el-confidencial": {
-        "nombre": "El Confidencial",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.hispanochannel.tv/el-confidencial/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "cuatro": {
-        "nombre": "Cuatro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://spa-ha-p002.cdn.masmediatv.es/SVoriginOperatorEdge/smil:9_SD.smil/chunklist_b628000_vo.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/cuatro/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "condado-vision": {
-        "nombre": "condado vision",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/player/?url=5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/condado-vision/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-sur": {
-        "nombre": "canal sur",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.youtube.com/embed/live_stream?channel=UChtLgH7ZJLqLGWJpBnzy9Lg&autoplay=1"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-sur/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "la-7-murcia": {
-        "nombre": "la 7 murcia",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://app.enlatele.tv/player-es/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8",
-                "https://www.mitele.uno/player/?url=rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/la-7-murcia/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-4-4": {
-        "nombre": "canal 4-4",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://app.enlatele.tv/player-es/?url=limited35.todostreaming.es/live/mitjans-livestream.m3u8",
-                "https://www.mitele.uno/player/?url=limited35.todostreaming.es/live/mitjans-livestream.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-4-4/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-10-emporda": {
-        "nombre": "canal 10 emporda",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://app.enlatele.tv/player-es/?url=ventdelnord.tv:8080/escala/directe.m3u8",
-                "https://www.mitele.uno/player/?url=ventdelnord.tv:8080/escala/directe.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-10-emporda/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "9-la-loma-tv": {
-        "nombre": "9 la loma tv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://app.enlatele.tv/player-es/?url=directo.9laloma.tv/live/720.m3u8",
-                "https://www.mitele.uno/player/?url=directo.9laloma.tv/live/720.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/9-la-loma-tv/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-4-mancha-centro": {
-        "nombre": "canal 4 mancha centro",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://app.enlatele.tv/player-es/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8",
-                "https://www.mitele.uno/player/?url=5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-4-mancha-centro/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-4-tenerife": {
-        "nombre": "canal 4 tenerife",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://app.enlatele.tv/player-es/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8",
-                "https://www.mitele.uno/player/?url=5940924978228.streamlock.net:443/Directo2/Directo2/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-4-tenerife/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-3-24": {
-        "nombre": "canal 3-24",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.mitele.uno/player/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8",
-                "https://app.enlatele.tv/player-es/?url=directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.mitele.uno/canal-3-24/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "cnnee": {
-        "nombre": "CNN en Español",
-        "logo": "https://graph.facebook.com/CNNee/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UC_lEiu6917IJz03TnntWUaQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://cnnespanol.cnn.com/",
-        "país": "es",
-        "categoría": "news"
-    },
-    "nuestra-comarca-television": {
-        "nombre": "nuestra comarca television",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "nuestracomarcatelevision"
-        },
-        "sitio_oficial": "https://www.twitch.tv/nuestracomarcatelevision",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-quickie": {
-        "nombre": "Canal Quickie",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "canalquickie"
-        },
-        "sitio_oficial": "https://www.twitch.tv/canalquickie",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-blunatv": {
-        "nombre": "Blunatv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "blunatv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/blunatv",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-blue-crow-tv": {
-        "nombre": "Blue Crowtv",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": "bluecrowtv"
-        },
-        "sitio_oficial": "https://www.twitch.tv/bluecrowtv",
-        "país": "es",
-        "categoría": "news"
-    },
-    "canal-33-online": {
-        "nombre": "canal 33 Madrid",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.canal33.info/2016/12/ver-emision-en-directo_20.html",
-        "país": "es",
-        "categoría": "news"
-    },
-    "hechos-ecuador": {
-        "nombre": "hechos ecuador",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.enlatele.tv/player/embed2.php?r=hechosecuador.php",
-                "https://www.enlatele.tv/player/?url=tv.portalexpress.es:3612/stream/play.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/hechos-ecuador/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "4dmas": {
-        "nombre": "4dmas",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://www.enlatele.tv/player/embed.php?r=admasnoticias",
-                "https://www.enlatele.tv/player/?url=rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.tvphotocall.online/en-vivo/4dmas/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuavisa": {
-        "nombre": "Ecuavisa",
-        "logo": "https://graph.facebook.com/ecuavisa/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://rudo.video/live/ecuavisa?dXNlcj1udWxs"
-            ],
-            "m3u8_url": [
-                "https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8"
-            ],
-            "yt_id": "UCRUV3nUNSc-xpBrTwQOCQQg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ecuavisa.com/envivo",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecoteltv": {
-        "nombre": "Ecotel TV",
-        "logo": "https://graph.facebook.com/CadenaEcotel/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://playerhd.eu/tv/ecoteltv/",
-                "https://player.streamseguro.com/radio/ecotelradio/"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCGgJIShx7nSBzuI4JeT5aew",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.ecotel.tv/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "catomedia-ucsg": {
-        "nombre": "Catomedia UCSG",
-        "logo": "https://graph.facebook.com/catomediaucsg/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8",
-                "https://5e2f36bc1c433.streamlock.net/ucsg/entretenimiento.stream/playlist.m3u8"
-            ],
-            "yt_id": "UCH5499PHqkqKPsGEUJl5lZg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://catomedia.net/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "canaltvdigital": {
-        "nombre": "Canal Tv Digital",
-        "logo": "https://graph.facebook.com/tvdigitalonline.ecu/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCzfV4_Fh7BEZxYsqe-vUjNw",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canaltvdigitalonline.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "periodicodeunaec": {
-        "nombre": "Periódico D'Una",
-        "logo": "https://graph.facebook.com/periodicodeuna/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCT9O240oe9HhC0VSSBgrPug",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://deunanoticias.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "radiocentroec": {
-        "nombre": "Radio Centro 101.3 FM",
-        "logo": "https://graph.facebook.com/radiocentroec/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://makrodigital.com/makrostreaming/radiocentroguayaquil/envivo.php"
-            ],
-            "m3u8_url": [
-                "https://video1.makrodigital.com/radiocentro/radiocentro/playlist.m3u8"
-            ],
-            "yt_id": "UCA_UqlgBTc824rRCLv6J_xA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiocentro.com.ec/en-vivo/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radioelite99-7tv5": {
-        "nombre": "Radio Elite 99.7 TV",
-        "logo": "https://graph.facebook.com/Radioelite997/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://streamingecuador.net/AudioPlayer/radioelite"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCaFfXFnXsMJKtsmoouxmFVQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radioelite997.com/online/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radiosonoonda997": {
-        "nombre": "Radio Sono Onda",
-        "logo": "https://graph.facebook.com/radiosonoonda997/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://live.obslivestream.com/sonoondatv/index.m3u8"
-            ],
-            "yt_id": "UCvNwkves6FXLMpdNDwR81lg",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://sonoonda.com/tv-online/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radiorumbaec": {
-        "nombre": "Radio Rumba 107.3 FM",
-        "logo": "https://graph.facebook.com/RadioRumbaEc/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [
-                "https://streamingecuador.net:2020/AudioPlayer/radiorumba"
-            ],
-            "m3u8_url": [],
-            "yt_id": "UCSucprhsPUKXMYzxnO2_zvQ",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://radiorumba.fm/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "radiopichincha": {
-        "nombre": "Radio Pichincha Multimedia",
-        "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCK0WHZbs_ZJ4r7DMuft7p-g",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.radiopichincha.com/",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "sonoramatv900": {
-        "nombre": "Sonorama TV",
-        "logo": "https://graph.facebook.com/radio.sonorama/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCGOHw6AjriiGhkJnDAhJsRA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA",
-        "país": "ec",
-        "categoría": "radio"
-    },
-    "café-la-posta": {
-        "nombre": "Café la Posta",
-        "logo": "https://graph.facebook.com/LaPostaEc/picture?width=800&height=800",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [],
-            "yt_id": "UCLCCMz3exOqYc59IN0VOLlA",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.laposta.ec/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "majestad-tv": {
-        "nombre": "Majestad TV",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://videoserver.tmcreativos.com:2020/VideoPlayer/majestadtv?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://majestadtv.ec/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "canal-rtu": {
-        "nombre": "Canal Rtu",
-        "logo": "",
-        "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video1.makrodigital.com/rtu/rtu/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalrtu.tv/envivo/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuastereo": {
-        "nombre": "Ecuastereo",
-        "logo": "https://ecuastereo.com/wp-content/uploads/2021/08/logoecuastereo-e1679012091684.png",
-        "señales": {
-            "iframe_url": [
-                "https://video.misistemareseller.com:2000/VideoPlayer/ecuastereotv?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://video.misistemareseller.com:1936/ecuastereotv/ecuastereotv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ecuastereo.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "puruwa-tv": {
-        "nombre": "Puruwatv Music",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://live.tvcontrolcp.com:2020/VideoPlayer/puruwatv?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://puruwatv.com/en-vivo/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "Educa-TV": {
-        "nombre": "Educa",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://educa.streamingcnt.net"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://www.educa.ec/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "canal-uno-ecuador": {
-        "nombre": "Canal Uno Ecuador",
-        "logo": "",
-        "señales": {
-            "iframe_url": [
-                "https://movil.ejeserver.com/video/user/?user=canaluno&vol=no"
-            ],
-            "m3u8_url": [],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://canalunoecuador.com/",
-        "país": "ec",
-        "categoría": "news"
-    },
-    "ecuador-Comunicacion": {
-        "nombre": "Ecuador Comunicacion",
-        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
-        "señales": {
-            "iframe_url": [
-                "https://eu1.servers10.com:2020/VideoPlayer/8298?autoplay=1"
-            ],
-            "m3u8_url": [
-                "https://eu1.servers10.com:8081/8298/index.m3u8"
-            ],
-            "yt_id": "",
-            "yt_embed": "",
-            "yt_playlist": "",
-            "twitch_id": ""
-        },
-        "sitio_oficial": "https://ecuadorcomunicacion.com/tv-en-vivo/",
-        "país": "ec",
-        "categoría": "news"
-    },
     "tcsnoticias8899": {
         "nombre": "TCS Noticias",
         "logo": "https://graph.facebook.com/tcsnoticias/picture?width=800&height=800",
@@ -40188,6 +40206,91 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://cool-tv.net/ch/euforia.htm",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "columna-tv-targoviste": {
+        "nombre": "Columna TV Targoviste",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7qNhi7VograPudDBIL2bKzNvTxcOylal3SRaF3wJcmOohx2sXiZ61OcCqDrIbtC623e28sDGd_4HEQkNfjIi2Id24RqbtnOF3DOwOpFGjj8x1kXTYKqyx7Re_Nhs_CGCP6DvpKneXKBOZ/s1600/columna+tv+live+online.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://cdn.streamnet.pro/columnatv/live//playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/columna-tv-targoviste-live-online.html",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "bucovina-tv-suceava": {
+        "nombre": "Bucovina TV Suceava",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik3XW2zgVROdPzecNDYIs-4hUzoTAVb36J8orrCZXbIx7g_2cTTXPcF4i2KIXzUUqAkuXw7DSC8-40BHdv13w260wDmKukBHOMK1LtfUB5MUvcE_Uy7Ra4cRw8qIUzxR69kKFDgocXOW1x/s1600/bucovina+live+online.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://transmisiuni.ro/media/btvsvlive/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://romanialivewebcam.blogspot.com/p/bucovina-tv-suceava-live-online.html",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "tv-riasi": {
+        "nombre": "TV Riasi",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://www.youtube-nocookie.com/embed/?controls=0&showinfo=0&autoplay=0&html5=1&disablekb=1&modestbranding=1&playsinline=1&rel=0&loop=0&suggestedQuality=hd1080&enablejsapi=1&origin=https%3A%2F%2Fmedia.tvriasi.ro&widgetid=1"
+            ],
+            "m3u8_url": [],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://media.tvriasi.ro/",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "tvr-iasi": {
+        "nombre": "Tvr Iasi",
+        "logo": "",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tvr-tvriasi.cdn.zitec.com/live/tvriasi/main.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.tvrplus.ro/live/tvr-iasi",
+        "país": "ro",
+        "categoría": "news"
+    },
+    "rock-tv": {
+        "nombre": "Rock TV",
+        "logo": "https://vipotv.com/wp-content/uploads/2021/03/rock-tv-live-vipotv.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://vipotv.com/rock-tv/",
         "país": "ro",
         "categoría": "news"
     },
