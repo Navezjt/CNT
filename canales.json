@@ -11343,8 +11343,7 @@
         "señales": {
             "iframe_url": [],
             "m3u8_url": [
-                "https://5e2f36bc1c433.streamlock.net/lacato/lacato.stream/playlist.m3u8",
-                "https://5e2f36bc1c433.streamlock.net/ucsg/entretenimiento.stream/playlist.m3u8"
+                "https://stream.catomedia.net/catomedia-app/index.m3u8"
             ],
             "yt_id": "UCH5499PHqkqKPsGEUJl5lZg",
             "yt_embed": "",
@@ -11390,11 +11389,9 @@
         "logo": "https://graph.facebook.com/radiocentroec/picture?width=800&height=800",
         "señales": {
             "iframe_url": [
-                "https://makrodigital.com/makrostreaming/radiocentroguayaquil/envivo.php"
+                "https://iframe.dacast.com/live/39c589fa-9f5d-d0e1-2ef9-29706cb6c8ae/29b6339a-d7e4-099c-a9be-0a9bcb074382"
             ],
-            "m3u8_url": [
-                "https://video1.makrodigital.com/radiocentro/radiocentro/playlist.m3u8"
-            ],
+            "m3u8_url": [],
             "yt_id": "UCA_UqlgBTc824rRCLv6J_xA",
             "yt_embed": "",
             "yt_playlist": "",
@@ -11459,7 +11456,9 @@
         "nombre": "Radio Pichincha Multimedia",
         "logo": "https://graph.facebook.com/PichinchaRadio/picture?width=800&height=800",
         "señales": {
-            "iframe_url": [],
+            "iframe_url": [
+                "https://icecast.radiopichincha.com/radiopichincha"
+            ],
             "m3u8_url": [],
             "yt_id": "UCK0WHZbs_ZJ4r7DMuft7p-g",
             "yt_embed": "",
@@ -11481,7 +11480,7 @@
             "yt_playlist": "",
             "twitch_id": ""
         },
-        "sitio_oficial": "https://www.youtube.com/channel/UCGOHw6AjriiGhkJnDAhJsRA",
+        "sitio_oficial": "https://sonorama.com.ec/",
         "país": "ec",
         "categoría": "radio"
     },
@@ -11519,14 +11518,33 @@
         "país": "ec",
         "categoría": "news"
     },
+    "majestad-ttelevision": {
+        "nombre": "Majestad 56-5 Los Angeles CA",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://livetv.305streamhd.com/live-stream-video-widget/majestadtv"
+            ],
+            "m3u8_url": [
+                "https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.majestadtelevision.com/index.html#/",
+        "país": "ec",
+        "categoría": "news"
+    },
     "canal-rtu": {
         "nombre": "Canal Rtu",
         "logo": "",
         "señales": {
-            "iframe_url": [],
-            "m3u8_url": [
-                "https://video1.makrodigital.com/rtu/rtu/playlist.m3u8"
+            "iframe_url": [
+                "https://makrodigital.com/makrostreaming/rtutv/"
             ],
+            "m3u8_url": [],
             "yt_id": "",
             "yt_embed": "",
             "yt_playlist": "",
@@ -11624,6 +11642,40 @@
             "twitch_id": ""
         },
         "sitio_oficial": "https://ecuadorcomunicacion.com/tv-en-vivo/",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuador-ZaracayTV": {
+        "nombre": "Ecuador ZaracayTV",
+        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video2.makrodigital.com/zaracay/zaracay/chunks.m3u8?nimblesessionid=457019584"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/64156/ZaracayTV.html",
+        "país": "ec",
+        "categoría": "news"
+    },
+    "ecuador-WuanPlus": {
+        "nombre": "Ecuador WuanPlus",
+        "logo": "https://ecuadorcomunicacion.com/wp-content/uploads/2024/09/LOGO-EC-FINAL-02-e1725336459829.png",
+        "señales": {
+            "iframe_url": [],
+            "m3u8_url": [
+                "https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8"
+            ],
+            "yt_id": "",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://www.coolstreaming.us/channelnew/es/72252/WuanPlus.html",
         "país": "ec",
         "categoría": "news"
     },
