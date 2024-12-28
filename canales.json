@@ -21988,6 +21988,23 @@
         "país": "ph",
         "categoría": "news"
     },
+    "MYX-Philippines": {
+        "nombre": "MYX Philippines",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://myxnola-abscbn-ono.amagi.tv/index.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCJCUbMaY593_4SN1QPG7NFQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/iptv-org/iptv/issues/15840",
+        "país": "ph",
+        "categoría": "news"
+    },
     "untv-web": {
         "nombre": "UNTV",
         "logo": "",
