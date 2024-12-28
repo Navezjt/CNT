@@ -22005,6 +22005,23 @@
         "país": "ph",
         "categoría": "news"
     },
+    "TeleradyoGlobal-ph": {
+        "nombre": "TeleradyoGlobal",
+        "logo": "",
+        "señales": {
+            "iframe_url": [
+                "https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8"
+            ],
+            "m3u8_url": [],
+            "yt_id": "UCJCUbMaY593_4SN1QPG7NFQ",
+            "yt_embed": "",
+            "yt_playlist": "",
+            "twitch_id": ""
+        },
+        "sitio_oficial": "https://github.com/iptv-org/iptv/issues/15840",
+        "país": "ph",
+        "categoría": "news"
+    },
     "untv-web": {
         "nombre": "UNTV",
         "logo": "",
